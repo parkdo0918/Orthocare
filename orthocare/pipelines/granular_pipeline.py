@@ -254,3 +254,47 @@ class GranularPipeline:
         """스텝 설명 반환"""
         all_steps = self.phase1_steps + self.phase2_steps + self.phase3_steps
         return {s.name: s.description for s in all_steps}
+
+    def generate_app_output(self, result: GranularPipelineResult) -> Dict[str, Any]:
+        """
+        앱용 출력 생성 (Phase 3-4)
+
+        - 질환 버킷 미노출 (OA, TRM 등 명시 안함)
+        - 친근한 메시지 + 운동 테이블
+
+        Args:
+            result: 파이프라인 실행 결과
+
+        Returns:
+            앱용 출력 딕셔너리
+        """
+        from orthocare.services.output import SummaryGenerator
+
+        generator = SummaryGenerator()
+        return generator.generate_app_output(
+            user_input=result.context.user_input,
+            diagnoses=result.context.diagnoses,
+            exercise_sets=result.context.exercise_sets,
+        )
+
+    def generate_app_markdown(self, result: GranularPipelineResult) -> str:
+        """
+        앱용 마크다운 출력 생성 (Phase 3-4)
+
+        - 질환 버킷 미노출
+        - 친근한 메시지 + 운동 테이블
+
+        Args:
+            result: 파이프라인 실행 결과
+
+        Returns:
+            앱용 마크다운 문자열
+        """
+        from orthocare.services.output import SummaryGenerator
+
+        generator = SummaryGenerator()
+        return generator.generate_app_markdown(
+            user_input=result.context.user_input,
+            diagnoses=result.context.diagnoses,
+            exercise_sets=result.context.exercise_sets,
+        )
