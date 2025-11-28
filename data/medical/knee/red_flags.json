@@ -1,0 +1,96 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "body_part": "knee",
+    "description": "무릎 통증 레드플래그 - 즉시 병원 의뢰 필요"
+  },
+  "immediate_referral": [
+    {
+      "code": "severe_hot_swelling",
+      "label_kr": "심한 열감 + 부종",
+      "description": "무릎이 많이 붓고 뜨겁게 느껴짐",
+      "action": "감염성 관절염 의심, 즉시 병원 의뢰",
+      "severity": "emergency"
+    },
+    {
+      "code": "fever_with_joint_pain",
+      "label_kr": "발열 + 관절통",
+      "description": "열이 나면서 무릎이 아픔",
+      "action": "감염 또는 전신성 질환, 응급 평가",
+      "severity": "emergency"
+    },
+    {
+      "code": "unable_to_walk",
+      "label_kr": "걷기 어려운 심한 통증",
+      "description": "통증으로 체중을 실을 수 없음",
+      "action": "골절/인대 파열 의심, 영상 검사 필요",
+      "severity": "urgent"
+    },
+    {
+      "code": "sudden_massive_swelling",
+      "label_kr": "갑작스런 대부종",
+      "description": "갑자기 무릎이 크게 부어오름",
+      "action": "혈종 또는 급성 관절 손상, 병원 의뢰",
+      "severity": "urgent"
+    },
+    {
+      "code": "rom_sudden_decrease",
+      "label_kr": "관절 가동범위 급감",
+      "description": "갑자기 무릎을 구부리거나 펴기 어려움",
+      "action": "잠김(locking) 또는 급성 손상, 병원 의뢰",
+      "severity": "urgent"
+    },
+    {
+      "code": "calf_pain_swelling",
+      "label_kr": "종아리 통증과 부종",
+      "description": "종아리가 아프고 부어 있음",
+      "action": "DVT(심부정맥혈전증) 배제 필요",
+      "severity": "emergency"
+    },
+    {
+      "code": "neurological_symptoms",
+      "label_kr": "근력/감각 저하",
+      "description": "다리에 힘이 빠지거나 감각이 이상함",
+      "action": "신경 압박 또는 손상 의심, 병원 의뢰",
+      "severity": "urgent"
+    },
+    {
+      "code": "radiating_pain",
+      "label_kr": "방사통",
+      "description": "허리에서 다리로 뻗는 통증",
+      "action": "척추 문제 가능성, 병원 의뢰",
+      "severity": "urgent"
+    },
+    {
+      "code": "systemic_symptoms",
+      "label_kr": "전신 증상 동반",
+      "description": "발열, 피로감, 체중 감소 등 전신 증상",
+      "action": "전신 질환 또는 감염, 병원 의뢰",
+      "severity": "urgent"
+    }
+  ],
+  "additional_evaluation": [
+    {
+      "code": "bilateral_with_hand_involvement",
+      "label_kr": "양측 무릎 + 손가락 통증",
+      "description": "양쪽 무릎과 손가락 관절이 함께 아픔",
+      "age_group": "30-40대 여성",
+      "action": "RA 평가 권장 (RF, Anti-CCP 검사)"
+    },
+    {
+      "code": "morning_stiffness_over_1hour",
+      "label_kr": "1시간 이상 아침 뻣뻣함",
+      "description": "아침에 1시간 이상 무릎이 뻣뻣함",
+      "action": "염증성 관절염 평가"
+    }
+  ],
+  "survey_mapping": {
+    "Q_red_flag_walk": "unable_to_walk",
+    "Q_red_flag_swelling_heat": "severe_hot_swelling",
+    "Q_red_flag_rom": "rom_sudden_decrease",
+    "Q_red_flag_neuro": "neurological_symptoms",
+    "Q_red_flag_calf": "calf_pain_swelling",
+    "Q_red_flag_radiating": "radiating_pain",
+    "Q_red_flag_systemic": "systemic_symptoms"
+  }
+}

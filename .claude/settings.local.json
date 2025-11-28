@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(PYTHONPATH=. python:*)",
+      "Bash(source .venv/bin/activate)",
+      "Bash(python scripts/run_indexing.py:*)",
+      "Bash(python scripts/test_e2e.py:*)",
+      "Bash(curl:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

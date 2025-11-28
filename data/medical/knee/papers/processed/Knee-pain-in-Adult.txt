@@ -1,0 +1,924 @@
+576 American Family Physician www.aafp.org/afp  Volume 98, Number 9  ◆ November 1, 2018Knee pain affects approximately 25% of adults. The prev -
+alence of knee pain has increased almost 65% over the past 
+20 years, accounting for nearly 4 million primary care visits 
+annually.1,2 The initial evaluation should emphasize exclud -
+ing urgent causes while considering the need for referral. A 
+standardized, comprehensive history and physical examina -
+tion are crucial for differentiating the diagnosis. Nonsurgi -
+cal problems do not require immediate definitive diagnosis. 
+Imaging and laboratory studies can play a confirmatory or 
+diagnostic role when appropriate. This article reviews the 
+initial primary care office evaluation of undifferentiated 
+knee pain in adults and adolescents (ages 11 to 17 years), 
+highlighting key patient history and physical examination findings (Table 11,3-27). The uses of and indications for radi -
+ography, musculoskeletal ultrasonography, magnetic reso -
+nance imaging (MRI), and laboratory evaluation are also 
+addressed.
+History
+When evaluating knee pain, key aspects of the patient his -
+tory include age;  location, onset, duration, and quality of 
+pain;  mechanical or systemic symptoms;  history of swell -
+ing;  description of any precipitating trauma;  and pertinent 
+previous medical or surgical procedures. Patients requiring 
+urgent referral generally have severe pain, immediate swell -
+ing, and instability or inability to bear weight in association 
+with acute trauma, which suggests fracture, dislocation, or 
+tendon or ligamentous rupture. Referral is also indicated 
+for possible joint infection signs such as fever, swelling, and 
+erythema with limited range of motion.
+PAIN LOCATION 
+Anterior . Isolated anterior knee pain suggests involve -
+ment of the patella, patellar tendon, or its attachments. Knee Pain in Adults and Adolescents:  
+The Initial Evaluation
+Christopher W. Bunt, MD, Medical University of South Carolina, Charleston, South Carolina
+Christopher E. Jonas, DO, and Jennifer G. Chang, MD, Uniformed Services University of the Health Sciences,  
+Bethesda, Maryland
+Patient information:   A handout on this topic is available at 
+https://  www.aafp.org/afp/2015/1115/p875-s1.html .
+ CME  This clinical content  conforms to AAFP criteria for 
+continuing medical education (CME). See CME Quiz on 
+page 569. 
+Author disclosure:    No relevant financial affiliations.Knee pain affects approximately 25% of adults, and its prevalence has increased almost 65% over the past 20 years, account -
+ing for nearly 4 million primary care visits annually. Initial evaluation should emphasize excluding urgent causes while 
+considering the need for referral. Key aspects of the patient history include age;  location, onset, duration, and quality of pain;  
+associated mechanical or systemic symptoms;  history of swelling;  description of precipitating trauma;  and pertinent med -
+ical or surgical history. Patients requiring urgent referral generally have severe 
+pain, swelling, and instability or inability to bear weight in association with 
+acute trauma or have signs of joint infection such as fever, swelling, erythema, 
+and limited range of motion. A systematic approach to examination of the knee 
+includes inspection, palpation, evaluation of range of motion and strength, neu -
+rovascular testing, and special (provocative) tests. Radiographic imaging should 
+be reserved for chronic knee pain (more than six weeks) or acute traumatic pain 
+in patients who meet specific evidence-based criteria. Musculoskeletal ultraso -
+nography allows for detailed evaluation of effusions, cysts (e.g., Baker cyst), and 
+superficial structures. Magnetic resonance imaging is rarely used for patients 
+with emergent cases and should generally be an option only when surgery is 
+considered or when a patient experiences persistent pain despite adequate 
+conservative treatment. When the initial history and physical examination suggest but do not confirm a specific diagnosis, 
+laboratory tests can be used as a confirmatory or diagnostic tool. ( Am Fam Physician . 2018;  98(9):  576-585. Copyright © 2018 
+American Academy of Family Physicians.)
+Illustration by John Karapelou
+Downloaded from the American Family Physician website at www.aafp.org/afp. Copyright © 2018 American Academy of Family Physicians. For the private, noncom -
+mercial use of one individual user of the website. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests.
+
+November 1, 2018  ◆ Volume 98, Number 9  www.aafp.org/afp  American Family Physician  577
+KNEE PAIN IN ADULTS AND ADOLESCENTSAnterior knee pain that is 
+dull or aching and exacer -
+bated by prolonged sitting 
+or climbing stairs is com -
+mon in patellofemoral pain 
+syndrome.3,18 Athletes or 
+other adults with overuse 
+from running or jumping 
+sports can develop quadri -
+ceps or patellar tendinop -
+athy (commonly known 
+as jumper’s knee). Insidi -
+ous onset of anterior knee 
+pain in adolescents during 
+rapid growth periods with 
+concomitant overuse sug -
+gests Osgood-Schlatter dis -
+ease (tibial apophysitis) or 
+Sinding-Larsen-Johansson 
+syndrome (distal patel -
+lar apophysitis). Prepa -
+tellar bursitis causes 
+patella-localized pain and 
+swelling and can occur 
+with isolated blunt trauma, 
+repetitive injury, or infec -
+tion of the overlying skin.18
+Medial or Lateral . Medial 
+or lateral knee pain with 
+corresponding joint-line ten -
+derness can result from acute 
+injury or chronic overuse 
+and may indicate meniscal 
+derangement or a sprain or 
+rupture of a collateral liga -
+ment.3,18 Pes anserine bursitis 
+is a common cause of medial 
+knee pain instigated by over -
+use or blunt injury;  the pain 
+is exacerbated by flexion and 
+extension of the knee. Ado -
+lescents experiencing medial 
+knee pain with or without 
+concurrent hip pain should 
+be evaluated for slipped 
+capital femoral epiphysis, 
+caused by a fracture through 
+the femoral physis (growth 
+plate).26 Chronic lateral knee 
+pain in runners or cyclists 
+(or stemming from other TABLE 1
+Selected Differential Diagnosis of Knee Pain 
+Condition Historical pointsPhysical examination tests  
+and/or findings
+Mechanical (acute)
+Collateral ligament 
+sprain or rupture 
+(MCL, LCL)3-7Medial or lateral pain
+Injury from valgus (MCL) or varus 
+(LCL) forcePain with applied force
+Asymmetric gapping or laxity
+Associated internal derangements
+Cruciate ligament 
+sprain or rupture 
+(ACL, PCL)3-6,8-13ACL
+Sudden pivoting injury
+Audible pop 
+Instability
+Effusion in 1 to 2 hours
+PCL
+Blunt trauma to anterior tibia
+Sudden hyperflexion or exten -
+sion injury
+Pain with kneelingACL
+Lachman test
+Anterior drawer test
+Pivot shift test 
+Loss of hyperextension
+PCL
+Posterior “sag” sign 
+“Quad activation” 
+Posterior drawer test
+Medial plica 
+syndrome3-7Acute (or chronic) medial pain
+Overuse;   onset of new activities
+May report mechanical symptoms 
+(e.g., catching, clicking)Tender mobile tissue band along 
+medial joint line
+Meniscal tear 3,5,6,9-17Male;  age > 40 years
+Cutting or twisting injury while 
+bearing weight
+Effusion in 24 to 48 hours
+Locking or giving wayThessaly test
+McMurray test
+Joint-line tenderness
+Loss of extension (locked)
+Patellar subluxation 
+or dislocation3-5,8Anterior pain
+Children or adolescents
+History of subluxationApprehension
+Laxity
+Effusion
+Mechanical (chronic)
+Distal patellar 
+apophysitis (Sinding-  
+Larsen-Johannson 
+syndrome)8,18Adolescents (10 to 13 years  
+of age)
+Repetitive running, jumping,  
+or squattingTenderness of inferior pole of 
+patella
+Local soft tissue swelling
+Decreased flexibility of quadri -
+ceps and hamstrings on affected 
+side
+Iliotibial band 
+syndrome3-5,7Lateral knee pain
+Repetitive flexion
+Runners, cyclistsPoor hamstring flexibility
+Pain along entirety of iliotibial 
+band
+Meniscal 
+derangement or 
+tear5,6,9-12,14-17,19Overuse
+Medial or lateral pain
+Advanced osteoarthritis Thessaly test
+McMurray test
+continues
+ACL = anterior cruciate ligament;   LCL = lateral collateral ligament;   MCL = medial collateral ligament;    
+PCL = posterior collateral ligament.
+Downloaded from the American Family Physician website at www.aafp.org/afp. Copyright © 2018 American Academy of Family Physicians. For the private, noncom -
+mercial use of one individual user of the website. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests.
+
+578  American Family Physician www.aafp.org/afp  Volume 98, Number 9  ◆ November 1, 2018
+KNEE PAIN IN ADULTS AND ADOLESCENTSactivities involving repetitive 
+knee flexion) is a common 
+presentation of iliotibial 
+band syndrome.3
+Posterior . Isolated poste -
+rior knee pain is less com -
+mon but may occur from 
+a symptomatic popliteal 
+(Baker) cyst.3,28 Posterior 
+knee pain after acute trauma 
+raises suspicion for injury of 
+the posterior cruciate liga -
+ment and posterior portions 
+of the meniscus, quadriceps 
+tendons, or neurovascular 
+structures.28 Chronic poste -
+rior knee pain can suggest 
+hamstring tendinopathy.28
+Diffuse . Chronic, diffuse 
+knee pain in adults older 
+than 50 years is commonly 
+attributable to degenerative 
+knee osteoarthritis, particu -
+larly when the pain is worse 
+at the end of the day, is exac -
+erbated by weight-bearing 
+activity, and is relieved by 
+rest.20 Acute onset of dif -
+fuse atraumatic knee pain 
+(within hours or days) may 
+indicate an infectious eti -
+ology, gout, or rheumatoid 
+arthritis;  the latter is espe -
+cially suspected when the 
+pain is bilateral or when it 
+occurs simultaneously in 
+other joints. In adolescents, 
+atraumatic or unexplained 
+diffuse knee pain that wors -
+ens with activity warrants 
+imaging to assess for osteo -
+chondrosis8;  similar pain 
+that persists at rest or that 
+worsens at night should raise 
+suspicion for malignancy.26
+MECHANICAL SYMPTOMS
+Mechanical symptoms, 
+such as locking, buckling, 
+or catching, suggest internal 
+derangement and possible TABLE 1 (continued)
+Selected Differential Diagnosis of Knee Pain 
+Condition Historical pointsPhysical examination tests  
+and/or findings
+Mechanical (chronic) (continued)
+Osteoarthritis1,3-5,20-22 Diffuse pain
+Stiffness when initiating movement
+Exacerbated by bearing weight
+Age > 50 years
+Absence of trauma
+Inflammatory signs
+Pain worse at end of dayChronic bony deformity
+Leg asymmetry
+Appreciable crepitus
+Patellofemoral 
+pain syndrome 
+(chondromalacia 
+patellae)3,18,23-25Anterior pain
+Runners, cyclistsPatellar tilt test
+Inhibition “shrug” test
+“J” sign (abnormal tracking)
+Poor vastus medialis oblique tone
+Patellar grind
+Pes anserine 
+bursitis3-7,18Medial (or anteromedial) knee pain
+OveruseTender nodule overlying antero -
+medial proximal tibia
+Quadriceps or 
+patellar tendinopathy 
+(jumper’s knee)3-5,8,18,26Anterior pain
+Athletes
+Overuse and repetitive stressPain specific to the quadriceps or 
+patellar tendon
+Tibial apophysitis 
+(Osgood-Schlatter 
+disease)4,8,18,26 Adolescents;   associated with 
+growth spurt
+Anterior pain;   atraumaticTenderness at tibial tubercle
+Inflammatory (noninfectious)
+Crystal-induced 
+arthropathy (gout or 
+pseudogout)3,5,6,9,11,15,27Acute, atraumatic, monoarticular 
+pain
+Fever is possible
+Older adults (> 60 years)
+Risk factors for gout:   male or post -
+menopausal female, high intake of 
+purine-rich foods, critical illness, 
+specific medications
+Risk factors for pseudogout:   
+hyperparathyroidism, hemo -
+chromatosis, hypomagnesemia, 
+hypophosphatemia, osteoarthritisLimited flexion/extension
+Possible effusion and erythema
+Arthrocentesis demonstrating 
+crystals on microscopy
+Gout:   negative birefringence
+Pseudogout:   positive 
+birefringence
+Inflammatory (infectious)
+Septic joint5,6,9,11,15Acute/subacute
+Systemic symptoms
+Joint swelling, pain, erythema, 
+warmth, and joint immobilityLimited flexion/extension
+Effusion and erythema
+Arthrocentesis with Gram stain 
+and culture
+Elevated white blood cell count, 
+erythrocyte sedimentation rate, 
+and C-reactive protein
+Information from references 1 and 3 through 27.
+
+November 1, 2018  ◆ Volume 98, Number 9  www.aafp.org/afp  American Family Physician  579
+instability but can also occur in medial plica syndrome18 
+(Table 11,3-27). A popping sensation at the time of injury 
+may occur in meniscal or ligamentous tears. A knee that is 
+“locked” in flexion and that cannot be extended should be 
+examined for a meniscal tear.4,14,15 
+SWELLING
+If the patient has an acute injury, a knee joint effusion 
+strongly suggests internal derangement.14,26 Swelling that 
+occurs immediately (minutes to a few hours) after injury 
+suggests a ligament rupture, intra-articular fracture, or 
+patellar dislocation;  swelling that appears within hours to 
+a few days suggests a meniscal tear.15,19 Atraumatic swelling 
+with erythema or palpable warmth implies gout or pseudo -
+gout, arthritic flare, or infection. Swelling that is limited to 
+the borders of the patella suggests prepatellar bursitis.4,14,15 
+MECHANISM OF INJURY
+When determining the mechanism of injury, gather infor -
+mation about pain onset, positioning of the knee during 
+and after the injury, and subsequent weight-bearing status 
+(Table 11,3-27). Meniscal tears commonly result from twist -
+ing injuries in the weight-bearing knee. Ligamentous rup -
+ture may result from excess deceleration force applied to a 
+weight-bearing, fixed, lower extremity or a direct blow to 
+the lateral or medial knee. A fracture should be considered 
+when patients are unable to walk or limp at least four steps 
+both immediately after injury and at first presentation.9,29,30
+MEDICAL OR SURGICAL HISTORY
+Family physicians should ask patients about previous knee 
+or other joint pain, injuries, or surgeries. Physicians should 
+also inquire about systemic medical conditions (e.g., autoim -
+mune or infectious diseases, sexually transmitted infections) 
+and review family history of autoimmune and degenera -
+tive conditions. Personal history of knee injury or surgery 
+and family history of knee osteoarthritis or joint replace -
+ment are established risk factors for knee osteoarthritis.20,21 Additional risk factors for knee osteoarthritis include age 
+older than 50 years, female gender, and being overweight.20
+Physical Examination
+A systematic approach to examination of the knee includes 
+inspection, palpation, range of motion and strength evalua -
+tion, neurovascular assessment, and special (provocative) tests.
+INSPECTION
+Erythema, swelling, bruising, lacerations, gross deformity, 
+discoloration, and any asymmetry of bony or soft tissue 
+landmarks, including atrophy and valgus or varus deformi -
+ties, should be noted.
+PALPATION
+Palpation should assess for pain over all bony and soft tissue 
+landmarks (Figure 131), warmth, and effusion. Pes anserine 
+FIGURE 1
+Anterior view of the osseous, ligamentous, and fibro -
+cartilaginous structures of the knee.
+Illustration by Christy Krames
+Reprinted with permission from Tandeter HB, Shvartzman P, Ste -
+vens MA. Acute knee injuries:  use of decision rules for selective 
+radiograph ordering. Am Fam Physician . 1999;  60(9):  2600.BEST PRACTICES IN FAMILY MEDICINE
+Recommendations from the Choosing 
+Wisely Campaign
+RecommendationSponsoring 
+organization
+Avoid ordering knee magnetic resonance 
+imaging for a patient with anterior knee 
+pain without mechanical symptoms 
+or effusion unless the patient has not 
+improved after completion of an appro -
+priate functional rehabilitation program. American Med -
+ical Society for 
+Sports Medicine
+Source:   For more information on the Choosing Wisely Campaign, 
+see https://  choosingwisely.org . For supporting citations and to 
+search Choosing Wisely recommendations relevant to primary 
+care, see https:// www.aafp.org/afp/recommendations/search.htm .
+Anterior 
+cruciate 
+ligament
+Distal 
+femoral 
+condylePatellofemoral 
+groove
+Posterior 
+cruciate 
+ligament
+Lateral 
+meniscus Tibial 
+collateral 
+ligament
+Fibular 
+collateral 
+ligamentMedial 
+meniscus
+Tibial 
+plateau
+TibiaFibulaPatella 
+(reflected)
+
+580 American Family Physician www.aafp.org/afp  Volume 98, Number 9  ◆ November 1, 2018
+KNEE PAIN IN ADULTS AND ADOLESCENTSbursitis manifests as a tender nodule over the medial proxi -
+mal tibia approximately 3 cm distal to the joint line, while a 
+plica can be appreciated as a thin band of tissue most com -
+monly near or overlying the medial joint line. A joint that 
+is as warm or warmer than the tissue above or below that 
+joint indicates infection or inflammation. An evaluation 
+for effusion with the ballottement test and “milking” of the 
+suprapatellar pouch should be conducted with the patient 
+supine with the injured knee in extension.3 
+RANGE OF MOTION AND STRENGTH TEST
+Range of motion (active and then passive) and strength 
+testing (graded 0 to 5) should be used to assess flexion and 
+extension of the knee. Normal limits of knee range of motion 
+include extension from 0 to –10° and 
+flexion to 135°.5 The examiner should 
+assess for a lateral patellar tracking 
+(“J” sign) vs. normal patellofemoral 
+tracking during the range of motion 
+examination23,24,32,33 (see figure at 
+https://  www.aafp.org/afp/2007/0115/
+p194.html#afp20070115p194-f2).
+NEUROVASCULAR ASSESSMENT
+Neurovascular examination of the knee 
+includes assessment of sensation to light 
+touch;  deep tendon reflexes (graded 0 to 
+4+) of the patellar and Achilles tendons;   
+and bilateral palpation of the popli -
+teal, dorsalis pedis, and posterior tibial 
+pulses (graded 0 to 4+).10
+SPECIAL (PROVOCATIVE) TESTS
+Special (provocative) tests are used to 
+bilaterally assess specific structures 
+of the knee;  these tests vary in their 
+accuracy (Table 25,11). Pain and effu -
+sion may limit the usefulness of these 
+tests in the acute setting, requiring 
+repeat testing or deferment until effu -
+sion has subsided.11
+Patellar Apprehension Test. This test 
+involves laterally shifting the patella 
+and is a variant of the patellar mobil -
+ity test;  both of these tests evaluate 
+for patellar subluxation6 (see figure at 
+https:// www.aafp.org/afp/2007/0115/
+p194.html#afp20070115p194-f3 ). 
+Patellar tilt and patellar grind (or inhi -
+bition) testing (see figure at https:// 
+www.aafp.org/afp/2007/0115/p194.html#afp20070115p194-f5) can indicate patellofemoral pain 
+syndrome, as can assessment of core stability while the 
+patient completes a single leg squat.
+Lachman, Anterior Drawer, and Pivot Shift Tests. These 
+tests evaluate for anterior cruciate ligament (ACL) injury 
+(Table 25,11 and Table 34,6,11,34). The Lachman test is the 
+most commonly used technique for assessing the ACL6,7 
+(Figure 26).
+Gravity “Sag” Sign Near Extension, Active Reduction 
+“Quad Activation” of Posterior Tibial Subluxation, and Pos -
+terior Drawer Tests. These tests evaluate for posterior collat -
+eral ligament (PCL) injury6,34 (Table 34,6,11,34). In one study, the 
+sag sign correctly diagnosed PCL injury in 20 of 24 patients, 
+and “quad activation” correctly identified PCL injury in 18 
+TABLE 2
+Knee Injury:  Diagnostic Accuracy of Physical Examination 
+Maneuvers and Clinical Findings
+Maneuver or clinical 
+findingsPositive 
+likelihood 
+ratio*Negative 
+likelihood 
+ratio*Probability of injury if 
+maneuver is †
+Positive (%) Negative (%)
+Anterior cruciate liga -
+ment tear
+Pivot shift test 20.3 0.4 69 4
+Lachman test 12.4 0.14 58 2
+Anterior drawer test 3.7 0.6 29 6
+Effusion
+Ballottement test;   notice -
+able swelling3.6 0.4 NA NA
+Meniscal tear
+Thessaly test 39.3 0.09 81 1
+McMurray test 17.3 0.5 66 5
+Age > 40, continuation of 
+activity not possible, weight 
+bearing during trauma, and 
+pain with passive flexion55.8 0.9 39 9
+Joint-line tenderness 1.1 0.8 11 8
+NA = not applicable.
+*—The likelihood ratio is a measure of how well a positive test rules in disease or a negative 
+test rules out disease.
+†—Based on an overall likelihood of 10% for each injury. If clinical suspicion is higher or lower, 
+the probability would be correspondingly higher or lower.
+Adapted with permission from Grover M. Evaluating acutely injured patients for internal 
+derangement of the knee. Am Fam Physician . 2012;  85(3):  250, with additional information 
+from reference 5.
+
+November 1, 2018  ◆ Volume 98, Number 9  www.aafp.org/afp  American Family Physician  581
+KNEE PAIN IN ADULTS AND ADOLESCENTSof 24 patients35 (see figure 
+at https:// www.aafp.org/
+afp/1999/1201/p2599.html  
+#afp19991201p2599-f12).
+Thessaly and McMur -
+ray Tests. The Thessaly test 
+(Figure 311) is preferred over 
+the McMurray test (see fig -
+ure at https://  www.aafp.
+org/afp/2003/0901/p907.
+html#afp20030901p907-f5) 
+during the initial evalua -
+tion for meniscal injury;  
+however, the effectiveness 
+of both tests is often limited 
+because of the patient’s pain 
+and inability to fully bear 
+weight. A positive McMur -
+ray test (reported pain plus 
+palpable click or clunk) 
+substantially increases the 
+probability of a meniscal 
+tear because this test has 
+high specificity (97%) but 
+low sensitivity (52%).7,12,16,17
+Valgus and Varus Stress 
+Tests. No systematic review 
+has addressed the diag -
+nostic accuracy of physi -
+cal examination findings 
+in patients with medial or 
+lateral collateral ligament 
+injuries. The most common 
+types of physical exam -
+ination tests for assessing 
+these injuries are the val -
+gus and varus stress tests. 
+Asymmetric gapping or 
+laxity is suggestive of this 
+injury6,11,20,34 (Figure 46). 
+Imaging
+RADIOGRAPHY
+Although a comprehensive 
+history and physical exam -
+ination are the mainstays of 
+the initial evaluation, radi -
+ography may be necessary 
+to further evaluate undif -
+ferentiated knee pain. How -
+ever, with a 2% prevalence TABLE 3
+Physical Examination Maneuvers for the Knee
+Test Description
+Anterior cruciate ligament tear
+Anterior drawer 
+test* With the patient supine on the examining table, flex the hip to 45° and the 
+knee to 90°. Sit on the dorsum of the foot, wrap hands around the ham -
+strings (ensuring that these muscles are relaxed), then pull and push the 
+proximal part of the leg, testing the movement of the tibia on the femur. Do 
+these maneuvers in three positions of tibial rotation:  neutral, 30° externally 
+rotated, and 30° internally rotated. A normal test result is no more than 6 to  
+8 mm of laxity.
+Lachman test* With the patient supine on the examining table and the leg slightly externally 
+rotated and flexed (20 to 30°) at the examiner’s side, stabilize the femur with 
+one hand and apply pressure to the back of the knee with the other hand, 
+with the thumb on the joint line. A positive test result is movement of the 
+knee with a soft or mushy end point. 
+Pivot shift test* Fully extend the knee and rotate the foot internally. Apply a valgus (abduction) 
+force while progressively flexing the knee, watching and feeling for translation 
+of the tibia on the femur.
+Posterior cruciate ligament tear
+Posterior drawer 
+test The patient should be supine on the examining table with knees flexed to 
+90°. While standing at the side of the examination table, the physician looks 
+for posterior displacement of the tibia (posterior “sag” sign).4,6,34 The physi -
+cian then fixes the patient’s foot in neutral rotation (by sitting on the foot), 
+positions thumbs at the tibial tubercle, and places fingers at the posterior 
+calf. The physician then pushes posteriorly and assesses for posterior dis -
+placement of the tibia.
+Gravity “sag” 
+sign near exten -
+sion testIn a resting position with the distal femur on a 15-cm support and the heel 
+resting on the examination table (20° of flexion), the unsupported proximal 
+tibia displays a concave anterior contour.
+Active reduction 
+“quad activation” 
+of posterior tibial 
+subluxationWhen the patient raises the heel 2 to 3 cm, a normal anterior contour is 
+restored.
+Meniscal tear
+Joint-line 
+tenderness Palpate medially or laterally along the knee to the joint line between the 
+femur and tibial condyles. Pain on palpation is a positive finding.
+McMurray test † Flex the hip and knee maximally. Apply a valgus (abduction) force to the knee 
+while externally rotating the foot and passively extending the knee. An audible 
+or palpable snap or click with pain during extension suggests a tear of the 
+medial meniscus. For the lateral meniscus, apply a varus (adduction) stress 
+during internal rotation of the foot and passive extension of the knee.
+Thessaly test ‡ Hold patient’s outstretched hands while the patient stands flat footed on the 
+floor, internally and externally rotating the affected leg three times with the 
+knee flexed 20°. The unaffected leg should be flexed to avoid contact with the 
+floor. Patient-reported pain at the medial or lateral joint line is a positive finding.
+Effusion
+Ballottement 
+test § Push the patella posteriorly with two or three fingers using a quick, sharp 
+motion. In the presence of a large effusion, the patella descends to the troch -
+lea, strikes it with a distinct impact, and flows back to its former position.
+*—See procedures being performed at https://  www.aafp.org/afp/ videos .
+†—See test being performed at http:// www.youtube.com /watch?v=ohSzjNj-KCA&NR=1.
+‡—See test being performed at http:// www.youtube.com /watch?v=R3oXDvagnic .
+§—See test being performed at http:// www.youtube.com /watch?NR=1&v=oULBAyfwkaE.
+Adapted with permission from Grover M. Evaluating acutely injured patients for internal derangement of the 
+knee. Am Fam Physician . 2012;  85(3):  249, with additional information from references 4, 6, and 34.
+
+582  American Family Physician www.aafp.org/afp  Volume 98, Number 9  ◆ November 1, 2018
+KNEE PAIN IN ADULTS AND ADOLESCENTSof fractures in outpatient primary care settings and a low 
+diagnostic yield for clinically significant fractures, radi -
+ography should be reserved for chronic knee pain of more 
+than six weeks duration or acute traumatic pain in patients 
+who meet specific evidence-based criteria.11,36
+The American College of Radiology Appropriateness  
+criteria, the Ottawa Knee Rule (https://  www.mdcalc.com /
+ottawa-knee-rule), and the Pittsburgh Knee Rule (https://  
+www.mdcalc.com /pittsburgh-knee-rules) provide support 
+for imaging decisions. The Ottawa Knee Rule is a vali -
+dated tool (98.5% to 100% sensitivity, 49% specificity) that 
+decreases unnecessary radiography by 28% to 35% in the 
+patient with an acutely injured knee.11,29,31,37-40 A prospective 
+validation trial comparing the Ottawa Knee Rule and the 
+Pittsburgh Knee Rule showed that each rule is useful, but 
+the Pittsburgh rule appears to be more sensitive. Specifi -
+cally, the Ottawa rule had a sensitivity of 97% (95% confi -
+dence interval [CI], 90% to 99%) and specificity of 27% (95% 
+CI, 23% to 30%), whereas the Pittsburgh Knee Rule yielded 
+a sensitivity of 99% (95% CI, 94% to 100%) and specificity of 
+60% (95% CI, 56% to 64%)30 (Table 411). 
+The three recommended radiographic views are antero -
+posterior view, lateral view, and Merchant’s view (for the 
+patellofemoral joint).30,40 Oblique views can assess for tibial 
+plateau fractures, and the notch or tunnel (intracondylar) 
+view can visualize osteochondral lesions.4 If osteoarthritis is 
+suspected, weight-bearing radiographs should be obtained 
+to assess for joint-space narrowing, subchondral sclerosis, 
+osteophytes, and bony cysts.4,22ULTRASONOGRAPHY
+Musculoskeletal ultrasonography performed by a trained 
+clinician13,25,41,42 allows for limited evaluation of effusions, 
+cysts (e.g., Baker) and superficial tendons, collateral lig -
+aments, muscles, vasculature, and nerves. In particular, 
+dynamic evaluation of the extensor mechanism (quadriceps 
+tendon, patella, and patellar tendon) can be readily assessed. 
+Mechanical complaints such as snapping, clicking, or pop -
+ping can be evaluated through palpation with an ultrasound 
+transducer.40FIGURE 2
+Lachman test.
+Illustration by Steve Oh
+Reprinted with permission from Smith BW, Green GA. Acute knee 
+injuries. Part I:   history and physical examination. Am Fam Physician.  
+1995;  51(3):  618.
+FIGURE 3
+Thessaly test. Physician should hold the patient’s out -
+stretched hands while the patient stands flat footed 
+on the floor, with knee at 20° of flexion, and inter -
+nally and externally rotates the knee three times. The 
+other knee is flexed to avoid contact with the floor. 
+Patient-reported pain at the medial or lateral joint line 
+is a positive finding. 
+Illustration by Marcia Hartsock
+Reprinted with permission from Grover M. Evaluating acutely 
+injured patients for internal derangement of the knee. Am Fam Phy -
+sician . 2012;  85(3):  251.
+
+
+November 1, 2018  ◆ Volume 98, Number 9  www.aafp.org/afp  American Family Physician  583
+KNEE PAIN IN ADULTS AND ADOLESCENTSMRI
+Emergent MRI is rarely indicated and 
+is typically reserved for potential sur -
+gical indications such as dislocation, 
+ACL or PCL tear, fracture not visible 
+on radiography, vertical meniscal tear, 
+malignancy, vascular injury, or osteo -
+myelitis. Ideally, MRI will confirm the 
+findings from the history and physical 
+examination. MRI also may be useful if 
+mechanical symptoms (such as locking, 
+painful clicking, or inability to fully 
+extend the knee) occur or if recurrent 
+swelling or persistent pain is present 
+after a trial of adequate conservative 
+treatment. The American College of 
+Radiology has established Appropriate -
+ness Criteria for ordering knee MRI.43
+Laboratory Examination
+When the initial history and physical 
+examination suggest but do not con -
+firm a specific diagnosis, laboratory 
+examination can play a confirma -
+tory or diagnostic role. This workup 
+could include serology for suspected 
+inflammatory conditions (erythrocyte TABLE 4
+Indications for Radiography in Patients with Acute  
+Knee Injury
+Indication ACR CriteriaOttawa 
+Knee RulePittsburgh  
+Knee Rule
+Age < 12 or > 50 years   X
+Age ≥ 55 years  X  
+Altered mental status X   
+Fall or blunt trauma   X
+Inability to bear weight for four 
+steps (unable to transfer weight 
+twice) immediately after injury 
+or in the emergency settingX X X
+Inability to flex knee to 90° X X  
+Joint effusion within 24 hours 
+of a direct blow or fallX   
+Tenderness over head of fibula 
+or isolated to patella without 
+other bony tendernessX X  
+ACR = American College of Radiology.
+Adapted with permission from Grover M. Evaluating acutely injured patients for internal 
+derangement of the knee. Am Fam Physician . 2012;  85(3):  248.FIGURE 4
+Varus and valgus stress test. The maneuvers should be performed with the knee in neutral full extension and at  
+30° of flexion.
+Illustration by Steve Oh
+Reprinted with permission from Smith BW, Green GA. Acute knee injuries. Part I:  history and physical examination. Am Fam Physician . 1995;  51(3):  617.
+Varus stress test Valgus stress test0°
+30°0°
+30°
+
+584  American Family Physician www.aafp.org/afp  Volume 98, Number 9  ◆ November 1, 2018
+KNEE PAIN IN ADULTS AND ADOLESCENTSsedimentation rate or C-reactive protein and complete blood 
+count when infection is suspected), autoimmune conditions 
+(rheumatoid factor or auto-antibodies [antineutrophil anti -
+bodies]), or microscopic examination of arthrocentesis fluid 
+for gouty crystals or evidence of bacterial infection.3,27,34,44 
+Data Sources:   A PubMed search was completed using Clinical 
+Queries and the search terms knee pain, evaluation, history, 
+examination, radiographic imaging, laboratory, diagnosis, effu -
+sion, gout, and pseudogout. The search included meta-analyses, 
+randomized controlled trials, clinical trials, and reviews. Also 
+searched were the Agency for Healthcare Research and Quality 
+evidence reports, Essential Evidence Plus, Clinical Evidence, 
+the Cochrane database, Google Scholar, the National Guide -
+line Clearinghouse database, the TRIP database, and UpToDate. 
+Search dates:  July, October, and November 2017;  July 2018.
+The authors thank Ms. Rhonda Allard, who was invaluable during 
+the literature search.
+The opinions and assertions contained herein are the private 
+views of the authors and are not to be construed as official or as 
+reflecting the views of the Department of Defense, the U.S. Air 
+Force Medical Service, the Uniformed Services University of the 
+Health Sciences, or the U.S. Air Force at large.
+This article updates previous articles on this topic by Calmbach 
+and Hutchens, Part I44 and Part II.3 
+The Authors
+CHRISTOPHER W. BUNT, MD, FAAFP, is the assistant dean for 
+Student Affairs and an associate professor in the Department 
+of Family Medicine at the Medical University of South Caro -
+lina, Charleston, SC. He is also an associate professor in the 
+Department of Family Medicine at the Uniformed Services 
+University of the Health Sciences, Bethesda, Md.
+CHRISTOPHER E. JONAS, DO, FAAFP, CAQSM, is an assistant 
+professor in the Department of Family Medicine at the Uni -
+formed Services University of the Health Sciences.JENNIFER G. CHANG, MD, is an assistant professor in the 
+Department of Family Medicine at the Uniformed Services 
+University of the Health Sciences.
+Address correspondence to Christopher W. Bunt, MD, FAAFP, 
+Medical University of South Carolina, 96 Jonathan Lucas St., 
+Ste. 601, MSC 617, Charleston, SC 20814 (e-mail:  buntc@ 
+musc.edu). Reprints are not available from the authors.
+References
+ 1.  Nguyen US, Zhang Y, Zhu Y, Niu J, Zhang B, Felson DT. Increasing prev -
+alence of knee pain and symptomatic knee osteoarthritis:  survey and 
+cohort data. Ann Intern Med . 2011;  155(11):  725-732. 
+ 2.  Baker P, Reading I, Cooper C, Coggon D. Knee disorders in the general 
+population and their relation to occupation. Occup Environ Med . 2003; 
+60(10):  794-797. 
+ 3.  Calmbach WL, Hutchens M. Evaluation of patients presenting with 
+knee pain:  part II. Differential diagnosis. Am Fam Physician . 2003;  68(5):  
+917-922. 
+ 4.  Robb G, Reid D, Arroll B, Jackson RT, Goodyear-Smith F. General prac -
+titioner diagnosis and management of acute knee injuries:  summary of 
+an evidence-based guideline. N Z Med J . 2007;  120(1249):  U2419. 
+ 5.  Magee DJ. Knee. In:  Orthopedic Physical Assessment . 6th ed. Vancou -
+ver, B.C.:  Langara College;  2017:  765-887.
+ 6.  Smith BW, Green GA. Acute knee injuries. Part I:  history and physical 
+examination. Am Fam Physician . 1995;  51(3):  615-621. 
+ 7.  Jackson JL, O’Malley PG, Kroenke K. Evaluation of acute knee pain in 
+primary care. Ann Intern Med . 2003;  139(7):  575-588. 
+ 8.  Patel DR, Villalobos A. Evaluation and management of knee pain in 
+young athletes:  overuse injuries of the knee. Transl Pediatr . 2017;  6(3): 
+190-198.  
+ 9.  Wagemakers HP, Heintjes EM, Boks SS, et al. Diagnostic value of history-  
+taking and physical examination for assessing meniscal tears of the 
+knee in general practice. Clin J Sport Med . 2008;  18(1): 24-30. 
+ 10.  Bickley LS, Szilagyi PG, Hoffman RM. Bates’ Guide to Physical Exam and 
+History Taking . 12th ed. Philadelphia, Pa.:  Wolters Kluwer;  2017.
+ 11.  Grover M. Evaluating acutely injured patients for internal derangement 
+of the knee. Am Fam Physician . 2012;  85(3):  247-252. 
+ 12.  Rayan F, Bhonsle S, Shukla DD. Clinical, MRI, and arthroscopic cor -
+relation in meniscal and anterior cruciate ligament injuries. Int Orthop . 
+2009;  33(1):  129-132. SORT:   KEY RECOMMENDATIONS FOR PRACTICE
+Clinical recommendationEvidence 
+rating References Comments
+Internal derangement should be suspected in patients 
+with knee trauma and acute effusion.C 3, 4, 6, 7, 11, 12, 
+14, 19, 30Rapidity of effusion should be noted.
+In patients with suspected meniscal injury, the Thes -
+saly test is preferred over the McMurray test or other 
+evaluation for joint-line tenderness.C 3, 4, 6, 7, 12, 14, 
+16, 25, 30, 31, 34Thessaly may be difficult to perform in 
+an acute setting because of pain and 
+feeling of instability.
+The Ottawa Knee Rule should be used to determine 
+which patients with acute knee injury require imaging.A 11, 16, 17, 29, 30, 
+36-38 —
+A = consistent, good-quality patient-oriented evidence;   B = inconsistent or limited-quality patient-oriented evidence;   C = consensus, disease-ori -
+ented evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go to https:// www.aafp.
+org/afpsort.
+
+November 1, 2018  ◆ Volume 98, Number 9  www.aafp.org/afp  American Family Physician  585
+KNEE PAIN IN ADULTS AND ADOLESCENTS 13.  Fulkerson JP. Diagnosis and treatment of patients with patellofemoral 
+pain. Am J Sports Med . 2002;  30(3):  447-456. 
+ 14.  Snoeker BA, Zwinderman AH, Lucas C, Lindeboom R. A clinical  
+prediction rule for meniscal tears in primary care:  development and 
+internal validation using a multicentre study. Br J Gen Pract . 2015; 
+65(637):  e523-e529. 
+ 15.  Johnson MW. Acute knee effusions:  a systematic approach to diagno -
+sis. Am Fam Physician . 2000;  61(8):  2391-2400. 
+ 16.  Harrison BK, Abell BE, Gibson TW. The Thessaly test for detection of 
+meniscal tears:  validation of a new physical examination technique for 
+primary care medicine. Clin J Sport Med . 2009;  19(1):  9-12. 
+ 17.  Karachalios T, Hantes M, Zibis AH, Zachos V, Karantanas AH, Malizos KN. 
+Diagnostic accuracy of a new clinical test (the Thessaly test) for early 
+detection of meniscal tears. J Bone Joint Surg Am . 2005;  87(5):  955-962. 
+ 18.  Hong E, Kraft MC. Evaluating anterior knee pain. Med Clin North Am . 
+2014;  98(4):  697-717, xi. 
+ 19.  Kastelein M, Luijsterburg PA, Wagemakers HP, et al. Diagnostic value of 
+history taking and physical examination to assess effusion of the knee 
+in traumatic knee patients in general practice. Arch Phys Med Rehabil . 
+2009;  90(1): 82-86. 
+ 20.  Zhang W, Doherty M, Peat G, et al. EULAR evidence-based recommen -
+dations for the diagnosis of knee osteoarthritis. Ann Rheum Dis . 2010; 
+69(3):  483-489. 
+ 21.  Allen KD, Golightly YM. Epidemiology of osteoarthritis:  state of the evi -
+dence. Curr Opin Rheumatol . 2015;  27(3):  276-283. 
+ 22.  Altman R, Asch E, Bloch D, et al.;  Diagnostic and Therapeutic Criteria 
+Committee of the American Rheumatism Association. Development 
+of criteria for the classification and reporting of osteoarthritis. Clas -
+sification of osteoarthritis of the knee. Arthritis Rheum . 1986;  29(8): 
+1039-1049. 
+ 23.  Juhn MS. Patellofemoral pain syndrome:  a review and guidelines for 
+treatment. Am Fam Physician . 1999;  60(7):  2012-2022. 
+ 24. Dixit S, DiFiori JP, Burton M, Mines B. Management of patellofemoral 
+pain syndrome. Am Fam Physician . 2007;  75(2):  194-202. 
+ 25.  American College of Radiology (ACR);  Society for Pediatric Radiology 
+(SPR);  Society of Radiologists in Ultrasound (SRU). AIUM practice guide -
+line for the performance of a musculoskeletal ultrasound examination. 
+J Ultrasound Med . 2012;  31(9):  1473-1488. 
+ 26.  Wolf M. Knee pain in children. Part II:  limb- and life-threatening condi -
+tions, hip pathology, and effusion. Pediatr Rev . 2016;  37(2):  72-76. 
+ 27.  Sidari A, Hill E. Diagnosis and treatment of gout and pseudogout for 
+everyday practice. Prim Care. 2018;  45(2): 213-236.
+ 28.  English S, Perret D. Posterior knee pain. Curr Rev Musculoskelet Med . 
+2010;  3(1-4):  3-10.  
+ 29.  Stiell IG, Wells GA, Hoag RH, et al. Implementation of the Ottawa Knee 
+Rule for the use of radiography in acute knee injuries. JAMA . 1997; 
+278(23):  2075-2079.  30.  Seaberg DC, Yealy DM, Lukens T, Auble T, Mathias S. Multicenter com -
+parison of two clinical decision rules for the use of radiography in acute, 
+high-risk knee injuries. Ann Emerg Med . 1998;  32(1):  8-13. 
+ 31.  Tandeter HB, Shvartzman P, Stevens MA. Acute knee injuries:  use of 
+decision rules for selective radiograph ordering. Am Fam Physician . 
+1999;  60(9):  2599-2608. 
+ 32.  Walsh WM. Recurrent dislocation of the knee in the adult. In:  DeLee JC, 
+Drez D, Miller MD, eds. Orthopaedic Sports Medicine:  Principles and 
+Practice . 2nd ed. Philadelphia, Pa.:  Saunders, 2003:  1718-1721.
+ 33.  Finnoff JT, Berkoff D, Brennan F, et al. American Medical Society for 
+Sports Medicine recommended sports ultrasound curriculum for 
+sports medicine fellowships. Br J Sports Med . 2015;  49(3):  145-150. 
+ 34.  Walsh WM. Knee injuries. In:  Mellion MB, Walsh WM, Shelton GL, eds. 
+The Team Physician’s Handbook . 3rd ed. Philadelphia, Pa.:  Hanley and 
+Belfus;   2002:  554-578.
+ 35.  Stäubli HU, Jakob RP. Posterior instability of the knee near extension. A 
+clinical and stress radiographic analysis of acute injuries of the posterior 
+cruciate ligament. J Bone Joint Surg Br . 1990;  72(2):  225-230. 
+ 36.  American College of Radiology. ACR Appropriateness Criteria:  acute 
+trauma to the knee. https://  acsearch.acr.org /docs/69419/Narrative/. 
+Accessed September 15, 2017.
+ 37.  Stiell IG, Greenberg GH, Wells GA, et al. Derivation of a decision rule 
+for the use of radiography in acute knee injuries. Ann Emerg Med . 1995; 
+26(4):  405-413. 
+ 38.  Bachmann LM, Haberzeth S, Steurer J, ter Riet G. The accuracy of the 
+Ottawa knee rule to rule out knee fractures:  a systematic review. Ann 
+Intern Med . 2004;  140(2):  121-124.
+ 39.  Jenny JY, Boeri C, El Amrani H, et al. Should plain x-rays be routinely 
+performed after blunt knee trauma? A prospective analysis. J Trauma . 
+2005;  58(6):  1179-1182.
+ 40.  Seaberg DC, Jackson R. Clinical decision rule for knee radiographs. Am 
+J Emerg Med . 1994;  12(5):  541-543. 
+ 41.  Hall MH, Rajasekaran S. Musculoskeletal ultrasound of the knee. https://  
+www-uptodate-com.lrc1.usuhs.edu /contents/musculoskeletal-ultra  
+sound-of-the-knee?source=search_result&search=musculoskeletal  
+%20ultrasound%20ultraound%20knee%20pain&selectedTitle=1~150  
+[login required]. Accessed September 16, 2017. 
+ 42.  Bonnefoy O, Diris B, Moinard M, Aunoble S, Diard F, Hauger O. Acute 
+knee trauma:  role of ultrasound. Eur Radiol . 2006;  16(11):  2542-2548. 
+ 43.  Tuite MJ, Daffner RH, Weissman BN, et al. ACR appropriateness criteria 
+acute trauma to the knee. J Am Coll Radiol.  2012; 9(2):  96-103.
+ 44.  Calmbach WL, Hutchens M. Evaluation of patients presenting with knee 
+pain:   part I. History, physical examination, radiographs, and laboratory 
+tests. Am Fam Physician . 2003;  68(5):  907-912.
+

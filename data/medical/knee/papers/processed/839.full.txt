@@ -1,0 +1,473 @@
+2016 Patellofemoral pain consensus statement from
+the 4th International Patellofemoral Pain Research
+Retreat, Manchester. Part 1: Terminology,deﬁnitions, clinical examination, natural history,
+patellofemoral osteoarthritis and patient-reportedoutcome measures
+Kay M Crossley,1Joshua J Stefanik,2James Selfe,3Natalie J Collins,4Irene S Davis,5
+Christopher M Powers,6Jenny McConnell,7Bill Vicenzino,4David M Bazett-Jones,8
+Jean-Francois Esculier,9Dylan Morrissey,10,11Michael J Callaghan12,13
+For numbered af ﬁliations see
+end of article.
+Correspondence to
+Professor Michael J Callaghan,Faculty of Health, Psychologyand Social Care, School of
+Health Professions. Manchester
+Metropolitan University,Manchester, UK
+Received 26 April 2016
+Accepted 1 May 2016
+▸http://dx.doi.org/10.1136/
+bjsports-2015-095607
+▸http://dx.doi.org/10.1136/
+bjsports-2016-096268▸http://dx.doi.org/10.1136/
+bjsports-2016-096294▸http://dx.doi.org/10.1136/
+bjsports-2016-096328
+To cite: Crossley KM,
+Stefanik JJ, Selfe J, et al.
+Br J Sports Med2016; 50:839–843.INTRODUCTION
+Patellofemoral pain (PFP) typically presents as
+diffuse anterior knee pain, usually with activities
+such as squatting, running, stair ascent and descent.
+It is common in active individuals across the life-span,
+1–4and is a frequent cause for presentation at
+physiotherapy , general practice, orthopaedic andsports medicine clinics in particular.
+56Its impact is
+profound, often reducing the ability of those withPFP to perform sporting, physical activity andwork-related activities pain-free. Increasing evi-dence suggests that it is a recalcitrant condition,persisting for many years.
+7–9In an attempt to share
+recent innovations, build on the ﬁrst three success-
+ful biennial retreats and de ﬁne the ‘state of the art’
+for this common, impactful condition; the 4thInternational Patellofemoral Pain Research Retreatwas convened.
+The 4th International Patellofemoral Research
+Retreat was held in Manchester, UK, over 3 days(September 2 –4th, 2015). After undergoing peer-
+review for scienti ﬁc merit and relevance to the
+retreat, 67 abstracts were accepted for the retreat(50 podium presentations, and 17 short presenta-tions). The podium and short presentations weregrouped into ﬁve categories; (1) PFP , (2) factors
+that in ﬂuence PFP (3) the trunk and lower extrem-
+ity (4) interventions and (5) systematic analyses.
+Three keynote speakers were chosen for their scien-tiﬁc contribution in the area of PFP . Professor
+Andrew Amis spoke on the biomechanics of thepatellofemoral joint. Professor David Felson spokeon patellofemoral arthritis,
+10and Dr Michael
+Ratleff ’s keynote theme was PFP in the adolescent
+patient.11As part of the retreat, we held structured,
+whole-group discussions in order to develop con-
+sensus relating to the work presented at the
+meeting as well as evidence gathered from theliterature.
+Consensus development process
+In our past three International PatellofemoralResearch Retreats, we developed a consensus state-ment addressing different presentation categor-ies.
+12–14In Manchester in 2015, we revised theformat. For the exercise and physical interventions,
+we developed consensus based on reviews of sys-tematic reviews, and these are reported in a com-
+panion publication.
+15For factors contributing to
+PFP , Professor Christopher Powers facilitated the
+discussion and development of consensus, which ispublished in another companion publication. Forthe remaining topics of terminology, de ﬁnitions/
+diagnosis and features of clinical examination, aconsensus discussion was led by KMC, with theresults described below.
+In addition to the consensus activities, two sec-
+tions that had been features of prior consensus meet-ings underwent an update and synthesis of literature.The evidence related to natural history of PFP andpatellofemoral osteoarthritis (OA) was described byJJS and KMC, while a recommendation on PROMsfor use in PFP was completed by NJC, DBJ andJFE, based on the best available evidence.
+The following pages present the 4th
+Patellofemoral Pain Consensus Statement regardingterminology, de ﬁnitions, clinical examination,
+natural history , patellofemoral OA and patientreported outcomes (PROMs). These statementsrepresent the contemporary status of knowledge intheﬁeld of PFP and hence, will change over time.
+This document was developed for clinicians andresearchers, to improve our comprehension of thisproblematic condition, and provide a guide forbetter and more consistent assessment and manage-ment. Additionally, gaps in current knowledge canbe identi ﬁed and provide a basis for future research
+directions.
+TERMINOLOGY
+T wo terms were proposed for the condition: (1)
+PFP and (2) patellofemoral arthropathy. PFP hasbeen used as the preferred term over recent years,however, it does not take into account how non-painful joint conditions could be a precursor topain development, does not include symptoms suchas crepitus, and may increase a focus on the ‘pain ’
+aspect of the condition. The alternative term, patel-lofemoral arthropathy, was proposed, as part of theincreasing recognition that PFP may be a symptom
+Open Access
+Scan to access more
+free content
+Crossley KM, et al.Br J Sports Med 2016; 50:839–843. doi:10.1136/bjsports-2016-096384
+ 839Consensus statementProtected by copyright, including for uses related to text and data mining, AI training, and similar technologies. . by guest on November 12, 2025 http://bjsm.bmj.com/ Downloaded from 24 June 2016. 10.1136/bjsports-2016-096384 on Br J Sports Med: first published as 
+
+of joint disease. Focusing on the disease process (arthropathy)
+might not be appropriate because: (A) the linkage betweendisease process and pain presentation is not clear, (B) pain is thepredominant symptom, and (C) it could shift the focus toimaging, rather than clinical outcomes.
+Statement 1 .The term ‘patellofemoral pain ’is the preferred
+term, and is a synonym for other terms including: (1) PFP syn-
+drome; (2) chondromalacia patella; (3) anterior knee pain and/or syndrome; and (4) runner ’s knee.
+DEFINING PFP
+Statement 2. The core criterion required to de ﬁne PFP is pain
+around or behind the patella, which is aggravated by at least oneactivity that loads the patellofemoral joint during weight bearingon a ﬂexed knee (eg, squatting, stair ambulation, jogging/
+running, hopping/jumping).Additional criteria (not essential):A. Crepitus or grinding sensation emanating from the patellofe-
+moral joint during knee ﬂexion movements
+B. T enderness on patellar facet palpationC. Small effusionD. Pain on sitting, rising on sitting, or straightening the knee
+following sitting
+Statement 3. People with a history of dislocation, or whoreport perceptions of subluxation, should not be included instudies of PFP , unless the study is speci ﬁcally evaluating these
+subgroups.
+Currently, such patients are considered to be a subgroup of
+people with patellofemoral disorders and/or pain, who mayhave distinct presentations, biomechanical risk factors andrequire different treatments approaches.
+CLINICAL EXAMINATION OF PFP
+Clinical examination is the cornerstone to diagnose PFP ,16 17
+but there is no de ﬁnitive clinical test to diagnose PFP .18
+Statement 4. The best available test is anterior knee pain elicitedduring a squatting manoeuvre: PFP is evident in 80% of peoplewho are positive on this test.
+18
+Additional tests (limited evidence):
+T enderness on palpation of the patellar edges (PFP is evident
+in 71 –75% of people with this ﬁnding.18
+T ests with limited diagnostic usefulness
+▸Patellar grinding and apprehension tests (eg, Clarke ’s test)
+have low sensitivity and limited diagnostic accuracy forPFP .
+18 19
+▸Knee range of motion and effusion.
+NATURAL HISTORY
+Incidence and prevalence of PFP
+Statement 5. PFP is common in young adolescents, with a
+prevalence of 7 –28%,22 02 1and incidence of 9.2%.20
+Few studies have evaluated prevalence or incidence in other
+populations, except in the military,4where the annual incidence
+in men is 3.8% and in women is 6.5%, with a prevalence of12% in men and 15% in women.
+4
+Specialisation in a single sport was associated with a relative
+risk (1.5: 95% CI: 1.0 to 2.2) of PFP incidence compared tomultisport athletes.
+2
+PATELLOFEMORAL OSTEOARTHRITIS
+Prevalence and impact of patellofemoral OA
+Statement 6. Patellofemoral OA is an under recognised yet
+important subgroup of knee OA.22 23Knee OA research has mainly focused on the tibiofemoral
+compartment, yet recent evidence suggests that the patellofe-
+moral compartment is at least as commonly affected by OA.24–26
+Depending on the source population and de ﬁnition of OA (ie,
+radiographic or MRI) isolated patellofemoral OA is present in
+11–24% of older individuals and occurs in combination with
+tibiofemoral OA in 4 –40% of people. People with patellofe-
+moral OA exhibit similar patterns of pain and functional limita-
+tion to those with PFP .27–31
+Risk factors/factors associated with patellofemoral OA
+Statement 7. A variety of factors may alter the mechanics of thepatellofemoral joint and increase joint stress, potentially leadingto OA.A. Abnormal patellofemoral joint alignment and trochlear
+morphology are associated with patellofemoral OA (bothradiographic and MRI features). A recent systematicreview
+32concluded that there is strong evidence that patel-
+lofemoral OA is associated with both abnormal trochlearmorphology and frontal plane knee alignment. There is alsolimited evidence (due to the lack of longitudinal studies)that malalignment in the sagittal (patella alta) and axial(lateral patellar displacement and tilt) planes are associatedwith patellofemoral OA. However, there remains a knowl-edge gap regarding optimal measures and thresholds to bestpredict patellofemoral OA.
+B. Muscle weakness: Quadriceps weakness is an important
+factor in patellofemoral OA. Quadriceps function, such asmuscle size,
+33strength34 35and muscle force,36is impaired
+in people with patellofemoral OA. Importantly, quadricepsweakness is a risk factor for patellofemoral OA.
+37W eakness
+of muscle groups above the knee (involving the gluteii, oftenreferred to as the ‘proximal muscles ’) is well documented in
+young individuals with non-arthritic PFP .
+16 38 –42Emerging
+evidence suggests that those with patellofemoral OA mayalso demonstrate proximal muscle dysfunction compared tocontrols, including lower gluteus minimus and medius peakmuscle force,
+43and lower hip abductor strength.44These
+studies found no differences in gluteus maximus peakmuscle force
+43or hip external rotator strength.44In the
+absence of longitudinal studies, the potential for hip muscleweakness to increase the risk of patellofemoral OA remainsunknown.
+C. Abnormal biomechanics: There is recent evidence that indi-
+viduals with patellofemoral OA demonstrate abnormal bio-mechanics during gait.
+36 43 45 –47Fok et al36reported that
+those with patellofemoral OA had lower knee extension
+moments, quadriceps forces and patellofemoral joint reac-tion forces during stair ascent and descent. In contrast tothese ﬁndings, Pohl et al
+44reported that pelvis, hip and
+knee kinematics were not different between people with
+patellofemoral OA and controls. In the only longitudinalstudy to date, T eng et al
+48found that peak knee ﬂexion
+moment and ﬂexion moment impulse at baseline lead to
+progression of patellofemoral cartilage damage over 2 years.
+Statement 8. Anterior cruciate ligament reconstruction (ACLR)increases the risk of patellofemoral OA.
+There is radiographic and MRI evidence of patellofemoral
+OA following ACLR,
+49–57which appears to be independent of
+hamstring tendon or bone-patellar-bone autograft. Whilefurther longitudinal studies are required to elucidate themechanisms underpinning patellofemoral OA following ACLR,it may be related to altered biomechanics and concomitantchondral damage.
+56 58Notably, patellofemoral OA following
+840 Crossley KM, et al.Br J Sports Med 2016; 50:839 –843. doi:10.1136/bjsports-2016-096384Consensus statementProtected by copyright, including for uses related to text and data mining, AI training, and similar technologies. . by guest on November 12, 2025 http://bjsm.bmj.com/ Downloaded from 24 June 2016. 10.1136/bjsports-2016-096384 on Br J Sports Med: first published as 
+
+ACLR is associated with worse symptoms and function57and
+deteriorating symptoms.59
+Relationship between structure and pain
+Statement 9. The relationship between abnormal joint structure
+and pain is imprecise. Patellofemoral pathology is traditionally
+considered to occur in the lateral compartment, which appears
+inconsistent with cartilage damage and bone marrow lesions(BMLs) on MRI (two hallmark features of OA on MRI) present-ing in the medial and lateral patellofemoral joint.
+60 61An inter-
+esting ﬁnding was that PFP was only present with lateral
+patellofemoral joint damage and with concomitant medial andlateral structural damage, but not when there was only medialjoint damage.
+61In a series of studies, Sharma et al62found that
+PFJ cartilage damage and BMLs were associated with prevalent
+frequent knee symptoms and incident persistent symptoms over5 years and that worsening of preradiographic patelofemoraldamage was associated with persistent knee symptoms.
+63
+Statement 10. The infrapatellar fat pad is an intracapsular andextrasynovial tissue that is highly innervated and a potentialcause of PFP .
+The role of the fat pad in the patellofemoral OA disease
+process remains unclear. In a cohort of people with patellofe-moral OA there was greater fat pad volume compared to con-trols, and greater fat pad volume was associated with greaterknee pain severity .
+64In other cohorts of people with and
+without OA, greater fat pad size was associated with greatermedial and lateral tibial and patellar cartilage volume,
+65and
+predicted lower knee pain at follow-up.66
+Treatment of patellofemoral OA
+Statement 11. Clinical features of patellofemoral OA may differfrom tibiofemoral OA.
+It is possible that in order to target effective rehabilitation
+treatments for those with patellofemoral OA, we need to recog-nise the clinical ﬁndings that identify and discriminate them
+from tibiofemoral OA. Schiphof et al
+67reported that the pres-
+ence of crepitus in the knee and history of patellar pain weresigniﬁcantly associated with patellofemoral joint OA (but not
+tibiofemoral joint OA) in women. Other studies reported poordiagnostic ability of a variety of clinical examination ﬁndings
+self-reported knee pain location and with activities to discrimin-ate those with patellofemoral OA from those with tibiofemoralOA.
+34 68This is an area requiring further investigation, as high-
+lighted in the Felson editorial.10
+Statement 12. A combined intervention69(ie, exercise therapy,
+education, manual therapy and taping) or patellofemoral bracing70
+may improve outcomes for people with patellofemoral OA.
+Patellofemoral bracing may improve patellofemoral kinematics
+and knee pain and shrink BMLs in those with patellofemoral
+OA.70 71 72The only other study on patellofemoral bracing
+found a small but non-signi ﬁcant effect on knee pain.73
+PATIENT-REPORTED OUTCOME MEASURES
+PROMs are used by researchers and clinicians to follow the
+course of PFP and evaluate treatment outcomes. T ypically admi-nistered as questionnaires, PROMs measure the patient ’so w n
+perspective of their PFP and treatment, without interpretationof their response by another individual. This minimises observerbias, and captures aspects of PFP that are likely to be importantto the patient.Statement 13. Researchers should use a standard set of PROMsfor PFP and OA to facilitate future comparisons and pooling ofdata.These should encompass three core clinical constructs: pain,
+function and global assessment.
+74Researchers may also choose
+to evaluate quality of life and physical activity (optional con-structs). Speciﬁ c PROMs for each construct will be recom-
+mended in an upcoming paper, based on a Delphi exercise.
+It should be noted that few PROMs have been developed spe-
+ciﬁcally for PFP , raising the possibility that PROMs commonly
+used in research to date may lack content validity for thispatient population.
+FUTURE DIRECTIONS
+The reporting in studies of patients with PFP can limit theirknowledge translation and as a result, a Delphi exercise isunderway , to determine the minimum design and reporting stan-dards for PFP . The 5th International Patellofemoral PainResearch Retreat, will be held in Brisbane, Australia in July ,2017.
+Author af ﬁliations
+1La Trobe Sport and Exercise Medicine Research Centre, School of Allied Health, La
+Trobe University, Bundoora, Victoria, Australia
+2Department of Physical Therapy, Movement & Rehabilitation Sciences, Northeastern
+University, Boston, Massachusetts, USA
+3Faculty of Health, Psychology and Social Care, Department of Health Professions.
+Manchester Metropolitan University, Manchester, UK
+4School of Health and Rehabilitation Sciences, The University of Queensland,
+Brisbane, Queensland, Australia
+5Department of Physical Medicine and Rehabilitation, Spaulding National Running
+Centre, Harvard Medical School, Cambridge, Massachusetts, USA
+6Division of Biokinesiology & Physical Therapy, University of Southern California, Los
+Angeles, California, USA
+7McConnell Physiotherapy Group, Mosman, New South Wales, Australia
+8Department of Physical Therapy, Carroll University, Waukesha, Wisconsin, USA
+9Faculty of Medicine, Centre for Interdisciplinary Research in Rehabilitation and
+Social Integration Universite Laval, Quebec, Quebec, Canada
+10Centre for Sport and Exercise Medicine, Queen Mary University of London,
+London, UK
+11Physiotherapy Department, Bart ’s Health NHS Trust, London, UK
+12Faculty of Health, Psychology and Social Care, School of Health Professions.
+Manchester Metropolitan University, Manchester, UK
+13Centre for Musculoskeletal Research, University of Manchester, Manchester, UK
+Twitter Follow Kay Crossley: @kaymcrossley, Joshua Stefanik: @patellaprof, Natalie
+Collins: @natj_collins, Irene Davis: @IreneSDavis, Bill Vicenzino: @Bill_Vicenzino,
+David Bazett-Jones: @DrBazettJones, Jean-Francois Esculier: @JFEsculier, DylanMorrisey: @DrDylanM
+Acknowledgements All participants contributing to the 4th International
+Patellofemoral Pain Research Retreat.
+Contributors KMC, CMP, ISD, JMcC conceived the idea of the consensus
+development. All authors contributed to discussion and editing of the paper. JJS and
+KMC updated the patellofemoral OA section, NJC, DMB-J and J-FE updated the
+PROM section. MJC and JS contributed information regarding the meeting. All
+authors contributed to write up and approved the ﬁnal manuscript.
+Funding BJSM paid for international travel ﬂights for one keynote speaker to
+attend the consensus meeting.
+Competing interests None declared.
+Provenance and peer review Not commissioned; externally peer reviewed.
+Open Access This is an Open Access article distributed in accordance with the
+Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which
+permits others to distribute, remix, adapt, build upon this work non-commercially,
+and license their derivative works on different terms, provided the original work is
+properly cited and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/
+REFERENCES
+1 Myer GD, Ford KR, Barber Foss KD, et al. The incidence and potential
+pathomechanics of patellofemoral pain in female athletes. Clin Biomech (Bristol,
+Avon) 2010;25:700 –7.
+2 Hall R, Barber Foss K, Hewett TE, et al. Sport specialization ’s association with an
+increased risk of developing anterior knee pain in adolescent female athletes.
+J Sport Rehabil 2015;24:31 –5.
+Crossley KM, et al.Br J Sports Med 2016; 50:839 –843. doi:10.1136/bjsports-2016-096384 841Consensus statementProtected by copyright, including for uses related to text and data mining, AI training, and similar technologies. . by guest on November 12, 2025 http://bjsm.bmj.com/ Downloaded from 24 June 2016. 10.1136/bjsports-2016-096384 on Br J Sports Med: first published as 
+
+3 Rathleff MS, Skuldbøl SK, Rasch MNB, et al. Care-seeking behaviour of adolescents
+with knee pain: a population-based study among 504 adolescents. BMC
+Musculoskelet Disord 2013;14:225.
+4 Boling M, Padua D, Marshall S, et al. Gender differences in the incidence and
+prevalence of patellofemoral pain syndrome. Scand J Med Sci Sports
+2010;20:725 –30.
+5 Kannus P, Aho H, Jarvinen M, et al. Computerised recording of visits to an
+outpatient sports clinic. Am J Sports Med 1987;15:79 –85.
+6 Taunton JE, Ryan MB, Clement DB, et al. A retrospective case-control analysis of
+2002 running injuries. Br J Sports Med 2002;36:95 –101.
+7 Collins NJ, Bierma-Zeinstra SM, Crossley KM, et al. Prognostic factors for
+patellofemoral pain: A multicentre observational analysis. Br J Sports Med
+2013;47:227 –33.
+8 Nimon G, Murray D, Sandow M, et al. Natural history of anterior knee pain: a 14-
+to 20-year follow-up of nonoperative management. J Pediatr Orthop
+1998;18:118 –22.
+9 Lankhorst NE, Van Middelkoop M, KM C, et al. Factors that predict a poor outcome
+5–8 years after the diagnosis of patellofemoral pain: a multicentre observational
+analysis. Br J Sports Med 2016;50:881 –6.
+10 Felson DT. Challenges of identifying and treating patellofemoral osteoarthritis. Br J
+Sports Med 2016;50:832 –3.
+11 Rathleff MS. Patellofemoral pain during adolescence: Much more prevalent than
+appreciated. Br J Sports Med 2016;50:831 –32.
+12 Witvrouw E, Callaghan MJ, Stefanik JJ, et al. Patellofemoral pain: Consensus
+statement from the 3rd International Patellofemoral Pain Research Retreat held in
+Vancouver, September 2013. Br J Sports Med 2014;48:411 –14.
+13 Powers CM, Bolgla LA, Callaghan MJ, et al. Patellofemoral pain: proximal, distal,
+and local factors, 2nd International Research Retreat. J Orthop Sports Phys Ther
+2012;42:A1 –54.
+14 Davis IS, Powers CM. Patellofemoral pain syndrome: proximal, distal, and local
+factors, an international retreat, April 30-May 2, 2009, Fells Point, Baltimore, MD.J Orthop Sports Phys Ther 2010;40:A1 –16.
+15 Crossley KM, van Middelkoop M, Callaghan MK, et al. 2016 patellofemoral pain
+consensus statement from the 4th International Patellofemoral Pain Research
+Retreat, Manchester Part 2: Recommended physical interventions (exercise, taping,
+bracing, foot orthoses and combined interventions). Br J Sports Med 2016;50:
+844–52.
+16 
+Crossley KM, Cook JL, Cowan SM, et al. Anterior knee pain. In: Brukner PD, Bahr
+R, Blair S, et al.Brukner and Khan ’s Clinical Sports Medicine . Sydney, McGraw Hill:
+2012:684 –714.
+17 Crossley KM, Callaghan M, van Linschoten R. Patellofemoral pain: practie pointer.
+BMJ 2015;351:h3939.
+18 Nunes GS, Stapait EL, Kirsten MH, et al. Clinical test for diagnosis of patellofemoral
+pain syndrome: Systematic review with meta-analysis. Phys Ther Sport
+2013;14:54 –9.
+19 Doberstein ST, Romeyn RL, Reineke DM. The diagnostic value of the Clarke sign in
+assessing chondromalacia patella. J Athl Train 2008;43:190 –6.
+20 Myer GD, Ford KR, Di Stasi SL, et al. High knee abduction moments are common
+risk factors for patellofemoral pain (PFP) and anterior cruciate ligament (ACL) injuryin girls: Is PFP itself a predictor for subsequent ACL injury? Br J Sports Med
+2015;49:118 –22.
+21 Rathleff MS, Roos EM, Olesen JL, et al. Exercise during school hours when added
+to patient education improves outcome for 2 years in adolescent patellofemoralpain: a cluster randomised trial. Br J Sports Med 2015;49:406 –12.
+22 Hinman RS, Crossley KM. Patellofemoral joint osteoarthritis: an important subgroup
+of knee osteoarthritis. Rheumatology (Oxford) 2007;46:1057 –62.
+23 Crossley KM, Hinman RS. The patellofemoral joint: the forgotten joint in knee
+osteoarthritis. Osteoarthr Cartil 2011;19:765 –7.
+24 Duncan RC, Hay EM, Saklatvala J, et al. Prevalence of radiographic osteoarthritis —
+it all depends on your point of view. Rheumatology (Oxford) 2006;45:757 –60.
+25 McAlindon TE, Snow S, Cooper C, et al. Radiographic patterns of osteoarthritis of
+the knee joint in the community: the importance of the patellofemoral joint. Ann
+Rheum Dis 1992;51:844 –9.
+26 Stefanik JJ, Niu J, Gross KD, et al. Using magnetic resonance imaging to determine
+the compartmental prevalence of knee joint structural damage. Osteoarthr Cartil
+2013;21:695 –9.
+27 Duncan R, Peat G, Thomas E, et al. How do pain and function vary with
+compartmental distribution and severity of radiographic knee osteoarthritis?Rheumatology (Oxford) 2008;47:1704 –7.
+28 Hunter DJ, March L, Sambrook PN. The association of cartilage volume with knee
+pain. Osteoarthr Cartil 2003;11:725 –9.
+29 Kornaat PR, Bloem JL, Ceulemans RY, et al. Osteoarthritis of the knee: association
+betw
+een clinical features and MR imaging ﬁndings. Radiology 2006;239:
+811–17.
+30 Szebenyi B, Hollander AP, Dieppe P, et al. Associations between pain, function, and
+radiographic features in osteoarthritis of the knee. Arthritis Rheum 2006;54:230 –5.
+31 Duncan R, Peat G, Thomas E, et al. Does isolated patellofemoral osteoarthritis
+matter? Osteoarthr Cartil 2009;17:1151 –5.32 Macri EM, Stefanik JJ, Khan KM, et al. Is tibiofemoral or patellofemoral alignment
+or trochlear morphology associated with patellofemoral osteoarthritis? A systematic
+review. Arthritis Care Res (Hoboken) 2016. 2016 Jan 27. doi: 10.1002/acr.22842.
+[Epub ahead of print]
+33 Hart HF, Ackland DC, Pandy MG, et al. Quadriceps volumes are reduced in
+people with patellofemoral joint osteoarthritis. Osteoarthr Cartil 2012;20:
+863–8.
+34 Peat G, Duncan RC, Wood LRJ, et al. Clinical features of symptomatic
+patellofemoral joint osteoarthritis. Arthritis Res Ther 2012;14:R63.
+35 Farrokhi S, Piva SR, Gil AB, et al. Association of severity of coexisting patellofemoral
+disease with increased impairments and functional limitations in patients with knee
+osteoarthritis. Arthritis Care Res (Hoboken) 2013;65:544 –51.
+36 Fok LA, Schache AG, Crossley KM, et al. Patellofemoral joint loading during stair
+ambulation in people with patellofemoral osteoarthritis. Arthritis Rheum
+2013;65:2059 –69.
+37 Amin S, Baker K, Niu J, et al. Quadriceps strength and the risk of cartilage loss and
+symptom progression in knee osteoarthritis. Arthritis Rheum 2009;60:189 –98.
+38 Nakagawa TH, Moriya ÉT, Maciel CD, et al. Frontal plane biomechanics in males
+and females with and without patellofemoral pain. Med Sci Sports Exerc
+2012;44:1747 –55.
+39 Nakagawa TH, Moriya ET, Maciel CD, et al. Trunk, pelvis, hip, and knee kinematics,
+hip strength, and gluteal muscle activation during a single-leg squat in males and
+females with and without patellofemoral pain syndrome. J Orthop Sports Phys Ther
+2012;42:491 –501.
+40 Souza RB, Powers CM. Differences in hip kinematics, muscle strength, and muscle
+activation between subjects with and without patellofemoral pain. J Orthop Sports
+Phys Ther 2009;39:12 –19.
+41 Dierks TA, Manal KT, Hamill J, et al. Proximal and distal in ﬂuences on hip and knee
+kinema
+tics in runners with patellofemoral pain during a prolonged run. J Orthop
+Sports Phys Ther 2008;38:448 –56.
+42 Willson JD, Davis IS. Lower extremity mechanics of females with and without
+patellofemoral pain across activities with progressively greater task demands. Clin
+Biomech (Bristol, Avon) 2008;23:203 –11.
+43 Crossley KM, Dorn TW, Ozturk H, et al. Altered hip muscle forces during gait
+in people with patellofemoral osteoarthritis. Osteoarthr Cartil 2012;20:
+1243–9.
+44 Pohl MB, Patel C, Wiley JP, et al. Gait biomechanics and hip muscular strength in
+patients with patellofemoral osteoarthritis. Gait Posture 2013;37:440 –4.
+45 Farrokhi S, O ’Connell M, Fitzgerald GK. Altered gait biomechanics and increased
+knee-speci ﬁc impairments in patients with coexisting tibiofemoral and
+patellofemoral osteoarthritis. Gait Posture 2015;41:81 –5.
+46 Stefanik JJ, Guermazi A, Zhu Y, et al. Quadriceps weakness, patella alta, and
+structural features of patellofemoral osteoarthritis. Arthritis Care Res (Hoboken)
+2011;63:1391 –7.
+47 Teng HL, MacLeod TD, Kumar D, et al. Individuals with isolated patellofemoral joint
+osteoarthritis exhibit higher mechanical loading at the knee during the second halfof the stance phase. Clin Biomech (Bristol, Avon) 2015;30:383 –90.
+48 Teng HL, MacLeod TD, Link TM, et al. Higher knee ﬂexion moment during the
+second half of the stance phase of gait is associated with magnetic resonance
+imaging progression of patellofemoral joint osteoarthritis. J Orthop Sports Phys Ther
+2015;45:656 –64.
+49 Øiestad BE, Holm I, Engebretsen L, et al. The prevalence of patellofemoral
+osteoarthritis 12 years after anterior cruciate ligament reconstruction. Knee Surg
+Sports Traumatol Arthrosc 2013;21:942 –9.
+50 Keays SL, Newcombe PA, Bullock-Saxton JE, et al. Factors involved in the
+development of osteoarthritis after anterior curciate ligament surgery. Am J Sports
+Med 2010;38:455 –63.
+51 Keays SL, Bullock-Saxton JE, Keays AC, et al. A 6-year follow-up of the effect
+of graft site on strength, stability, range of motion, function, and jointdegeneration after anterior cruciate ligament reconstruction: Patellar tendonversus semitendinosus and gracilis tendon graft. Am J Sports Med
+2007;35:729 –39.
+52 Frobell RB, Le Graverand MP, Buck R, et al. The acutely ACL injured knee assessed
+by MRI: changes in joint ﬂuid, bone marrow lesions, and cartilage during the ﬁrs
+ t
+year. Osteoarthr Cartil 2009;17:161 –7.
+53 Neuman P, Kostogiannis I, Fridén T, et al. Patellofemoral osteoarthritis 15 years
+after anterior cruciate ligament injury —a prospective cohort study. Osteoarthr Cartil
+2009;17:284 –90.
+54 Järvelä T, Paakkala T, Kännus P, et al. The incidence of patellofemoral
+osteoarthritis and associated ﬁndings 7 years after anterior cruciate ligament
+reconstruction with a bone-patellar tendon-bone autograft. Am J Sports Med
+2001;29:18 –24.
+55 Culvenor AG, Collins NJ, Guermazi A, et al. Early knee osteoarthritis is evident one
+year following anterior cruciate ligament reconstruction: A magnetic resonance
+imaging evaluation. Arthritis and Rheumatology 2015;67:946 –55.
+56 Culvenor AG, Cook JL, Collins NJ, et al. Is patellofemoral joint osteoarthritis an
+under-recognised outcome of anterior cruciate ligament reconstruction? A narrative
+literature review. Br J Sports Med 2013;47:66 –73.
+842 Crossley KM, et al.Br J Sports Med 2016; 50:839 –843. doi:10.1136/bjsports-2016-096384Consensus statementProtected by copyright, including for uses related to text and data mining, AI training, and similar technologies. . by guest on November 12, 2025 http://bjsm.bmj.com/ Downloaded from 24 June 2016. 10.1136/bjsports-2016-096384 on Br J Sports Med: first published as 
+
+57 Culvenor AG, Lai CCH, Gabbe BJ, et al. Patellofemoral osteoarthritis is prevalent
+and associated with worse symptoms and function after hamstring tendon autograft
+ACL reconstruction. Br J Sports Med 2014;48:435 –9.
+58 Culvenor AG, Schache AG, Vicenzino B, et al. Are knee biomechanics different in
+those with and without patellofemoral osteoarthritis after anterior cruciate ligament
+reconstruction? Arthritis Care Res (Hoboken) 2014;66:1566 –70.
+59 Culvenor AG, Collins NJ, Guermazi A, et al. Early patellofemoral osteoarthritis
+features 1 year after anterior cruciate ligament reconstruction: symptoms and qualityof life at 3 years. Arthritis Care Res (Hoboken) 2015. 2015 Oct 16. doi: 10.1002/
+acr.22761. [Epub ahead of print]
+60 Gross KD, Niu J, Stefanik JJ, et al. Breaking the Law of Valgus: the surprising and
+unexplained prevalence of medial patellofemoral cartilage damage. Ann Rheum Dis
+2012;71:1827 –32.
+61 Stefanik JJ, Gross KD, Guermazi A, et al. The relation of MRI-detected structural
+damage in the medial and lateral patellofemoral joint to knee pain: theMulticenter and Framingham Osteoarthritis Studies. Osteoarthr Cartil
+2015;23:565 –70.
+62 Sharma L, Chmiel JS, Almagor O, et al. Signi ﬁcance of preradiographic magnetic
+resonance imaging lesions in persons at increased risk of knee osteoarthritis.Osteoarthr Cartil 2014;66:1811 –19.
+63 Sharma L, Nevitt M, Hochberg MC, et al. Clinical signi ﬁcance of worsening versus
+stable predaiographic MRI lesions in a cohort study of persons at higher risk or
+knee osteoarthritis. Ann Rheum Dis ; Published Online First: 14 Oct 2015
+doi:10.1136/annrheumdis-2015-208129
+64 Cowan SM, Hart HF, Warden SJ, et al. Infrapatellar fat pad volume is greater in
+individuals with patellofemoral joint osteoarthritis and associated with pain.Rheumatol Int 2015;35:1439 –42.65 Cai J, Xu J, Wang K, et al. Association between infrapatellar fat pad volume and
+knee structural changes in patients with knee osteoarthritis. J Rheumatol
+2015;42:1878 –84.
+66 Teichtahl AJ, Wulidasari E, Brady SR, et al. A large infrapatellar fat pad protects against
+knee pain and lateral tibial cartilage volume loss. Arthritis Res Ther 2015;17:318.
+67 Schiphof D, van Middelkoop M, de Klerk BM, et al. Crepitus is a ﬁrst indication of
+patellofemoral osteoarthritis (and not of tibiofemoral osteoarthritis). Osteoarthr
+Cartil 2014;22:631 –8.
+68 Stefanik JJ, Neogi T, Niu J, et al. The diagnostic performance of anterior knee pain and
+activity-related pain in identifying knees with structural damage in the patellofemoral
+joint: the multicenter osteoarthritis study. JR h e u m a t o l 2014;41:1695 –702
+.
+69 Crossley KM, Vicenzino B, Lentzos J, et al. Exercise, education, manual-therapy and
+taping compared to education for patellofemoral osteoarthritis: a blinded,
+randomised clinical trial. Osteoarthr Cartil 2015;23:1457 –64.
+70 Callaghan MJ, Parkes MJ, Hutchinson CE, et al. A randomised trial of a brace for
+patellofemoral osteoarthritis targeting knee pain and bone marrow lesions. Ann
+Rheum Dis 2015;74:1164 –70.
+71 McWalter EJ, Hunter DJ, Harvey WF, et al. The effect of a patellar brace on
+three-dimensional patellar kinematics in patients with lateral patellofemoralosteoarthritis. Osteoarthr Cartil 2011;19:801 –8.
+72 Felson DT, Parkes MJ, Marjonovic EJ, et al. Bone Marrow Lesions in Osteoarthritis
+change in 6-12 weeks. Osteoarthr Cartil 2012;20: 1514 –18.
+73 Hunter DJ, Harvey W, Gross KD, et al. A randomized trial of patellofemoral bracing for
+treatment of patellofemoral osteoarthritis. Osteoarthr Cartil 2011;19:792 –800.
+74 McAlindon TE, Driban JB, Henrotin Y, et al. OARSI Clinical Trials Recommendations:
+Design, conduct, and reporting of clinical trials for knee osteoarthritis. Osteoarthr
+Cartil 2015;23:747 –60.
+Crossley KM, et al.Br J Sports Med 2016; 50:839 –843. doi:10.1136/bjsports-2016-096384 843Consensus statementProtected by copyright, including for uses related to text and data mining, AI training, and similar technologies. . by guest on November 12, 2025 http://bjsm.bmj.com/ Downloaded from 24 June 2016. 10.1136/bjsports-2016-096384 on Br J Sports Med: first published as 
+

@@ -1,0 +1,484 @@
+A Meta-analysis of the Incidence of Anterior Cruciate
+Ligament Tears as a Function of Gender, Sport,
+and a Knee Injury–Reduction Regimen
+Chadwick C. Prodromos, M.D., Yung Han, M.D., Julie Rogowski, B.S., Brian Joyce, B.A.,
+and Kelvin Shi, M.S.
+Purpose: The literature has shown that anterior cruciate ligament (ACL) tear rates vary by gender, by
+sport, and in response to injury-reduction training programs. However, there is no consensus as to themagnitudes of these tear rates or their variations as a function of these variables. For example, thefemale-male ACL tear ratio has been reported to be as high as 9:1. Our purpose was to apply meta-analysisto the entire applicable literature to generate accurate estimates of the true incidences of ACL tear as afunction of gender, sport, and injury-reduction training. Methods: A PubMed literature search was done
+to identify all studies dealing with ACL tear incidence. Bibliographic cross-referencing was done toidentify additional articles. Meta-analytic principles were applied to generate ACL incidences as afunction of gender, sport, and prior injury-reduction training. Results: Female-male ACL tear incidences
+ratios were as follows: basketball, 3.5; soccer, 2.67; lacrosse, 1.18; and Alpine skiing, 1.0. The collegiatesoccer tear rate was 0.32 for female subjects and 0.12 for male subjects. For basketball, the rates were 0.29and 0.08, respectively. The rate for recreational Alpine skiers was 0.63, and that for experts was 0.03, withno gender variance. The two volleyball studies had no ACL tears. Training reduced the ACL tearincidence in soccer by 0.24 but did not reduce it at all in basketball. Conclusions: Female subjects had
+a roughly 3 times greater incidence of ACL tears in soccer and basketball versus male subjects.Injury-reduction programs were effective for soccer but not basketball. Recreational Alpine skiers had thehighest incidences of ACL tear, whereas expert Alpine skiers had the lowest incidences. Volleyball mayin fact be a low-risk sport rather than a high-risk sport. Alpine skiers and lacrosse players had no genderdifference for ACL tear rate. Year-round female athletes who play soccer and basketball have an ACL tearrate of approximately 5%. Level of Evidence: Level IV, therapeutic case series. Key Words: Anterior
+cruciate ligament tear—Incidence—Gender variance—Knee injury reduction.
+It is estimated that there will be more than 100,000
+anterior cruciate ligament (ACL) tears in the United
+States this year.1The injury is usually quite painful.
+Treatment commonly entails surgery and signiﬁcanttime lost from work and sports. For these and otherreasons, there is great interest in reducing the number
+of ACL tears. It is commonly reported that femalesubjects have a greater incidence of ACL tear thanmale subjects. This has been estimated to be as muchas 8 to 9 times greater by sports medicine physi-cians.
+2,3It is also commonly reported that dedicated
+programs can reduce that incidence. Finally, varyingclaims are made as to which sports are high risk forACL tear. Widely disparate representations are madebecause there has been no systematic study of thesubject to establish what is really known. In addition,From the Illinois Sports Medicine & Orthopaedic Centers (C.P.,
+J.R., B.J.), Glenview, Illinois, U.S.A.; Rush University MedicalCenter (C.P.), Chicago, Illinois, U.S.A.; McGill University Ortho-paedic Surgery Residency Program (Y.H.), Montreal, Quebec,Canada’ and Forest Labs (K.S.), New York, New York, U.S.A.
+The authors report no conﬂict of interest.Address correspondence and reprint requests to Chadwick C.
+Prodromos, M.D., Illinois Sports Medicine & Orthopaedic Cen-ters, 1720 N Milwaukee, Glenview, IL 60025, U.S.A. E-mail:research@ismoc.net
+© 2007 by the Arthroscopy Association of North America0749-8063/07/2312-0728$32.00/0doi:10.1016/j.arthro.2007.07.003
+Note: To access the supplementary tables accompanying this
+report, visit the December issue of Arthroscopy atwww.
+arthroscopyjournal.org .
+1320 Arthroscopy: The Journal of Arthroscopic and Related Surgery, Vol 23, No 12 (December), 2007: pp 1320-1325
+
+incidence data are technical and confusing to deal
+with, rendering cohesive understanding of the subjectdifﬁcult from a casual reading of the literature. Before
+a problem can be adequately remedied, it is neces-sary to understand the nature of the problem. Webelieved that this subject lent itself well to meta-analysis. Therefore our purpose was to test thehypothesis that the incidence of ACL tears wouldshow variation by sport, gender, and effect of ACLtear–reduction training program.
+METHODS
+A PubMed computerized literature search was per-
+formed to identify all English-language peer-reviewedresearch articles dealing with the incidence of ACLtears. A number of indexing terms were used toachieve this goal. The exact phrase “anterior cruciateligament” with either the keyword “incidence” or“rate” was used initially. Each individual sport withthe phrase “anterior cruciate ligament” was also in-dexed. We found 793 articles. Abstracts were thenreviewed of each of these to identify those that hadactual numeric data on the incidence of ACL tear.Reports that dealt with the incidence of ACL tearswere obtained based on their abstracts for review. Ofthese, 33 were found to have usable ACL tear inci-dence data and are the basis of this study. The gener-ally preferred and most commonly used method ofACL tear incidence measurement is “tears per 1,000exposures,” with an exposure being deﬁned as a prac-tice or a game. Of the 33 articles, 25 either reportedtheir data via this method or were able to have theirdata converted into this format for purposes of com-parison with other studies. The only exception to thisconvention is found in the Alpine skiing literature, inwhich a skier-day is used as an exposure. In all casesan exposure represents a usual day’s participation forthe given sport. These data are presented in Table 1
+(online only, available at www.arthroscopyjournal.org ).
+When conversions were made into the “tears per 1,000exposures” format from data not originally presentedthat way, the assumptions that were used to make theconversion are listed. Most commonly, this involvedconverting “tears per hour of competition” into tearsper exposure by converting hours into exposures byuse of the length of practices in hours and minutes tosubstitute. The data in Table 1 (online only, available
+atwww.arthroscopyjournal.org ) are divided by sport
+and then subdivided by level of competition (i.e., highschool or collegiate). Data from each subdivision level(e.g., high school soccer as a subdivision of soccer) werethen pooled in Table 2 (online only, available at www.
+arthroscopyjournal.org ).Table 3 (online only, available
+atwww.arthroscopyjournal.org ) lists the 8 studies that
+reported incidence data but not in, or convertible to, the“tears per 1,000 exposures” format.
+4-11Table 4 (online
+only, available at www.arthroscopyjournal.org ) pools the
+data from studies that compared female with male injuryrates. Only comparison studies were used, and weightedmeans were calculated for the female-male ratios thusobtained. Table 5 (online only, available at www.
+arthroscopyjournal.org ) pools the data from studies
+that compared athletes who had been trained in ACLinjury–reduction programs with athletes who had not.As with the female-male data, only comparison stud-ies were used here to compute weighted means.
+Statistical Analysis
+The data from all of the articles were ﬁrst pooled
+together by generating weighted means for all ACLincidence rates by sport. We then used the
+/H92732test to
+compare weighted means across groups. The signiﬁ-
+cance level was set at P/H11005.05. All statistical analysis
+was performed with the S-PLUS program (Insightful,Seattle, WA).
+RESULTS
+In this section the sports are listed in descending
+order based on the number of exposures for each sportfrom the studies available.
+Basketball
+The collegiate basketball studies had 15,420,034
+exposures.
+12-16 The high school studies had 414,493
+exposures.17-20 The 2 professional studies had 115,221
+exposures.21,22 The female college incidence was
+0.29, and the male rate was 0.08. The female-maleratio was 3.63. For high school, the female rate was0.09 and the male rate was 0.02. The female-maleratio was 4.5. The female professional incidence was0.20, and the male incidence was 0.21. The female-male ratio was 0.95.
+Soccer
+The collegiate soccer studies had 11,754,568 expo-
+sures.
+12-16 The high school studies had 234,112 expo-
+sures.18,20,23 The adult soccer studies had 66,810 ex-
+posures.24-26 Two adult indoor game–only studies had
+3,600 exposures.27,28Only the college and indoor soc-
+cer studies broke down incidence by gender. Themean female collegiate rate was 0.32, and the male1321 INCIDENCE OF ACL TEARS
+
+rate was 0.12. The female-male ratio was 2.67. For
+indoor soccer, the female rate was 5.21 and the malerate was 1.88.
+27,28 The female-male ratio was 2.77.
+Only high school soccer studies broke down incidenceby the presence or absence of an ACL injury–reduc-tion training regimen. The mean reduction for the 3studies was /H110020.24 tears per 1,000 exposures.
+Alpine Skiing
+The two studies of ski lodge employee skiers by
+Oates et al.
+29and Viola et al.30have rates of 0.02 and
+0.04, respectively. The two studies of general popu-lation skiers by Warme et al.
+31and Deibert et al.32
+have rates of 0.63 and 0.40, respectively. There wasfound to be no gender incidence difference in thestudy of Viola et al.
+Lacrosse
+The only available study regarding lacrosse was
+collegiate.
+20The total number of exposures was
+1,783,903. The female ACL tear incidence was 0.18,and the male tear rate was 0.17. The female-male ratiowas 1.06.
+Football
+The football studies had 1,227,469 exposures.
+33,34
+The athletes were all male. The overall ACL incidence
+was 0.08.
+Handball
+The three included studies regarding handball have
+total exposures of 154,035.35-38 In two of these stud-
+ies, the female and male rates are 0.86 and 0.24,respectively (female-male ratio, 3.59),
+37and 0.56 and
+0.11, respectively (female-male ratio, 5.01),35and in
+the third study, the female-only cohort had a rate of1.26.
+36The study by Petersen et al.36showed a non-
+signiﬁcant trend toward reduction of ACL tears in thetrained group.
+Australian-Rules Football
+The one included study of Australian-rules football
+has total exposures of 100,820.
+39This is a male-only
+cohort with an ACL tear rate of 0.04.
+Rugby
+The two collegiate studies of rugby had total expo-
+sures of 89,559.15,40 The incidences in female and
+male subjects were 0.36 and 0.18, respectively, for afemale-male ratio of 2.Volleyball
+The two high school volleyball studies had total
+exposures of 28,657.
+17,21 There were no torn ACLs.
+Wrestling
+The college wrestling study had exposures of
+11,888.14The ACL tear rate was 0.77 in female sub-
+jects and 0.19 in male subjects. The female-male ratiowas 4.1.
+Female Versus Male Tear Rate
+In descending order the female-male ratios are as
+follows: wrestling, 4.05; basketball, 3.5; indoor soc-cer, 2.77; soccer, 2.67; rugby, 1.94; lacrosse, 1.18; andalpine skiing, 1.00.
+Training Effect
+ACL injury–reduction programs resulted in a re-
+duced incidence of ACL tears in soccer of /H110020.24 tears
+per 1,000 exposures for the trained versus untrainedgroup. For basketball, the trained group had an in-creased rate of ACL tear of 0.25. For volleyball, therewere no tears in either group.
+Exposures by Sport
+The exposures by sport in descending order are as
+follows: basketball, 15,949,748; soccer, 13,892,946;alpine skiing, 8,114,373; lacrosse, 1,783,903; football,1,227,469; handball, 154,035; rugby, 89,559; volley-ball, 28,657; and wrestling, 11,888.
+DISCUSSION
+This is the only study to our knowledge that eval-
+uates the overall relative risks of ACL tears as afunction of sport, gender, and injury-reduction train-ing. It is also the only study to use meta-analyticmethods to arrive at these conclusions for all threeparameters. The data analysis provides a number ofinteresting observations.
+Before these observations are discussed, it should
+be pointed out that there is great variation in thenumber of exposures among the available studies. Thelargest group had over 8 million exposures, whereasthe smallest had only 625. It is therefore imperativethat the reader always be cognizant of the number ofexposures attendant to given ACL tear incidence ratesbecause the reliability of the incidence is directlyproportional to the number of exposures. The meta-analytic method is particularly well suited to analyses1322 C. PRODROMOS ET AL.
+
+in which such large variations exist because it weights
+aggregated rates proportionately according to thenumber of exposures and thus minimizes the effect oflow exposure cohorts. Thus Table 2 (online only,
+available at www.arthroscopyjournal.org ), which pro-
+vides these weighted means, provides the most reli-able numbers. Although this weighting eliminates out-lier effects within groups of studies for a speciﬁcsport, it cannot eliminate this effect for comparisonsbetween sports when there are few exposures for oneof them.
+The National Collegiate Athletic Association Injury
+Surveillance System provided the data for the largestudies of Arendt and Dick,
+13Harmon and Dick,15
+Agel et al.,12and Mihata et al.16These studies used
+National Collegiate Athletic Association Injury Sur-veillance System data from 1989-1993, 1989-1997,1989-2002, and 1989-2004, respectively. The injuryrates were quite similar among these large exposurestudies even though they look at different time peri-ods. For example, the basketball and soccer data are
+dominated by the large exposure studies of Mihataet al., Agel et al., and Arendt and Dick. The female
+injury rates for basketball were 0.28, 0.29, and 0.30from these 3 different studies, respectively. For soc-cer, the rates were 0.32, 0.33, and 0.31, respectively.For male subjects, the corresponding rates were 0.08,0.08, and 0.07 for basketball and 0.12, 0.12, and 0.13for soccer. The fact that this consistency was main-tained over time can best be interpreted as indicatinga very high level of reliability of these data. However,the rates for wrestling, volleyball, and indoor soccer,all of which are very high, have much lower reliabil-ity, given the very small number of exposures. Theremaining sports have intermediate numbers of expo-sures and thus intermediate reliability.
+The female-to-male ACL injury rate has been the
+aspect of ACL tear incidence that has attracted themost recent interest. The basketball ratio of 3.5 andsoccer ratio of 2.66, as described, give a reliablepicture of this relative risk. This roughly 3-fold genderdisparity is somewhat lower than the 6-fold increasedrisk that is often quoted. Rugby and handball alsoshowed signiﬁcantly increased risk among femalesubjects, though with less reliable numbers because ofthe smaller number of exposures.
+It is interesting that alpine skiing had no difference
+in injury rates between male and female subjects invery high exposure studies for both the ski lodgeemployee expert skiers and the general populationnon-expert skiers. We have no explanation for thislack of gender disparity. This would indicate, how-ever, that any injury-reduction efforts in snow skiing
+would best be directed at both male and female sub-jects.
+In addition, the overall skiing data showed snow
+skiing to indeed be the high-risk sport that it is com-monly thought to be for the general public. The 0.49rate is the highest recorded for large exposure studies,especially given that half of the subjects are male.However, among the ski lodge employees, presum-ably expert skiers, the 0.03 rate is the lowest for anylarge exposure study. Both cohorts have very largeexposures, indicating high reliability. Thus the lowtear rate group beneﬁted dramatically from increasedskill in their sport without speciﬁc injury-reductiontraining. This obviously highlights the beneﬁt of nov-ice skiers obtaining proper instruction. In fact, thediminution in ACL tear incidence as a function of thisdifference in skill level is the largest such effect seenin the study. It should be pointed out, however, thatthe actual risk to recreational skiers, despite the highincidence, is actually quite low because most recre-ational skiers have very few exposures per year com-pared with those playing competitive organized sportssuch as soccer and basketball.
+There was also no gender disparity regarding la-
+crosse. It has been suggested that the carrying of thestick is in some way ACL-protective, but if so, itwould only be protective for female subjects becausethe 0.17 male rate is slightly higher than that found formale subjects in soccer, basketball, and football.
+Despite the relatively small number of exposures,
+we think it is potentially of interest that no volleyballACL tears occurred among 4 cohorts from studies by2 different groups. Volleyball is routinely classiﬁed asa “high-risk sport.”
+41These data indicate that it may
+be a much lower-risk sport for ACL tear than has beenpreviously thought.
+Football, with a male injury rate of 0.11, had a very
+similar rate to that of soccer, at 0.12, and basketball, at0.08. All 3 sports are subject to noncontact ACL tears.Football is often thought to have higher risk becauseits players are subject to a much higher risk of contactACL tear as well as noncontact tear. The fact that theoverall incidence in football is not higher indicatesthat the noncontact mechanism of injury is likelymuch more prevalent than the contact mechanism forACL tears overall.
+Three separate soccer studies showed signiﬁcant re-
+ductions in ACL tear rate as a result of speciﬁc injury-reduction training programs. Surprisingly, however, the
+two basketball studies showed no reduction in tear rateand indeed both showed double-digit increases in tear1323 INCIDENCE OF ACL TEARS
+
+rate. Although it is unlikely that the programs actually
+signiﬁcantly increased tear rate, it would appear thatthe ACL tear–reduction training programs extant areeffective for soccer but ineffective for basketball.
+The data in this study can be used to provide at least
+a rough estimate of the overall chance of injury forhigh-risk sports. Hewett et al.
+41found a 4.4% 1-year
+incidence of ACL tear in a prospective study of suchfemale athletes. The combined college soccer andbasketball female ACL tear rate per 1,000 exposuresis roughly 0.3—that is, a given athlete would have a30% risk of ACL tear after 1,000 exposures. Year-round players easily participate in 167 exposures percalendar year; 167/1,000 (17%) multiplied by this30% risk equals 5%. Thus there may be roughly a 5%chance of ACL tear for a female high-level soccer/basketball athlete for each year of participation. Thisnumber is in reasonably close agreement with the4.4% ﬁgure of Hewett et al. The risk would be higheror lower depending on the actual number of expo-sures. We think this may be a reasonable ballparknumber that may be useful for counseling of athletesinterested in the risks of participation. If men areassumed to have one third this risk, this would trans-late to a roughly 1.7% yearly risk, again depending onthe number of exposures.
+This report has many weaknesses inherent to a large
+meta-analysis. Because the inclusion and exclusioncriteria vary from article to article, there is signiﬁcantselection bias. In addition, not all of the articles re-ported the incidence data in the same format; assump-tions were made that again may lead to bias. Also,most of the studies were retrospective studies. In ad-dition, we made assumptions as to the length of prac-tices and games in some cases, where noted, to allowthe comparison of data in the per-hour format to datain the preferred and more widely used per-exposureformat.
+CONCLUSIONS
+Female subjects had a roughly 3 times higher inci-
+dence of ACL tears in soccer and basketball than malesubjects. Injury-reduction programs were effective forsoccer but not basketball. Recreational Alpine skiershad the highest incidences of ACL tear, whereas ex-pert Alpine skiers had the lowest incidences. Volley-ball may in fact be a low-risk sport rather than ahigh-risk sport. Alpine skiers and lacrosse players hadno gender difference for ACL tear rate. Year-roundfemale soccer and basketball athletes have an ACLtear rate of approximately 5% per year.REFERENCES
+1. Frank CB, Jackson DW. The science of reconstruction of the
+anterior cruciate ligament. J Bone Joint Surg Am 1997;79:
+1556-1576.
+2. Temkin B. Warming up to healthy knees. Chicago Tribune.
+December 24, 2006; sect 3:7.
+3. Toth AP, Cordasco FA. Anterior cruciate ligament injuries in
+the female athlete. J Gend Specif Med 2001;4:25-34.
+4. Deitch JR, Starkey C, Walters SL, et al. Injury risk in profes-
+sional basketball players. Am J Sports Med 2006;10:1-7.
+5. Heidt RS, Sweeterman LM, Carlonas RL, et al. Avoidance of
+soccer injuries with preseason conditioning. Am J Sports Med
+2000;28:659-662.
+6. Lambson RB, Barnhill BS, Higgins RW. Football cleat design
+and its effect on anterior cruciate ligament injuries. Am J
+Sports Med 1996;24:155-159.
+7. Myklebust G, Engebretsen L, Braekken IH, et al. Prevention of
+anterior cruciate ligament injuries in female team handballplayers: A prospective intervention study over three seasons.Clin J Sport Med 2003;13:71-78.
+8. Myklebust G, Maehlum S, Engebretsen L, et al. Registration
+of cruciate ligament injuries in Norwegian top level teamhandball. A prospective study covering two seasons. Scand
+J Med Sci Sports 1997;7:289-292.
+9. Orchard J, Seward H, McGivern J, et al. Rainfall, evaporation
+and the risk of non-contact anterior cruciate ligament injury inthe Australian football league. Med J Aust 1999;170:304-306.
+10. Orchard J. The AFL penetrometer study: Work in progress.
+Aust J Sci Med Sport 2001;4:220-232.
+11. Powell JW, Schootman M. A multivariate risk analysis of
+selected playing surfaces in the national football league: 1980to 1989. Am J Sports Med 1992;20:686-694.
+12. Agel J, Arendt EA, Bershadsky B. Anterior cruciate ligament
+injury in National Collegiate Athletic Association basketballand soccer. Am J Sports Med 2005;33:524-531.
+13. Arendt E, Dick R. Knee injury patterns among men and
+women in collegiate basketball and soccer. Am J Sports Med
+1995;23:694-701.
+14. Gwinn DE, Wilckens JH, McDevitt ER, et al. The relative
+incidence of anterior cruciate ligament injury in men andwomen at the United States Naval Academy. Am J Sports Med
+2000;28:98-102.
+15. Harmon KG, Dick R. The relationship of skill level to anterior
+cruciate ligament injury. Clin J Sport Med 1998;8:260-265.
+16. Mihata LC, Beutler AI, Boden BP. Comparing the incidence of
+anterior cruciate ligament injury in collegiate lacrosse, soccer,and basketball players. Am J Sports Med 2006;34:899-904.
+17. Gomez E, DeLee JC, Farney WC. Incidence of injury in Texas
+girls’ high school basketball. Am J Sports Med 1996;24:684-
+687.
+18. Hewett TE, Lindenfeld TN, Riccobene JV, et al. The effect of
+neuromuscular training on the incidence of knee injury infemale athletes. Am J Sports Med 1999;27:699-706.
+19. Messina DF, Farney WC, DeLee JC. The incidence of injury in
+Texas high school basketball. Am J Sports Med 1999;27:294-
+299.
+20. Pfeiffer RP, Shea KG, Roberts D, et al. Lack of effect of a knee
+ligament injury prevention program on the incidence of non-contact anterior cruciate ligament injury. J Bone Joint Surg Am
+2006;88:1769-1774.
+21. Lombardo S, Sethi PM, Starkey C. Intercondylar notch steno-
+sis is not a risk factor for anterior cruciate ligament tears inprofessional male basketball players. Am J Sports Med 2005;
+33:29-34.
+22. Trojian TH, Collins S. The anterior cruciate ligament tear rate
+varies by race in professional women’s basketball. Am J Sports
+Med 2006;10:1-4.1324 C. PRODROMOS ET AL.
+
+23. Mandelbaum BR, Silvers HJ, Watanabe DS, et al. Effective-
+ness of a neuromuscular and proprioceptive training programin preventing the incidence of anterior cruciate ligament inju-ries in female athletes. Am J Sports Med 2005;33:1-7.
+24. Bjordal JM, Arnoy F, Hannestad B, et al. Epidemiology of
+anterior cruciate ligament injuries in soccer. Am J Sports Med
+1997;25:341-345.
+25. Faude O, Junge A, Kindermann W, et al. Injuries in female
+soccer players. Am J Sports Med 2005;33:1694-1700.
+26. Soderman K, Werner S, Pietila T, et al. Balance board training:
+Prevention of traumatic injuries of the lower extremities infemale soccer players? Knee Surg Sports Traumatol Arthrosc
+2000;8:356-363.
+27. Lindenfeld TN, Schmitt DJ, Hendy MP, et al. Incidence of
+injury in indoor soccer. Am J Sports Med 1994;22:364-371.
+28. Putukian M, Knowles WK, Swere S, et al. Injuries in indoor
+soccer. Am J Sports Med 1996;24:317-322.
+29. Oates KM, Van Eenenaam PV, Briggs K, et al. Comparative
+injury rates of uninjured, anterior cruciate ligament-deﬁcient,and reconstructed knees in a skiing population. Am J Sports
+Med 1999;27:606-610.
+30. Viola RW, Steadman JR, Mair SD, et al. Anterior cruciate
+ligament injury incidence among male and female professionalalpine skiers. Am J Sports Med 1999;27:792-795.
+31. Warme WJ, Feagin JA, King P, et al. Ski injury statistics, 1982
+to 1993, Jackson Hole Ski Resort. Am J Sports Med 1995;23:
+597-600.
+32. Deibert MC, Aronsson DD, Johnson RJ, et al. Skiing injuries
+in children, adolescents, and adults. J Bone Joint Surg Am
+1998;80:25-32.33. DeLee JC, Farney WC. Incidence of injury in Texas high
+school football. Am J Sports Med 1992;20:575-580.
+34. Scranton PE Jr, Whitesel JP, Powell JW, et al. A review of
+selected noncontact anterior cruciate ligament injuries inthe national football league. Foot Ankle Int 1997;18:772-
+776.
+35. Myklebust G, Maehlum S, Holm I, et al. A prospective
+cohort study of anterior cruciate ligament injuries in eliteNorwegian team handball. Scand J Med Sci Sports 1998;8:
+149-153.
+36. Petersen W, Braun C, Bock W, et al. A controlled prospective
+case control study of a prevention training program in femaleteam handball players: The German experience. Arch Orthop
+Trauma Surg 2005;9:614-621.
+37. Seil R, Rupp S, Tempelhof S, et al. Sports injuries in team
+handball. Am J Sports Med 1998;26:681-687.
+38. Wedderkopp N, Kaltoft M, Lundgaard B, Rosendahl M, Fro-
+berg K. Injuries in young female players in European teamhandball. Scand J Med Sci Sports 1997;7:342-347.
+39. Orchard J, Seward H, McGivern J, et al. Intrinsic and extrinsic
+risk factors for anterior cruciate ligament injury in Australianfootballers. Am J Sports Med 2001;29:196-200.
+40. Levy AS, Wetzler MJ, Lewars M, et al. Knee injuries in
+women collegiate rugby players. Am J Sports Med 1997;25:
+360-362.
+41. Hewett TE, Myer GD, Ford KR, et al. Biomechanical mea-
+sures of neuromuscular control and valgus loading of the kneepredict anterior cruciate ligament injury risk in female athletes.Am J Sports Med 2005;33:492-501.1325 INCIDENCE OF ACL TEARS
+
+TABLE 1.ACL Tear Rate by Sport, Level, Gender, and Injury Training
+Sport Level Subgroup First AuthorMale and Female Female Male
+Female-Male
+Ratio IncidenceACL
+Tear Exposures IncidenceACL
+Tear Exposures IncidenceACL
+Tear Exposures
+Basketball Professional WNBA Trojian22 0.20 9 45,036.00
+Professional NBA Lombardo21 0.21 15 70,185.00
+College NCAA Mihata16* 0.17 1,393 8,068,016.00 0.28 1,061 3,733,209.00 0.08 332 4,334,807.00 3.50
+NCAA Agel12* 0.18 682 3,889,954.00 0.29 514 1,797,730.00 0.08 168 2,092,224.00 3.63
+Collegiate Harmon15* 0.18 359 1,972,170.00 0.30 275 925,501.00 0.08 84 1,046,669.00
+NCAA Arendt13* 0.17 238 1,375,974.00 0.30 189 639,898.00 0.07 49 736,076.00 4.29
+Naval—collegiate Gwinn14 0.28 6 21,734.00 0.48 5 10,452.00 0.09 1 11,282.00 5.33
+Naval—intramural Gwinn 0.14 5 35,226.00 0.00 0 1,360.00 0.15 5 33,866.00 0.00Naval—all levels Gwinn 0.19 11 56,960.00 0.42 5 11,812.00 0.13 6 45,148.00 3.23
+High school Gomez
+17 0.13 11 84,341.66
+Messina19* 0.07 15 223,566.15 0.12 11 92,885.38 0.03 4 130,680.77 4.50
+Untrained Pfeiffer20 0.11 2 18,076.00
+Trained 0.48 3 6,302.00Untrained Hewett
+18 0.29 3 10,370.00
+Trained 0.42 2 4,767.00
+Soccer Adults German National
+LeagueFaude24 0.65 11 16,830.00
+Adults Competitive—
+trainedSoderman26 0.18 4.00 22,134.00
+Adults Competitive—
+untrained0.04 1.00 27,846.00
+Adults Recreational Bjordal24* 0.07 131 1,837,455.83
+College NCAA Mihata* 0.21 1,295 6,283,785.00 0.32 871 2,736,615.00 0.12 424 3,547,170.00 2.67
+NCAA Agel* 0.21 586 2,840,568.00 0.33 394 1,208,994.00 0.12 192 1,631,574.00 2.75Collegiate Harmon* 0.20 317 1,605,004.00 0.32 194 604,430.00 0.12 123 1,000,574.00NCAA Arendt* 0.19 178 934,971.00 0.31 97 308,748.00 0.13 81 626,223.00 2.38Naval—collegiate Gwinn 0.32 6 18,916.00 0.77 5 6,508.00 0.08 1 12,408.00 9.63Naval—intramural Gwinn 0.46 12 26,204.00 2.70 2 742.00 0.39 10 25,462.00 6.92Naval—all levels Gwinn 0.40 18 45,120.00 0.97 7 7,250.00 0.29 11 37,870.00 3.34
+High school Untrained Mandelbaum
+23* 0.49 67 137,448.00
+Trained 0.09 6 67,860.00Untrained Pfeiffer 0.11 1 9,357.00Trained 0.00 0 5,913.00Untrained Hewett 0.22 2 9,017.00Trained 0.00 0 4,517.00
+Alpine
+skiingAll ages General
+populationDeibert
+32* 0.40 1,448 3,641,041.00
+Adults General
+populationWarme31* 0.63 1,615 2,550,000.00
+Employees Oates29* 0.02 19 1,196,496.00
+Employees Viola30* 0.04 31 726,836.00 0.04 10 227,766.00 0.04 21 499,070.00 1.001325.e1 INCIDENCE OF ACL TEARS
+
+TABLE 1.Continued
+Sport Level Subgroup First AuthorMale and Female Female Male
+Female-Male
+Ratio IncidenceACL
+Tear Exposures IncidenceACL
+Tear Exposures IncidenceACL
+Tear Exposures
+Lacrosse College NCAA Mihata* 0.18 315 1,783,903.00 0.18 146 799,611.00 0.17 169 984,292.00 1.06
+Football Adults Professional Scranton34 0.07 61 895,908.00
+High school DeLee33* 0.11 37 331,561.00
+Handball Adults Elite athletes Myklebust35 0.33 28 84,690.00 0.56 23 40,799.00 0.11 5 43,891.00 5.09
+Adults Recreational Seil37 0.24 5 20,462.67
+Adults Untrained Petersen36 0.43 5 11,671.34
+Trained 0.08 1 12,254.90
+Young
+adultsCompetitive Wedderkopp38 0.09 4 42,442.42
+Australian
+footballAdults Professional—
+2001Orchard39* 0.82 83 100,820.00
+Rugby College Collegiate Levy40 0.36 21 58,296.00
+Naval—collegiate Gwinn 0.22 7 31,263.00 0.35 3 8,475.00 0.18 4 22,788.00 1.94
+Volleyball High school Untrained Pfeiffer 0.00 0 11,229.00
+Trained 0.00 0 5,739.00Untrained Hewett 0.00 0 3,751.00Trained 0.00 0 7,938.00
+Wrestling College Naval—collegiate Gwinn 0.25 3 11,888.00 0.77 1 1,306.00 0.19 2 10,582.00 4.05Indoor
+soccerAll ages General
+populationLindenfeld
+27 2.78 10 3,600.00 5.21 8 1,536.00 0.97 2 2,064.00 5.37
+General
+populationPutukian28 5.30 1 190.00 5.00 3 600.00 1.04
+NOTE. Incidences are expressed as complete ACL tears per 1,000 exposures.
+Abbreviations: WNBA, Women’s National Basketball Association; NBA, National Basketball Association; NCAA, National Collegiate Athletic Associ ation.
+*High-exposure study.1325.e2 C. PRODROMOS ET AL.
+
+TABLE 2.Weighted Means for Groups
+Sport LevelMale and Female Female Male
+Total
+Exposures IncidenceACL
+Tears Exposures IncidenceACL
+Tears Exposures IncidenceACL
+Tears Exposures
+Basketball Professional 0.20 9.00 45,036.00 0.21 15.00 70,185.00 15,949,747.66
+Collegiate 0.17 2,694.00 15,420,034.00 0.29 2,049.00 7,119,962.00 0.08 645.00 8,300,072.00High school—untrained 0.10 27.00 233,538.66 0.02 4.00 169,885.00High school—trained 0.45 5.00 11,069.00
+Soccer German National
+League0.65 11.00 16,830.00 13,892,945.83
+Adult competitive—
+untrained0.04 1.00 27,846.00
+Adult competitive—
+trained0.18 4.00 22,134.00
+Adult recreational 0.07 131.00 1,837,455.83
+Collegiate 0.21 2,412.00 11,754,568.00 0.32 1,570.00 4,873,287.00 0.12 842.00 6,881,281.00High school—untrained 0.45 70.00 155,822.00High school—trained 0.08 6.00 78,290.00
+Alpine
+skiingEmployees 0.03 50.00 1,923,332.00 0.04 10.00 227,766.00 0.04 21.00 499,070.00 8,114,373
+General population 0.49 3,063.00 6,191,041.00
+Lacrosse Collegiate 0.18 315.00 1,783,903.00 0.18 146.00 799,611.00 0.17 169.00 984,292.00 1,783,903Football Professional 0.07 61.00 895,908.00 1,227,469
+High school 0.11 37.00 331,561.00
+Handball Elite athletes 0.33 28.00 84,690.00 0.56 23.00 40,799.00 0.11 5.00 43,891.00 154,035.09
+Adult recreational—
+untrained0.86 5.00 5,815.00 0.24 5.00 20,462.67
+Adult recreational—
+trained1.60 1.00 625.00
+Young adults 0.09 4.00 42,442.42
+Australian
+footballProfessional 0.82 83.00 100,820.00 100,820
+Rugby Collegiate 0.22 7.00 31,263.00 0.36 24.00 66,771.00 0.18 4.00 22,788.00 89,559
+Volleyball High school—untrained 0.00 0.00 14,980.00 28,657
+High school—trained 0.00 0.00 13,677.00
+Wrestling Collegiate 0.25 3.00 11,888.00 0.77 1.00 1,306.00 0.19 2.00 10,582.00 11,888Indoor
+soccerGeneral population 2.78 14.00 3,600.00 5.21 9.00 1,726.00 1.88 5.00 2,664.00 4,390
+NOTE. Incidences are expressed as complete ACL tears per 1,000 exposures.1325.e3 INCIDENCE OF ACL TEARS
+
+TABLE 3.Studies With Data Not Expressed in ACL Tears per 1,000 Exposures
+First Author Yr Level Details SexTotal
+ACL
+InjuryTotal No.
+of
+ParticipantsNo.
+of
+YrsTotal
+Player
+SeasonsTotal Player
+Game HoursTotal Player
+Practice HoursTotal Player
+Game and
+Practice Hours
+Basketball
+Deitch4 2006 NBA and WNBA M and F 36 1,145 6
+Deitch 2006 NBA 1996-2002 M 22 702 6Deitch 2006 WNBA 1997-2002 F 14 443 6
+Soccer
+Heidt
+5 2000 High school Aged 14-18 yrs F 8 258 1 516
+Handball
+Myklebust7 2003 Amateur/semiprofessional 1998-1999 F 29 942 1 942 15,447 193,389 208,836
+Myklebust8 1997 Amateur/semiprofessional 1989-1991 M and F 87 3,392 2 6,784
+Myklebust 1997 Amateur/semiprofessional 1989-1991 M 33 1,696 2 3,392Myklebust 1997 Amateur/semiprofessional 1989-1991 F 54 1,696 2 3,392
+American football
+Lambson
+6 1996 High school 1989-1991 M 42 3,119 3
+Powell11 1992 NFL 1980-1989 M 123,156
+Australian football
+Orchard10 2001 AFL 1992-2000 M 9
+Orchard9 1999 AFL 1992-1998 M 2,239 7
+Abbreviations: NBA, National Basketball Association; WNBA, Women’s National Basketball Association; NFL, National Football League; AFL, Austra lian Football League.1325.e4 C. PRODROMOS ET AL.
+
+TABLE 4.Ratios of Female-to-Male ACL Tear Rates
+Sport Level Subgroup First AuthorFemale Male
+Female-Male
+Ratio PValue IncidenceACL
+Tear Exposures IncidenceACL
+Tear Exposures
+Basketball College NCAA Mihata16 0.28 1,061 3,733,209.00 0.08 332 4,334,807.00 3.50
+NCAA Agel12 0.29 514 1,797,730.00 0.08 168 2,092,224.00 3.63
+Collegiate Harmon15 0.30 275 925,501.00 0.08 84 1,046,669.00 3.75
+NCAA Arendt13 0.30 189 639,898.00 0.07 49 736,076.00 4.29
+Naval—collegiate Gwinn14 0.48 5 10,452.00 0.09 1 11,282.00 5.33
+Naval—intramural Gwinn 0.00 0 1,360.00 0.15 5 33,866.00 0.00Naval—all levels Gwinn 0.42 5 11,812.00 0.13 6 45,148.00 3.23
+Mean 0.29 0.08 3.63
+High school Messina
+19 0.09 11 120,751.00 0.02 4 169,885.00 4.50
+Mean 0.28 0.08 3.50 /H11021.0001
+Soccer College NCAA Mihata 0.32 871 2,736,615.00 0.12 424 3,547,170.00 2.67
+NCAA Agel 0.33 394 1,208,994.00 0.12 192 1,631,574.00 2.75Collegiate Harmon 0.32 194 604,430.00 0.12 123 1,000,574.00 2.67NCAA Arendt 0.31 97 308,748.00 0.13 81 626,223.00 2.38Naval—collegiate Gwinn 0.77 5 6,508.00 0.08 1 12,408.00 9.63Naval—intramural Gwinn 2.70 2 742.00 0.39 10 25,462.00 6.92Naval—all levels Gwinn 0.97 7 7,250.00 0.29 11 37,870.00 3.34
+Mean 0.32 0.12 2.67 /H11021.0001
+Alpine
+skiing Employees Viola
+30 0.04 10 227,766.00 0.04 21 499,070.00 1.00 .91
+Lacrosse College NCAA Mihata 0.18 146 799,611.00 0.17 169 984,292.00 1.06
+Mean 0.18 0.17 1.05 .59
+Handball Adults Elite athletes Myklebust35 0.56 23 40,799.00 0.11 5 43,891.00 5.09 /H11021.0001
+Rugby College Naval—collegiate Gwinn 0.35 3 8,475.00 0.18 4 22,788.00 1.94 .36Wrestling College Naval—collegiate Gwinn 0.77 1 1,306.00 0.19 2 10,582.00 4.05 .25Indoor
+soccer All agesGeneral
+population Lindenfeld
+27 5.21 8 1,536.00 0.97 2 2,064.00 5.37
+General
+population Putukian28 5.20 1 190.00 5.00 3 600.00 1.04
+Mean 5.21 1.88 2.77 .07
+NOTE. Incidences are expressed as complete ACL tears per 1,000 exposures.
+Abbreviation: NCAA, National Collegiate Athletic Association.1325.e5 INCIDENCE OF ACL TEARS
+
+TABLE 5.Effect of ACL Reduction Training Program on Tear Rate
+Sport Level First AuthorUntrained Female Subgroup Trained Female Subgroup
+P
+Value IncidenceACL
+Tear Exposures IncidenceACL
+Tear ExposuresChange
+(Trained /H11002
+Untrained)
+Basketball High school Hewett18 0.29 3 10,370.00 0.42 2 4,767.00 0.13
+Pfeiffer20 0.11 2 18,076.00 0.48 3 6,302.00 0.37
+Mean 0.18 0.45 0.25* .15
+Soccer Competitive
+adultsSoderman26 0.04 1 27,846.00 0.18 4 22,134.00 0.14
+High school Hewett 0.22 2 9,017.00 0.00 0 4,517.00 /H110020.22
+Mandelbaum25 0.49 67 137,448.00 0.09 6 67,860.00 /H110020.40
+Pfeiffer 0.11 1 9,357.00 0.00 0 5,913.00 /H110020.11
+Mean 0.45 0.08 /H110020.24† .0001
+Volleyball High school Hewett 0.00 0 3,751.00 0.00 0 7,938.00 0.00
+Pfeiffer 0.00 0 11,229.00 0.00 0 5,739.00 0.00Mean 0.00 0.00
+Handball Competitive
+adultsPetersen
+36 0.43 5 11,671.34 0.08 1 12,254.90 /H110020.35 ‡
+NOTE. Incidences are expressed as complete ACL tear rate per 1,000 exposures.
+*The trained group had a trend toward more ACL tears than the untrained group.†The trained group had a signiﬁcant reduction in ACL tears versus the untrained group.‡No Pvalue reported. Reported odds ratio of 0.17 insigniﬁcant as per Petersen et al.
+361325.e6 C. PRODROMOS ET AL.
+

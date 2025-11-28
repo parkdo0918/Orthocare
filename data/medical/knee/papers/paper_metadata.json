@@ -1,0 +1,98 @@
+{
+  "_description": "논문별 버킷 태그 및 소스 타입 메타데이터",
+  "_updated": "2025-11-29",
+  "papers": {
+    "1-s2.0-S1063458405001123-main": {
+      "title": "Knee Osteoarthritis Study",
+      "buckets": ["OA"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level II"
+    },
+    "839.full": {
+      "title": "Knee Pain Assessment",
+      "buckets": ["OA", "OVR"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level III"
+    },
+    "bjgpaug-2015-65-637-e523": {
+      "title": "Knee Pain in Primary Care",
+      "buckets": ["OA", "OVR", "TRM"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level II"
+    },
+    "cjim-2-205": {
+      "title": "Clinical Knee Assessment",
+      "buckets": ["OA", "TRM"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level III"
+    },
+    "duncan2008": {
+      "title": "Pain and Function in Knee Osteoarthritis (Duncan 2008)",
+      "buckets": ["OA"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level II",
+      "year": 2008
+    },
+    "fredericson2000": {
+      "title": "Hip Abductor Weakness in ITB Syndrome (Fredericson 2000)",
+      "buckets": ["OVR"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level II",
+      "year": 2000
+    },
+    "helliwell2000": {
+      "title": "Knee Pain Assessment (Helliwell 2000)",
+      "buckets": ["OA", "INF"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level III",
+      "year": 2000
+    },
+    "jiang2012": {
+      "title": "Knee Biomechanics Study (Jiang 2012)",
+      "buckets": ["OA", "OVR"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level II",
+      "year": 2012
+    },
+    "Knee Effusion - StatPearls - NCBI Bookshelf": {
+      "title": "Knee Effusion - StatPearls",
+      "buckets": ["INF", "TRM"],
+      "source_type": "pubmed",
+      "evidence_level": "Level V",
+      "year": 2025
+    },
+    "Knee-pain-in-Adult": {
+      "title": "Knee Pain in Adults and Adolescents - Initial Evaluation",
+      "buckets": ["OA", "OVR", "TRM", "INF"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level II",
+      "year": 2018
+    },
+    "PIIS0003496724193508": {
+      "title": "Knee Surgery Outcomes",
+      "buckets": ["TRM", "OA"],
+      "source_type": "pubmed",
+      "evidence_level": "Level II"
+    },
+    "PIIS1063458416010050": {
+      "title": "Osteoarthritis Cartilage Study",
+      "buckets": ["OA"],
+      "source_type": "pubmed",
+      "evidence_level": "Level II"
+    },
+    "prodromos2007": {
+      "title": "ACL Tears Meta-analysis (Prodromos 2007)",
+      "buckets": ["TRM"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level I",
+      "year": 2007
+    },
+    "willy-et-al-2019-patellofemoral-pain": {
+      "title": "Patellofemoral Pain Consensus Statement (Willy 2019)",
+      "buckets": ["OVR"],
+      "source_type": "verified_paper",
+      "evidence_level": "Level I",
+      "year": 2019
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "_metadata": {
+    "version": "2.0",
+    "updated": "2025-11-21",
+    "clinical_advisor": "황두현",
+    "description": "임상 자문 기반 진단 규칙"
+  },
+
+  "diagnostic_priorities": {
+    "comment": "유병률 기반 우선순위 설정",
+    "prevalence_order": ["OA", "TRM", "OVR", "INF"],
+    "prevalence_notes": {
+      "OA": "가장 높은 유병률, 고령에서 1차 의심",
+      "RA": "OA 대비 현저히 낮은 유병률, 부가 경고로 처리",
+      "infection": "응급상황, Red Flag로 사전 필터링"
+    }
+  },
+
+  "age_based_rules": {
+    "under_30": {
+      "female": {
+        "bilateral_pain": {
+          "with_hand_pain": "RA 의심 (경고)",
+          "without_hand_pain": "OVR > TRM > OA 순서"
+        },
+        "unilateral_pain": "TRM > OVR > OA 순서"
+      },
+      "male": {
+        "sports_related": "TRM > OVR 순서",
+        "non_sports": "OVR > TRM 순서"
+      }
+    },
+    "30_to_50": {
+      "general": "활동력/외상 여부로 판단",
+      "female_bilateral": {
+        "with_hand_involvement": "RA 경고 발생",
+        "without_hand": "초기 OA 또는 OVR"
+      }
+    },
+    "over_50": {
+      "general": "OA 1차 의심",
+      "bilateral_symmetric": {
+        "with_morning_stiffness_over_30min": "RA 추가 평가 권장",
+        "with_mild_heat": "OA형으로 분류, INF는 주의 필요 표시",
+        "without_systemic_symptoms": "OA 확정적"
+      }
+    },
+    "over_60": {
+      "default": "OA 강력 의심",
+      "exceptions": "급성 외상, 감염 징후 시에만 다른 진단"
+    }
+  },
+
+  "red_flags": {
+    "immediate_referral": [
+      {
+        "sign": "severe_hot_swelling",
+        "description": "심한 열감 + 부종",
+        "action": "감염성 관절염 의심, 즉시 병원 의뢰"
+      },
+      {
+        "sign": "fever_with_joint_pain",
+        "description": "발열 + 관절통",
+        "action": "감염 또는 전신성 질환, 응급 평가"
+      },
+      {
+        "sign": "sudden_severe_pain_unable_walk",
+        "description": "갑작스런 심한 통증으로 보행 불가",
+        "action": "골절/인대 파열 의심, 영상 검사 필요"
+      },
+      {
+        "sign": "calf_pain_swelling",
+        "description": "종아리 통증과 부종",
+        "action": "DVT 배제 필요"
+      }
+    ],
+    "additional_evaluation": [
+      {
+        "sign": "bilateral_with_hand_involvement",
+        "description": "양측 무릎 + 손가락 통증",
+        "age_group": "30-40대 여성",
+        "action": "RA 평가 권장 (RF, Anti-CCP)"
+      },
+      {
+        "sign": "morning_stiffness_over_1hour",
+        "description": "1시간 이상 아침 뻣뻣함",
+        "action": "염증성 관절염 평가"
+      }
+    ]
+  },
+
+  "typical_cases": {
+    "OA_classic": {
+      "profile": "60대 여성",
+      "symptoms": "양측 무릎, 6개월 이상, 계단통, 약간 붓기, 발열 없음",
+      "diagnosis": "OA",
+      "confidence": "높음",
+      "note": "전형적인 퇴행성 관절염"
+    },
+    "RA_suspect": {
+      "profile": "30대 여성",
+      "symptoms": "양측 무릎 + 손가락 통증, 아침 뻣뻣함 1시간",
+      "diagnosis": "RA 의심",
+      "confidence": "중간",
+      "note": "류마티스 검사 필요"
+    },
+    "TRM_acute": {
+      "profile": "25세 남성",
+      "symptoms": "축구 중 무릎 꺾임, 즉시 부종, 체중 부하 불가",
+      "diagnosis": "TRM (ACL/Meniscus)",
+      "confidence": "높음",
+      "note": "MRI 필요"
+    },
+    "OVR_runner": {
+      "profile": "35세 러너",
+      "symptoms": "전방 무릎 통증, 달리기 후 악화, 계단 내려갈 때 심함",
+      "diagnosis": "OVR (Runner's knee)",
+      "confidence": "높음",
+      "note": "활동 조절과 재활"
+    }
+  },
+
+  "diagnostic_algorithm": {
+    "step1_red_flag_check": {
+      "description": "위험 신호 먼저 확인",
+      "positive": "즉시 의뢰",
+      "negative": "step2로 진행"
+    },
+    "step2_age_based_triage": {
+      "under_30": {
+        "trauma_yes": "TRM 우선",
+        "trauma_no": {
+          "sports_active": "OVR 우선",
+          "sports_inactive": "RA 스크리닝"
+        }
+      },
+      "30_to_50": {
+        "bilateral_symmetric": "RA 스크리닝",
+        "unilateral_or_asymmetric": "활동력 평가"
+      },
+      "over_50": {
+        "default": "OA 우선",
+        "exceptions": "외상력, 염증 징후"
+      }
+    },
+    "step3_refined_diagnosis": {
+      "OA_confirmation": [
+        "연령 50세 이상",
+        "만성 경과 (3개월 이상)",
+        "계단/앉았다 일어서기 어려움",
+        "날씨 민감성",
+        "경미한 부종"
+      ],
+      "RA_warning": [
+        "30-40대 여성",
+        "양측 대칭성",
+        "손가락 관절 동반",
+        "1시간 이상 아침 뻣뻣함"
+      ]
+    }
+  },
+
+  "output_format": {
+    "primary_diagnosis": {
+      "bucket": "OA/OVR/TRM",
+      "confidence": "percentage",
+      "reasoning": "clinical basis"
+    },
+    "warnings": [
+      {
+        "type": "red_flag | additional_evaluation",
+        "message": "specific warning",
+        "action": "recommended action"
+      }
+    ],
+    "differential": {
+      "description": "대안 진단 가능성",
+      "conditions": ["condition1", "condition2"]
+    }
+  }
+}

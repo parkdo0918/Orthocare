@@ -1,0 +1,107 @@
+{
+  "knee_oa_overview": {
+    "url": "https://www.orthobullets.com/recon/9061/knee-osteoarthritis",
+    "title": "Knee Osteoarthritis - OrthoBullets",
+    "content": "Knee osteoarthritis (OA) is a degenerative joint disease characterized by progressive loss of articular cartilage. It is the most common form of arthritis affecting the knee.\n\nEpidemiology:\n- Prevalence increases with age, affecting >10% of adults over 60\n- More common in women than men (ratio 1.5-2:1)\n- Risk factors include age, obesity (BMI >30), prior knee injury, and genetic predisposition\n\nPathophysiology:\n- Progressive cartilage degeneration with subchondral bone changes\n- Osteophyte formation at joint margins\n- Synovial inflammation and joint effusion\n- Meniscal degeneration often coexists\n\nClinical Presentation:\n- Gradual onset of pain, worse with weight-bearing and activity\n- Morning stiffness lasting <30 minutes (distinguishes from inflammatory arthritis)\n- Joint crepitus on movement\n- Decreased range of motion\n- Varus or valgus deformity in advanced cases\n\nDiagnosis:\n- Clinical criteria: Age >50, morning stiffness <30 min, crepitus, bony tenderness, bony enlargement\n- Radiographic findings: Joint space narrowing, osteophytes, subchondral sclerosis, cysts\n- Kellgren-Lawrence grading system (0-4)\n\nTreatment:\n- Conservative: Weight loss, physical therapy, NSAIDs, intra-articular injections\n- Surgical: Arthroscopy (limited role), osteotomy, unicompartmental or total knee arthroplasty",
+    "body_part": "knee",
+    "category": "OA",
+    "subcategory": "degenerative",
+    "key_points": [
+      "Most common form of knee arthritis",
+      "Risk factors: age, obesity, prior injury",
+      "Morning stiffness <30 minutes differentiates from RA",
+      "Treatment ladder: conservative to surgical"
+    ],
+    "epidemiology": "Affects >10% of adults over 60, female predominance",
+    "pathoanatomy": "Progressive cartilage loss with osteophyte formation",
+    "classification": "Kellgren-Lawrence grade 0-4",
+    "diagnosis": "Clinical: age >50, stiffness <30min, crepitus. Radiographic: joint space narrowing, osteophytes",
+    "treatment": "Weight loss, PT, NSAIDs, injections, surgery for refractory cases",
+    "complications": "Progressive deformity, loss of function",
+    "references": []
+  },
+  "acl_injury": {
+    "url": "https://www.orthobullets.com/sports/3013/acl-injury",
+    "title": "ACL Injury - OrthoBullets",
+    "content": "Anterior cruciate ligament (ACL) injury is one of the most common ligamentous injuries of the knee, particularly in athletes.\n\nEpidemiology:\n- Incidence: 200,000+ cases annually in US\n- Female athletes 4-6x higher risk than males in same sports\n- Most common in cutting/pivoting sports: soccer, basketball, skiing\n\nMechanism:\n- Non-contact injury (70%): sudden deceleration, cutting, landing from jump\n- Contact injury (30%): direct blow to lateral knee\n- Combined injuries common (ACL + meniscus, ACL + MCL)\n\nClinical Presentation:\n- Audible 'pop' at time of injury\n- Immediate swelling (hemarthrosis within 2 hours)\n- Giving way or instability sensation\n- Difficulty weight-bearing initially\n\nPhysical Examination:\n- Lachman test (most sensitive): positive anterior translation at 30 degrees flexion\n- Anterior drawer test: anterior translation at 90 degrees flexion\n- Pivot shift test (most specific): subluxation and reduction\n\nImaging:\n- MRI: 95% sensitivity, 95% specificity\n- Segond fracture on X-ray pathognomonic for ACL injury\n\nTreatment:\n- Non-operative: Physical therapy, bracing (for low-demand patients)\n- Operative: ACL reconstruction with autograft or allograft\n- Return to sport: 9-12 months post-reconstruction",
+    "body_part": "knee",
+    "category": "TRM",
+    "subcategory": "ligament",
+    "key_points": [
+      "Non-contact mechanism most common (70%)",
+      "Females 4-6x higher risk than males",
+      "Lachman test most sensitive, pivot shift most specific",
+      "MRI 95% sensitive and specific"
+    ],
+    "epidemiology": "200,000+ cases/year in US, higher in female athletes",
+    "pathoanatomy": "Ligament rupture, often mid-substance",
+    "classification": "Complete vs partial tear, associated injuries",
+    "diagnosis": "Lachman test, pivot shift, MRI confirmation",
+    "treatment": "PT + bracing or surgical reconstruction based on activity level",
+    "complications": "Instability, meniscal tears, early OA",
+    "references": []
+  },
+  "meniscus_tear": {
+    "url": "https://www.orthobullets.com/sports/3024/meniscus-tear",
+    "title": "Meniscus Tear - OrthoBullets",
+    "content": "Meniscal tears are among the most common knee injuries, with treatment depending on tear pattern, location, and patient factors.\n\nAnatomy:\n- Medial and lateral menisci are C-shaped fibrocartilage structures\n- Blood supply: peripheral 1/3 (red zone) has healing potential\n- Central 2/3 (white zone) is avascular, poor healing\n\nEpidemiology:\n- Peak incidence in athletes 20-30 years (traumatic)\n- Second peak in >40 years (degenerative)\n- Medial meniscus tears more common than lateral\n\nMechanism:\n- Traumatic: twisting injury on planted foot, often with ACL injury\n- Degenerative: minimal trauma, associated with OA\n\nClinical Presentation:\n- Joint line tenderness (medial or lateral)\n- Mechanical symptoms: locking, catching, giving way\n- Swelling (delayed, 12-24 hours)\n- Pain with twisting or squatting\n\nPhysical Examination:\n- McMurray test: click/pain with rotation during extension\n- Thessaly test: rotation at 20 degrees flexion while standing\n- Joint line tenderness\n\nImaging:\n- MRI: 95% sensitivity for medial, 85% for lateral tears\n- Grade 3 signal extending to articular surface indicates tear\n\nTreatment:\n- Conservative: PT, NSAIDs for degenerative tears\n- Meniscectomy: For non-repairable tears\n- Meniscal repair: For peripheral tears in young patients",
+    "body_part": "knee",
+    "category": "TRM",
+    "subcategory": "meniscus",
+    "key_points": [
+      "Peripheral (red zone) tears can heal",
+      "Medial tears more common than lateral",
+      "McMurray and Thessaly tests for diagnosis",
+      "Repair preferred over meniscectomy when possible"
+    ],
+    "epidemiology": "Peak in young athletes and >40 (degenerative)",
+    "pathoanatomy": "Fibrocartilage tear, pattern affects treatment",
+    "classification": "Horizontal, vertical, radial, complex, bucket-handle",
+    "diagnosis": "Joint line tenderness, McMurray test, MRI",
+    "treatment": "PT for degenerative; repair or meniscectomy for traumatic",
+    "complications": "OA, persistent symptoms",
+    "references": []
+  },
+  "patellofemoral_syndrome": {
+    "url": "https://www.orthobullets.com/sports/3078/patellofemoral-syndrome",
+    "title": "Patellofemoral Pain Syndrome - OrthoBullets",
+    "content": "Patellofemoral pain syndrome (PFPS) is anterior knee pain arising from the patellofemoral joint, common in young active individuals.\n\nEpidemiology:\n- Most common cause of anterior knee pain\n- Female:male ratio 2:1\n- Peak in adolescents and young adults\n- Common in runners, cyclists, jumpers\n\nEtiology:\n- Multifactorial: overuse, malalignment, muscle imbalance\n- VMO weakness or dysplasia\n- Tight lateral structures (ITB, lateral retinaculum)\n- Training errors (rapid increase in activity)\n\nClinical Presentation:\n- Anterior or peripatellar pain\n- Worse with stairs, squatting, prolonged sitting ('theater sign')\n- Occasional giving way (from pain inhibition, not instability)\n- Crepitus with knee flexion\n\nPhysical Examination:\n- Patellar grind test (J-sign)\n- Q-angle measurement (>20 degrees abnormal)\n- VMO assessment\n- Hip abductor strength (Trendelenburg)\n\nTreatment:\n- First-line: Physical therapy (VMO strengthening, hip strengthening)\n- Patellar taping or bracing\n- Activity modification\n- NSAIDs for acute flares\n- Surgery rarely indicated (lateral release, realignment)",
+    "body_part": "knee",
+    "category": "OVR",
+    "subcategory": "overuse",
+    "key_points": [
+      "Most common cause of anterior knee pain",
+      "Theater sign: pain with prolonged sitting",
+      "VMO weakness and lateral structure tightness contribute",
+      "PT is first-line treatment, surgery rarely needed"
+    ],
+    "epidemiology": "Female predominance, peak in adolescents/young adults",
+    "pathoanatomy": "Malalignment, muscle imbalance, overuse",
+    "classification": null,
+    "diagnosis": "Clinical: anterior pain, theater sign, patellar grind",
+    "treatment": "PT (VMO/hip strengthening), taping, activity modification",
+    "complications": "Chronic pain, activity limitation",
+    "references": []
+  },
+  "septic_arthritis": {
+    "url": "https://www.orthobullets.com/trauma/1052/septic-arthritis",
+    "title": "Septic Arthritis of the Knee - OrthoBullets",
+    "content": "Septic arthritis is a joint infection that requires urgent diagnosis and treatment to prevent joint destruction.\n\nEpidemiology:\n- Incidence: 2-10 per 100,000 per year\n- Risk factors: age >80, diabetes, rheumatoid arthritis, prior joint surgery, immunosuppression\n- Knee is the most commonly affected joint (50%)\n\nMicrobiology:\n- Staphylococcus aureus: most common (40-50%)\n- Streptococcus species: 20%\n- Gram-negative bacilli: 15-20% (elderly, immunocompromised)\n- Gonococcal: consider in sexually active young adults\n\nClinical Presentation:\n- Acute onset of joint pain, swelling, warmth\n- Fever (present in 60-80%)\n- Inability to bear weight\n- Limited range of motion due to pain\n\nDiagnosis:\n- Joint aspiration: WBC >50,000/mm3 (>90% PMNs)\n- Gram stain positive in 50-75%\n- Blood cultures positive in 50%\n- Synovial fluid glucose <40 mg/dL\n\nTreatment:\n- Emergency surgical drainage (arthroscopic or open)\n- IV antibiotics for 2-4 weeks\n- Empiric: Vancomycin + third-generation cephalosporin\n- Serial joint aspirations if needed",
+    "body_part": "knee",
+    "category": "INF",
+    "subcategory": "infection",
+    "key_points": [
+      "Medical emergency requiring urgent treatment",
+      "S. aureus most common pathogen",
+      "Joint WBC >50,000 with >90% PMNs diagnostic",
+      "Surgical drainage + IV antibiotics is standard"
+    ],
+    "epidemiology": "2-10 per 100,000/year, knee most common joint",
+    "pathoanatomy": "Bacterial invasion of synovial space",
+    "classification": "Gonococcal vs non-gonococcal",
+    "diagnosis": "Joint aspiration WBC >50,000, Gram stain, cultures",
+    "treatment": "Surgical drainage + IV antibiotics 2-4 weeks",
+    "complications": "Joint destruction, sepsis, chronic arthritis",
+    "references": []
+  }
+}

@@ -1,0 +1,1026 @@
+{
+  "_metadata": {
+    "version": "3.0",
+    "created": "2025-11-29",
+    "updated": "2025-11-29",
+    "description": "무릎 진단 골든셋 - input_schema v3.0 기반 (자연어 입력 추가)",
+    "total_cases": 20,
+    "bucket_distribution": {
+      "OA": 6,
+      "OVR": 5,
+      "TRM": 5,
+      "INF": 2,
+      "RED_FLAG": 2
+    },
+    "physical_score_levels": {
+      "D": "4-7점",
+      "C": "8-10점",
+      "B": "11-13점",
+      "A": "14-16점"
+    }
+  },
+  "personas": [
+    {
+      "id": "GS-OA-001",
+      "name": "전형적 OA - 60대 여성",
+      "description": "퇴행성관절염의 교과서적 케이스",
+      "source": "clinical_rules.json - OA_classic",
+      "input": {
+        "demographics": {
+          "age": 63,
+          "sex": "female",
+          "height_cm": 158,
+          "weight_kg": 68
+        },
+        "physical_score": {"total_score": 8},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "both",
+          "nrs": 5,
+          "symptoms": [
+            "pain_bilateral",
+            "chronic",
+            "progressive",
+            "stairs_down",
+            "weight_bearing_pain",
+            "stiffness_morning",
+            "stiffness_improves",
+            "swelling"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "양쪽 무릎이 다 아파요. 특히 계단 내려갈 때 너무 힘들어요.",
+          "pain_description": "아침에 일어나면 뻣뻣하고 좀 움직이면 나아지는데, 오래 걸으면 또 아파요. 묵직하게 아픈 느낌이에요.",
+          "history": "작년부터 점점 심해지고 있어요. 젊을 때는 괜찮았는데 나이 들면서 계속 나빠지네요.",
+          "goals": "걷기 운동을 다시 하고 싶어요. 지금은 30분도 못 걸어요.",
+          "additional_notes": "가끔 붓기도 해요."
+        },
+        "survey_responses": {
+          "Q1_location": ["both", "medial"],
+          "Q2_onset": ["gradual", "progressive_1month"],
+          "Q3_nrs": 5,
+          "Q4_aggravating": ["walking_standing", "stairs_down"],
+          "Q5_quality": ["heavy_dull", "morning_stiffness"],
+          "Q5_5_stiffness_duration": "under_30min",
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OA",
+        "confidence_min": 0.5,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OA-002",
+      "name": "초기 OA - 50대 남성 과체중",
+      "description": "초기 퇴행성 변화, 체중 과다",
+      "source": "BMJ guideline - Early OA",
+      "input": {
+        "demographics": {
+          "age": 52,
+          "sex": "male",
+          "height_cm": 172,
+          "weight_kg": 88
+        },
+        "physical_score": {"total_score": 10},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 4,
+          "symptoms": [
+            "pain_medial",
+            "chronic",
+            "squatting",
+            "stairs_down",
+            "after_walking",
+            "weight_bearing_pain"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "오른쪽 무릎 안쪽이 은근히 아파요.",
+          "pain_description": "쪼그려 앉거나 계단 내려갈 때 특히 아프고, 오래 걸으면 뻐근해져요.",
+          "history": "6개월 전부터 서서히 시작됐어요. 체중이 좀 늘어서 그런 것 같기도 하고...",
+          "goals": "골프를 좋아하는데 라운딩 중에 무릎이 불편해서요. 운동 계속하고 싶어요.",
+          "additional_notes": null
+        },
+        "survey_responses": {
+          "Q1_location": ["right", "medial"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 4,
+          "Q4_aggravating": ["walking_standing", "stairs_down", "squatting"],
+          "Q5_quality": ["heavy_dull"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OA",
+        "confidence_min": 0.6,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OA-003",
+      "name": "진행성 OA - 70대 여성",
+      "description": "진행된 OA, 일상생활 제한",
+      "source": "OARSI guideline",
+      "input": {
+        "demographics": {
+          "age": 72,
+          "sex": "female",
+          "height_cm": 155,
+          "weight_kg": 62
+        },
+        "physical_score": {"total_score": 5},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "both",
+          "nrs": 7,
+          "symptoms": [
+            "pain_bilateral",
+            "chronic",
+            "progressive",
+            "mobility_limited",
+            "stairs_down",
+            "squatting",
+            "weight_bearing_pain",
+            "stiffness_morning",
+            "stiffness_improves"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "양쪽 무릎이 너무 아파서 생활이 힘들어요.",
+          "pain_description": "계단은 거의 못 내려가고, 앉았다 일어나기도 힘들어요. 아침에 특히 굳어 있어요.",
+          "history": "10년 넘게 아팠는데 최근 2-3년 사이에 확 심해졌어요. 병원에서 관절염이라고 했어요.",
+          "goals": "집안일이라도 편하게 하고 싶어요. 지금은 청소하기도 힘들어요.",
+          "additional_notes": "쪼그려 앉기가 거의 불가능해요."
+        },
+        "survey_responses": {
+          "Q1_location": ["both", "medial"],
+          "Q2_onset": ["gradual", "progressive_1month"],
+          "Q3_nrs": 7,
+          "Q4_aggravating": ["walking_standing", "stairs_down", "squatting", "cross_legged"],
+          "Q5_quality": ["heavy_dull", "morning_stiffness"],
+          "Q5_5_stiffness_duration": "under_30min",
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OA",
+        "confidence_min": 0.55,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OA-004",
+      "name": "비만 동반 OA - 55세 남성",
+      "description": "고도비만으로 인한 부하 증가 (BMI 34.3)",
+      "source": "AAFP Knee OA guideline",
+      "input": {
+        "demographics": {
+          "age": 55,
+          "sex": "male",
+          "height_cm": 175,
+          "weight_kg": 105
+        },
+        "physical_score": {"total_score": 7},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "both",
+          "nrs": 6,
+          "symptoms": [
+            "pain_bilateral",
+            "chronic",
+            "weight_bearing_pain",
+            "stairs_down",
+            "squatting",
+            "swelling"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "무릎 양쪽 다 아프고 가끔 부어요.",
+          "pain_description": "서 있거나 걸을 때 무릎에 하중이 느껴지면서 아파요. 계단이 제일 힘들어요.",
+          "history": "체중이 많이 나가서 그런지 무릎이 몇 년 전부터 안 좋아요.",
+          "goals": "살을 빼려고 운동을 시작하고 싶은데 무릎이 아파서 못하겠어요.",
+          "additional_notes": "저녁에 붓는 느낌이 있어요."
+        },
+        "survey_responses": {
+          "Q1_location": ["both"],
+          "Q2_onset": ["gradual", "progressive_1month"],
+          "Q3_nrs": 6,
+          "Q4_aggravating": ["walking_standing", "stairs_down", "squatting"],
+          "Q5_quality": ["heavy_dull", "swelling_heat"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OA",
+        "confidence_min": 0.55,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OA-005",
+      "name": "단측 OA - 58세 여성",
+      "description": "내측 구획 OA",
+      "source": "Post-traumatic OA literature",
+      "input": {
+        "demographics": {
+          "age": 58,
+          "sex": "female",
+          "height_cm": 162,
+          "weight_kg": 65
+        },
+        "physical_score": {"total_score": 9},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 4,
+          "symptoms": [
+            "pain_medial",
+            "chronic",
+            "stairs_down",
+            "squatting",
+            "stiffness_morning",
+            "stiffness_improves"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "오른쪽 무릎 안쪽이 아파요.",
+          "pain_description": "아침에 뻣뻣하고 움직이면 좀 나아져요. 계단 내려갈 때랑 쪼그려 앉을 때 아파요.",
+          "history": "예전에 그쪽 무릎을 다친 적이 있는데, 그때부터 조금씩 안 좋았어요.",
+          "goals": "등산을 좋아하는데 요즘은 무리가 되네요. 가벼운 산행이라도 하고 싶어요.",
+          "additional_notes": null
+        },
+        "survey_responses": {
+          "Q1_location": ["right", "medial"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 4,
+          "Q4_aggravating": ["stairs_down", "squatting", "morning"],
+          "Q5_quality": ["heavy_dull", "morning_stiffness"],
+          "Q5_5_stiffness_duration": "under_30min",
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OA",
+        "confidence_min": 0.55,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OA-006",
+      "name": "경도 OA - 48세 여성",
+      "description": "경계선 연령, 초기 증상",
+      "source": "황두현 임상 자문",
+      "input": {
+        "demographics": {
+          "age": 48,
+          "sex": "female",
+          "height_cm": 160,
+          "weight_kg": 58
+        },
+        "physical_score": {"total_score": 11},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 3,
+          "symptoms": [
+            "pain_medial",
+            "chronic",
+            "stairs_down",
+            "stiffness_morning",
+            "stiffness_improves"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "왼쪽 무릎 안쪽이 살짝 불편해요.",
+          "pain_description": "아침에 좀 뻣뻣하고 계단 내려갈 때 약간 시큰거려요. 심하지는 않아요.",
+          "history": "최근 몇 달 전부터 느껴지기 시작했어요. 나이가 드니까 그런가 싶어요.",
+          "goals": "더 나빠지기 전에 관리하고 싶어요.",
+          "additional_notes": null
+        },
+        "survey_responses": {
+          "Q1_location": ["left", "medial"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 3,
+          "Q4_aggravating": ["stairs_down", "morning"],
+          "Q5_quality": ["heavy_dull", "morning_stiffness"],
+          "Q5_5_stiffness_duration": "under_30min",
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OA",
+        "confidence_min": 0.5,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OVR-001",
+      "name": "러너스니 - 35세 남성",
+      "description": "전형적 PFPS/Runner's knee",
+      "source": "clinical_rules.json - OVR_runner",
+      "input": {
+        "demographics": {
+          "age": 35,
+          "sex": "male",
+          "height_cm": 178,
+          "weight_kg": 72
+        },
+        "physical_score": {"total_score": 13},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 5,
+          "symptoms": [
+            "pain_anterior",
+            "after_exercise",
+            "overuse_pattern",
+            "stairs_down",
+            "rest_improvement"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "달리기 후에 오른쪽 무릎 앞쪽이 아파요.",
+          "pain_description": "5km 정도 뛰고 나면 슬개골 주변이 아프고, 쉬면 괜찮아져요. 계단 내려갈 때도 좀 아파요.",
+          "history": "마라톤 준비하면서 훈련량을 늘렸더니 한 달 전부터 아프기 시작했어요.",
+          "goals": "마라톤 완주가 목표예요. 훈련을 계속하고 싶어요.",
+          "additional_notes": "뛰는 도중에는 괜찮은데 뛰고 나서 아파요."
+        },
+        "survey_responses": {
+          "Q1_location": ["right", "anterior"],
+          "Q2_onset": ["after_exercise", "after_activity_increase"],
+          "Q3_nrs": 5,
+          "Q4_aggravating": ["after_exercise", "stairs_down"],
+          "Q5_quality": ["point_tenderness"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OVR",
+        "confidence_min": 0.65,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OVR-002",
+      "name": "점퍼스니 - 22세 남성",
+      "description": "농구선수, 슬개건염",
+      "source": "Patellofemoral Pain Consensus",
+      "input": {
+        "demographics": {
+          "age": 22,
+          "sex": "male",
+          "height_cm": 185,
+          "weight_kg": 80
+        },
+        "physical_score": {"total_score": 14},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 6,
+          "symptoms": [
+            "pain_anterior",
+            "after_exercise",
+            "overuse_pattern",
+            "activity_jumping",
+            "rest_improvement"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "농구할 때 왼쪽 무릎 앞이 아파요.",
+          "pain_description": "점프하고 착지할 때 슬개골 바로 아래가 찌릿해요. 쉬면 괜찮아지는데 경기하면 또 아파요.",
+          "history": "한 달 전부터 시작됐어요. 요즘 시합 준비하면서 훈련을 많이 해서 그런 것 같아요.",
+          "goals": "다음 달 대회에 나가야 해서 빨리 나으면 좋겠어요.",
+          "additional_notes": "점프할 때 제일 아파요."
+        },
+        "survey_responses": {
+          "Q1_location": ["left", "anterior"],
+          "Q2_onset": ["after_exercise"],
+          "Q3_nrs": 6,
+          "Q4_aggravating": ["after_exercise"],
+          "Q5_quality": ["point_tenderness"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OVR",
+        "confidence_min": 0.7,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OVR-003",
+      "name": "ITB 증후군 - 28세 여성",
+      "description": "장경인대 마찰증후군",
+      "source": "Fredericson 2000",
+      "input": {
+        "demographics": {
+          "age": 28,
+          "sex": "female",
+          "height_cm": 165,
+          "weight_kg": 55
+        },
+        "physical_score": {"total_score": 14},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 4,
+          "symptoms": [
+            "pain_lateral",
+            "after_exercise",
+            "overuse_pattern",
+            "rest_improvement"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "오른쪽 무릎 바깥쪽이 달릴 때 아파요.",
+          "pain_description": "3-4km 쯤 뛰면 무릎 옆 튀어나온 뼈 근처가 쓰리듯이 아파요. 쉬면 금방 나아요.",
+          "history": "러닝을 시작한 지 3개월 됐는데, 거리를 늘리면서 아프기 시작했어요.",
+          "goals": "10km 대회 나가는 게 목표인데 지금 속도로는 힘들 것 같아요.",
+          "additional_notes": "내리막에서 더 아픈 것 같아요."
+        },
+        "survey_responses": {
+          "Q1_location": ["right", "lateral"],
+          "Q2_onset": ["after_exercise", "after_activity_increase"],
+          "Q3_nrs": 4,
+          "Q4_aggravating": ["after_exercise"],
+          "Q5_quality": ["point_tenderness"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OVR",
+        "confidence_min": 0.65,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OVR-004",
+      "name": "사이클리스트 - 32세 남성",
+      "description": "반복 사용 과부하",
+      "source": "Sports medicine literature",
+      "input": {
+        "demographics": {
+          "age": 32,
+          "sex": "male",
+          "height_cm": 176,
+          "weight_kg": 70
+        },
+        "physical_score": {"total_score": 13},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "both",
+          "nrs": 3,
+          "symptoms": [
+            "pain_anterior",
+            "after_exercise",
+            "overuse_pattern",
+            "subacute"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "자전거 타고 나면 양쪽 무릎 앞이 뻐근해요.",
+          "pain_description": "오래 타면 슬개골 주변이 뻐근하고 당기는 느낌이에요. 심하지는 않아요.",
+          "history": "2주 전부터 느껴지기 시작했어요. 최근에 라이딩 거리를 많이 늘렸거든요.",
+          "goals": "자전거 동호회 활동을 계속하고 싶어요.",
+          "additional_notes": "안장 높이가 안 맞는 건지 모르겠어요."
+        },
+        "survey_responses": {
+          "Q1_location": ["both", "anterior"],
+          "Q2_onset": ["after_exercise", "after_activity_increase"],
+          "Q3_nrs": 3,
+          "Q4_aggravating": ["after_exercise"],
+          "Q5_quality": [],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OVR",
+        "confidence_min": 0.55,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-OVR-005",
+      "name": "헬스 초보자 - 26세 여성",
+      "description": "급격한 운동량 증가 후 과사용",
+      "source": "황두현 임상 자문",
+      "input": {
+        "demographics": {
+          "age": 26,
+          "sex": "female",
+          "height_cm": 163,
+          "weight_kg": 58
+        },
+        "physical_score": {"total_score": 12},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 4,
+          "symptoms": [
+            "pain_anterior",
+            "after_exercise",
+            "overuse_pattern",
+            "subacute",
+            "rest_improvement",
+            "squatting"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "헬스장에서 운동하고 나면 오른쪽 무릎이 아파요.",
+          "pain_description": "스쿼트나 레그프레스 하고 나면 무릎 앞쪽이 욱신거려요. 하루 쉬면 괜찮아져요.",
+          "history": "한 달 전에 헬스장 등록하고 열심히 하고 있는데, 2주 전부터 아프기 시작했어요.",
+          "goals": "예쁜 다리 만들고 싶은데 운동을 어떻게 해야 할지 모르겠어요.",
+          "additional_notes": "PT 받을 때는 괜찮은데 혼자 하면 아파요."
+        },
+        "survey_responses": {
+          "Q1_location": ["right", "anterior"],
+          "Q2_onset": ["after_exercise", "after_activity_increase"],
+          "Q3_nrs": 4,
+          "Q4_aggravating": ["after_exercise", "squatting"],
+          "Q5_quality": [],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "OVR",
+        "confidence_min": 0.6,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-TRM-001",
+      "name": "ACL 손상 - 25세 남성",
+      "description": "축구 중 비접촉 손상",
+      "source": "clinical_rules.json - TRM_acute",
+      "input": {
+        "demographics": {
+          "age": 25,
+          "sex": "male",
+          "height_cm": 175,
+          "weight_kg": 73
+        },
+        "physical_score": {"total_score": 6},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 8,
+          "symptoms": [
+            "trauma_recent",
+            "sudden_onset",
+            "twisting",
+            "swelling",
+            "instability",
+            "giving_way",
+            "acute"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "축구하다가 왼쪽 무릎이 꺾였어요. 너무 아파요.",
+          "pain_description": "뚝 소리가 나면서 무릎이 빠지는 느낌이었어요. 지금은 많이 붓고 걷기가 힘들어요.",
+          "history": "3일 전에 축구하다가 방향 전환하려다 혼자 넘어졌어요. 아무도 안 건드렸는데...",
+          "goals": "빨리 나아서 다시 축구하고 싶어요. 동호회 경기가 한 달 뒤에 있어요.",
+          "additional_notes": "서 있을 때 무릎이 휘청거려요."
+        },
+        "survey_responses": {
+          "Q1_location": ["left"],
+          "Q2_onset": ["after_trauma"],
+          "Q3_nrs": 8,
+          "Q4_aggravating": ["twisting"],
+          "Q5_quality": ["swelling_heat"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "TRM",
+        "confidence_min": 0.65,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-TRM-002",
+      "name": "반월상연골 손상 - 30세 여성",
+      "description": "스키 중 비틀림 손상",
+      "source": "Meniscus injury literature",
+      "input": {
+        "demographics": {
+          "age": 30,
+          "sex": "female",
+          "height_cm": 165,
+          "weight_kg": 58
+        },
+        "physical_score": {"total_score": 8},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 6,
+          "symptoms": [
+            "trauma_recent",
+            "twisting",
+            "locking",
+            "catching",
+            "swelling"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "스키 타다가 넘어지면서 오른쪽 무릎이 비틀렸어요.",
+          "pain_description": "무릎이 걸리는 느낌이 있고 가끔 펴지지 않을 때가 있어요. 좀 부었어요.",
+          "history": "일주일 전 스키장에서 넘어졌어요. 그때 무릎이 안쪽으로 확 꺾였어요.",
+          "goals": "일상생활 복귀가 먼저고, 내년 겨울에 스키 다시 타고 싶어요.",
+          "additional_notes": "쪼그려 앉으면 딱 걸리는 느낌이에요."
+        },
+        "survey_responses": {
+          "Q1_location": ["right"],
+          "Q2_onset": ["after_trauma"],
+          "Q3_nrs": 6,
+          "Q4_aggravating": ["twisting"],
+          "Q5_quality": ["locking_catching", "swelling_heat"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "TRM",
+        "confidence_min": 0.6,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-TRM-003",
+      "name": "MCL 손상 - 20세 남성",
+      "description": "럭비 중 직접 충격",
+      "source": "Prodromos 2007",
+      "input": {
+        "demographics": {
+          "age": 20,
+          "sex": "male",
+          "height_cm": 180,
+          "weight_kg": 82
+        },
+        "physical_score": {"total_score": 7},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 7,
+          "symptoms": [
+            "trauma_recent",
+            "pain_medial",
+            "sudden_onset",
+            "swelling",
+            "instability",
+            "acute"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "럭비하다가 왼쪽 무릎 안쪽을 맞았어요.",
+          "pain_description": "옆에서 태클 당하면서 무릎 바깥쪽에서 안쪽으로 힘이 가해졌어요. 안쪽이 엄청 아파요.",
+          "history": "어제 경기 중에 다쳤어요. 바로 경기 못하고 나왔어요.",
+          "goals": "다음 시즌까지 복귀하고 싶어요.",
+          "additional_notes": "좀 붓고 안쪽을 누르면 아파요."
+        },
+        "survey_responses": {
+          "Q1_location": ["left", "medial"],
+          "Q2_onset": ["after_trauma"],
+          "Q3_nrs": 7,
+          "Q4_aggravating": [],
+          "Q5_quality": ["swelling_heat"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "TRM",
+        "confidence_min": 0.45,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-TRM-004",
+      "name": "슬개골 탈구 - 18세 여성",
+      "description": "댄스 중 갑작스런 방향 전환",
+      "source": "황두현 임상 자문",
+      "input": {
+        "demographics": {
+          "age": 18,
+          "sex": "female",
+          "height_cm": 168,
+          "weight_kg": 52
+        },
+        "physical_score": {"total_score": 5},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 8,
+          "symptoms": [
+            "trauma_recent",
+            "sudden_onset",
+            "giving_way",
+            "swelling",
+            "acute_pain",
+            "weight_bearing_pain"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "춤추다가 오른쪽 무릎이 빠지는 느낌이었어요.",
+          "pain_description": "무릎뼈가 옆으로 빠졌다가 다시 들어간 것 같았어요. 엄청 아팠고 지금도 많이 아파요.",
+          "history": "어제 연습 중에 방향 바꾸다가 갑자기 그랬어요. 처음 이런 일이에요.",
+          "goals": "다음 주 공연이 있는데 나갈 수 있을까요?",
+          "additional_notes": "많이 붓고 걷기가 무서워요."
+        },
+        "survey_responses": {
+          "Q1_location": ["right"],
+          "Q2_onset": ["after_trauma"],
+          "Q3_nrs": 8,
+          "Q4_aggravating": ["walking_standing"],
+          "Q5_quality": ["swelling_heat"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "TRM",
+        "confidence_min": 0.55,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-TRM-005",
+      "name": "아급성 반월상연골 - 40세 남성",
+      "description": "2주 전 부상, 지속적 증상",
+      "source": "Jiang 2012",
+      "input": {
+        "demographics": {
+          "age": 40,
+          "sex": "male",
+          "height_cm": 173,
+          "weight_kg": 75
+        },
+        "physical_score": {"total_score": 9},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 5,
+          "symptoms": [
+            "trauma",
+            "locking",
+            "catching",
+            "subacute",
+            "pain_medial"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "2주 전에 등산하다가 왼쪽 무릎을 삐끗했는데 아직도 안 나아요.",
+          "pain_description": "걸을 때 무릎이 걸리는 느낌이 있고, 안쪽이 아파요. 완전히 펴기가 불편해요.",
+          "history": "하산할 때 미끄러지면서 무릎이 비틀렸어요. 처음엔 괜찮을 줄 알았는데...",
+          "goals": "다시 산에 가고 싶어요. 걷는 데 불편함이 없었으면 좋겠어요.",
+          "additional_notes": "가끔 무릎에서 소리가 나요."
+        },
+        "survey_responses": {
+          "Q1_location": ["left", "medial"],
+          "Q2_onset": ["after_trauma"],
+          "Q3_nrs": 5,
+          "Q4_aggravating": [],
+          "Q5_quality": ["locking_catching"],
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "TRM",
+        "confidence_min": 0.4,
+        "red_flag": false
+      }
+    },
+    {
+      "id": "GS-INF-001",
+      "name": "RA 의심 - 35세 여성",
+      "description": "양측 대칭성, 아침 뻣뻣함 30분 이상 지속",
+      "source": "clinical_rules.json - RA_suspect",
+      "input": {
+        "demographics": {
+          "age": 35,
+          "sex": "female",
+          "height_cm": 160,
+          "weight_kg": 55
+        },
+        "physical_score": {"total_score": 9},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "both",
+          "nrs": 5,
+          "symptoms": [
+            "pain_bilateral",
+            "bilateral_symmetric",
+            "stiffness_morning",
+            "stiffness_30min_plus",
+            "swelling",
+            "multiple_joints",
+            "night_pain"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "양쪽 무릎이 똑같이 아프고 아침에 너무 뻣뻣해요.",
+          "pain_description": "아침에 일어나면 1시간 넘게 뻣뻣하고, 밤에도 아파서 잠을 깨요. 좀 붓기도 해요.",
+          "history": "3개월 전부터 시작됐고, 손가락 마디도 좀 아파요.",
+          "goals": "아침에 일어나서 바로 움직일 수 있으면 좋겠어요.",
+          "additional_notes": "엄마가 류마티스 관절염이 있어요."
+        },
+        "survey_responses": {
+          "Q1_location": ["both"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 5,
+          "Q4_aggravating": ["morning", "at_rest"],
+          "Q5_quality": ["swelling_heat", "morning_stiffness"],
+          "Q5_5_stiffness_duration": "over_30min",
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "INF",
+        "confidence_min": 0.6,
+        "red_flag": false,
+        "warning": "RA 평가 권장"
+      }
+    },
+    {
+      "id": "GS-INF-002",
+      "name": "반응성 관절염 의심 - 28세 남성",
+      "description": "감염 후 관절 증상",
+      "source": "Helliwell 2000",
+      "input": {
+        "demographics": {
+          "age": 28,
+          "sex": "male",
+          "height_cm": 177,
+          "weight_kg": 72
+        },
+        "physical_score": {"total_score": 8},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 6,
+          "symptoms": [
+            "swelling_heat",
+            "acute",
+            "night_pain",
+            "stiffness_morning",
+            "stiffness_30min_plus"
+          ],
+          "red_flags_checked": []
+        }],
+        "natural_language": {
+          "chief_complaint": "왼쪽 무릎이 갑자기 붓고 열이 나는 것 같아요.",
+          "pain_description": "아침에 30분 이상 뻣뻣하고, 밤에 더 아파요. 좀 열감이 있어요.",
+          "history": "2주 전에 장염을 앓았는데, 그 이후로 무릎이 이상해요.",
+          "goals": "빨리 원인을 알고 싶어요.",
+          "additional_notes": "열은 없어요."
+        },
+        "survey_responses": {
+          "Q1_location": ["left"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 6,
+          "Q4_aggravating": ["morning", "at_rest"],
+          "Q5_quality": ["swelling_heat", "morning_stiffness"],
+          "Q5_5_stiffness_duration": "over_30min",
+          "Q6_red_flags": []
+        }
+      },
+      "expected": {
+        "bucket": "INF",
+        "confidence_min": 0.4,
+        "red_flag": false,
+        "warning": "염증성 관절염 평가 필요"
+      }
+    },
+    {
+      "id": "GS-RF-001",
+      "name": "감염성 관절염 - 45세 남성",
+      "description": "급성 발열 + 심한 부종 + 열감",
+      "source": "red_flags.json - septic arthritis",
+      "input": {
+        "demographics": {
+          "age": 45,
+          "sex": "male",
+          "height_cm": 170,
+          "weight_kg": 78
+        },
+        "physical_score": {"total_score": 4},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "right",
+          "nrs": 9,
+          "symptoms": [
+            "swelling_heat",
+            "fever",
+            "redness",
+            "acute",
+            "night_pain",
+            "systemic_symptoms"
+          ],
+          "red_flags_checked": ["fever_infection", "acute_swelling_heat"]
+        }],
+        "natural_language": {
+          "chief_complaint": "오른쪽 무릎이 빨갛게 붓고 열이 나요.",
+          "pain_description": "무릎이 빨갛고 엄청 붓고 만지면 뜨거워요. 조금만 움직여도 너무 아파요.",
+          "history": "3일 전부터 갑자기 시작됐고, 몸에 열이 나요. 기침은 없어요.",
+          "goals": "너무 아파서 병원에 가야 할 것 같아요.",
+          "additional_notes": "오한도 있어요."
+        },
+        "survey_responses": {
+          "Q1_location": ["right"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 9,
+          "Q4_aggravating": ["at_rest"],
+          "Q5_quality": ["swelling_heat"],
+          "Q6_red_flags": ["fever_infection", "acute_swelling_heat"]
+        }
+      },
+      "expected": {
+        "bucket": "INF",
+        "red_flag": true,
+        "action": "즉시 병원 의뢰"
+      }
+    },
+    {
+      "id": "GS-RF-002",
+      "name": "DVT 의심 - 55세 여성",
+      "description": "수술 후 종아리 통증 + 부종",
+      "source": "red_flags.json - DVT",
+      "input": {
+        "demographics": {
+          "age": 55,
+          "sex": "female",
+          "height_cm": 158,
+          "weight_kg": 70
+        },
+        "physical_score": {"total_score": 5},
+        "body_parts": [{
+          "code": "knee",
+          "primary": true,
+          "side": "left",
+          "nrs": 6,
+          "symptoms": [
+            "calf_pain",
+            "swelling",
+            "acute"
+          ],
+          "red_flags_checked": ["calf_swelling"]
+        }],
+        "natural_language": {
+          "chief_complaint": "왼쪽 종아리랑 무릎이 부으면서 아파요.",
+          "pain_description": "종아리가 뻐근하고 부어 있어요. 무릎 뒤쪽도 불편해요.",
+          "history": "일주일 전에 자궁근종 수술 받았어요. 2일 전부터 다리가 이상해요.",
+          "goals": "원인이 뭔지 알고 싶어요.",
+          "additional_notes": "반대쪽 다리보다 확실히 두꺼워요."
+        },
+        "survey_responses": {
+          "Q1_location": ["left"],
+          "Q2_onset": ["gradual"],
+          "Q3_nrs": 6,
+          "Q4_aggravating": [],
+          "Q5_quality": ["swelling_heat"],
+          "Q6_red_flags": ["calf_swelling"]
+        }
+      },
+      "expected": {
+        "bucket": null,
+        "red_flag": true,
+        "action": "DVT 배제 검사 필요"
+      }
+    }
+  ]
+}

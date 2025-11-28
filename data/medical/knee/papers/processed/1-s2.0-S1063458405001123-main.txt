@@ -1,0 +1,783 @@
+A meta-analysis of sex differences prevalence, incidence
+and severity of osteoarthritis1
+Velandai K. Srikanth Ph.D., Research Fellow y*, Jayne L. Fryer B.Math. Grad. Dip. Med. Stat. y,
+Guangju Zhai M.Sc. y, Tania M. Winzenberg M.Med.Sc. (Clin. Epi.) y,
+David Hosmer Ph.D. yz2and Graeme Jones M.D. y
+yThe Menzies Research Institute, Private Bag 23, Hobart, Tasmania 7001, Australia
+zSchool of Public Health and Health Sciences, University of Massachusetts, Amherst, MA, USA
+Summary
+Objective : To resolve uncertainty regarding sex differences in osteoarthritis (OA) by performing a meta-analysis of sex differences in OA
+prevalence, incidence and severity.
+Methods : Standard search strategies for population-based studies of OA providing sex-speciﬁc data. Random effects meta-analysis to provide
+pooled male vs female risk and rate ratios for prevalent and incident OA, and standardized mean differences (SMD) for OA severity. Meta-
+regression was used to investigate sources of heterogeneity.
+Results : Males had a signiﬁcantly reduced risk for prevalent OA in the knee [Risk Ratio (RR) 0.63, 95% CI 0.53 e0.75] and hand [RR 0.81,
+95% CI 0.73 e0.90] but not for other sites. Males aged !55 years had a greater risk of prevalent cervical spine OA [RR 1.29, 95% CI
+1.18e1.41]. Males also had signiﬁcantly reduced rates of incident OA in the knee [Incidence Rate Ratio (IRR) 0.55, 95% CI 0.32 e0.94] and hip
+[IRR 0.64, 95% CI 0.48 e0.86], with a trend for hand [IRR 0.65, 95% conﬁdence interval (CI) 0.35 e1.20]. Females, particularly those R55
+years, tended to have more severe OA in the knee but not other sites. Heterogeneity in the estimates of sex differences in prevalence wassubstantially explained by age and other study design factors including method of OA deﬁnition.
+Conclusions : The results demonstrate the presence of sex differences in OA prevalence and incidence, with females generally at a higher risk.
+Females also tend to have more severe knee OA, particularly after menopausal age. The site differences indicate the need for further studiesto explore mechanisms underlying OA.ª2005 OsteoArthritis Research Society International. Published by Elsevier Ltd. All rights reserved.
+Key words : Sex differences, Osteoarthritis, Population-based.
+Introduction
+Osteoarthritis (OA) is a major public health problem due to
+its high prevalence, costs, and levels of pain and disability.
+Efforts are underway to identify causal mechanisms re-sponsible for the development of OA. While risk factorssuch as age, obesity, injury and genetic proﬁles have been
+identiﬁed, the role of sex in OA is unclear
+1,2. The study of
+sex differences in OA may provide insights into diseasemechanisms in OA. It is reported in the literature that
+women have a higher prevalence of knee and certain types
+of hand OA than men, particularly after 50 years of age3e5,
+whereas the evidence for a sex difference in hip OA isconﬂicting from individual study results. The majority of
+studies providing data on sex differences deal with
+prevalent OA, with very few examining sex-speciﬁc OA
+incidence6e9. Moreover, it is unclear whether any observed
+sex difference is due to reporting differences or a truedifference in radiographic OA (ROA) or whether the severity
+of OA differs between sexes. The aim of this study therefore
+was to use meta-analysis and meta-regression to studysite-speciﬁc sex differences in prevalence, incidence and
+severity of OA.
+Methods
+LITERATURE SEARCH
+A MEDLINE search (1966 e2003) was conducted
+using the terms ‘‘Sex and OA’’, ‘‘Gender and OA’’ and
+‘‘OA prevalence’’, and ‘‘OA incidence’’. References from
+retrieved publications were manually checked for anyadditional studies of OA and review articles on OAepidemiology. Reports from the National Center for Health
+Statistics (USA) were obtained for data regarding the major
+health surveys of chronic diseases including the HealthExamination Survey (HES)
+10and the National Health
+and Nutrition Examination Survey (NHANES-I)11. These1Disclaimers dnone.
+Author contributions: Design (VKS, GJ), data collection (VKS,
+JF, TW, GZ), analysis (VKS, JF, DH), writing (VKS, GJ), revision(VKS, JF, TW, GZ, DH).
+2Visiting Professor, Menzies Research Institute, Hobart, Tasma-
+nia, Australia.
+*Address correspondence and reprint requests to: Dr V. K.
+Srikanth, Menzies Research Institute, Private Bag 23, Hobart,Tasmania 7001, Australia. Tel: 613-62267772; Fax: 613-62267704;E-mail: velandai.srikanth@utas.edu.au
+Received 3 March 2005; revision accepted 22 April 2005.OsteoArthritis and Cartilage (2005) 13,769e781
+ª2005 OsteoArthritis Research Society International. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.joca.2005.04.014
+International
+CartilageRepairSociety
+769
+
+strategies were supplemented by a further electronic search
+for speciﬁc terms linking OA with different joint sites (i.e.,knee, hand, hip and spine). Published studies wereincluded in the meta-analysis if they provided numbers or
+rates of males and females affected by OA and were
+population-based. Hospital or clinic-based series wereexcluded due to the possibility of selection bias affectingassociations in such studies. One non-English paper was
+identiﬁed
+12, and was excluded to facilitate data extraction
+and quality assessment.
+EXTRACTION OF DATA
+Two persons (VS, GZ) independently extracted data. In
+prevalence studies numbers of males and females with OAand the number in the sample at risk in either sex were
+identiﬁed. In studies where only prevalence rates were
+reported, numbers with OA in either sex were calculatedbased on reported rates and the sample at risk. When age-
+stratiﬁed data were provided, numbers of affected males
+and females were extracted according to arbitrary agecategories (age !55 years, age R55 years) based on
+previous reports describing variation in sex-speciﬁc risk
+3as
+well as convenience of assigning age categories in the
+included studies. Incidence rates were obtained for malesand females from the included OA incidence studies.Grades of severity stratiﬁed by site were also obtained if
+reported.
+ASSESSMENT OF QUALITY
+Quality of the papers was assessed by one of the study
+investigators (TW) independent of data extraction usinga framework modiﬁed from previous work13. Studies were
+ranked by a priori characteristics that would be likely to
+minimize bias in results. These included: sampling pro-
+cedure (0, not stated; 1, non-random; 2, random); sampleresponse rate (0, not stated; 1, !50%; 2,R50%); deﬁnition
+of OA (0, self-report; 1, clinical diagnosis; 2, X-ray scale);
+use of radiographic atlas (0, no; 1, yes); reporting ofreliability of OA deﬁnition (0, no; 1, yes) with a maximumpossible quality score of 8. The category of clinically
+diagnosed OA included mostly studies depending solely
+on clinical ﬁndings ( based on clinical joint examination )
+14e17,
+one study using clinician reported arthritis18and one study
+using a combination of X-ray and clinical ﬁndings19.
+STATISTICAL ANALYSIS
+The Cochrane Review Manager 4.2 software (MetaView,
+version 4.2) was used for this meta-analysis. For the meta-
+analysis of OA prevalence, the outcome measure was therisk ratio (RR) that refers to the ratio of the prevalence of OAamong males to the prevalence of OA among females. In
+prevalent peripheral joint OA, stratiﬁed analyses were
+conducted according to pre-speciﬁed variables includingage, OA deﬁnition, ethnicity, sample type (random, non-
+random), response rate, and provision of diagnostic
+reliability. The few studies where age-stratiﬁed data couldnot be extracted were analyzed in a category termed‘unstratiﬁed’
+15,18,20 e23. In spine OA, analyses were per-
+formed separately for spine apophyseal OA and spine disc
+degeneration (SDD) in both cervical and lumbar regions.Due to the small number of studies on spine disease,stratiﬁed analyses were performed only according to age
+categories.For incident OA, the outcome measure was the un-
+adjusted incidence rate ratio (IRR), which was the ratio ofthe incidence for males relative to females. If this wasunavailable, the ratio of cumulative incidences was used.
+The number of incident cases and person-years of follow-up
+were provided for both sexes in one study of radiographichand, hip and knee OA allowing computation of incidencerates
+8. Similar information could be derived from the data
+reported in a medical record-linkage study of symptomatic
+radiographic knee and hip OA9. In two studies, sex-speciﬁc
+cumulative incidence rates were provided24,25. In one
+report, male vs female relative risk (RR) estimates
+from a Cox-model were used for the meta-analysis withstandard errors derived from the conﬁdence intervals (CI)provided
+7.
+For the analysis of sex differences in OA severity, the
+outcome measure was the standardized mean difference(SMD) in reported severity grades between males andfemales. In all but one of the studies using radiographs,
+grading of severity had been performed using the Standard
+Radiographic Atlas of Arthritis
+26as OA absent (grade 0),
+dubious (grade 1), mild (grade 2), moderate (grade 3) andsevere (grade 4). In these studies, categories of grade 0 or
+1 were assigned a score of 0.5, radiographs of grade 2 were
+assigned a score of 2, and radiographs of grade 3 or 4 wereassigned a score of 3.5. In one remaining radiographic
+study
+11in which there had been a subjective grading of
+radiographs, we arbitrarily assigned normal/questionableOA a score of 0.5, minimal OA a score of 2, and moderate/severe OA a score of 3.5. In the only study using a clinical
+grading
+17, we assigned a score of 0.5 to absent/minimal
+OA, a score of 2 to moderate OA, and a score of 3.5 tosevere OA. For each study, the mean and standarddeviation of the assigned severity score for males and
+females was then computed. The SMD in severity between
+males and females for each study was then computed usingstandard methods in the Cochrane Review Manager 4.2
+software (MetaView, version 4.2). The formula for SMD is
+as follows:
+SMDZ/C18
+m1i/C255m2i
+si/C19/C181/C2553
+4Ni/C2559/C19
+where mrefers to individual group mean, siis the pooled
+standard deviation, and Niis the pooled sample size of the
+two groups.
+Outcome measures were pooled across studies using
+a random effects model which allows for heterogeneity ofeffects between studies28. Tests for homogeneity were
+performed, and statistical heterogeneity reported as the
+ratio (in percentage) of between-study variation to the totalvariation in effect estimate according to the methoddescribed by Higgins et al.
+29. A larger ratio indicates
+greater heterogeneity between studies. Publication bias
+was examined graphically using a funnel plot of studyprecision (standard error of natural logarithm of risk ratio,lnRR) against effect size (risk ratio) for prevalent peripheral
+OA but not spine OA or incident OA given the paucity of
+studies in these categories. In the absence of signiﬁcantpublication bias, the funnel plot of study precision vs effect
+size should assume a symmetrical funnel shape with the
+apex pointing upwards. A deﬁciency in the base of thefunnel with non-symmetry indicates the presence ofpossible publication bias from unpublished small studies.
+Weighted random effects meta-regression
+27was used to
+explore heterogeneity between studies of prevalent OA at770 V. K. Srikanth et al. : Sex differences in osteoarthritis
+
+different sites (except for sites of spine disease due to small
+numbers of studies in this category). The natural logarithmof the RR (lnRR) weighted by inverse variance for eachstudy was regarded as the dependent variable and the
+effect of a number of explanatory variables (including age,
+OA deﬁnition, ethnicity, sample type, response rate anddiagnostic reliability) was examined. STATA version 8(Stata Corporation, Texas, USA, command ‘metareg’)
+27
+was used to provide regression coefﬁcients and an iterativeestimate of residual between-study heterogeneity ( t2).
+Multivariable models for each OA site were ﬁtted to examine
+the independent effect of the explanatory variables using
+a step-wise approach, using change in t2as an indicator of
+best-ﬁt. Age was not used as a covariate in the multivariableanalysis to avoid duplication of study units from stratiﬁca-
+tion. After transformation back to the original ratio scale, the
+meta-regression estimate is a ratio of the average RRreported by studies with one characteristic (e.g., radio-graphic deﬁnition) to the average RR reported by studies
+with another characteristic (deﬁnition by self-report). Uni-
+variable meta-regression was also used to explore hetero-geneity in the analysis of OA severity using age, samplingresponse, reliability of diagnosis and ethnicity as explana-
+tory variables. Meta-regression was not attempted for
+incidence analysis given the paucity of studies.Results
+SEARCH RESULTS
+A total of 178 journal articles were screened after the
+initial MEDLINE and hand-search. Sixty-eight studies wereidentiﬁed as providing OA prevalence data for males and
+females of which 28 were excluded from the analysis (17
+hospital-based studies, three colon radiograph-based stud-ies, six studies in highly selected skeletal samples, onehospital register cohort study and one published in
+Japanese). Of the remaining 40 population-based stud-
+ies
+10,11,13 e23,30e55six more were excluded35,41,43,45,46,50.
+Reasons for their exclusion were: speciﬁc numbers for
+males and females were unavailable from three stud-
+ies41,45,46, data overlapped with other included reports in
+two studies35,43, and radiographs were obtained only for
+a selected sub-sample in one study50. The ﬁnal meta-
+analyses for prevalence were performed on 34 studies with
+some studies reporting on OA in multiple joint sites.Relevant characteristics of all included studies of OAprevalence are shown in Table I . The search for papers
+regarding OA incidence generated nine studies of inter-
+est
+7e9,24,25,56 e59, of which four hospital-based studies
+were excluded56e59. The characteristics of the ﬁve
+included incidence studies are shown in Table II .
+Table I
+Included studies of prevalent osteoarthritis
+First author Sample size Study population (age) Sites of OA OA diagnosis Quality score *
+Acheson30685 Connecticut, USA (21 C) Any OA, Hand X-ray 4
+Bagge31340 Goteborg, Sweden (70 e79) Hand, knee X-ray 8
+Blumberg32355 Alaskan Eskimo (20 C) Hand X-ray 4
+Bremner23528 Jamaica (35 e65) Any OA, spine X-ray 7
+Brighton33543 Rural Black African (20 C) Any OA X-ray 7
+Butler343035 Tecumseh, USA (16 C) Hand X-ray 8
+Carmona142192 Spain (20 C) Hand, knee Clinical 5
+Cvitejic20610 Zagreb, Croatia (45 C) Hand, knee, hip X-ray 8
+Dodge364407 Tecumseh, USA (16 C) Hand, spine X-ray 7
+Felson37598 Framingham, USA (60 C) Knee X-ray 6
+Forman17682 New York, USA (60 C) Knee Clinical 2
+Haara223595 Finland Hand X-ray 8
+HES 1960 e1962107132 USA (18 C) Hand X-ray 7
+Hirsch38755 Pima Indian, USA (45 C) Hip X-ray 4
+Jones391273 Dubbo, Australia (60 C) Any OA Self-report 5
+Jones13300 Dubbo, Australia (60 C) Spine X-ray 4
+Kellgren40380 Lancashire, UK (55 e64) Any OA, spine X-ray 8
+Laine19539 Finland (55 C) Hand X-ray Csymptoms 4
+Lawrence212296 UK (15 C) Any OA, all sites X-ray 7
+Lawrence423947 UK (15 C) Spine X-ray 5
+Lethbridge-Cejku44898 Baltimore, USA (20 C) Knee X-ray 5
+Meyers47162 Black African Any OA X-ray 5
+Mikkelsen164688 Tecumseh, USA (20 C) Any OA Clinical 5
+Nevitt481492 Beijing, China (60 C) Hip X-ray 8
+NHANES-I116913 USA (25 e74) Knee, hip X-ray 7
+Odding492895 Netherlands (60 C) Knee, hip X-ray 7
+Pogrund51641 Jerusalem, Israel (45 C) Hip X-ray 5
+Solomon15300 Black South African (35 C) Hand, hip, knee X-ray (hand, hip) 5
+Steven1835,251 Scotland, UK (20 C) Any OA Clinical 3
+Van Saase526585 Netherlands (20 C) All sites X-ray 8
+Zhang552507 Beijing, China (60 C) Hand X-ray 8
+Zhang551628 Framingham, USA (60 C) Hand X-ray 8
+Zhang531032 Framingham, USA (70 C) Hand X-ray Csymptoms 6
+Zhang541781 Beijing, China (60 C) Knee X-ray 8
+HES, Health Examination Survey; NHANES, National Health and Nutrition Examination Survey; USA, United States of America; UK, United
+Kingdom.
+*Scores range from 0 to 8; higher scores indicate better quality; depending on selection of sample, OA deﬁnition, use of standard X-ray
+atlas, response rate and diagnostic reliability.771 Osteoarthritis and Cartilage Vol. 13, No. 9
+
+Fourteen studies providing sex-speciﬁc numbers of people
+with prevalent OA graded by severity were identi-
+ﬁed10,11,15,17,21,31,36 e38,44,49,52,54,55and are presented
+inTable I . Nine studies provided data for knee
+OA11,17,21,31,37,44,49,52,54, six for hip OA11,15,21,38,49,52and
+ﬁve for hand OA10,21,31,36,55, with some studies providing
+data for more than one site.SEX DIFFERENCES IN PREVALENCE OF OA
+Meta-analysis
+Results of meta-analyses for prevalent OA are shown for
+peripheral and any OA in Table III andFig. 1 , and for spine
+disease in Table IV and Fig. 2 . For any OA, data from
+nine studies ( nZ51,761) were available with an overallTable II
+Included studies of incident osteoarthritis
+Study Sample Deﬁnition of incident OA Joints Comments
+Oliveria et al.8Fallon community health
+plan members,1998e1992, age range
+20e89 yearsFirst evidence of radiographic
+OA (K&L grade R2) plus
+joint symptomsKnee, hip,
+hand OAResults presented as
+sex-speciﬁc incidence ratesper 100,000 person-yearsfor 10-year age intervals
+Wilson et al.
+9Residents of Rochester,
+Minnesota, 1985,ageR30 yearsSymptomatic radiographic OA Knee, hip OA Results presented as sex-speciﬁc
+incidence rates per 100,000 person-years for 10-year age intervals
+Manninen et al.
+710-year follow-up study
+of a cohort of Finnishfarmers, nZ6647, age
+range 40 e64 yearsRadiographic OA (K&L grade R2)
+identiﬁed from disability pensionmedical certiﬁcates.Knee OA Cases reﬂect disabling OA.
+Results presented as incidencerate per 100,000 person-yearsfor the entire sample. Nosex-speciﬁc rates available.Adjusted relative risks
+given for women vs men
+Felson et al.
+24Framingham cohort,
+nZ869, 10-year follow-up,
+age rangeRadiographic OA (K&L grade R2) Knee OA Results presented as rate ratio
+for women vs men, and for age!70 and age O70
+Chaisson et al.251967 Framingham cohort,
+nZ751, 24-year follow-upRadiographic OA at each hand
+joint (K&L grade R2), only
+in right handHand OA Results presented as cumulative
+incidence expressed as percentage ofsubjects eligible for incident disease
+K&L, Kellgren and Lawrence Standard Radiographic Atlas.
+Table III
+Sex differences in prevalent peripheral and any OA doverall pooling and by factors of interest
+Any OA Knee OA Hip OA Hand OA
+n* RRy95% CI n RR 95% CI n RR 95% CI n RR 95% CI
+Overall estimatez9 0.93 0.80 e1.08 12 0.63 0.53 e0.75 9 1.18 0.91 e1.52 13 0.81 0.73 e0.90
+By factors
+Age
+!55 years 5 0.98 0.73 e1.31 5 0.82 0.65 e1.03 3 1.04 0.62 e1.77 6 1.03 0.88 e1.21
+R55 years 8 0.92 0.80 e1.05 10 0.65 0.55 e0.77 7 1.05 0.87 e1.28 11 0.77 0.67 e0.89
+Age unstratiﬁed 1 0.78 0.72 e0.84 2 0.50 0.34 e0.72 2 1.83 1.04 e3.23 2 0.80 0.75 e0.86
+OA deﬁnition
+X-ray only 6 1.06 0.94 e1.19 11 0.67 0.57 e0.79 9 1.18 0.91 e1.52 10 0.88 0.81 e0.96
+Other 3 0.69 0.51 e0.94 1 0.33 0.24 e0.43 0n a 3 0.48 0.25 e0.91
+Ethnicity
+Caucasian 6 0.84 0.72 e0.99 10 0.65 0.54 e0.80 6 1.12 0.85 e1.48 12 0.79 0.70 e0.89
+Other 3 1.16 0.86 e1.56 2 0.51 0.44 e0.59 3 1.62 0.91 e2.89 1 0.95 0.87 e1.03
+Sample type
+Random 6 0.89 0.74 e1.07 10 0.62 0.51 e0.76 8 1.14 0.88 e1.49 9 0.81 0.72 e0.92
+Non-random 3 1.02 0.73 e1.44 2 0.67 0.39 e1.15 1 1.69 0.80 e3.53 4 0.79 0.54 e1.15
+Response rate
+R50% 6 0.93 0.77 e1.14 10 0.62 0.50 e0.76 6 1.13 0.85 e1.51 11 0.79 0.70 e0.89
+!50% or not stated 3 0.92 0.74 e1.15 2 0.70 0.44 e1.11 3 1.44 0.86 e2.42 2 1.00 0.89 e1.13
+Reliability
+Provided 2 0.93 0.86 e1.00 7 0.62 0.52 e0.75 4 1.25 0.97 e1.62 6 0.83 0.72 e0.96
+Not provided 7 0.93 0.77 e1.14 5 0.65 0.45 e0.94 5 1.14 0.74 e1.76 7 0.78 0.65 e0.93
+na, not applicable.
+*Number of studies.
+yRR, pooled risk ratio (male:female) using random effects meta-analysis; bold face indicates the RR were statistically signiﬁcant at
+aZ0.05.
+zPfor heterogeneity for overall pooled estimate in all sites !0.001.772 V. K. Srikanth et al. : Sex differences in osteoarthritis
+
+Fig. 1. Sex differences in prevalent OA dstudies of any OA and peripheral sites. Studies identiﬁed by ﬁrst author with reference citation
+number in parentheses.773 Osteoarthritis and Cartilage Vol. 13, No. 9
+
+non-signiﬁcant risk reduction for males (pooled RR 0.93,
+95% CI 0.80 e1.08) ( Table II, Fig. 1 ). For knee OA (12
+studies, nZ22,359), there was a signiﬁcant reduction in
+risk for males (pooled RR 0.63, 95% CI 0.53 e0.75). For hip
+OA (nine studies, nZ14,664), there was no signiﬁcant sex
+difference (pooled RR 1.18, 95% CI 0.91 e1.52). In handOA (13 studies, nZ30,762), there was a signiﬁcant risk
+reduction in males (pooled RR 0.81, 95% CI 0.73 e0.90).
+Only four studies provided data on spine disease ( Table III,
+Fig. 2 ), with no signiﬁcant difference in pooled risk
+estimates for the whole group between males and females
+for cervical or lumbar spine OA. There was signiﬁcantTable IV
+Sex differences in prevalent spine OA doverall pooling and by age
+Disc degeneration Apophyseal OA
+C-spine L-spine C-spine L-spine
+n* RRy95% CI n RRy95% CI n RR 95% CI n RR 95% CI
+Overall estimate 4 1.11 0.98 e1.26 4 1.09 0.89 e1.34 2 1.07 0.89 e1.28 2 1.13 0.44 e2.85
+By age
+!55 years 3 1.29 1.18 e1.41 3 1.10 0.62 e1.96 1 1.72 1.18 e2.51 1 0.99 0.96 e1.02
+O55 years 3 1.24 0.99 e1.56 2 1.10 0.92 e1.31 1 0.95 0.81 e1.11 0 na na
+Age unstratiﬁed 1 0.97 0.85 e1.10 1 1.15 1.00 e1.33 1 1.23 0.91 e1.68 1 1.29 0.98 e1.68
+Pfor heterogeneity for overall pooled estimate in all sites !0.001. C-spine, cervical spine; L-spine, lumbar spine; na, not applicable.
+*Number of studies.
+yRR, pooled risk ratio (male:female) using random effects meta-analysis ; bold face indicates the RR was statistically signiﬁcant at aZ0.05.
+Fig. 2. Sex differences in prevalent OA dstudies of spine disease. Studies identiﬁed by ﬁrst author with reference citation number in
+parentheses.774 V. K. Srikanth et al. : Sex differences in osteoarthritis
+
+heterogeneity in the overall pooled male vs female RR
+estimates in all categories of OA except cervical spineapophyseal OA for which data were available only in twostudies. This heterogeneity persisted in most subgroup
+analyses. Heterogeneity was least for hip OA and became
+negligible when hip OA studies were pooled by age andethnicity.
+Meta-regression
+The magnitude of the male vs female RR varied by age.
+Among those R55 years of age, males tended to have
+a signiﬁcantly lower pooled risk of knee OA and hand OAcompared to females, with no signiﬁcant sex differencesobserved for any OA, hip OA and spine disease ( Table III ).
+Among those !55 years of age, no signiﬁcant sex
+differences were observed in pooled risk estimates forperipheral OA categories and any OA ( Table III ). There
+appeared to be a greater pooled risk for cervical spine OA in
+males among those !55 years of age ( Table IV ), but not for
+other sites of spine disease. In univariable meta-regression,age contributed to the variability in lnRR estimates betweenstudies for both knee and hand OA. There was an
+estimated relative increase in the RR males vs females of
+C0.31 for knee OA ( PZ0.02) and C0.30 for hand OA
+(PZ0.04) for younger ( !55 years) compared to older age
+(R55 years), the effect of this being to decrease sex
+differences in prevalence in those aged !55 years.
+Male vs female differences were greater when OA was
+deﬁned by other than radiographic methods (i.e., clinical or
+self-report) for any, knee and hand OA ( Table II ). Only
+radiographic deﬁnition was used in studies of hip OA. Inunivariable meta-regression, there was an increase in RRmales vs females of C0.57 for any OA ( PZ0.01),C1.03
+for knee OA ( PZ0.02) and C0.80 (hand OA, P!0.0001)
+when OA was deﬁned using only radiographic methodscompared to other methods, the effect of this being to
+decrease sex differences in prevalence when a purelyradiographic deﬁnition was used.
+Male vs female RRs were lower in predominantly
+Caucasian samples compared to non-Caucasian samples
+for any OA, hip OA and hand OA, but with very littledifference for knee OA ( Table II ). For other quality
+measures, the effects of random vs non-random sample
+or adequate response rate ( R50%) vs poor response rate
+(!50%) were to cause an increase in the observed male vs
+female RRs for any OA and hip OA (in the former) and hip
+and hand OA (in the latter). The provision or non-provision
+of a reliability estimate for diagnosis did not change RRestimates. In univariable meta-regression, there were nosigniﬁcant associations observed between ethnicity, sample
+type, response rate, diagnostic reliability and lnRR. There
+was no signiﬁcant effect of overall quality score on lnRR forany OA and other peripheral sites.
+With multivariable meta-regression, the associations of
+explanatory variables with lnRR varied between OA
+categories ( Table V ). No explanatory variables were
+signiﬁcantly associated with lnRR for prevalent hip OA(data not shown). For any OA, 70% of between-study
+heterogeneity ( t
+2reduction from 0.10 to 0.03) could be
+explained by the combination of method of OA deﬁnition,adequacy of response rate and ethnicity. These results for
+any OA remained unchanged after excluding a study18with
+an extremely large sample size ( nZ32,251) from the
+analysis. This regression equation gives a predicted malevs female RR of 0.90 for any OA in an ‘‘ideal’’
+study (radiographic deﬁnition, response rate O50%) in
+a Caucasian population, very similar to the overall pooledestimate of 0.93. For knee OA, the combination of OAdeﬁnition, ethnicity and provision of diagnostic reliability
+explained 55% of residual heterogeneity between studies
+(t
+2reduction from 0.09 to 0.04). From this equation, the
+Table V
+Multivariable meta-regression of studies of prevalent OA
+Variable Any OA (9 studies *) Knee OA (12 studies *) Hand OA (13 studies *)
+b RR ratioyPzb RR ratio Pzb RR ratio Pz
+OA deﬁnition
+X-ray only 0.56 1.75 0.001 0.92 2.51 0.001 1.25 3.49 !0.001
+Otherx1.00 1.00 1.00
+Ethnicity
+Caucasian /C2550.25 0.78 0.13 0.33 1.38 0.10 ee e
+Otherx1.00 1.00 ee e
+Sample
+Random eee e ee /C2550.91 0.41 0.002
+Non-randomxeee e ee 1.00
+Response rate
+R50% /C2550.42 0.65 0.01 eee 0.78 2.18 0.012
+!50%/not statedx1.00 eee 1.00
+Reliability
+Provided eee /C2550.26 0.77 0.09 ee e
+Not providedxeee 1.00 ee e
+Constant 0.01 /C2551.44 /C2551.26
+Results presented only for variables contained in the model of best-ﬁt in each OA category, with cells for those not included in the model left
+blank. No signiﬁcant associations were found for hip OA, therefore no data presented for this category. b-Regression coefﬁcient.
+*Number of studies providing subgroup data.
+yRatio of RR’s for subgroups estimated as eb.
+zPfor signiﬁcance for estimated change in RR for unit change in reference category.
+xReference category in each subgroup.775 Osteoarthritis and Cartilage Vol. 13, No. 9
+
+predicted male vs female RR of 0.64 for an ideal study
+(radiographic deﬁnition, reliable measurement) in Cauca-sians is very similar to the pooled estimate of 0.63. In hand
+OA, 88% of residual between-study heterogeneity ( t2
+reduction from 0.08 to 0.01) was explained by the
+combination of OA deﬁnition, sample type and adequacy
+of response rate. Using this equation, the predicted male vs
+female RR for hand OA in an ideal study (radiographicdeﬁnition, random sample, response rate O50%) is 0.87,
+similar to the pooled estimate of 0.81.
+SEX DIFFERENCE IN INCIDENCE OF OA
+The meta-analysis for incident OA is presented in Fig. 3 .
+In males, there was a statistically signiﬁcant reduction in the
+incidence rate of knee OA (IRR 0.55, 95% CI 0.32 e0.94,
+PZ0.03) and hip OA (IRR 0.64, 95% CI 0.48 e0.86,
+PZ0.003), and a non-signiﬁcant reduction in the incidence
+rate of hand OA (IRR 0.65, 95% CI 0.35 e1.20, PZ0.17).
+There was signiﬁcant between-study heterogeneity for kneeand hand OA, but not for hip OA.
+Examination of the funnel plots showed that there was
+non-symmetry for knee OA, hip OA and hand OA, but not for
+any OA ( ﬁg. 1 ). However, there were very few small studiesin most categories. There was a relative paucity of studies
+with greater male vs female RRs in knee and hand OA, withthe reverse seen in studies of hip OA.
+SEX DIFFERENCES IN SEVERITY OF PREVALENT OA
+These results are shown in Fig. 4 . Prevalent knee OA
+was signiﬁcantly more severe in females (female vs male
+pooled SMD 0.20, 95% CI 0.11 e0.28, P!0.001). These
+estimates did not change after excluding the single studywithout radiographic deﬁnition for OA (data not shown)17.
+There was no difference between males and females in the
+severity of prevalent hip OA (pooled SMD 0.02, 95% CI/C2550.07 to 0.10, PZ0.65) or prevalent hand OA (pooled
+SMD /C2550.03, 95% CI /C2550.11 to 0.05, PZ0.43). There was
+signiﬁcant heterogeneity between studies in the pooled
+analyses for all three categories. In univariable meta-regression, age contributed signiﬁcantly to the variability
+in SMDs between studies of knee OA ( bZ0.18, P!0.001)
+and hand OA ( bZ0.21, P!0.001) with a trend for hip OA
+(bZ/C2550.08, PZ0.08). The effect of age in knee and hand
+OA was to increase the male vs female SMDs in people
+agedR55 years compared to those aged !55 years
+(Fig. 5 ). There were no signiﬁcant effects of sample type,
+Fig. 3. Meta-analysis of sex differences in incident osteoarthritis. Studies identiﬁed by ﬁrst author with reference citation number in
+parentheses.776 V. K. Srikanth et al. : Sex differences in osteoarthritis
+
+response rates, diagnostic reliability and ethnicity on
+between-study variability.
+Discussion
+This meta-analysis provides evidence to support sex
+differences in prevalent and incident OA that are site-
+speciﬁc, with females generally at a higher risk. Heteroge-
+neity in sex differences in prevalent OA was substantiallyexplained by age, ethnicity, method of OA deﬁnition and
+sampling issues. We also found that females had more
+severe radiographic knee OA than males, althoughthere were no signiﬁcant sex differences in severity of hip
+and hand OA. Age was a signiﬁcant contributor to the
+heterogeneity of effect of sex on severity in knee and handOA, with larger sex differences in people aged R55 years.
+There was signiﬁcant risk reduction for knee and hand
+OA in males and this was consistent for both prevalence
+and incidence meta-analyses. However, the signiﬁcant 36%
+Fig. 4. Meta-analysis of severity and prevalent osteoarthritis. Studies identiﬁed by ﬁrst author with reference citation number in parentheses.777 Osteoarthritis and Cartilage Vol. 13, No. 9
+
+risk reduction for incident hip OA in males contrasts with the
+lack of a sex difference in prevalent hip OA. Sex differences
+in incidence studies are likely to be more reliable as theyare free from the effect of differential survival between
+sexes that may be seen in prevalence studies. Although
+only two incidence studies of hip OA were available forpooling in the present analysis, the homogeneity of effectbetween these two large studies is also supportive of a true
+reduction in incident hip OA risk in males. Both studies were
+performed amongst Caucasian people with symptomaticOA, thus limiting conclusions to such populations. More-over, such a sex difference in incident risk of hip OA is
+consistent with emerging data in the literature. In a large
+clinical sample of patients undergoing urography, femaleswere found to have signiﬁcantly greater decline in joint
+space width over a 4-year period
+60. In a randomly selected
+population-based older cohort, we have found that femalesex was independently associated with lower hip cartilagevolume in a cross-sectional analysis of a population-based
+sample of older people
+61. Longitudinal studies combining
+hip cartilage volume measures and standard radiographicmeasures may provide more deﬁnitive answers in thisregard. Few data are available in the published literature to
+explain the sex differences observed in hand OA, with
+conﬂicting reports about associations of systemic factorssuch as hormonal status and obesity with hand OA in malesand females
+62,63. Given that genetic factors play an
+important part in hand OA, it remains to be seen if the
+difference between sexes can be explained by interplaybetween genes and systemic/environmental factors. Find-
+ings for ‘‘any OA’’ were difﬁcult to interpret because sex
+differences may have been masked by the variation in jointsites involved in different studies. In spine disease, theincreased risk in younger males of cervical spine OA
+suggests the possibility of trauma as an explanation.
+Heterogeneity between studies remained an important
+factor limiting the interpretation of our results for prevalentand incident OA. We were able to explore potential reasons
+for such heterogeneity for the former, but not the latter. We
+found that sex differences in knee and hand OA varied withage, such that prevalence was greater in females R55
+years of age. The reasons for this site and age speciﬁcity
+are largely unknown but suggest an effect of the meno-pause
+64, reﬂecting the effect of estrogen deﬁciency in
+earlier life. In a recent report, the sex difference in kneecartilage volume became greater after 50 years of age,
+suggesting a possible hormonal mediator of the sex
+difference and indicating the need for further research inthis area65. Although estrogen may have a modulating
+effect on cartilage, the effects of sex hormones and growth
+factors in mediating such an age esex interaction in OA risk
+are poorly understood2,64. We also speculate that the
+variation of such sex differences by age may also reﬂect the
+effect of trauma in earlier life in males although this remains
+to be explored further.
+Apart from age, univariable meta-regression showed that
+method of OA deﬁnition also explained a substantial
+amount of the variation between studies of prevalent OA.
+The use of radiographic methods to deﬁne OA appeared todecrease the difference between sexes compared to self-
+report or clinical methods. Non-radiographic methods based
+on pain or other symptoms may result in over-diagnosis ofOA. Female sex has been shown to be associated withhand pain after adjusting for age and radiographic scores
+for hand OA
+66. Women may be more likely to self-report
+OA. Greater pain levels in women may be mediated byspeciﬁc forms of behaviour67that could lead to higher levels
+of self-report. Therefore, the use of non-radiographic
+methods may tend to exaggerate sex differences in
+prevalence due to reporting bias. Multivariable modelingshowed that measures of study quality such as nature ofsample, response rates and reliability, in variable combina-
+tions with deﬁnition and ethnicity, also explained some of the
+heterogeneity between studies of any, knee and hand OA.After accounting for such heterogeneity in the multivariable
+model, the predicted male vs female RRs for these
+categories were almost the same as the overall unadjustedpooled estimates. When combined with the small variation inrisk ratios between the individual studies, this suggests that
+the observed degree of statistical heterogeneity between
+studies may to some extent be explained by the largesamples in each category, and that the pooled estimatesmay be a reasonable reﬂection of the true sex differences.
+Females had more severe radiographic knee OA than
+males, but no signiﬁcant differences were found betweensexes in the severity of hip and hand OA. These ﬁndings
+must be interpreted again in the light of heterogeneity
+between studies. We found that age may importantlycontribute to heterogeneity in these analyses with sexdifferences being more pronounced in people aged R55-1.00-0.500.000.501.00
+Knee Hip Hand
+SiteStandardised Mean Difference
+Favours Male<55 years
+>= 55 years P < 0.001 P = 0.08 P < 0.001Favours Female
+Fig. 5. The effect of age on sex differences in severity of osteoarthritis.778 V. K. Srikanth et al. : Sex differences in osteoarthritis
+
+years, this effect being consistent for knee and hand OA.
+Other variables such as body mass index, physical activity,hormonal changes and bone factors may also explain thisheterogeneity. In knee OA, heterogeneity cannot be
+explained by the method of OA diagnosis (self-report vs
+radiographic diagnosis) because the exclusion of the solestudy without radiographic diagnosis did not change theresults. Similarly, it is unlikely that the method of grading of
+severity is responsible for variability in effect between
+studies. Severity in almost all studies was graded using thestandard Kellgren and Lawrence scale, which is weighted
+more towards the presence of osteophytes. It is possible,
+however, that different results may be obtained witha method of grading that is less dependent on the presenceof osteophytes and more on the degree of joint space
+narrowing
+68. Heterogeneity may have also masked any sex
+differences in the severity of hip and hand OA, and thus wemay be limited in our ability to draw ﬁrm conclusions in thisregard.
+The inclusion of only population-based studies, in-
+dependent double data extraction and a priori speciﬁcation
+of quality criteria are strengths of this meta-analysis.However, the possibility of publication bias is a potential
+limitation. Funnel plot asymmetry appeared to exist for
+the analyses of prevalent knee, hip and hand OA,indicating potential publication bias. It is difﬁcult to
+conclude publication bias in the presence of heterogeneity
+of effect. However, if present, such bias may arise from theexclusion of smaller unpublished studies or non-Englishstudies from the analysis. Such a bias may not be
+important in the case of hip OA, given that the overall
+pooled result is towards the null. In the case of knee andhand OA, the effect of publication bias is that male vsfemale differences found in our analysis may be slight
+overestimates, and the effect of inclusion of any un-
+published small studies may be to slightly attenuate but isunlikely to abolish the sex differences due to the large
+samples included.
+In conclusion, we provide meta-analytic evidence for
+a greater risk in females for prevalent and incident knee andhand OA and incident hip OA. No signiﬁcant sex differences
+were observed for prevalent hip OA. We also found a higher
+risk for prevalent cervical spine degeneration in males aged!55 years. Females also tended to have more severe knee
+OA than males. Sex differences in severity were stronger
+among people aged R55 years. Thus, there is some basis
+for further exploration of factors responsible for sex differ-ences in peripheral joint sites and possibly in the cervical
+spine. Further studies into these sex differences have the
+potential to increase understanding mechanisms underlyingthis common disease.
+References
+1. Hochberg MC. Epidemiology of osteoarthritis: current
+concepts and new insights. J Rheumatol Suppl 1991;27:4e6.
+2. Davis MA. Epidemiology of osteoarthritis. Clin Geriatr
+Med 1988;4(2):241 e55.
+3. Felson DT, Zhang Y. An update on the epidemiology of
+knee and hip osteoarthritis with a view to prevention.Arthritis Rheum 1998;41(8):1343 e55.
+4. Sowers M. Epidemiology of risk factors for osteoarthri-
+tis: systemic factors. Curr Opin Rheumatol 2001;13(5):447e51.5. Cicuttini FM, Spector TD. The epidemiology of osteo-
+arthritis of the hand. Rev Rhum Engl Ed 1995;62(6 Suppl 1):3S e8S.
+6. Felson DT, Zhang Y, Hannan MT, Naimark A, Weiss-
+man B, Aliabadi P, et al . Risk factors for incident
+radiographic knee osteoarthritis in the elderly: theFramingham Study. Arthritis Rheum 1997;40(4):728e33.
+7. Manninen P, Riihimaki H, Heliovaara M, Makela P.
+Overweight, gender and knee osteoarthritis. Int J ObesRelat Metab Disord 1996;20(6):595 e7.
+8. Oliveria SA, Felson D, Reed JI, Cirillo PA, Walker AM.
+Incidence of symptomatic hand, hip, and kneeosteoarthritis among patients in a health maintenanceorganization. Arthritis Rheum 1995;38(8):1134 e41.
+9. Wilson MG, Michet CJ Jr, Ilstrup DM, Melton LJ 3rd.
+Idiopathic symptomatic osteoarthritis of the hip andknee: a population-based incidence study. Mayo ClinicProc 1990;65(9):1214 e21.
+10. US Department of Health Education and Welfare.
+Prevalence of Osteoarthritis in Adults by Age, Sex,Race and Geographic Area d1960e1962. Washing-
+ton, DC: National Center for Health Statistics 1966.
+Report No.: (PHS)1000-Series 1-No15.
+11. US Department of Health Education and Welfare. Basic
+Data on Arthritis: Knee, Hip and Sacroiliac Joints
+Maryland: National Center for Health Statistics and
+Technology 1979. Report No.: PHS 79 e1661.
+12. Ota H. Prevalence of osteoarthrosis of the hip and other
+joints in Japanese population. Nippon Seikeigeka
+Gakkai Zasshi 1979;53(2):165 e80.
+13. Jones G, Nguyen T, Sambrook PN, Kelly PJ, Eisman JA.
+A longitudinal study of the effect of spinal degenerativedisease on bone density in the elderly. J Rheumatol
+1995;22(5):932 e6.
+14. Carmona L, Ballina J, Gabriel R, Laffon A. The burden
+of musculoskeletal diseases in the general population
+of Spain: results from a national survey. Ann Rheum
+Dis 2001;60(11):1040 e5.
+15. Solomon L, Beighton P, Lawrence JS. Rheumatic
+disorders in the South African Negro. Part II. Osteo-
+arthrosis. S Afr Med J 1975;49(42):1737 e40.
+16. Mikkelsen WM, Dodge HJ, Duff IF, Kato H. Estimates
+of the prevalence of rheumatic diseases in the popu-lation of Tecumseh, Michigan, 1959 e60. J Chronic Dis
+1967;20(6):351 e69.
+17. Forman MD, Malamet R, Kaplan D. A survey of
+osteoarthritis of the knee in the elderly. J Rheumatol
+1983;10(2):282 e7.
+18. Steven MM. Prevalence of chronic arthritis in four
+geographical areas of the Scottish Highlands. AnnRheum Dis 1992;51(2):186 e94.
+19. Laine VAI. Rheumatic complaints in an urban popula-
+tion in Finland. Acta Rheum Scand 1962;8:81 e8.
+20. Cvijetic S, Campbell L, Cooper C, Kirwan J, Potocki K.
+Radiographic osteoarthritis in the elderly population of
+Zagreb: distribution, correlates, and the pattern of joint
+involvement. Croat Med J 2000;41(1):58 e63.
+21. Lawrence JS, Bremner JM, Bier F. Osteo-arthrosis.
+Prevalence in the population and relationship between
+symptoms and x-ray changes. Ann Rheum Dis 1966;
+25(1):1e24.
+22. Haara MM, Manninen P, Kroger H, Arokoski JP,
+Karkkainen A, Knekt P, et al. Osteoarthritis of ﬁnger
+joints in Finns aged 30 or over: prevalence, determi-nants, and association with mortality. Ann Rheum Dis2003;62(2):151 e8.779 Osteoarthritis and Cartilage Vol. 13, No. 9
+
+23. Bremner JM, Lawrence JS, Miall WE. Degenerative
+joint disease in a Jamaican rural population. AnnRheum Dis 1968;27(4):326 e32.
+24. Felson DT, Zhang Y, Hannan MT, Naimark A, Weiss-
+man BN, Aliabadi P, et al. The incidence and natural
+history of knee osteoarthritis in the elderly. TheFramingham Osteoarthritis Study. Arthritis Rheum1995;38(10):1500 e5.
+25. Chaisson CE, Zhang Y, McAlindon TE, Hannan MT,
+Aliabadi P, Naimark A, et al . Radiographic hand
+osteoarthritis: incidence, patterns, and inﬂuence of
+pre-existing disease in a population based sample.
+J Rheumatol 1997;24(7):1337 e43.
+26. Kellgren JH, Jeffrey MR, Ball J. The Epidemiology of
+Chronic Rheumatism. Atlas of Standard Radiographs
+of Arthritis. Oxford: Blackwell Scientiﬁc 1963; Volume II.
+27. Sharp SJ. Meta-analysis regression. Stata Tech Bull
+1998;42:16 e22.
+28. DerSimonian R, Laird N. Meta-analysis in clinical trials.
+Control Clin Trials 1986;7(3):177 e88.
+29. Higgins JP, Thompson SG. Quantifying heterogeneity
+in a meta-analysis. Stat Med 2002;21(11):1539 e58.
+30. Acheson RM, Collart AB. New Haven survey of joint
+diseases. XVII. Relationship between some systemic
+characteristics and osteoarthrosis in a general pop-ulation. Ann Rheum Dis 1975;34(5):379 e87.
+31. Bagge E, Bjelle A, Valkenburg HA, Svanborg A.
+Prevalence of radiographic osteoarthritis in two elderlyEuropean populations. Rheumatol Int 1992;12(1):33 e8.
+32. Blumberg B, Bloch K, Black R, Dotter C. A study of
+prevalence of arthritis in Alaskan Eskimos. Arthritis
+and Rheumatism 1961;4(4):325 e41.
+33. Brighton SW, de la Harpe AL, Van Staden DA. The
+prevalence of osteoarthrosis in a rural African com-
+munity. Br J Rheumatol 1985;24(4):321 e5.
+34. Butler WJ, Hawthorne VM, Mikkelsen WM, Carman WJ,
+Bouthillier DL, Lamphiear DE, et al . Prevalence of
+radiologically deﬁned osteoarthritis in the ﬁnger and
+wrist joints of adult residents of Tecumseh, Michigan,1962e65. J Clin Epidemiol 1988;41(5):467 e73.
+35. Davis MA, Ettinger WH, Neuhaus JM, Mallon KP.
+Knee osteoarthritis and physical functioning: evidence
+from the NHANES I epidemiologic followup study.J Rheumatol 1991;18(4):591 e8.
+36. Dodge HJ, Mikkelsen WM, Duff IF. Age esex speciﬁc
+prevalence of radiographic abnormalities of the joints
+of the hands, wrists and cervical spine of adultresidents of the Tecumseh, Michigan, Community
+Health Study area, 1962 e1965. J Chronic Dis 1970;
+23(3):151 e9.
+37. Felson DT. The epidemiology of knee osteoarthritis:
+results from the Framingham Osteoarthritis Study.
+Semin Arthritis Rheum 1990;20(3 Suppl 1):42 e50.
+38. Hirsch R, Fernandes RJ, Pillemer SR, Hochberg MC,
+Lane NE, Altman RD, et al . Hip osteoarthritis
+prevalence estimates by three radiographic scoring
+systems. Arthritis Rheum 1998;41(2):361 e8.
+39. Jones G, Nguyen T, Sambrook PN, Lord SR, Kelly PJ,
+Eisman JA. Osteoarthritis, bone density, posturalstability, and osteoporotic fractures: a population
+based study. J Rheumatol 1995;22(5):921 e5.
+40. Kellgren JH, Lawrence JS. Osteoarthrosis and disk
+degeneration in an urban population. Ann Rheum Dis
+1958;17:388 e97.
+41. Klaukka T, Sievers K, Takala J. Epidemiology of
+rheumatic diseases in Finland in 1964 e76. Scand J
+Rheumatol Suppl 1982;47:5 e13.42. Lawrence JS. Disc degeneration. Its frequency and
+relationship to symptoms. Ann Rheum Dis 1969;28(2):121e38.
+43. Lawrence JS. Generalized osteoarthrosis in a popula-
+tion sample. Am J Epidemiol 1969;90(5):381 e9.
+44. Lethbridge-Cejku M, Tobin JD, Scott WW Jr, Reichle R,
+Plato CC, Hochberg MC. The relationship of age andgender to prevalence and pattern of radiographic
+changes of osteoarthritis of the knee: data from
+Caucasian participants in the Baltimore LongitudinalStudy of Aging. Aging (Milano) 1994;6(5):353 e7.
+45. Mannoni A, Briganti MP, Di Bari M, Ferrucci L,
+Costanzo S, Serni U, et al. Epidemiological proﬁle of
+symptomatic osteoarthritis in older adults: a populationbased study in Dicomano, Italy. Ann Rheum Dis 2003;
+62(6):576 e8.
+46. Mannoni A, Briganti MP, Di Bari M, Ferrucci L, Serni U,
+Masotti G, et al . Prevalence of symptomatic hand
+osteoarthritis in community-dwelling older persons: the
+ICARe Dicomano study. Osteoarthritis Cartilage 2000;
+8(Suppl A):S11 e3.
+47. Meyers OL, Jessop S, Klemp P. The epidemiology of
+rheumatic disease in a rural and an urban population over
+the age of 65 years. S Afr Med J 1982;62(12):403 e5.
+48. Nevitt MC, Xu L, Zhang Y, Lui LY, Yu W, Lane NE, et al.
+Very low prevalence of hip osteoarthritis among
+Chinese elderly in Beijing, China, compared with
+whites in the United States: the Beijing osteoarthritisstudy. Arthritis Rheum 2002;46(7):1773 e9.
+49. Odding E, Valkenburg HA, Algra D, Vandenouweland FA,
+Grobbee DE, Hofman A. Associations of radiological
+osteoarthritis of the hip and knee with locomotordisability in the Rotterdam Study. Ann Rheum Dis 1998;57(4):203 e8.
+50. Petersson IF, Boegard T, Saxne T, Silman AJ,
+Svensson B. Radiographic osteoarthritis of the kneeclassiﬁed by the Ahlback and Kellgren & Lawrence
+systems for the tibiofemoral joint in people aged
+35e54 years with chronic knee pain. Ann Rheum
+Dis 1997;56(8):493 e6.
+51. Pogrund H, Rutenberg M, Makin M, Robin G, Menczel J,
+Steinberg R. Osteoarthritis of the hip joint and osteo-
+porosis: a radiological study in a random populationsample in Jerusalem. Clin Orthop 1982;164:130 e5.
+52. van Saase JL, van Romunde LK, Cats A,
+Vandenbroucke JP, Valkenburg HA. Epidemiology of
+osteoarthritis: Zoetermeer survey. Comparison ofradiological osteoarthritis in a Dutch population with
+that in 10 other populations. Ann Rheum Dis 1989;
+48(4):271 e80.
+53. Zhang MY, Niu J, Kelly-Hayes M, Chaisson CE,
+Aliabadi P, Felson D. Prevalence of symptomatic hand
+osteoarthritis and its impact on functional status among
+the elderly. Am J Epidemiol 2002;156(11):1021 e7.
+54. Zhang Y, Xu L, Nevitt MC, Aliabadi P, Yu W, Qin M, et al.
+Comparison of the prevalence of knee osteoarthritis
+between the elderly Chinese population in Beijing and
+whites in the United States: the Beijing OsteoarthritisStudy. Arthritis Rheum 2001;44(9):2065 e71.
+55. Zhang Y, Xu L, Nevitt MC, Niu J, Goggins JP, Aliabadi P,
+et al. Lower prevalence of hand osteoarthritis among
+Chinese subjects in Beijing compared with whitesubjects in the United States: the Beijing Osteoarthritis
+Study. Arthritis Rheum 2003;48(4):1034 e40.
+56. Hernborg J, Nilsson BE. Age and sex incidence of
+osteophytes in the knee joint. Acta Orthop Scand1973;44(1):66 e8.780 V. K. Srikanth et al. : Sex differences in osteoarthritis
+
+57. Harris PA, Hart DJ, Dacre JE, Huskisson EC,
+Spector TD. The progression of radiological handosteoarthritis over ten years: a clinical follow-up study.Osteoarthritis Cartilage 1994;2(4):247 e52.
+58. Hoaglund FT, Yau AC, Wong WL. Osteoarthritis of the
+hip and other joints in southern Chinese in Hong Kong.J Bone Joint Surg Am 1973;55(3):545 e57.
+59. Isomaki HA. An epidemiologically based follow-up study
+of recent arthritis. Incidence, outcome and classiﬁcation.
+Clin Rheumatol 1987;6(Suppl 2):53 e9.
+60. Lanyon P, Muir K, Doherty S, Doherty M. Age and sex
+differences in hip joint space among asymptomatic
+subjects without structural change: implications forepidemiologic studies. Arthritis Rheum 2003;48(4):1041e6.
+61. Zhai G, Cicuttini F, Srikanth V, Cooley HM, Ding C,
+Jones G. Factors associated with hip cartilage volumemeasured by magnetic resonance imaging (MRI) dthe
+Tasmanian Older Adult Cohort Study (TASOAC).
+Arthritis Rheum (In press).
+62. Hart DJ, Spector TD. Deﬁnition and epidemiology of
+osteoarthritis of the hand: a review. OsteoarthritisCartilage 2000;8(Suppl A):S2 e7.
+63. Cicuttini FM, Spector TD. Osteoarthritis in the aged.
+Epidemiological issues and optimal management.Drugs Aging 1995;6(5):409 e20.
+64. Wluka AE, Cicuttini FM, Spector TD. Menopause,
+oestrogens and arthritis. Maturitas 2000;35(3):183e99.65. Ding C, Cicuttini F, Scott F, Glisson M, Jones G. Sex
+differences in knee cartilage volume in adults: roleof body and bone size, age and physical activity.Rheumatology (Oxford) 2003;42(11):1317 e23.
+66. Jones G, Cooley HM, Bellamy N. A cross-sectional
+study of the association between Heberden’s nodes,radiographic osteoarthritis of the hands, grip strength,disability and pain. Osteoarthritis Cartilage 2001;9(7):
+606e11.
+67. Keefe FJ, Lefebvre JC, Egert JR, Afﬂeck G, Sullivan
+MJ, Caldwell DS. The relationship of gender to pain,
+pain behavior, and disability in osteoarthritis patients:
+the role of catastrophizing. Pain 2000;87(3):325 e34.
+68. Altman RD. The classiﬁcation of osteoarthritis. J Rheu-
+matol Suppl 1995;43:42 e3.
+Abbreviations
+HES :Health Examination Survey.
+lnRR :Natural Logarithm of Risk Ratio.
+IRR:Incidence Rate Ratio.
+NHANES :National Health and Examination Survey.
+OA:Osteoarthritis.
+ROA :Radiographic Osteoarthritis.
+RR:Risk Ratio.
+SE:Standard Error.
+SMD :Standardized Mean Difference.781 Osteoarthritis and Cartilage Vol. 13, No. 9
+

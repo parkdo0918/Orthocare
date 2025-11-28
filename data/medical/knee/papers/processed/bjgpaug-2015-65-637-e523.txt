@@ -1,0 +1,560 @@
+INTRODUCTION
+Knee symptoms are the tenth most 
+common reason to visit a primary care 
+physician in the US.1 It is most important 
+to evaluate at an early stage if a patient needs referral to secondary care, whether intra-articular lesions can be ruled out, and 
+whether symptoms are likely to be resolved 
+with conservative treatment.
+1 As meniscal 
+tears in the short term lead to disability in 
+daily functions, absenteeism from work, 
+and inability to perform sports, and in the long term lead to an increased risk of knee 
+osteoarthritis (OA), early diagnosis and 
+treatment of meniscal tears is important.
+2,3
+Previous studies indicate that the Joint 
+Line Tenderness (JLT) test4 and Thessaly 
+test4,5 are accurate for detection of meniscal 
+tears in secondary care, but not in primary 
+care.6 A new weight-bearing test, the Deep 
+Squat test, performed better in primary care.
+6 Nevertheless, without additional 
+information, it was found that the Deep 
+Squat test had limited sensitivity.6 As a 
+single test result cannot predict a meniscal tear in primary care,
+6 combining the Deep 
+Squat test with other predicting variables 
+may improve its detection of meniscal 
+tears.7
+In several studies, predictive variables for 
+meniscal tears were identified. Shrier et al 
+suggested that effusion can be a useful sign 
+in a young person with an acute meniscal 
+tear, but not in older individuals with a degenerative non-traumatic tear.
+5 In a 
+recent systematic review,8 strong evidence was provided that age >60 years, male 
+sex, work-related kneeling and squatting, 
+and climbing stairs are risk factors for degenerative meniscal tears. Also, strong evidence was found that prolonged waiting 
+time for anterior cruciate ligament (ACL) 
+reconstruction surgery after ACL injury is a risk factor for a medial meniscal 
+tear. For acute meniscal tears there is 
+strong evidence that playing soccer and 
+playing rugby are risk factors. It is unclear, 
+however, whether some risk factors (for example, age, sex, work-related kneeling 
+and squatting, stair climbing, performing 
+sports) also could be usefully combined 
+to detect a meniscal tear. Lowery 
+et al 
+evaluated the effectiveness of a composite examination, determining the presence 
+of a meniscal tear.
+7 Five variables were 
+included: a history of catching or locking of 
+the knee, pain with forced hyperextension, 
+pain with maximum flexion, pain or audible 
+click with McMurray’s test, and joint line 
+tenderness. A positive predictive value of 92.3% was found. Patients were already 
+scheduled for arthroscopy, however, 
+meaning that results are not applicable for primary care screening as the spectrum of 
+disease was not comparable.
+If early and correct detection of meniscal 
+tears could be provided, the primary care physician could make a more informed 
+selection for magnetic resonance imaging (MRI) referral and subsequent diagnosis. 
+Patients with low suspicion for a meniscal 
+tear or with degenerative meniscal tears 
+BAM Snoeker,  MSc physical therapist and 
+clinical epidemiologist; AH Zwinderman, PhD, 
+professor in biostatistics; C Lucas, PhD, physical 
+therapist and professor of clinical epidemiology; 
+R Lindeboom, PhD, epidemiologist, Academic 
+Medical Centre, University of Amsterdam, Division 
+of Public Health, Amsterdam, the Netherlands. 
+Address for correspondence
+BAM Snoeker, Academic Medical Centre, University 
+of Amsterdam, Division of Public Health, PO Box 22600, 1100 DD, Amsterdam, the Netherlands.
+E-mail: b.a.snoeker@amc.uva.nl
+Submitted: 12 November 2014; Editor’s response: 
+15 December 2014; final acceptance: 6 February 
+2015.
+©British Journal of General Practice
+This is the full-length article (published online  
+27 Jul 2015) of an abridged version published in 
+print. Cite this article as: Br J Gen Pract 2015;  
+DOI: 10.3399/bjgp15X686089A clinical prediction rule for meniscal tears in 
+primary care:
+development and internal validation using a multicentre studyBarbara AM Snoeker, Aeilko H Zwinderman, Cees Lucas and Robert LindeboomResearch
+Abstract
+Background 
+In primary care, meniscal tears are difficult to 
+detect. A quick and easy clinical prediction rule based on patient history and a single meniscal test may help physicians to identify high-risk patients for referral for magnetic resonance imaging (MRI).
+Aim
+The study objective was to develop and internally validate a clinical prediction rule (CPR) for the detection of meniscal tears in primary care.
+Design and setting
+In a cross-sectional multicentre study, 121 participants from primary care were included 
+if they were aged 18–65 years with knee 
+complaints that existed for <6 months, and 
+who were suspected to suffer from a meniscal 
+tear.
+Method
+One diagnostic physical meniscal test and 14 clinical variables were considered to be 
+predictors of MRI outcome. Using known 
+predictors for the presence of meniscal tears, a 
+‘quick and easy’ CPR was derived. 
+Results
+The final CPR included the variables sex, age, weight-bearing during trauma, performing sports, effusion, warmth, discolouration, and Deep Squat test. The final model had an AUC of 0.76 (95% CI = 0.72 to 0.80). A cut-point 
+of 150 points yielded an overall sensitivity of 86.1% and a specificity of 45.5%. For this cut-point, the positive predictive value was 55.0%, and the negative predictive value was 81.1%. A scoring system was provided including the corresponding predicted probabilities for a meniscal tear. 
+Conclusion
+The CPR improved the detection of meniscal tears in primary care. Further evaluation of the CPR in new primary care patients is needed, however, to assess its usefulness.
+Keywords
+clinical prediction rule; diagnosis; knee; primary health care.
+e523  British Journal of General Practice, August 2015
+
+can be treated conservatively. Therefore, 
+as part of a full clinical assessment by 
+the primary care physician, the clinical 
+prediction rule (CPR) may improve the 
+management of knee patients.9,10
+Therefore, the purpose of this study 
+was to develop and validate a prediction model for the detection of meniscal tears 
+in primary care.
+METHOD
+Study design
+Data on the history and physical examination 
+of participants with knee complaints visiting 
+their GP or physical therapist (PT) including 
+the results of MRI were used to develop the CPR. Data were collected from October 
+2009 until December 2013 in 14 primary care centres in the Netherlands, where 
+24 GPs and 28 PTs referred participants with knee complaints and suspicion of 
+a meniscal tear to one of the research centres in Leiderdorp. The four meniscal 
+tests were the Thessaly test, JLT test, Deep Squat test, and Squat Lunge test. In earlier 
+data analyses, it was found that only one 
+test result was predictive in primary care, 
+the Deep Squat test.
+6 Therefore, only this 
+meniscal test was taken into account for 
+the current study. Patient characteristics were obtained during interview and physical 
+examination (for example, effusion, warm knee, discolouration, and extension of 
+the knee) by an investigator who did not perform any meniscal test. The meniscal 
+test was performed by a physical therapist without knowledge of patient history or 
+MRI results. A radiologist with more than 8 years of experience with musculoskeletal 
+MRI interpreted the MRI studies. The radiologist was blinded to patient history 
+and the meniscal test result.
+Participants
+Participants were included in the study if 
+they were aged 18–65-years and had knee 
+complaints that had existed for <6 months. 
+The knee complaints had not yet been diagnosed through radiologic examination 
+(for example MRI). Those who had had a 
+knee arthroplasty or other intra-articular 
+knee operations in the past, or MRI 
+contraindications, were excluded.
+Predictors for meniscal tears
+Potential predictive variables were selected through a systematic literature review, 
+and other literature.
+7,8,11 The following 
+candidate predictors were collected: age, 
+sex, BMI, origin of complaints, locked 
+knee (yes/no), giving way, weight-bearing 
+during trauma, performing sports, work-related kneeling or squatting (> 1 hour per 
+day), ability to walk the stairs, effusion, 
+warm knee, discolouration of the knee, 
+pain during extension, and Deep Squat 
+test. If a predictor was not interpretable or contradictive according to current 
+knowledge, the predictor was excluded 
+from the model.
+Statistical analysis
+From all potential predictor variables, the set of most predictive variables was selected using the LASSO (least absolute shrinkage 
+and selection operator), after controlling for 
+multicollinearity of variables (
+r >0.8).12,13 To 
+control the shrinkage procedure, a penalty parameter was used. The optimal penalty value l was determined through bootstrap 
+samples (
+n = 100) and was chosen for the 
+highest area under the curve (AUC) to develop the ‘best model’. The penalty value was increased if necessary to derive a more parsimonious model, the ‘tolerance model’. This tolerance model had 2% less AUC than 
+that of the best model. After developing 
+the best model and the tolerance model, discrimination and calibration of both models were compared to choose the final 
+model.
+To discriminate between those with and 
+without a meniscal tear on MRI, an ROC-
+AUC (receiver operating characteristic-
+area under the curve) with consecutive 
+cut-offs for the predicted probability was used. The AUC is reasonable above 0.7, 
+and strong above 0.8, and was presented 
+with 95% confidence intervals [CIs].
+14 A 
+false-negative rate of maximum 15% was deemed acceptable, as the CPR will be used as a screening tool. Calibration of the model, which measures the ability of 
+a model to agree between observed and 
+predicted outcomes, was assessed through goodness-of-fit with a calibration plot.
+Internal validation 
+To correct for over-optimism of the 
+prediction model, bootstrap resampling How this fits in
+Meniscal tests currently used by GPs and 
+physical therapists in primary care are not highly accurate and a single test result in itself cannot accurately detect a meniscal tear. This study presents a clinical prediction rule (CPR) for correct detection of meniscal tears. Using the CPR, primary care physicians can make informed selection of patients for MRI referral.
+British Journal of General Practice, August 2015  e524
+
+was used.13 The model was fitted repeatedly 
+using LASSO regression in 200 bootstrap 
+samples of the same size as the original sample, and was compared with the 
+performance of the model in the original 
+model. After calculating the amount of optimism by the difference between bootstrap AUC and model AUC in the original sample, the optimism corrected AUC was obtained.
+13
+All analyses were performed in R Studio 
+statistics program (version 3.0.2), and the caret, glmnet and rms packages in R.
+RESULTS
+One-hundred and twenty-one participants 
+were included. The Deep Squat test results could not be interpreted for four participants, and they were excluded from 
+the analysis. Therefore, in the development cohort as well as in the internal validation 
+cohort, 117 participants were analysed. 
+Baseline characteristics are summarised in Table 1. MRI confirmation indicated 51 
+participants with meniscal tears and 66 
+without meniscal tears. Participants with meniscal tears were significantly older 
+(46.43 years versus 40.36 years) and were 
+more often male (74.5% male with a 
+meniscal tear versus 43.9% male without a 
+meniscal tear). There were also noticeable 
+differences between participants with and without meniscal tears in pain severity on 
+a visual analogue scale (VAS) scale (42.16 
+versus 53.42 points), performing sports (84.3 versus 72.7%), weight-bearing during 
+trauma (47.1 versus 24.2%), and effusion 
+(78.4% versus 16.6%). Of the 51 meniscal tears, 80.4% were posterior horn tears 
+(Table 1).
+In univariate analysis, the candidate 
+predictor variables ‘locking’ and ‘ability to walk the stairs’ were not interpretable 
+(Table 2). Ability to walk the stairs was more predictive for the presence of a meniscal tear than if a participant had no ability to 
+walk the stairs, which was counterintuitive. 
+Also, both variables were not significantly different between the two patient groups. 
+Therefore, both variables were excluded 
+from the model. 
+As no multicollinearity of the remaining 
+variables was found, all other candidate predictor variables were included in the full model. After deletion of predictors guided by 
+the LASSO procedure, only eight predictor 
+variables remained in the final model (‘tolerance model’), after the accuracies of 
+the ‘best model’ and more parsimonious 
+‘tolerance model’ were compared through their AUCs (Table 3, Figure 1). The AUC was 
+0.81 (95% CI = 0.74 to 0.89). After correction 
+for over-optimism, the final model had an 
+AUC of 0.76 (95% CI = 0.72 to 0.80). The 
+calibration of the model was good. The final model includes the variables sex, age, 
+weight-bearing during trauma, performing 
+sports, effusion, warmth, discolouration, and Deep Squat test.
+The resulting prediction rule of these 
+variables including a scoring system is shown in Figure 2. Scores from individual participants ranged from 15 to 320 points. 
+The distribution of the prediction scores of 
+individual participants against the predicted probabilities according to the final model 
+is shown in Figure 3. A higher risk score 
+on the CPR indicates a higher predicted probability, and a lower risk score indicates 
+a lower predicted probability for a meniscal 
+e525  British Journal of General Practice, August 2015Table 1. Baseline characteristics
+CharacteristicsOverall 
+(n = 117)Meniscal tear 
+(n = 51)No meniscal 
+tear ( n = 66) P-value
+Age, years, mean (SD) 43.0 (12.2) 46.43 (11.55) 40.36 (12.06) 0.006
+Sex, male (%) 67 (57.3) 38 (74.5) 29 (43.9) 0.002
+Weight, kg, mean (SD) 81.2 (14.9) 84.63 (11.74) 78.49 (16.54) 0.021
+Length, m, mean (SD) 1.76 (0.1) 1.79 (0.08) 1.75 (0.11) 0.006
+BMI, mean (SD) 25.9 (3.8) 26.26 (3.07) 25.60 (4.25) 0.337
+Pain severity VAS a, mean (SD) 48.5 (25.6) 42.16 (24.43) 53.42 (25.56) 0.017
+Duration of complaints in weeks, median (range) 6 (0.5–27) 8 (0.5–27) 5 (1–27) 0.858
+Symptom side, right (%) 59 (50.4) 27 (52.9) 32 (48.5) 0.771
+Performing sports, yes (%) 91 (77.8) 43 (84.3) 48 (72.7) 0.204
+Weight-bearing during trauma, yes (%) 40 (34.2) 24 (47.1) 16 (24.2) 0.017
+Work-related kneeling or squatting  
+>1 hour/day, yes (%)32 (27.4) 16 (31.4) 16 (24.2) 0.517
+Pain during passive extension, yes (%) 75 (64.1) 35 (68.6) 40 (60.6) 0.482
+Origin of complaints
+  Unknown (%) 76 (65.0) 14 (27.5) 27 (40.9) 0.188
+  (Rotation) Trauma (%) 41 (35.0) 37 (72.5) 39 (59.1)
+Ability to walk the stairs, no (%) 7 (6.0) 3 (5.9) 4 (6.0) 0.99
+Effusion, yes (%) 75 (64.1) 40 (78.4) 11 (16.6) 0.008
+Warmth, yes (%) 46 (39.3) 25 (49.0) 21 (31.8) 0.090
+Colour red/blue, yes (%) 8 (6.8) 6 (11.8) 2 (3.0) 0.137
+Locking, yes (%) 30 (25.6) 8 (15.7) 22 (33.3) 0.051
+Giving way, yes (%) 66 (56.4) 31 (60.8) 35 (53.0) 0.515
+Meniscal tears, n (%) 51 (43.6) NA NA NA
+  Medial meniscal tears, n (%) 40 (78.4) NA NA NA
+  Lateral meniscal tears, n (%) 7 (13.7) NA NA NA
+  Medial and lateral meniscal tears, n (%) 4 (7.8) NA NA NA
+  Anterior horn tears, n (%) 6 (11.7) NA NA NA
+  Posterior horn tears, n (%) 41 (80.4) NA NA NA
+Combination of CL and meniscal tears, n (%) 11 (9.4) NA NA NA
+Combination of chondropathy in medial or lateral 
+compartment and meniscal tear, n (%)20 (17.1) NA NA NA
+CL tears, n (%) 13 (11.1) NA NA NA
+  Isolated ACL tears, n (%) 3 (23.1) NA NA NA
+  Isolated PCL tears, n (%) 2 (15.4) NA NA NA
+No knee pathology, n (%) 40 (34.2) NA NA NA
+ACL = anterior cruciate ligament. BMI = body mass index. CL = cruciate ligament. PCL = posterior cruciate 
+ligament. VAS = visual analogue scale. For meniscal tears and horn tears, n = 51; for isolated CL tears, n = 13. 
+aVAS pain: 0 = no pain, 100 = worst pain possible in the previous week.
+
+tear. Predicted probabilities ranged from 
+8.83% to 81.5%. A cut-point of 150 was 
+selected, which produced a sensitivity of 
+86.1% and a specificity of 45.5%. For this 
+cut-point, the positive predictive value (PPV) 
+was 55.0%, and the negative predictive value 
+(NPV) was 81.1%. Although the c-statistic was 0.76, indicated as a reasonable model 
+for discriminative ability, some overlap 
+between prediction scores for participants 
+with and without meniscal tears occurred.
+DISCUSSION
+Summary
+The final model contained an AUC of 0.76 
+with a 95% CI = 0.72 to 0.80. A score of 
+150 points yielded an overall sensitivity of 86.1% and a specificity of 45.5%. For this 
+cut-point, the PPV was 55.0%, and the NPV was 81.1%. With a false-negative rate of 
+14%, participants with a meniscal tear can 
+be managed efficiently.
+Strengths and limitations
+Some limitations should be noted. First, arthroscopy was not used as a reference 
+standard, although it is more accurate than 
+MRI. MRI was considered to be a valid and ethical alternative because of its reported 
+accuracy.
+15 To indicate whether MRI results 
+were affected, the results of participants receiving arthroscopy after MRI were 
+requested. In the present sample only four of 41 identifiable participants receiving 
+arthroscopy after MRI (9.8%) had a positive 
+finding for a meniscal tear after a negative finding on MRI. Second, it is not certain that participants were consecutively referred to the study research centre. Participants may 
+have been directly referred for MRI by their 
+GP without inclusion in the present study. 
+Another limitation could be that MRI was 
+performed in 18.8% of the cases before the included participants underwent the 
+meniscal tests because of organisational 
+aspects. Participants were asked to wait with requests for their MRI results before undergoing the meniscal tests. Blinding 
+was therefore maintained and also for 
+PTs who performed the test and obtained patient characteristics. Considering the 
+small contribution of only one physical 
+test that was particularly suited to detect posterior horn tears (while the other predictors included in the model are as 
+useful for posterior as for anterior horn 
+British Journal of General Practice, August 2015  e526Table 2. Univariate analysis of candidate predictor variables
+Variable OR 95% CI P-value
+Sex, male 3.73 1.71 to 8.48 0.001
+Age 1.05 1.01 to 1.08 0.009
+BMI 1.05 0.95 to 1.16 0.354
+Origin of complaints: (Rotation) trauma versus unknown cause 1.83 0.84 to 4.09 0.132
+Weight-bearing during trauma 2.78 1.28 to 6.20 0.011
+Kneeling >1 hour per day 1.43 0.63 to 3.25 0.392
+Ability to walk stairs 1.03 0.22 to 5.45 0.968
+Performing sports 2.02 0.82 to 5.35 0.139
+Locking 0.37 0.14 to 0.90 0.034
+Giving way 1.37 0.66 to 2.90 0.402
+Effusion 3.22 1.44 to 7.59 0.006
+Warmth 2.06 0.97 to 4.43 0.061
+Red/blue colour 4.26 0.93 to 30.04 0.084
+Pain during extension 1.42 0.66 to 3.11 0.371
+Deep Squat test, positive 2.15 0.98 to 4.89 0.059
+OR = odds ratio. OR >1 indicates an increased risk for meniscal tear when a predictor variable is present or has 
+a higher value.
+Table 3. Regression 
+coefficients for each predictor in the Best model versus the Tolerance model with stronger penalty value
+Covariates Best modelTolerance 
+model
+(Intercept) –4.91653467 –2.79919116
+Sex 1.28572876 0.84259980
+Age 0.05039379 0.02998058
+BMI 0.00000000 0.00000000
+Origin of complaints 0.00000000 0.00000000 
+Weight-bearing  
+  during trauma0.72989997 0.49265311
+Work-related  
+  kneeling and  
+  squatting0.17248521 0.00000000
+Performing sports 0.64439602 0.15366088
+Giving way 0.00000000 0.00000000
+Effusion 0.81467548 0.60284532
+Warmth 0.30654251 0.04124769
+Colour of knee  
+  (red/blue)0.77047589 0.29820922
+Pain during passive  
+  knee extension0.05231282 0.00000000
+Deep Squat test 0.19395546 0.03263309Figure 1. ROC curve ‘Best model’ versus ‘Tolerance model’. 
+Sensitivity
+Best
+Toleranc e
+0.8 0.6 0.4 0.2 0.00.00.20.40.60.81.0
+1.0
+Specificity
+
+tears) the CPR appears to be useful for 
+both tears. Last, predictors to derive a more parsimonious CPR were excluded. However, after the reduction of predictor variables the AUC remained largely similar.A strength of the present study is that 
+it was the first performed to develop and 
+internally validate a CPR for meniscal tears 
+in a primary care setting. The CPR is useful 
+in primary care, where decisions must be made with minimal time. Another strength is that the predictors were selected through LASSO analysis, a method that improves 
+the validation of the model.
+12,13
+Comparison with existing literature
+An earlier performed systematic review suggested that age and sex are strong 
+factors indicating an association with a 
+meniscal tear.
+8 As it was believed that 
+several of the risk factors investigated also could be predictive factors for meniscal 
+tears, in this study next to the variables 
+age and sex, the variables BMI, performing sports, stair climbing, work-related kneeling and squatting, and weight-bearing 
+during trauma were measured. 
+In other primary studies, weight-
+bearing during trauma was, similar to 
+the present findings, associated with the presence of a meniscal tear.
+11,16 The factor 
+performing sports was a relevant risk 
+e527  British Journal of General Practice, August 2015
+Figure 3. Risk score versus predicted probability.Figure 2. Final CPR model including scoring system.
+Scoring system relating the predictors of the final 
+model to the probability of presence of a meniscal 
+tear. For example, consider a male patient (which 
+corresponds to 84 points) of 48 years (60 points), 
+without weight bearing during trauma (0 points), 
+who performs sports (15 points), with effusion 
+(60 points), without warmth of the knee (0 points), 
+discolouration of the knee (30 points), and a positive 
+Deep Squat test (3 points). The patient’s total point 
+score is 252 points, corresponding to a probability of 
+meniscal tears of about 62%.Attribute Value Points
+Sex
+Female 0 
+Male 84 
+Age
+18−28 0 
+29−38 30 
+39−48 60 
+49−58 90 
+59−65 108 
+Weight-bearing
+No 0 
+Yes 49 
+Performance sport
+No 0 
+Yes 15 
+Effusion
+No 0 
+Yes 60 
+Warmth
+No 0 
+Yes 4 
+Discolouration
+No 0 
+Yes 30 
+Deep Squat
+Negative 0 
+Positive 3 
+Total
+Total points:
+02 04 06 08 0100 120 140 160 180 200 220 240 260 280 300 320 340 360
+0.10 0.13 0.17 0.19 0.22 0.29 0.34 0.40 0.44 0.52 0.57 0.62 0.69 0.75 0.79
+
+British Journal of General Practice, August 2015  e528Funding
+No funding was received for this research. 
+Ethical approval
+A waiver for this research was received 
+by the Central Committee on Research 
+Involving Human Subjects (CCMO: Centrale 
+Commissie Mensgebonden Onderzoek).
+Provenance
+Freely submitted; externally peer reviewed.
+Competing interests
+The authors have declared no competing 
+interests.
+Acknowledgements
+The authors thank the physiotherapists and 
+staff of Paulides and Partners Physiotherapy from Voorschoten, of Physiotherapy Ommedijk and of Physiotherapy Goudeket from Leiderdorp, the Netherlands, for their 
+effort in this study to attend as a research 
+centre. Thanks also to the staff from Rijnland Hospital at Leiderdorp and Rode Kruis Hospital at Beverwijk, especially the 
+orthopaedics department and the radiology 
+department, for their contribution to this study.
+Discuss this article
+Contribute and read comments about this 
+article: bjgp.org/lettersfactor for meniscal tears from a previous 
+systematic review.8 As a predictive factor, 
+however, performing sports stands for an increased active life, without the necessity 
+for a moment of trauma during sports. 
+The known risk factors BMI, work-related kneeling and squatting, and stair climbing were not included in the final CPR, because 
+they did not add much to the accuracy 
+with the variables already in the model or 
+because the results could not be interpreted because of counterintuitive findings.
+The Deep Squat test is the only physical 
+examination test included in the final model. Previous research stated that a single test could not predict a meniscal tear accurately.
+5,7,17–19 In the final model the 
+contribution of this test is low, with only three points added for a positive test result. 
+For a physician, however, it is important to 
+perform a physical examination test for an overall conclusion and patient expectancy.
+In a previous study, effusion was a useful 
+sign for a meniscal tear, just as a red or blue colour of the knee, and warmth.
+5 
+These signs were not specified, however, for younger and older participants, or 
+subdivided for acute or degenerative tears. 
+Therefore, the contribution of these signs for different patient groups is unclear.
+A typical finding was that locking 
+was not interpretable, as comparatively fewer participants with meniscal tears experienced locking of the knee than participants without meniscal tears, 
+which is in contrast with other reports.
+7,11 
+Participants may not have interpreted the 
+question correctly during history taking, or 
+it could be that the finding was a result of 
+chance. 
+Implications for research and practice
+A CPR was developed and internally 
+validated for detection of meniscal tears 
+in primary care. Variables included in the model are sex, age, weight-bearing during trauma, performing sports, effusion, 
+warmth, discolouration, and Deep Squat 
+test. Correct detection of meniscal tears leads to informed selection for MRI referral by the primary care physician, which in 
+turn may improve management of knee 
+patients. The CPR should be a first step in selecting patients for MRI referral in primary care. In future research the CPR 
+should be externally validated, to assess 
+its accuracy in other primary care settings. 
+Also, the CPR needs further development 
+and validation to distinguish between acute and degenerative meniscal tears. Finally, the use of the CPR in a management 
+pathway should be explored, including time 
+to referral for radiologic evaluation and choice of treatment.
+
+e529  British Journal of General Practice, August 2015REFERENCES
+1. Grover M. Evaluating acutely injured patients for internal derangement of the 
+knee. Am Fam Physician  2012; 85(3): 247–252. 
+2. Baker P, Coggon D, Reading I, et al.  Sports injury, occupational physical activity, 
+joint laxity, and meniscal damage. J Rheumatol 2002; 29: 557–563. 
+3. Englund M, Roemer FW, Hayashi D, et al. Meniscus pathology, osteoarthritis and 
+the treatment controversy. Nat Rev Rheumatol 2012; 8(7): 412–419. 
+4. Ockert B, Haasters F, Polzer H, et al. Value of the clinical examination in 
+suspected meniscal injuries. A meta-analysis. Unfallchirurg 2010; 113: 293–299. 
+5. Shrier I, Boudier-Reveret M, Fahmy K. Understanding the different physical examination tests for suspected meniscal tears. 
+Curr Sports Med Rep  2010; 
+9(5): 284–9.
+6. Snoeker BA, Lindeboom R, Zwinderman AH, et al.  A new weight-bearing test 
+for diagnosing meniscal tears in primary care: Deep Squat test. J Orthop Sports 
+Phys Ther 2015; in press.
+7. Lowery DJ, Farley TD, Wing DW, et al.  A clinical composite score accurately 
+detects meniscal pathology. Arthroscopy  2006; 22(11): 1174–1179. 
+8. Snoeker BA, Bakker EW, Kegel CA, Lucas C. Risk factors for meniscal tears: 
+a systematic review including meta-analysis. J Orthop Sports Phys Ther 2013; 
+43(6): 352–367. 
+9. DAMASK Trial Team. Effectiveness of GP access to magnetic resonance imaging of the knee: a randomised trial. 
+Br J Gen Pract 2008; DOI: 10.3399/
+bjgp08X342651.  
+10. DAMASK Trial Team. Cost-effectiveness of magnetic resonance imaging of the 
+knee for patients presenting in primary care. Br J Gen Pract  2008; DOI: 10.3399/bjgp08X342660.
+11. Wagemakers HPA, Heintjes EM, Boks SS, et al.  Diagnostic value of history taking 
+and physical examination for assessing meniscal tears of the knee in general 
+practice. Clin J Sport Med 2008; 18: 24–30.
+12. Moons KGM, Donders ART, Steyerberg EW, Harrell FE. Penalized maximum likelihood estimation to directly adjust diagnostic and prognostic prediction 
+models for overoptimism: a clinical example. 
+J Clin Epidemiol 2004; 57: 1262–
+1270. 
+13. Steyerberg EW. Clinical prediction models. A practical approach to development, 
+validation and updating . New York, NY: Springer, 2009.
+14. Hosmer DW, Lemeshow S. Applied logistic regression (second edition) . New 
+York, NY: John Wiley, 2000.
+15. Crawford R, Wally G, Bridgman S, Maffulli N. Magnetic resonance imaging 
+versus arthroscopy in the diagnosis of knee pathology, concentrating on 
+meniscal lesions and ACL tears: a systematic review. Br Med Bull  2007; 84: 
+5–23.
+16. Fridén T, Erlandsson T, Zätterström R, et al. Compression or distraction of the 
+anterior cruciate injured knee. Variations in injury pattern in contact sports and 
+downhill skiing. Knee Surg Sports Traumatol Arthrosc  1995; 3: 144–147. 
+17.  Konan S, Ravan F, Haddad FS. Do physical diagnostic tests accurately detect 
+meniscal tears? Knee Surg Sports Traumatol Arthrosc 2009; 17(7): 806–811. 
+18. Ryzewicz M, Peterson B, Siparsky PN, Bartz RL. The diagnosis of meniscus 
+tears: the role of MRI and clinical examination. Clin Orthop Relat Res  2007; 455: 
+123–133. 
+19. Scholten RJ, Devillé WL, Opstelten W, et al. The accuracy of physical diagnostic 
+tests for assessing meniscal lesions of the knee. J Fam Practice  2001; 50(11):  
+938–944. 
+

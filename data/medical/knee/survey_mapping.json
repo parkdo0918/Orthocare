@@ -1,0 +1,95 @@
+{
+  "_metadata": {
+    "version": "1.1",
+    "body_part": "knee",
+    "form_version": "v1.1",
+    "description": "설문 응답 → 증상 코드 매핑 (weights.json 키와 연동)"
+  },
+  "questions": {
+    "Q1_location": {
+      "label_kr": "어느쪽 무릎이 아프신가요?",
+      "type": "multi_select",
+      "max_select": 2,
+      "options": {
+        "left": {"label_kr": "왼쪽", "symptom_codes": []},
+        "right": {"label_kr": "오른쪽", "symptom_codes": []},
+        "both": {"label_kr": "모두", "symptom_codes": ["pain_bilateral"]},
+        "medial": {"label_kr": "무릎 안쪽", "symptom_codes": ["pain_medial"]},
+        "lateral": {"label_kr": "무릎 바깥쪽", "symptom_codes": ["pain_lateral"]},
+        "anterior": {"label_kr": "무릎 앞쪽", "symptom_codes": ["pain_anterior"]}
+      }
+    },
+    "Q2_onset": {
+      "label_kr": "언제부터 아팠나요?",
+      "type": "multi_select",
+      "options": {
+        "gradual": {"label_kr": "서서히 시작", "symptom_codes": ["chronic"]},
+        "progressive_1month": {"label_kr": "1개월 이상 조금씩", "symptom_codes": ["progressive", "chronic"]},
+        "after_activity_increase": {"label_kr": "활동량 증가 후 악화", "symptom_codes": ["overuse_pattern"]},
+        "after_trauma": {"label_kr": "넘어짐/꺾임/뚝 소리 이후", "symptom_codes": ["trauma_recent", "sudden_onset"]},
+        "after_exercise": {"label_kr": "무리한 운동 후", "symptom_codes": ["after_exercise", "overuse_pattern"]}
+      }
+    },
+    "Q3_nrs": {
+      "label_kr": "현재 무릎 통증의 정도",
+      "type": "slider",
+      "min": 0,
+      "max": 10,
+      "symptom_codes": [],
+      "note": "NRS는 운동 강도 결정에 사용, 버킷 가중치에 직접 반영 안함"
+    },
+    "Q4_aggravating": {
+      "label_kr": "언제 통증이 더 심해지나요?",
+      "type": "multi_select",
+      "options": {
+        "walking_standing": {"label_kr": "오래 걷기/서 있기", "symptom_codes": ["after_walking", "weight_bearing_pain"]},
+        "stairs_up": {"label_kr": "계단 오르기", "symptom_codes": ["stairs_up"]},
+        "stairs_down": {"label_kr": "계단 내리기", "symptom_codes": ["stairs_down"]},
+        "squatting": {"label_kr": "쪼그리기", "symptom_codes": ["squatting"]},
+        "cross_legged": {"label_kr": "양반다리", "symptom_codes": ["mobility_limited"]},
+        "after_exercise": {"label_kr": "운동 후", "symptom_codes": ["after_exercise"]},
+        "twisting": {"label_kr": "비틀기/회전", "symptom_codes": ["twisting"]},
+        "morning": {"label_kr": "아침 기상 시", "symptom_codes": ["stiffness_morning"]},
+        "at_rest": {"label_kr": "가만히 있어도", "symptom_codes": ["night_pain"]}
+      }
+    },
+    "Q5_quality": {
+      "label_kr": "어떤 느낌으로 아프신가요?",
+      "type": "multi_select",
+      "options": {
+        "locking_catching": {"label_kr": "걸리거나 잠김", "symptom_codes": ["locking", "catching"]},
+        "heavy_dull": {"label_kr": "뻐근/묵직", "symptom_codes": ["chronic"]},
+        "swelling_heat": {"label_kr": "붓고 뜨거움", "symptom_codes": ["swelling_heat", "swelling", "heat"]},
+        "point_tenderness": {"label_kr": "눌렀을 때 콕", "symptom_codes": []},
+        "morning_stiffness": {
+          "label_kr": "아침 뻣뻣함",
+          "symptom_codes": ["stiffness_morning"],
+          "followup": {
+            "question": "뻣뻣함이 얼마나 지속되나요?",
+            "options": {
+              "under_30min": {"label_kr": "30분 미만", "symptom_codes": ["stiffness_improves"]},
+              "over_30min": {"label_kr": "30분 이상", "symptom_codes": ["stiffness_30min_plus"]}
+            }
+          }
+        }
+      }
+    }
+  },
+  "demographics_mapping": {
+    "age": {
+      "10-19": "age_teens",
+      "20-29": "age_20s",
+      "30-39": "age_30s",
+      "40-49": "age_40s",
+      "50-59": "age_gte_50",
+      "60+": "age_gte_60"
+    },
+    "bmi": {
+      "under_18.5": "bmi_normal",
+      "18.5-24.9": "bmi_normal",
+      "25-26.9": "bmi_gte_25",
+      "27-29.9": "bmi_gte_27",
+      "30+": "bmi_gte_30"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+ARTHRITIS & RHEUMATISM
+Vol. 43, No. 4, April 2000, pp 865–871© 2000, American College of Rheumatology
+JOINT SYMMETRY IN EARLY AND LATE
+RHEUMATOID AND PSORIATIC ARTHRITIS
+Comparison with a Mathematical Model
+P. S. HELLIWELL, J. HETTHEN, K. SOKOLL, M. GREEN, A. MARCHESONI, E. LUBRANO,
+D. VEALE, and P. EMERY
+Objective . To establish a mathematical model to
+predict the probability of symmetry of joint involvementas a function of the number of joints involved and tocompare expected with actual probabilities in psoriaticarthritis (PsA) and rheumatoid arthritis (RA) and inearly and late disease.
+Methods . Random involvement of joints was as-
+sumed, and the binomial theorem was used to give thefrequency distribution of involved joints as a function ofeach joint count. Ten joint pairs were included: shoul-der, elbow, wrist, metacarpophalangeal joints, proximalinterphalangeal (PIP) joints of the hands, hip, knee,ankle, metatarsophalangeal joints, and PIP joints of thefeet. Observed probabilities were obtained from subjectswith early (duration <12 months) and late PsA and RA.
+Results . The number of subjects in each of the
+disease subgroups was as follows: early PsA n 533, late
+PsA n 577, early RA n 561, late RA n 593. Observed
+probabilities of symmetry exceeded predicted probabil-ities for all disease subgroups. The median number ofinvolved joints in each group was as follows: early PsA 4,late PsA 8, early RA 8, late RA 15 (
+x2595.3, 3 degrees
+of freedom, P50.0001, by Kruskal-Wallis test). After
+correcting for the discrepancy in the number of involvedjoints, no difference in joint symmetry was found be-tween the groups (
+x251.77, P50.62 by Friedman
+two-way analysis of variance). Similar results wereobtained when individual hand and foot joints were
+analyzed separately.
+Conclusion . The pattern of joint involvement is
+often used to distinguish between rheumatoid and pso-riatic arthritis. This study confirms that symmetry islargely a function of the total number of joints involvedand that, in terms of joint pattern, differences betweenthese disorders are more quantitative than qualitative.Both disorders have high absolute values of symmetry,particularly in the joints of the wrist and hand.
+In 1973 Moll and Wright described 5 clinical
+subsets of psoriatic arthritis (PsA). Of these 5 subsets,they described the most common group as an asymmet-ric oligoarthritis (60%), followed in frequency by sym-metric polyarthritis (30%) (1). Subsequent surveys haveshown the most common clinical subset of PsA to be asymmetric polyarthritis resembling rheumatoid arthritis(RA), occurring in some 70% of cases (2,3). The usualdefinition of symmetry requires that at least 50% ofinvolved joints are symmetric pairs (3). Given this defi-nition, and given that there are a finite number ofpossible joints that can be involved, it has been arguedthat the presence of symmetry is strongly influenced bythe total number of joints involved (3). However, itseems likely that symmetry is much more than a randomevent, and a number of reasons have been put forth toexplain the occurrence of matched joint pairs in inflam-matory arthritis (4).
+The aims of the present study were 1) to establish
+a mathematical model that could be used to predict theprobability of symmetry as a function of the number ofjoints involved, using both random and nonrandomconstraints, 2) to compare observed and expected prob-abilities in early and late RA and PsA, and 3) tocompare the observed probabilities across disease sub-
+P. S. Helliwell, MD, K. Sokoll, MD: University of Leeds,
+Leeds, UK and St. Luke’s Hospital, Bradford, UK; J. Hetthen, BSc: St.Luke’s Hospital, Bradford, UK; M. Green, MD, E. Lubrano, MD, D.Veale, MD, P. Emery, MD: University of Leeds, Leeds, UK; A.Marchesoni, MD: Ortopedico Pini, Milan, Italy.
+Address reprint requests to P. S. Helliwell, MD, Rheumatol-
+ogy and Rehabilitation Research Unit, University of Leeds, 36 Clar-endon Road, Leeds LS2 9NZ, UK.
+Submitted for publication September 1, 1999; accepted in
+revised form December 1, 1999.865
+
+groups while correcting for the number of involved
+joints. We compared predictions from the model withthe reality of joint symmetry in patients with PsA andRA who were seen in a clinic for patients with earlyarthritis and with patients with more established diseasewho were seen in rheumatology outpatient clinics.
+PATIENTS AND METHODS
+Mathematical model. We assumed chance involvement
+of joints and used the binomial theorem to give the frequencydistribution. The assumptions of the model were as follows: 1)All joints have an equal chance of involvement; 2) Thebinomial distribution is appropriate to predict frequency ofjoint involvement; 3) Symmetry is defined by (number of jointsas symmetric pairs/total number of joints) $0.5; 4) 10 defined
+joint pairs considered: (shoulder, elbow, wrist, metacarpopha-langeal [MCP] joints, proximal interphalangeal [PIP] joints ofthe hands, hip, knee, ankle, metatarsophalangeal [MTP] joints,and PIP joints of the feet); 5) Distal interphalangeal (DIP)joints excluded (because this feature is much more common inPsA and the pathogenesis of DIP involvement may differbetween the disorders [5]).
+The binomial theorem sets out the probability distri-
+bution of 2 complementary events with probabilities a and b,the probability being given by the expansion (a 1b)
+n. This
+distribution, which approximates to the normal distribution as
+n increases and a 5b50.5, underlies statistical applications
+such as the chi-square test. The expansion is given by:
+~a1b!n5nCnan1nCn21an21b1...1nCrarbn2r1...nC1abn21
+1nCobn
+where a 1b51
+The coefficients of expansion (nCr) are given by:
+nCr1$n!%/$r!%$n2r%!
+However, the coefficients up to n 5100 are given in standard
+reference texts (6). As an example, for n 52, the coefficients
+are 1, 2, and 1. This gives the following familiar solution:
+~a1b!25a212ab 1b2
+Given that a and b can be taken to represent the right
+or left side, the frequency of observed events for (n 52) will bein the ratio of 1:1 for bilateral or unilateral occurrence,
+respectively. The probability of an event occurring on the leftor right is assumed to be equal, so a 5b50.5. The sum of
+each of the terms is equal to unity ([0.5
+2]1[230.530.5]1
+[0.52]). Since we are only interested in matched pairs, the first
+and last terms are not required, and the probability of a single
+pair is given by (2 30.530.550.5).
+Once this probability has been determined, the prob-
+ability of a matched pair, p, must be calculated. Assuming a set
+of 20 joints (10 on either side), the probability of a joint beinginvolved on either side for n 52 is 2/20 50.1. Therefore, given
+a single joint involvement on one side, the probability of amatching joint on the opposite side is 0.1. The overall proba-bility of symmetry, p(s), is given by 0.5 30.150.05.
+To summarize these steps: For n 52, 1 symmetric pair
+is required (by definition). Binomial coefficients for n 52 are
+a
+212a1b11b2. Given a 5b50.5, then 2a1b15230.530.5
+50.5. Probability, p, of a single joint being involved on either
+side 52/20 50.1. Therefore, the overall probability of
+symmetry is given by: p(s) 50.530.150.05 (or 1 in 20).
+For n 57, two matched pairs are required to fulfill the
+definition of symmetry. The terms for n 57 are given below
+and in the calculations in Table 1. For n 57, binomial
+coefficients (relevant combinations in italics) are:
+1a7b017a6b1121a5b2135a4b3135a3b4121a2b517a1b611a0b7
+The process is repeated for values of n from 2 to 13. For n
+values $14, all cases are symmetric.
+Clinical findings. All the data used in this study were
+collected in rheumatology outpatient clinics in Leeds, Brad-ford, and Milan, according to a standard protocol. We definedearly arthritis as a disease duration of #12 months. PsA was
+defined as a persistent inflammatory arthritis of at least 1peripheral joint in a person with psoriasis (or a confirmedhistory of psoriasis) and the absence of rheumatoid factor. RAwas defined by the 1987 revised criteria of the AmericanCollege of Rheumatology (ACR; formerly, the AmericanRheumatism Association) (7). For late disease, the initial datawere collected on consecutive patients with PsA in Leeds,Bradford, and Milan. Patients with RA were selected fromBradford. The male:female ratio in the PsA group showed asmall selection bias in favor of males, although the male:femaleratio was still less than unity. Patients with early disease wereselected consecutively in early arthritis clinics.
+In all patients, information on joint tenderness orTable 1. Worked example for n 57*
+Column A, term from
+binomial expressionColumn B, product of term
+in column A, given a 5b50.5Column C,
+probability of match, p†Column D, probability
+of 2 matches‡Column E,
+column B 3column D
+21a5b20.164 5/10 50.5 0.5 30.550.25 0.164 30.2550.0410
+35a4b30.273 4/10 50.4 0.4 30.450.16 0.273 30.1650.0437
+35a3b40.273 4/10 50.4 0.4 30.450.16 0.273 30.1650.0437
+21a2b50.164 5/10 50.5 0.5 30.550.25 0.164 30.2550.0410
+Total§ 0.1694
+* As seen in this example, the overall probability of symmetry is 0.1694.
+† Maximum probability of a joint being involved on either side (given by maximum value of the index in column A).‡ Given probability of 1 matched pair, p (column C), probability of 2 matched pairs is given by p 3p.
+§ Overall probability of symmetry, or p(s).866 HELLIWELL ET AL
+
+swelling of the shoulders, elbows, wrists, all MCP joints, all PIP
+joints of the hand, knees, ankles (tibiotalar), all MTP joints,and PIP joints of the foot was recorded; pain on movement wasrecorded for hip joints. In patients with established disease,swelling, tenderness, deformity, and limited range of motionwere recorded for the above joint groups. For both early andlate arthritis, any positive finding was coded as joint in-
+volvement.
+Symmetry was defined as for the mathematical model.
+Oligoarthritis was defined as #4 joints, polyarthritis as $5.
+Statistical analysis. All statistical comparisons were
+performed using nonparametric tests. In order to compare therelationship between probability of symmetry, i.e., p(s), andnumber of joints involved, the area under each curve wascalculated using the trapezium rule. Occasionally, when adisease group had a void in the number of joints involved, thevalue was obtained by interpolation. Statistical comparisons ofthe areas were performed using the Friedman two-way analysisof variance (ANOVA).
+RESULTS
+Demographic features. Demographic character-
+istics of the patients by group are shown in Table 2. Ofthe late PsA group, 44 patients were from Milan and theothers from the Leeds area. On average, the PsApatients were younger than the RA patients, but the latePsA group had a longer duration of disease comparedwith late RA group. Each of the PsA groups had moremales than females, in contrast to the RA groups.
+Joint involvement and pattern. Table 3 provides
+data on the pattern of joint involvement, by diseasegroup. Most cases were classified as symmetric polyar-thritis, with only a few being classified as asymmetric
+polyarthritis. Asymmetric oligoarthritis occurred pre-dominantly in the patients with PsA. The most frequentpattern found in each group was symmetric polyarthritis,except in the early PsA group, where the most frequentpattern was symmetric oligoarthritis (39%).
+The total number of joints involved for each
+disease group was as follows: early PsA median 4 (range1–20), late PsA median 8 (range 1–20), early RA median
+8 (range 2–16), late RA median 15 (range 2–20) (Table4). These differences were significant when compared byKruskal-Wallis test (
+x2595.3, P50.0001). This is
+reflected in Table 5, which shows the frequency of
+involvement of individual joints by disease group. For alldisease groups, the wrists, MCP joints, and PIP joints ofthe hand were most frequently involved and had thehighest number of symmetric pairs. In early PsA, thesmall joints of the foot were infrequently involved,whereas in early RA about one-third of the patients hadMTP joint involvement.
+Mathematical model and observed probabilities.
+The observed probability of joint symmetry for thecombined disease groups, and the probability of jointsymmetry as predicted by the model, are shown inFigure 1. The predicted probability showed a generalincrease with number of involved joints, but the increasewas not linear, nor was it always sustained. This saccadicpattern results from the mathematical definition used todefine symmetry. When the number of involved jointsTable 2. Demographic characteristics of the study patients by disease group*
+Early PsA Late PsA Early RA Late RA
+Age, years† 32.2 (15–73) 53 (23–76) 55.2 (15–87) 60 (30–81)
+No. female/no. male 13/20 29/48 46/15 57/36Duration of disease, years 0.5 (0.12–1.0) 14.4 (1.5–59.0) 0.42 (0.1–1.0) 10.0 (1.5–53.0)Seropositive, no. (%) 0 0 39/58 (67) 67/79 (85)
+* PsA 5psoriatic arthritis; RA 5rheumatoid arthritis.
+† Median (range).
+Table 3. Classification of joint involvement pattern by disease group*
+Oligoarthritis Polyarthritis
+Asymmetric Symmetric Asymmetric Symmetric
+Early PsA (n 533) 9 (27) 13 (39) 1 (3) 10 (30)
+Late PsA (n 577) 9 (12) 10 (13) 3 (4) 55 (71)
+Early RA (n 561) 1 (2) 10 (16) 2 (3) 48 (79)
+Late RA (n 593) 2 (2) 5 (5) 1 (1) 85 (91)
+* Values are the number (%). PsA 5psoriatic arthritis; RA 5rheumatoid arthritis.JOINT SYMMETRY IN RA AND PsA 867
+
+exceeded 13, all cases were symmetric, since the model is
+constrained to a total of 20 joints. The observed proba-bility exceeded the predicted probability at each jointfrequency up to 13 for the combined disease groups.
+Figure 2 shows the observed probabilities for
+each disease group. The total area under the curve foreach group (median, range of values from trapeziumrule) was as follows: early PsA 15.59 (1.0, 0.25–1.0), latePsA 16.83 (1.0, 0.64–1.0), early RA 17.18 (1.0, 0.5–1.0),late RA 16.76 (1.0, 0.25–1.0). These areas were notstatistically significantly different (
+x251.77, P50.62 by
+Friedman two-way ANOVA).
+The parameter p of the model was manipulated
+in order to obtain a better “fit” for the predictedprobabilities. Instead of using chance (model A), theprobability of finding a matched pair was increased byfirst using an aggregate probability of symmetry fromthe clinical data (0.77; model B), and second, whenthe observed and expected frequencies were stilldiscrepant, a probability of 0.9 (model C). The resultsof these manipulations of the model are presented inTable 4. Median number of involved joints by disease group*
+Early PsA
+(n533)Late PsA
+(n577)Early RA
+(n561)Late RA
+(n593) P†
+All joints
+Median 4 (2) 8 (3) 8 (7) 15 (3) 0.0001Range 1–20 1–20 2–16 2–20
+Hands only
+Median 4 (0) 7 (2) 11 (4) 18 (9) 0.0001Range 0–20 0–20 0–20 0–20
+Feet only
+Median 1 (0) 7 (3) 1 (0)‡ 18 (9) 0.0001Range 0–20 0–20 0–20‡ 0–20
+* For “all joints,” the joints of the hands (metacarpophalangeal,
+proximal interphalangeal [PIP]) and the joints of the feet (metatarso-phalangeal, PIP) were counted as 1 joint. For “hands only” and “feetonly,” the individual joints of the hands and feet were counted. Valuesin parentheses are the number of symmetric pairs. PsA 5psoriatic
+arthritis; RA 5rheumatoid arthritis.
+† All disease groups, compared by Kruskal-Wallis test.‡ Based on 11 cases.
+Table 5. Frequency of joint involvement by disease group*
+Early PsA
+(n533)Late PsA
+(n577)Early RA
+(n561)Late RA
+(n593)All patients
+(n5264)
+R shoulder 2 (6) 27 (35) 19 (31) 63 (68) 112 (42)
+L shoulder 6 (18) 23 (30) 17 (28) 68 (73) 116 (44)R elbow 3 (9) 18 (23) 13 (21) 58 (62) 93 (35)L elbow 5 (15) 17 (22) 12 (20) 60 (65) 96 (36)R wrist 9 (27) 45 (58) 42 (69) 85 (91) 184 (70)L wrist 7 (21) 42 (55) 42 (69) 83 (89) 176 (67)R MCPs 15 (45) 53 (69) 49 (80) 83 (89) 207 (78)L MCPs 15 (45) 45 (58) 46 (75) 85 (91) 198 (75)R PIPs, hand 14 (42) 45 (58) 46 (75) 75 (81) 185 (70)L PIPs, hand 16 (48) 42 (55) 46 (75) 73 (78) 183 (69)R hip 4 (12) 8 (10) 5 (8) 27 (29) 44 (17)L hip 3 (9) 13 (17) 5 (8) 22 (24) 43 (16)R knee 11 (33) 34 (44) 31 (51) 74 (80) 151 (57)L knee 14 (42) 29 (38) 24 (39) 66 (71) 135 (51)R ankle 9 (27) 30 (39) 28 (46) 64 (69) 133 (50)L ankle 9 (27) 29 (38) 21 (34) 57 (61) 118 (45)R MTPs 12 (36) 54 (70) 22 (36) 76 (82) 167 (63)L MTPs 16 (48) 51 (66) 22 (36) 73 (78) 166 (63)R PIPs, foot 4 (12) 31 (40) 2/11 (18) 64 (69) 101/214 (47)L PIPs, foot 6 (18) 28 (36) 2/11 (18) 63 (68) 99/214 (46)
+* Values are the number (%). PsA 5psoriatic arthritis; RA 5rheumatoid arthritis; R 5right; L 5left; MCPs 5metacarpophalangeal joints;
+PIPs 5proximal interphalangeal joints; MTPs 5metatarsophalangeal joints.
+Figure 1. Probability of symmetry, or p(s), as a function of the
+number of joints involved, for the model and for the combined diseasegroups.868 HELLIWELL ET AL
+
+Figure 3. As seen in this figure, the predicted proba-
+bilities were still less than the observed data. The areaunder the curve was calculated for the combinedgroups (as in Figure 1) and compared with thepredicted probabilities, and the results, presented as
+the total area (median, range of values from trape-zium rule), were as follows: combined groups 16.48(1.0, 0.4–1.0), model A 8.93 (0.29, 0.06–1.0), model B13.01 (0.69, 0.39–1.0), model C 14.73 (0.82, 0.56–1.0)(
+x2526.46, P50.0001 by Friedman two-way
+ANOVA).
+Separate analysis of hands and feet. Because the
+small joints of the hands and feet were countedcollectively in the main model, these joints weresubsequently analyzed separately. For both hands andfeet, of the total of 20 MCP (or MTP) and PIP joints,the median number of involved joints in each group isshown in Table 4. Due to missing data in the early RAgroup, the data for the feet are based on 11 cases only.Area under the curve for the hands, presented as thetotal (median, range of values from trapezium rule),was as follows: early PsA 13.26 (1.0, 0–1.0), late PsA14.93 (1.0, 0.17–1.0), early RA 15.43 (1.0, 0.38–1.0),late RA 15.37 (1.0, 0.25–1.0) (
+x251.65, P50.65 by
+Friedman two-way ANOVA). The area under the
+curve for the data relating to the feet was not calcu-
+Figure 2. Probability of symmetry, or p(s), as a function of the number of joints involved, by disease group. a,
+Early psoriatic arthritis (EPSA). b,Early rheumatoid arthritis (ERA). c,Late psoriatic arthritis (LPSA). d,Late
+rheumatoid arthritis (LRA). Note that for some of the joint frequencies there is a void where none of thepatients had that number of joints involved. Actual data points are shown; the graphs are interpolated.
+Figure 3. Probability of symmetry, or p(s), for 3 different values of p,
+the probability of obtaining a matched pair. Model A, p 5chance;
+model B, p 50.77; model C, p 50.9.JOINT SYMMETRY IN RA AND PsA 869
+
+lated because there were too many missing data
+points.
+DISCUSSION
+The purpose of a mathematical model is to
+represent a physical situation in mathematical terms, sothat it becomes possible to explain the behavior of, andto make predictions about, the physical circumstance. Itis clear from the clinical data that joint involvement inRA and PsA is not just a matter of chance and that somejoints (and joint pairs) are more likely to be involvedthan others. The model, although unable to reflect theobserved situation, has provided a reference with whichobserved probabilities of symmetry can be compared.
+The model has also indicated a way of presenting
+the data in such a way that the symmetry of thesediseases can be compared statistically. Since the defini-tion of symmetry is based on a proportion (see assump-tions of the model) and since symmetry is described in afinite set of joints, then the greater the number of jointsinvolved the higher the chance of these joints beingdescribed as symmetric. Calculating the area under thecurve of the probability of symmetry at each jointfrequency for each condition allows for any discrepancyin the number of joints involved. The results of this studyhave shown that rheumatoid and psoriatic arthritis differin the absolute number of involved joints but are equallysymmetric when this correction is applied. The differ-ences in symmetry between early and late disease,observed in this study and in a study by Jones et al (8),merely reflect the differences in number of joints in-volved. In clinical practice, of course, we see moreasymmetric oligoarthritis in PsA, but it is, strictly speak-ing, incorrect to call PsA a less symmetric disease thanRA. These observations are equally valid if the joints ofthe hand and feet are analyzed individually, although thedifference in number of joints involved between diseasesubsets is, perhaps, even greater (see Table 4).
+Most prominent among the reasons proposed for
+symmetry of joint involvement are the neural theories(4). In animal models, inflammatory responses on oneside elicit comparable changes on the opposite side, aneffect that is blocked by cutting the peripheral nerve tothe opposite limb. This effect is seen in humans when aperson has both an inflammatory arthritis and a unilat-eral neurologic lesion such as hemiplegia. The sympa-thetic nervous system may also be involved as unilateralsympathetic blockade improves the pain and inflamma-
+tion of inflammatory arthritis. However, some questionsremain unanswered. Is synovitis in one finger usuallymatched by synovitis in the opposite finger, or can otherinflammatory responses occur? Can dactylitis elicit asimilar response in the contralateral digit? Clinical ex-perience would suggest otherwise. Why are the jointsmost commonly involved in RA and PsA the wrists,MCP joints, and PIP joints—is this more related tophysical factors such as frequency of joint use, and dothese physical factors better explain the symmetry?
+The definitions of disease used in this study,
+although accepted, are likely to lead to some overlapbetween RA and PsA. Indeed, it is likely that many ofthe cases labeled as PsA in this study would fulfill theACR criteria for rheumatoid (albeit seronegative) ar-thritis. This may partly explain the increase in thefrequency of the symmetric polyarthritis subset of PsA(15% in the original descriptions by Moll and Wright [1]to 68–78% in more recent published series [3,9]), par-ticularly if cases positive for rheumatoid factor areincluded (2). Without other distinctive features such asinflammatory changes in the DIP joints or features of aseronegative spondylarthropathy (such as enthesitis,dactylitis, sacroiliitis, spondylitis, and iritis) the distinc-tion between RA and PsA becomes difficult. Otherradiologic findings (such as osteosclerosis, new bone
+formation, and ankylosis) that are features of PsA andhave been shown to distinguish between seronegativeand seropositive RA (10) may also be helpful in diseasedesignation.
+There is a need for a more distinctive set of
+diagnostic criteria for PsA—criteria that reflect the under-lying pathophysiology of the disorder. It has recently beenpostulated that the primary site of inflammation in PsA isextrasynovial and that synovial inflammation may be asecondary phenomenon in this condition (5). A mandatorycriterion of definite enthesitis (either peripheral or axial)added to the existing criteria of persistent inflammatoryarthritis, psoriasis, and seronegativity would providegreater specificity for PsA. However, application of thiscriterion would have eliminated many of the cases labeledas PsA in the present study. Further work is needed oncomposite criteria of the kind originally suggested byBennett (cited by Oriente et al [11]), where, in addition tothe obligatory features of arthritis and psoriasis, a definednumber of other features are required; these includeenthesopathy, dactylitis, DIP joint involvement, spinal in-volvement, seronegativity, and absence of subcutaneousnodules.
+870 HELLIWELL ET AL
+
+The criteria for joint involvement that were
+used in this study (tenderness on palpation, swelling,deformity, or limited range of motion) are likely toyield higher frequencies of joint involvement thanother criteria requiring only joint swelling or deform-ity. These criteria were uniformly applied across thestudy population, thereby avoiding bias in favor of onedisease group. However, it is likely that our method ofdetermining joint involvement led to an underesti-mate since other studies, using modern imaging tech-niques (12), have shown frequent subclinical involve-ment. Had we used these other, more sensitive,methods of detecting articular involvement, it is pos-sible that the observed differences in total number ofinvolved joints would have diminished. Indeed, artic-ular involvement may be universal in these disorders,the clinical pattern merely reflecting different degreesof inflammation.
+In summary, the pattern of joint involvement is
+often used to distinguish between RA and PsA. Theresults of this study confirm that symmetry is largely afunction of the total number of joints involved andthat, in terms of joint pattern, differences betweenthese disorders are more quantitative than qualitative.Both disorders have high absolute values of symmetry,particularly in the joints of the wrist and hand. Casesof seronegative arthritis with psoriasis may be incor-rectly labeled as PsA unless other distinctive featuresof PsA are found. Further work is needed to improvediagnostic criteria for PsA.ACKNOWLEDGMENT
+We wish to thank Dr. Dennis McGonagle for helpful
+discussion of the manuscript.
+REFERENCES
+1. Moll JMH, Wright V. Psoriatic arthritis. Semin Arthritis Rheum
+1973;3:55–78.
+2. Gladman DD, Shuckett R, Russell ML, Thorne JC, Schachter RK.
+Psoriatic arthritis—an analysis of 220 patients. QJM 1987;62:127–41.
+3. Helliwell P, Marchesoni A, Peters M, Barker M, Wright V. A
+re-evaluation of the osteoarticular manifestations of psoriasis. Br JRheumatol 1991;30:339–45.
+4. Levine JD, Goetzl EJ, Basbaum AI. Contribution of the nervous
+system to the pathophysiology of rheumatoid arthritis and otherpolyarthritides. Rheum Dis Clin North Am 1987;13:369–83.
+5. McGonagle D, Conaghan PG, Emery P. Psoriatic arthritis: a
+unified concept twenty years on. Arthritis Rheum 1999;42:1080–6.
+6. Lentner C, editor. Geigy scientific tables. Basel: Ciba-Geigy; 1982.7. Arnett FC, Edworthy SM, Bloch DA, McShane DJ, Fries JF,
+Cooper NS, et al. The American Rheumatism Association 1987revised criteria for the classification of rheumatoid arthritis.Arthritis Rheum 1988;31:315–24.
+8. Jones SM, Armas JB, Cohen MG, Lovell CR, Evison G, McHugh
+NJ. Psoriatic arthritis: outcome of disease subsets and relationshipof joint disease to nail and skin disease. Br J Rheumatol 1994;33:834–9.
+9. Roberts MET, Wright V, Hill AGS, Mehra AC. Psoriatic arthritis:
+a follow-up study. Ann Rheum Dis 1976;35:206–12.
+10. El-Khoury GY, Larson RK, Kathol MH, Berbaum KS, Furst DE.
+Seronegative and seropositive rheumatoid arthritis: radiographicdifferences. Radiology 1988;168:517–20.
+11. Oriente P, Biondi-Oriente C, Scarpa R. Clinical manifestations.
+Baillieres Clin Rheumatol 1994;8:277–94.
+12. Backhaus M, Kamradt T, Sandrock D, Loreck D, Fritz J, Wolf KJ,
+et al. Arthritis of the finger joints: a comprehensive approachcomparing conventional radiography, scintigraphy, ultrasound,and contrast-enhanced magnetic resonance imaging. ArthritisRheum 1999;42:1232–45.JOINT SYMMETRY IN RA AND PsA 871
+

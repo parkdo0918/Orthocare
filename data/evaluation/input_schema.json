@@ -1,0 +1,316 @@
+{
+  "_schema": {
+    "version": "2.0",
+    "description": "앱에서 파이프라인으로 전달되는 입력 JSON 스키마",
+    "survey_flow": [
+      "1. 기본 정보 (나이/성별/키/몸무게)",
+      "2. 신체 자가평가 4문항 → physical_score 산출",
+      "3. 부위 선택 → 부위별 설문 5문항 + 레드플래그",
+      "4. (운동 후) RPE/근육자극/땀 → 추후 신체점수 조정용"
+    ]
+  },
+
+  "example_input": {
+    "demographics": {
+      "age": 62,
+      "sex": "female",
+      "height_cm": 158,
+      "weight_kg": 68
+    },
+    "physical_assessment": {
+      "squat": 2,
+      "pushup": 1,
+      "stepup": 2,
+      "plank": 2
+    },
+    "physical_score": {
+      "total_score": 7
+    },
+    "body_parts": [
+      {
+        "code": "knee",
+        "primary": true,
+        "side": "right",
+        "nrs": 6,
+        "symptoms": [
+          "pain_medial",
+          "chronic",
+          "progressive",
+          "weight_bearing_pain",
+          "stairs_down",
+          "stiffness_morning",
+          "stiffness_improves"
+        ],
+        "red_flags_checked": []
+      }
+    ],
+    "survey_responses": {
+      "Q1_location": ["right", "medial"],
+      "Q2_onset": ["gradual", "progressive_1month"],
+      "Q3_nrs": 6,
+      "Q4_aggravating": ["walking_standing", "stairs_down", "morning"],
+      "Q5_quality": ["heavy_dull", "morning_stiffness"],
+      "Q5_5_stiffness_duration": "under_30min",
+      "Q6_red_flags": []
+    }
+  },
+
+  "field_definitions": {
+    "demographics": {
+      "age": {
+        "type": "integer",
+        "range": [10, 100],
+        "description": "나이",
+        "age_groups": {
+          "10-30대": "젊은 층 - 설문 기준 A",
+          "40-60대": "중년 층 - 설문 기준 B",
+          "60대 이상": "고령 층 - 설문 기준 C"
+        }
+      },
+      "sex": {
+        "type": "string",
+        "enum": ["male", "female"],
+        "description": "성별 (설문 기준에 영향)"
+      },
+      "height_cm": {
+        "type": "number",
+        "range": [100, 250],
+        "description": "키 (cm)"
+      },
+      "weight_kg": {
+        "type": "number",
+        "range": [30, 200],
+        "description": "몸무게 (kg) → BMI 자동계산"
+      }
+    },
+
+    "physical_assessment": {
+      "_description": "신체 자가평가 4문항 - 성별/연령대별 기준 다름",
+      "_scoring": "각 문항 1~4점 → 총점 4~16점",
+
+      "squat": {
+        "question": "쉬지 않고 스쿼트를 최대 몇 개 할 수 있나요?",
+        "levels": {
+          "male_young": {"L1": "0-5개", "L2": "6-11개", "L3": "12-17개", "L4": "18개+"},
+          "female_young": {"L1": "0-4개", "L2": "5-9개", "L3": "10-14개", "L4": "15개+"},
+          "male_senior": {"L1": "0-4개", "L2": "5-9개", "L3": "10-14개", "L4": "15개+"},
+          "female_senior": {"L1": "0-3개", "L2": "4-7개", "L3": "8-12개", "L4": "13개+"}
+        }
+      },
+      "pushup": {
+        "question": "쉬지 않고 푸쉬업을 최대 몇 개 할 수 있나요?",
+        "levels": {
+          "male_young": {"L1": "0-3개", "L2": "4-9개", "L3": "10-18개", "L4": "19개+"},
+          "female_young": {"L1": "0-2개", "L2": "3-7개", "L3": "8-14개", "L4": "15개+"},
+          "male_senior": {"L1": "0-2개", "L2": "3-7개", "L3": "8-14개", "L4": "15개+"},
+          "female_senior": {"L1": "0-1개", "L2": "2-5개", "L3": "6-10개", "L4": "11개+"}
+        }
+      },
+      "stepup": {
+        "question": "쉬지 않고 계단 몇 층까지 올라갈 수 있나요?",
+        "levels": {
+          "young": {"L1": "1층도 어려움", "L2": "1-2층", "L3": "3-4층", "L4": "5층+"},
+          "senior": {"L1": "1층도 어려움", "L2": "1층", "L3": "2-3층", "L4": "4층+"}
+        }
+      },
+      "plank": {
+        "question": "쉬지 않고 플랭크를 몇 초 동안 할 수 있나요?",
+        "levels": {
+          "young": {"L1": "0-15초", "L2": "16-35초", "L3": "36-60초", "L4": "61초+"},
+          "senior": {"L1": "0-10초", "L2": "11-30초", "L3": "31-50초", "L4": "51초+"}
+        }
+      }
+    },
+
+    "physical_score": {
+      "total_score": {
+        "type": "integer",
+        "range": [4, 16],
+        "description": "신체 자가평가 총점 (4문항 × 1~4점)",
+        "derived_level": {
+          "D": "4-7점 (기능 저하)",
+          "C": "8-10점 (기본 기능)",
+          "B": "11-13점 (평균 이상)",
+          "A": "14-16점 (상위 근력)"
+        },
+        "exercise_variables": {
+          "A": {"difficulty": ["low", "medium", "high"], "exercise_count": "7-8개", "intensity": "높음"},
+          "B": {"difficulty": ["low", "medium", "high"], "exercise_count": "6-7개", "intensity": "중상"},
+          "C": {"difficulty": ["low", "medium"], "exercise_count": "5-6개", "intensity": "중하"},
+          "D": {"difficulty": ["low"], "exercise_count": "4-5개", "intensity": "낮음"}
+        }
+      }
+    },
+
+    "body_parts": {
+      "code": {
+        "type": "string",
+        "enum": ["knee", "shoulder", "back", "neck", "ankle"],
+        "description": "부위 코드"
+      },
+      "primary": {
+        "type": "boolean",
+        "description": "주요 부위 여부"
+      },
+      "side": {
+        "type": "string",
+        "enum": ["left", "right", "both"],
+        "description": "좌/우/양측"
+      },
+      "nrs": {
+        "type": "integer",
+        "range": [0, 10],
+        "description": "통증 점수 (NRS)"
+      },
+      "symptoms": {
+        "type": "array",
+        "description": "증상 코드 리스트"
+      },
+      "red_flags_checked": {
+        "type": "array",
+        "description": "체크된 레드플래그 항목"
+      }
+    },
+
+    "post_exercise_feedback": {
+      "_description": "운동 후 피드백 (추후 신체점수 조정용)",
+      "_note": "파이프라인 입력에는 포함되지 않음 - 별도 저장",
+
+      "rpe": {
+        "question": "오늘 운동 끝나고 나니까 내 몸은 어떤가요?",
+        "options": {
+          "easy": {"label": "아직 여유가 있어요", "score": 8},
+          "good": {"label": "딱 좋아요", "score": 11},
+          "tired": {"label": "조금 지쳤어요", "score": 14},
+          "exhausted": {"label": "완전 힘들어요", "score": 18}
+        }
+      },
+      "muscle_feel": {
+        "question": "오늘 내 근육은 어떻게 느꼈나요?",
+        "options": {
+          "nothing": {"label": "아무 느낌 없어요", "score": 1},
+          "sore": {"label": "뻐근한 정도에요", "score": 2},
+          "burning": {"label": "타는 듯한 느낌을 받았어요", "score": 3}
+        }
+      },
+      "sweat": {
+        "question": "오늘 땀이 얼마나 나셨어요?",
+        "options": {
+          "none": {"label": "안 났어요", "score": 1},
+          "little": {"label": "약간 났어요", "score": 2},
+          "dripping": {"label": "땀이 흐르는 정도에요", "score": 3},
+          "soaked": {"label": "옷이 흠뻑 젖을 정도에요", "score": 4}
+        }
+      }
+    }
+  },
+
+  "knee_survey_questions": {
+    "Q1_location": {
+      "question": "어느쪽 무릎이 아프신가요?",
+      "type": "multi_select",
+      "max_select": 2,
+      "options": {
+        "left": {"label": "왼쪽", "symptom_codes": []},
+        "right": {"label": "오른쪽", "symptom_codes": []},
+        "both": {"label": "모두", "symptom_codes": ["pain_bilateral"]},
+        "medial": {"label": "무릎 안쪽", "symptom_codes": ["pain_medial"]},
+        "lateral": {"label": "무릎 바깥쪽", "symptom_codes": ["pain_lateral"]},
+        "anterior": {"label": "무릎 앞쪽", "symptom_codes": ["pain_anterior"]}
+      }
+    },
+    "Q2_onset": {
+      "question": "언제부터 아팠나요?",
+      "type": "multi_select",
+      "options": {
+        "gradual": {"label": "특별히 다친 기억 없이 서서히 아프기 시작", "symptom_codes": ["chronic"]},
+        "progressive_1month": {"label": "한달 이상 조금씩 아팠다", "symptom_codes": ["progressive", "chronic"]},
+        "after_activity_increase": {"label": "최근 활동량 많아진 뒤 더 심해짐", "symptom_codes": ["overuse_pattern"]},
+        "after_trauma": {"label": "넘어지거나 꺾임, 뚝 소리 이후 아픔", "symptom_codes": ["trauma_recent", "sudden_onset"]},
+        "after_exercise": {"label": "무리하게 운동한 이후부터 아픔", "symptom_codes": ["after_exercise", "overuse_pattern"]}
+      }
+    },
+    "Q3_nrs": {
+      "question": "현재 무릎 통증의 정도를 알고 싶어요",
+      "type": "slider",
+      "range": [0, 10],
+      "ui_note": "표정 변화 + 캡션 (0: 통증없음 ~ 10: 극심한 통증)"
+    },
+    "Q4_aggravating": {
+      "question": "언제 통증이 더 심해지나요?",
+      "type": "multi_select",
+      "options": {
+        "walking_standing": {"label": "오래 걷거나 서 있을 때", "symptom_codes": ["after_walking", "weight_bearing_pain"]},
+        "stairs_up": {"label": "계단 올라갈 때", "symptom_codes": ["stairs_up"]},
+        "stairs_down": {"label": "계단 내려갈 때", "symptom_codes": ["stairs_down"]},
+        "squatting": {"label": "쪼그려 앉을 때", "symptom_codes": ["squatting"]},
+        "cross_legged": {"label": "양반다리할 때", "symptom_codes": ["mobility_limited"]},
+        "after_exercise": {"label": "운동 후", "symptom_codes": ["after_exercise"]},
+        "twisting": {"label": "무릎을 비틀거나 회전할 때", "symptom_codes": ["twisting"]},
+        "morning": {"label": "아침에 일어났을 때", "symptom_codes": ["stiffness_morning"]},
+        "at_rest": {"label": "가만히 있을 때도 아픔", "symptom_codes": ["night_pain"]}
+      }
+    },
+    "Q5_quality": {
+      "question": "어떤 느낌으로 아프신가요?",
+      "type": "multi_select",
+      "options": {
+        "locking_catching": {"label": "걸리거나, 걸리적거리는 느낌", "symptom_codes": ["locking", "catching"]},
+        "heavy_dull": {"label": "움직일수록 뻐근하고 묵직한 느낌", "symptom_codes": ["chronic"]},
+        "swelling_heat": {"label": "무릎이 붓고, 만지면 뜨거움", "symptom_codes": ["swelling_heat", "swelling", "heat"]},
+        "point_tenderness": {"label": "눌렀을 때 콕 찌르는 듯이 아픔", "symptom_codes": []},
+        "morning_stiffness": {"label": "아침에 일어나면 뻣뻣함", "symptom_codes": ["stiffness_morning"]}
+      }
+    },
+    "Q5_5_stiffness_duration": {
+      "question": "뻣뻣함이 얼마나 지속되나요?",
+      "type": "single_select",
+      "condition": "Q5_quality contains morning_stiffness",
+      "options": {
+        "under_30min": {"label": "30분 미만", "symptom_codes": ["stiffness_improves"]},
+        "over_30min": {"label": "30분 이상", "symptom_codes": ["stiffness_30min_plus"]}
+      }
+    },
+    "Q6_red_flags": {
+      "question": "다음은 중요한 위험신호예요. 해당사항이 있나요?",
+      "type": "multi_select",
+      "warning_message": "체크하신 항목은 즉시 전문적인 진단이 필요한 위험 신호일 수 있습니다. 무리한 운동은 오히려 상태를 악화시킬 수 있으니, 지금 바로 정형외과나 병원에 방문하여 정확한 진료를 받아보시기를 강력하게 권유합니다.",
+      "options": {
+        "severe_pain": {"label": "지금 걷기 어려울 정도로 심한 통증이 있다", "flag_code": "RF_SEVERE_PAIN"},
+        "acute_swelling_heat": {"label": "무릎이 갑자기 많이 붓고 만지면 뜨겁다", "flag_code": "RF_ACUTE_INFLAMMATION"},
+        "limited_rom": {"label": "무릎을 펴거나 굽힐 때 갑자기 평소보다 훨씬 덜 움직인다", "flag_code": "RF_LIMITED_ROM"},
+        "weakness_numbness": {"label": "무릎에 힘이 잘 들어가지 않거나, 다리에 감각이 둔해진 느낌", "flag_code": "RF_NEURO"},
+        "calf_swelling": {"label": "종아리나 다리가 심하게 붓고, 통증이 찌르듯이 심하다", "flag_code": "RF_DVT_SUSPECT"},
+        "radiating_pain": {"label": "다리 전체가 저리거나, 허리에서 다리로 쭉 뻗치는 느낌", "flag_code": "RF_RADICULAR"},
+        "fever_infection": {"label": "발열(열) 또는 전신 몸살 같은 감염 의심 증상", "flag_code": "RF_INFECTION"}
+      }
+    }
+  },
+
+  "available_symptom_codes": {
+    "location": ["pain_bilateral", "pain_medial", "pain_lateral", "pain_anterior"],
+    "onset": ["chronic", "progressive", "overuse_pattern", "trauma_recent", "sudden_onset", "after_exercise"],
+    "aggravating": ["after_walking", "weight_bearing_pain", "stairs_up", "stairs_down", "squatting", "mobility_limited", "twisting", "stiffness_morning", "night_pain", "after_exercise"],
+    "quality": ["locking", "catching", "swelling_heat", "swelling", "heat", "stiffness_improves", "stiffness_30min_plus"],
+    "demographics_auto": ["age_teens", "age_20s", "age_30s", "age_40s", "age_gte_50", "age_gte_60", "bmi_normal", "bmi_gte_25", "bmi_gte_27", "bmi_gte_30"]
+  },
+
+  "red_flag_codes": [
+    "RF_SEVERE_PAIN",
+    "RF_ACUTE_INFLAMMATION",
+    "RF_LIMITED_ROM",
+    "RF_NEURO",
+    "RF_DVT_SUSPECT",
+    "RF_RADICULAR",
+    "RF_INFECTION"
+  ],
+
+  "expected_output_buckets": {
+    "knee": {
+      "OA": "퇴행성 관절염 (Osteoarthritis)",
+      "OVR": "과사용 증후군 (Overuse)",
+      "TRM": "외상/급성 손상 (Trauma)",
+      "INF": "염증성 질환 (Inflammatory)"
+    }
+  }
+}

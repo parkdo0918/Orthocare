@@ -1,0 +1,440 @@
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-.
+Knee Effusion
+Authors
+Louis A. Gerena; Ahmed Mabrouk; Alexei DeCastro.
+Affiliations
+ Florida State University College of Medicine
+ National Health Service (NHS), United Kingdom
+ Medical University of South Carolina
+Last Update: February 26, 2024.
+Continuing Education Activity
+The knee joint is a complex structure comprised of bones, ligaments, tendons, cartilage, and synovial fluid, all of
+which play integral roles in its function. A knee effusion refers to an abnormal fluid accumulation within the knee
+joint. Knee effusions can arise from traumatic injuries, such as ligament tears or fractures, inflammatory conditions
+like arthritis, infectious processes such as septic arthritis, or degenerative changes such as osteoarthritis. Factors like
+age, activity level, and systemic health conditions may influence the presentation and management of knee effusions.
+Therefore, a comprehensive evaluation considering structural changes, potential causes, and patient factors is essential
+for optimizing care for individuals with knee effusions.
+This activity is designed to develop learners' proficiency in evaluating and managing knee effusions. Participants gain
+valuable insights into the condition's possible etiologies, appropriate diagnostic modalities, and evidence-based
+interventions, allowing them to collaborate effectively within an interprofessional team caring for patients with knee
+effusions.
+Objectives:
+Identify the signs and symptoms suggestive of a knee effusion.
+Determine a clinically guided diagnostic workup for a patient with a possible knee effusion.
+Develop a personalized management strategy for a patient diagnosed with a knee effusion.
+Enhance communication and collaboration within an interprofessional team caring for patients with knee
+effusions to formulate holistic short- and long-term management plans and improve outcomes.
+Access free multiple choice questions on this topic.
+Introduction
+The knee is a hinge joint, one of the most frequently injured joints in the body. This joint contains multiple bursae
+or saclike structures containing synovial fluid. The bursae are located between the skin and bony prominences. Some
+of these bursae communicate with the knee joint. Fluid accumulation in a joint's intraarticular space and bursae is
+called an "effusion." 
+Knee effusions can occur at any age. The condition often presents with knee swelling, pain, stiffness, and limited
+range of motion. Knee effusions arise from various causes. Proper diagnosis and management typically involve
+identifying the effusion's underlying cause through clinical evaluation, imaging studies, and possibly joint fluid
+analysis. Treatment may include rest, ice, elevation, anti-inflammatory medications, physical therapy, and, in some
+cases, knee fluid drainage.[1]
+Etiology1 2 3
+1
+2
+325. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 1/10
+
+The etiology of a knee effusion may vary from acute trauma and infection to chronic systemic conditions, including
+degenerative, hematologic, rheumatologic, vasculitic, and oncological conditions.[2]
+Minor, asymptomatic effusions can occur in healthy individuals. More significant joint effusions indicate pathology.
+Large effusions can give rise to cysts within the popliteal fossa. A knee effusion can consist of synovial fluid or
+hemarthrosis and is classified as traumatic or nontraumatic. Knee joint hemarthrosis' primary mechanism is forced
+rotation of the loaded joint.[3] 
+Hemarthrosis' articular cartilage complications are similar across different age groups, but the etiology varies. In
+adults, traumatic hemarthrosis may be due to anterior cruciate ligament ruptures (70%), patellar dislocation (15%),
+meniscal tears (10%), osteochondral fragment fractures (5%), and miscellaneous injuries (5%).[4][5][6] Patellar
+dislocation was reported to be the most common etiology of traumatic hemarthrosis in adolescent age groups.[7][8] 
+Epidemiology
+Knee injuries represent over half a million emergency department visits in the United States.[9][10] The knee is
+more frequently injured than other joints because it is part of a weight-bearing limb and has less joint congruity than
+the hip and ankle.[11] 
+The lifetime prevalence of knee swelling has been reported to be as high as 27%.[12] Knee effusions in children most
+commonly affect infants and teenagers. Pediatric knee effusion with hemarthrosis usually arises from a sports-related
+traumatic knee event.
+Pathophysiology
+A knee effusion may arise from an acute or chronic, inflammatory or noninflammatory, traumatic or atraumatic
+condition. The most common diagnoses in the primary care setting are osteoarthritis, trauma, and gout.[13] A knee
+hemarthrosis increases the intracapsular pressure, leading to pain and reduced knee joint range of motion mainly due
+to reflex quadriceps muscle firing inhibition.[14] The risk of developing osteoarthritis from longstanding
+knee hemarthrosis increases regardless of etiology. Blood and other inflammatory mediators released into the joint
+initiate the pathological process of chondral injury. Complex biochemical interactions between various metabolites
+and proinflammatory mediators culminate in irreversible articular cartilage damage and joint degeneration as long-
+term sequelae.[15][16]
+Histopathology
+Normally, synovial fluid hyaluronic acid prevents friction and lubricates the knee joint. Synovial fluid has
+antibacterial properties that help maintain a sterile environment within the joint. However, synovial microscopic
+examination of knee joint effusion reveals abnormal changes. Knee joint effusion consists of synovial fluid and blood
+plasma ultrafiltrate and includes hyaluronic acid, glycoproteins, lubricin, proteinases, and collagenases. Inflamed
+synovium contains large clefts, allowing molecules of almost any size to pass through its membrane and cause an
+effusion. Synovial fluid also contains substances identical to plasma proteins.
+History and Physical
+History
+Evaluating an acutely swollen knee begins with a thorough history and examination of the affected and contralateral
+knees. Essential information to elicit include the injury mechanism, onset acuity, symptom duration, previous history
+of the ailing joint, aggravating symptoms, and associated systemic manifestations. A knee effusion with a recent
+traumatic history may suggest an internal derangement such as a ligament or meniscal tear. In contrast, an atraumatic
+effusion is highly suspicious for infection or systemic disease. A history of previous surgery should be determined in
+every patient with knee swelling. Patients may complain of swelling and stiffness with decreased range of motion. A
+large effusion can cause the inability to completely extend the knee. The patient may keep the knee at 15° of flexion
+when at rest.
+Red flags25. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 2/10
+
+Red flags include fever, non-weight bearing, loss of distal pulses and sensation distal to the knee, open fractures, and
+cellulitis overlying the knee. These red flags typically indicate immediate evaluation. The affected knee should always
+be compared with the unaffected knee. In septic arthritis, joint pain, a history of joint swelling, and fever are present
+in over 50% of cases.[17] 
+Physical Examination
+Physical examination should focus on finding signs that can help determine the knee effusion's etiology. Comparing
+the contralateral knee is mandatory and always helpful in spotting abnormalities (see Image. Knee Effusion).
+Inspection
+The absence of dimples is the first sign of effusion and may be easily noted when comparing the affected knee to the
+contralateral one. Patellar swelling and suprapatellar bursal distention may be found in more significant effusions.
+Deformities and dislocations are noticeable in most scenarios. Skin evaluation for color changes, such as erythema,
+may indicate underlying sepsis. The presence of a rash could direct the physician to further investigate for systemic
+disorders, particularly rheumatologic, hematologic, and vasculitic conditions. The patient's gait and lower limb
+alignment should also be evaluated. Malalignment accompanying chronic conditions may indicate the effusion's
+underlying etiology. 
+Palpation
+The bony and soft tissue landmarks and the joint line should be gently palpated. Joint-line tenderness could indicate
+meniscal pathology. Tenderness over a tendon or ligamentous insertion could indicate tendonitis or apophysitis.
+Tenderness over the femoral condyles' articular surfaces may indicate osteochondritis dissecans. A subjective joint
+pain with no objective tenderness over bony or soft tissue structures most likely points toward arthralgia.
+Range of motion assessment
+Patients may have a restricted range of motion and pain with ambulation. Excess fluid can cause pressure and
+irritation within the joint, contributing to pain and discomfort during weight-bearing activities like walking.
+Special tests
+The balloon, ballottement, and bulge tests can help confirm knee effusion. The balloon test is performed by
+compressing the suprapatellar pouch against the femur with the thumb and fingers, making the effusion more
+appreciable. The ballottement test is performed as a continuation of the balloon test by pressing the raised patella
+downward against the femur. A gentle patellar tap and float should be appreciated. The bulge test is performed when
+only minimal effusion is apparent on inspection. The effusion may be appreciated by milking all the fluid laterally and
+pressing it until it forms a medial bulge.
+The following special tests may be performed if suspecting specific injuries:
+McMurray and Thessaly tests for medial and lateral meniscus tears
+Lachman and anterior drawer tests for an anterior cruciate ligament tear
+Posterior drawer test for posterior cruciate ligament tear
+Varus and valgus stress tests for lateral and medial collateral ligament injuries, respectively
+Patellofemoral joint compression test for patellofemoral compartment pathology [18]  
+Neurovascular assessment
+Knee effusions may cause arterial flow reduction and nerve compression, warranting immediate intervention. The
+following structures may be compromised by mass effects arising from a knee effusion:
+Popliteal artery, affecting downstream vessels like the anterior and posterior tibial arteries and dorsalis pedis
+Peroneal nerve25. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 3/10
+
+Posterior tibial nerve
+Lower-limb arterial flow may be assessed by palpation. Posterior tibial nerve function may be examined by ankle
+plantar flexion. The superficial peroneal nerve's function may be evaluated by ankle eversion. Great-toe extension
+strength testing can help test deep peroneal nerve function. Lower limb sensory tests must also be completed.
+Evaluation
+Imaging
+Weight-bearing radiographs in 3 planes—anteroposterior, lateral, and axial—are indicated in patients presenting with
+an acutely swollen knee. Radiography helps evaluate for a fracture, especially if a history of trauma has been
+elicited. Plain x-rays can also detect rheumatoid arthritis-related erosive disease. Joint space narrowing may be found
+in patients with osteoarthritis and rheumatoid arthritis.[19]
+A fabella—a sesamoid bone in the gastrocnemius lateral head tendon—may be seen in some individuals' lateral knee
+x-rays. This structure can serve as a radioopaque marker for the knee synovium's posterior border. The fabella sign
+(fabella displacement) is seen in the presence of a synovial effusion and a popliteal mass. Increased suprapatellar
+bursal opacity and widening may also be evident on lateral knee radiographs showing the fabella sign.
+An ultrasound can help differentiate between complicated and simple effusions. This modality may also be used
+to guide arthrocentesis.
+Knee arthroscopy is the gold standard diagnostic modality for evaluating and managing intraarticular knee
+pathologies. Clinical examination or magnetic resonance imaging scans are not 100% sensitive in excluding
+intraarticular pathologies.
+Synovial Fluid Aspirate Analysis
+Arthrocentesis and subsequent synovial fluid analysis should be done in all cases of unexplained knee effusion. The
+aspirated fluid should be analyzed for cell counts, gram staining, bacterial cultures, and crystal analysis.
+The following should be included in the synovial fluid aspirate analysis report:
+Complete cell count with differential (white blood cell or WBC, polymorphonuclear or PMN leukocytes)
+Crystal examination 
+Bacterial culture and gram staining
+Viscosity 
+Glucose
+Hemarthrosis is commonly caused by joint trauma. Polarized microscopy can detect fat droplets, indicating an
+articular fracture. Other clotting disorders like hemophilia can cause hemarthrosis in the absence of trauma.
+The presence of crystals cannot exclude septic arthritis with certainty. Septic arthritis can occur concurrently with
+gout or pseudogout in less than 5% of cases. Meanwhile, a low synovial fluid glucose level suggests joint
+infection. Still, low glucose levels are present in only about 50% of patients with septic joints. Rheumatoid arthritis
+may also have low synovial fluid glucose. The fasting glucose levels in synovial fluid obtained from joint effusions
+are typically less than half of the glucose levels simultaneously measured in the blood. In rheumatoid arthritis, expect
+decreased viscosity and poor mucin clot formation.[20]
+Septic arthritis
+Septic arthritis produces a characteristic combination of synovial fluid aspirate analysis findings. Joint fluid often
+appears cloudy or purulent. A cell count with WBCs of more than 50,000 cells/mm is considered diagnostic for
+septic arthritis. However, lower counts do not rule out a joint infection.[21] A prosthetic joint with WBCs greater than
+1,100 cells/μL is considered septic. Gram stains only identify infective organisms a third of the time. Glucose will be
+less than 50% of the serum level.325. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 4/10
+
+Noninflammatory synovial fluid
+Noninflammatory synovial fluid usually contains less than 60 to 180 cells per mL, most of which are mononuclear.
+Synovial fluid is considered noninflammatory if it contains less than 2000 cells/mL, but most synovial fluid samples
+from patients with osteoarthritis contain less than 500 cells per mL.
+The most common cause of noninflammatory knee effusions of the knee, with synovial fluid WBC count typically
+less than 2000 cells/mL, is osteoarthritis. Other causes include osteonecrosis, Charcot arthropathy, sarcoidosis,
+amyloidosis, hypothyroidism, and acromegaly. Inflammatory arthritis, with synovial fluid WBCs greater than 2000
+cells/mL, may arise from infection, autoimmune disease, and crystal-induced arthritis. Aspiration of dark brown
+serosanguinous fluid should raise the possibility of pigmented villonodular synovitis.
+Inflammatory synovial fluid
+Various conditions present with synovial fluid WBC count greater than 2,000 leukocytes/mL. These clinical
+entities may be distinguished based on leukocytosis severity and differential count. Trauma often manifests with less
+than 5000 WBCS/mL. RBCs may also be seen if bleeding occurs in the joint. Toxic synovitis usually has 5,000 to
+15,000/mL and less than 25% PMNs. Acute rheumatic fever often has 10,000 to 15,000 and 50% PMNs. Juvenile
+rheumatoid arthritis and various other autoimmune conditions usually have 15,000 to 80,000 and 75% PMNs.
+Infectious arthritis usually causes the most intense synovial fluid leukocytosis, with cell counts of 50,000 to 200,000
+cells/mL containing over 90% PMNs. Lower leukocyte counts in suspected infectious cases are common in early
+bacterial arthritis and disseminated gonococcal infection.
+Noninfectious conditions like gout, pseudogout, acute rheumatic fever, reactive arthritis, and rheumatoid arthritis
+can produce a markedly inflammatory synovial effusion. A finding of greater than 90% PMNs despite a relatively low
+total leukocyte count should prompt concern for infection or crystal-induced disease. However, the presence
+of crystals cannot exclude septic arthritis with certainty.[22] A finding of WBCs greater than 50,000/mm in the
+setting of trauma suggests infectious arthritis.
+Septic arthritis typically has 80,000 to 200,000 cells/mL and greater than 75% PMNs on synovial fluid aspirate
+analysis. Synovial fluid WBC count and percentage of PMN cells from arthrocentesis are the most significant
+predictors of septic arthritis. The likelihood ratio increases as the synovial fluid WBC count increases.
+Counts greater than 50,000/μL have a likelihood ratio of 7.7 (95% confidence interval, 5.7-11.0). Counts greater than
+100,000/μL have a likelihood ratio of 28.0 (95% confidence interval, 12.0-66.0). Finding a PMN cell count of at least
+90% on the same synovial fluid sample suggests septic arthritis with a likelihood ratio of 3.4 (95% confidence
+interval, 2.8-4.2), while a PMN cell count of less than 90% lowers the likelihood ratio to 0.34 (95% confidence
+interval, 0.25-0.47).
+Other Labs
+Blood tests that can help determine the etiology of knee effusion include the following: 
+Lyme titers, especially in the pediatric population with atraumatic unilateral knee effusion [23]
+Antistreptolysin-O for poststreptococcal infection [24]
+Rapid plasma reagin for syphilis
+Elevated WBC in a complete blood count (CBC) for osteomyelitis, inflammation, or malignancy
+Inflammatory markers, including C-reactive protein and sedimentation rate
+Antinuclear antibody for possible autoimmune disorders
+Urine studies help determine the presence of urinary tract infections and sexually transmitted diseases, including
+gonorrhea, chlamydia, and trichomonas, which can cause reactive arthritis. Polymerase chain reaction tests of affected
+mucosal sites should also be considered if suspecting gonorrhea and chlamydia. Stool cultures can detect salmonella,
+yersinia, campylobacter, and shigella, which can all cause reactive arthritis.[25]325. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 5/10
+
+A saline load test may be utilized to determine if a nearby wound communicates with the knee joint. The test
+requires injecting 155 mL of normal saline in the knee to reach 95% sensitivity.
+Treatment / Management
+Pain Control
+Acute pain and swelling warrant individualized treatment. Options include splints, cold or ice packs, partial or non-
+weight-bearing braces, and analgesics like nonsteroidal anti-inflammatory drugs (NSAIDs). Drainage may be
+effective if the joint has significant effusion causing pain. If suspecting an infection, the fluid sample should be
+obtained, tested, and cultured before starting antibiotics. Intraarticular steroids should be avoided until infection or
+other contraindications are first ruled out.
+Septic Joint Treatment
+Intravenous antibiotics should be initiated for suspected infection after sending joint fluid specimens for analysis. The
+most common bacterial agents causing septic arthritis include staphylococci (40%), streptococci (28%), gram-
+negative bacilli (19%), mycobacteria (8%), gram-negative cocci (3%), gram-positive bacilli (1%), and anaerobes
+(1%). An orthopedic consult may be necessary. Joint drainage is associated with rapid recovery and low morbidity.
+Arthroscopy allows internal joint visualization, adhesiolysis, purulent pocket drainage, and necrotic material
+debridement.[26]
+Managing Ligamentous Injuries
+A knee brace may be placed on the affected knee as initial treatment. The patient should be given an outpatient
+referral to an orthopedic surgeon for definitive treatment. Complete ligamentous disruption and knee instability
+warrant surgical intervention. 
+Fractures
+An orthopedic specialist determines if conservative or operative management is necessary. The Salter-Harris
+classification may be used for pediatric fractures involving the growth plate.
+Rheumatologic conditions
+NSAIDs or acetaminophen may be used for pain control. A rheumatologist prescribes the definitive treatment.
+Reactive Arthritis
+The primary infection should be treated with the appropriate antibiotic. NSAIDs and acetaminophen may be used for
+pain.
+Differential Diagnosis
+Knee effusion has broad differential diagnoses that include those listed below. A thorough clinical evaluation and
+judicious use of diagnostic studies can differentiate these conditions and guide definitive management.
+ Infection
+Bacterial
+Mycobacterial
+Spirochete (Lyme, syphilis)
+Viral
+Crystal (gout and pseudogout)
+Spondyloarthritis
+Reactive arthritis
+Inflammatory bowel disease25. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 6/10
+
+Hemarthrosis
+Acute injury
+Osteoarthritis
+Osteonecrosis
+Malignancy
+Autoimmune disorders
+Prognosis
+The following conditions are associated with poor outcomes in patients with knee effusion:
+Age 80 or older
+Concomitant involvement of a larger joint, ie, hip or shoulder
+Bacterial growth on synovial fluid cultures despite appropriate antibiotic therapy for 7 days 
+Delay longer than 7 days before starting treatment
+Comorbidities, including diabetes mellitus, bacteremia, chronic kidney disease, and rheumatoid arthritis [27]
+[28]
+Other factors that can impact knee effusion's prognosis include symptom severity, patient adherence, and immune
+status.
+Complications
+Delaying treatment beyond 24 hours may result in permanent joint function limitation and subchondral bone
+loss. Bacterial invasion can lead to permanent articular cartilage injury. Prosthetic joint infection may result from an
+untreated local bacterial invasion that has spread to the prosthesis hematogenously.[26]
+Deterrence and Patient Education
+Preventive measures aim to reduce the risk of injury, inflammation, and other factors contributing to the development
+of knee effusions. Patients may be educated on maintaining a healthy weight, strengthening the muscles, improving
+flexibility, and avoiding overuse to protect from osteoarthritis. Using the proper exercise techniques, wearing
+protective pads, and avoiding risky behaviors prevent traumatic knee injuries. Regular medical consultations and
+treatment adherence help manage chronic conditions affecting the knees. Staying well-hydrated supports knee joint
+lubrication and cushioning. These measures may not prevent all knee effusion cases but can help minimize the risk of
+developing the condition.
+Pearls and Other Issues
+Knee effusion typically presents with swelling, pain, stiffness, and limited range of motion in the affected knee. The
+swelling may be visible and feel fluid-filled or boggy upon palpation. The condition may result from various
+underlying causes, including trauma, infection, inflammation, and metabolic disorders. Diagnosing knee effusion
+involves combining clinical assessment with imaging studies and analysis of the synovial fluid obtained via
+arthrocentesis.
+Examination of synovial fluid obtained from the affected knee can provide valuable diagnostic information. Analysis
+includes evaluating the fluid's appearance, cell count, differential, protein levels, glucose levels, and microbiological
+cultures. The management depends on the underlying cause. Treatments range from noninvasive measures such as
+cold compress application and NSAID intake to intraarticular injections and more invasive surgical interventions.
+Untreated or poorly managed knee effusion can lead to complications such as chronic inflammation, joint stiffness,
+cartilage damage, knee instability, and secondary osteoarthritis.25. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 7/10
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.Poor prognostic indicators include advanced age, presence of concomitant large-joint injuries, treatment delay or
+unresponsiveness, and comorbidities. Measures that can prevent knee effusion include maintaining a healthy weight,
+avoiding excessive knee stress or overuse, using proper techniques during physical activity, wearing protective gear
+when necessary, managing underlying medical conditions, and seeking prompt medical attention for joint injuries or
+symptoms of inflammation.
+Enhancing Healthcare Team Outcomes
+Managing knee effusions requires an interprofessional team of healthcare professionals, including nurses, laboratory
+technologists, and clinicians in different specialties. Without proper management, morbidity and mortality from an
+undiagnosed knee effusion may increase.
+When the triage nurse identifies an acute knee effusion, the primary care or emergency medicine physician must be
+notified immediately to determine whether prompt interventions are warranted, as in cases of open fractures and
+septic arthritis.
+Orthopedic specialists may lend their expertise in managing traumatic cases. Consultation with the pharmacist and
+infectious disease clinician about the choice and administration of antibiotics can increase efficacy and patient safety.
+Rheumatologists may be involved in cases of autoimmune arthritis. If the patient requires any resources for home, the
+social worker and case manager should be notified. Knee pain and decreased mobility warrant the services of a
+physical therapist for early ambulation.
+All members of the interprofessional team must exercise open communication with the rest of the care team to ensure
+optimal patient outcomes, alert appropriate personnel regarding changes in the patient's condition, and maintain
+accurate records so that everyone involved in the case has updated, precise patient information from which to make
+clinical decisions.
+Communication among providers is critical to achieving the best result using this shared decision-making model. This
+interprofessional approach must use evidence-based medicine and a unique, integrated care pathway. The best
+prognosis and outcome depend on the early recognition of potential complications.
+Review Questions
+Access free multiple choice questions on this topic.
+Click here for a simplified version.
+Comment on this article.
+References
+Mathison DJ, Teach SJ. Approach to knee effusions. Pediatr Emerg Care. 2009 Nov;25(11):773-86; quiz 787-8.
+[PubMed: 19915432]
+Johnson MW. Acute knee effusions: a systematic approach to diagnosis. Am Fam Physician. 2000 Apr
+15;61(8):2391-400. [PubMed: 10794580]
+Maffulli N, Binfield PM, King JB, Good CJ. Acute haemarthrosis of the knee in athletes. A prospective study of
+106 cases. J Bone Joint Surg Br. 1993 Nov;75(6):945-9. [PubMed: 8245089]
+Olsson O, Isacsson A, Englund M, Frobell RB. Epidemiology of intra- and peri-articular structural injuries in
+traumatic knee joint hemarthrosis - data from 1145 consecutive knees with subacute MRI. Osteoarthritis Cartilage.
+2016 Nov;24(11):1890-1897. [PubMed: 27374877]
+Adalberth T, Roos H, Laurén M, Akeson P, Sloth M, Jonsson K, Lindstrand A, Lohmander LS. Magnetic
+resonance imaging, scintigraphy, and arthroscopic evaluation of traumatic hemarthrosis of the knee. Am J Sports
+Med. 1997 Mar-Apr;25(2):231-7. [PubMed: 9079180]
+Lombardi M, Cardenas AC. StatPearls [Internet]. StatPearls Publishing; Treasure Island (FL): Jul 31, 2023.
+Hemarthrosis. [PubMed: 30252255]
+Abbasi D, May MM, Wall EJ, Chan G, Parikh SN. MRI findings in adolescent patients with acute traumatic knee
+hemarthrosis. J Pediatr Orthop. 2012 Dec;32(8):760-4. [PubMed: 23147616]25. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 8/10
+
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.Wang JH, Lee JH, Cho Y, Shin JM, Lee BH. Efficacy of knee joint aspiration in patients with acute ACL injury in
+the emergency department. Injury. 2016 Aug;47(8):1744-9. [PubMed: 27262773]
+Davis DL, Vachhani P. Traumatic Extra-capsular and Intra-capsular Floating Fat: Fat-fluid Levels of the Knee
+Revisited. J Clin Imaging Sci. 2015;5:60. [PMC free article: PMC4683790] [PubMed: 26713176]
+McCaig LF, Nawar EW. National Hospital Ambulatory Medical Care Survey: 2004 emergency department
+summary. Adv Data. 2006 Jun 23;(372):1-29. [PubMed: 16841785]
+Gupte C, St Mart JP. The acute swollen knee: diagnosis and management. J R Soc Med. 2013 Jul;106(7):259-68.
+[PMC free article: PMC3704066] [PubMed: 23821708]
+Baker P, Reading I, Cooper C, Coggon D. Knee disorders in the general population and their relation to
+occupation. Occup Environ Med. 2003 Oct;60(10):794-7. [PMC free article: PMC1740394] [PubMed:
+14504371]
+Becker JA, Daily JP, Pohlgeers KM. Acute Monoarthritis: Diagnosis in Adults. Am Fam Physician. 2016 Nov
+15;94(10):810-816. [PubMed: 27929277]
+Jansen NW, Roosendaal G, Bijlsma JW, Degroot J, Lafeber FP. Exposure of human cartilage tissue to low
+concentrations of blood for a short period of time leads to prolonged cartilage damage: an in vitro study. Arthritis
+Rheum. 2007 Jan;56(1):199-207. [PubMed: 17195222]
+Gelber AC, Hochberg MC, Mead LA, Wang NY, Wigley FM, Klag MJ. Joint injury in young adults and risk for
+subsequent knee and hip osteoarthritis. Ann Intern Med. 2000 Sep 05;133(5):321-8. [PubMed: 10979876]
+Roosendaal G, Vianen ME, van den Berg HM, Lafeber FP, Bijlsma JW. Cartilage damage as a result of
+hemarthrosis in a human in vitro model. J Rheumatol. 1997 Jul;24(7):1350-4. [PubMed: 9228136]
+Margaretten ME, Kohlwes J, Moore D, Bent S. Does this adult patient have septic arthritis? JAMA. 2007 Apr
+04;297(13):1478-88. [PubMed: 17405973]
+Solomon DH, Simel DL, Bates DW, Katz JN, Schaffer JL. The rational clinical examination. Does this patient
+have a torn meniscus or ligament of the knee? Value of the physical examination. JAMA. 2001 Oct
+03;286(13):1610-20. [PubMed: 11585485]
+Landewé RB, Günther KP, Lukas C, Braun J, Combe B, Conaghan PG, Dreinhöfer K, Fritschy D, Getty J, van
+der Heide HJ, Kvien TK, Machold K, Mihai C, Mosconi M, Nelissen R, Pascual E, Pavelka K, Pileckyte M, Puhl
+W, Punzi L, Rüther W, San-Julian M, Tudisco C, Westhovens R, Witso E, van der Heijde DM. EULAR/EFORT
+recommendations for the diagnosis and initial management of patients with acute or recent onset swelling of the
+knee. Ann Rheum Dis. 2010 Jan;69(1):12-9. [PubMed: 19147613]
+Li SF, Henderson J, Dickman E, Darzynkiewicz R. Laboratory tests in adults with monoarticular arthritis: can
+they rule out a septic joint? Acad Emerg Med. 2004 Mar;11(3):276-80. [PubMed: 15001408]
+McGillicuddy DC, Shah KH, Friedberg RP, Nathanson LA, Edlow JA. How sensitive is the synovial fluid white
+blood cell count in diagnosing septic arthritis? Am J Emerg Med. 2007 Sep;25(7):749-52. [PubMed: 17870475]
+Shah K, Spear J, Nathanson LA, McCauley J, Edlow JA. Does the presence of crystal arthritis rule out septic
+arthritis? J Emerg Med. 2007 Jan;32(1):23-6. [PubMed: 17239729]
+Guardado KE, Sergent S. Pediatric unilateral knee swelling: a case report of a complicated differential diagnosis
+and often overlooked cause. J Osteopath Med. 2022 Jan 06;122(2):105-109. [PubMed: 34989214]
+Maness DL, Martin M, Mitchell G. Poststreptococcal Illness: Recognition and Management. Am Fam Physician.
+2018 Apr 15;97(8):517-522. [PubMed: 29671499]
+Naranje S, Kelly DM, Sawyer JR. A Systematic Approach to the Evaluation of a Limping Child. Am Fam
+Physician. 2015 Nov 15;92(10):908-16. [PubMed: 26554284]
+Horowitz DL, Katzap E, Horowitz S, Barilla-LaBarca ML. Approach to septic arthritis. Am Fam Physician. 2011
+Sep 15;84(6):653-60. [PubMed: 21916390]
+Kaandorp CJ, Krijnen P, Moens HJ, Habbema JD, van Schaardenburg D. The outcome of bacterial arthritis: a
+prospective community-based study. Arthritis Rheum. 1997 May;40(5):884-92. [PubMed: 9153550]
+Earwood JS, Walker TR, Sue GJC. Septic Arthritis: Diagnosis and Treatment. Am Fam Physician. 2021 Dec
+01;104(6):589-597. [PubMed: 34913662]
+Disclosure: Louis Gerena declares no relevant financial relationships with ineligible companies.
+Disclosure: Ahmed Mabrouk declares no relevant financial relationships with ineligible companies.
+Disclosure: Alexei DeCastro declares no relevant financial relationships with ineligible companies.25. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 9/10
+
+Copyright  © 2025, StatPearls Publishing LLC.
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) (
+http://creativecommons.org/licenses/by-nc-nd/4.0/ ), which permits others to distribute the work, provided that the article is not altered or used
+commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+Bookshelf ID: NBK532279PMID: 3033531225. 11. 13. 오전  2:27 Knee Effusion - StatPearls - NCBI Bookshelf
+https://www.ncbi.nlm.nih.gov/books/NBK532279/?report=printable 10/10
+

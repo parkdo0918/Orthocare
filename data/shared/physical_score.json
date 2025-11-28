@@ -1,0 +1,46 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "description": "신체 점수 레벨 정의 (운동 강도 결정에 사용)"
+  },
+  "levels": {
+    "A": {
+      "label": "우수",
+      "score_range": [13, 16],
+      "description": "정상 기능, 제한 없음",
+      "exercise_difficulty": ["low", "medium", "high"],
+      "max_exercises": 7
+    },
+    "B": {
+      "label": "양호",
+      "score_range": [9, 12],
+      "description": "경미한 제한",
+      "exercise_difficulty": ["low", "medium", "high"],
+      "max_exercises": 6
+    },
+    "C": {
+      "label": "보통",
+      "score_range": [5, 8],
+      "description": "중등도 제한",
+      "exercise_difficulty": ["low", "medium"],
+      "max_exercises": 5
+    },
+    "D": {
+      "label": "주의",
+      "score_range": [1, 4],
+      "description": "심한 제한, 저강도만 권장",
+      "exercise_difficulty": ["low"],
+      "max_exercises": 4
+    }
+  },
+  "nrs_adjustment": {
+    "0-3": "pain_low",
+    "4-6": "pain_moderate",
+    "7-10": "pain_high"
+  },
+  "difficulty_nrs_limits": {
+    "high": {"max_nrs": 4, "note": "NRS 4 초과 시 high 난이도 제외"},
+    "medium": {"max_nrs": 7, "note": "NRS 7 초과 시 medium 난이도 제외"},
+    "low": {"max_nrs": 10, "note": "모든 NRS에서 허용"}
+  }
+}

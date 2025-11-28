@@ -1,0 +1,329 @@
+How do pain and function vary with compartmental distribution
+and severity of radiographic knee osteoarthritis?
+R. Duncan1, G. Peat1, E. Thomas1, L. Wood1, E. Hay1and P. Croft1
+Objectives. In radiographic OA (ROA) of the knee, how does radiographic severity and pattern of compartmental involvement influence
+symptoms?
+Methods. Population-based study of 819 adults aged /C2150 yrs with knee pain. The severity of knee pain and function were measured
+using the Western Ontario and McMaster Universities scale. Three radiographic views of the knees were obtained.Results. Seven hundred and seventy-seven participants were eligible (mean age 65.5 yrs, 357 males). Higher ROA severity in each of the
+tibiofemoral (TF) and patellofemoral (PF) compartments was independently associated with higher mean pain scores (TF: F
+2, 700¼9.0,
+P<0.0001, PF: F2, 700¼12.7, P<0.0001). The same pattern was found for mean function scores (TF: F2, 705¼7.1, P¼0.001, PF:
+F2, 705¼15.9, P<0.0001). If either the TF or PF compartment was affected by moderate/severe OA, the added presence of OA in the other
+compartment did not increase the mean pain or function scores.
+Conclusions. It is the severity of radiographic disease within a compartment, rather than the distribution of radiographic disease between
+compartments that is associated with symptoms. ROA in the PF joint is associated with symptoms, emphasizing the importance ofradiographic changes in his joint.
+KEY WORDS :Knee osteoarthritis, Pain, Function, Clinical Assessment Study of the Knee, Radiographic severity, Population study.
+Introduction
+The relationship between radiographic OA (ROA) and symptoms
+continues to be debated. In a recent population study, we reporteda consistent cross-sectional relationship between increasing symp-toms and the presence of ROA in a group of individuals with kneepain, when ROA and symptoms were characterized in detail [1].
+Having established this relationship, further investigation is
+warranted to establish if the degree of ROA is directly related toincreasing symptom severity.
+The association between the degree of ROA and the presence of
+knee pain has been previously demonstrated in population studies[2–9], as has an association between ROA and disability [10].However, this has not been consistent across all populationstudies [8, 11].
+Population studies have frequently limited radiographic data
+collection to the tibiofemoral (TF) joint, but establishing whetherspecific compartmental patterns of ROA are associated withdifferent symptoms is important. An association between patello-femoral (PF) OA and pain [9, 12, 13] and disability [12] has beenreported. Szebenyi et al. [14] studied the involvement of different
+compartments (i.e. TF or PF) on symptoms and suggested thatknees with structural damage in both compartments were more
+likely to be painful and associated with loss of function, compared
+with solitary compartmental disease. However, symptomaticunicompartmental OA is common [15]; hence, not only shouldcompartmental involvement be studied but also the level ofradiographic severity within that compartment if the truestructure–symptom relationship is to be determined.
+In order to specifically address the question of symptoms
+associated with different radiographic patterns, we have specifi-cally studied the relationship between symptom severity and both(i) the degree of ROA and (ii) the compartmental distribution ofROA, using extended radiographic views and detailed symptomquestioning.Methods
+The Clinical Assessment Study of the Knee [CAS(K)] is a
+prospective observational cohort study of people with knee pain,sampled from the general population. All patients aged /C2150 yrs
+registered with three general practices in North Staffordshire, UK,were invited to take part in a two-stage postal survey. Almost allpatients in the United Kingdom are registered with a generalpractitioner, and local registers provide a convenient samplingframework for the open population irrespective of any consulta-tion they have had. Respondents to this survey phase, whoindicated that they had experienced knee pain within the previous12 months, were invited to attend a research clinic for a detailedassessment. This consisted of clinical interview, physical examina-tion, digital photography, plain radiographs, anthropometricmeasurement and a brief self-complete questionnaire. Detaileddescriptions of the study [16], and recruitment and retention ofparticipants [17] have been previously published.
+This article reports on cross-sectional analyses of baseline data
+from the CAS(K) study. Participants with complete radiographicdata were included in this analysis. Ethical approval was obtainedfrom the North Staffordshire LREC, No 1430, for all phases ofthe study and all participants provided written consent.
+Data collection
+Clinical data. Data on the severity of knee pain and function
+was gathered by self-complete questionnaire. The 24-item WesternOntario and McMaster Universities (WOMAC) OA index Likertversion 3.0 [18, 19] was used. Each item has five response options(none, mild, moderate, severe, extreme) and yielded total subscalescores for pain (5 items, total score 0–20) and function (17 items,total score 0–68). BMI was calculated from weight and heightmeasured at the assessment clinic.
+Radiographic views. Three views of the knee were obtained: a
+weight-bearing posteroanterior (PA) semi-flexed/metatarsopha-langeal view according to the Buckland-Wright protocol [20], askyline and a lateral view. Skyline and lateral views were obtainedwith the participants in a supine position, the knee flexed to 458using a wedge for accuracy. Films were obtained in the radiologydepartment at the local University Hospital NHS Trust, by a team1Arthritis Research Campaign National Primary Care Centre, Primary Care
+Sciences, Keele University, Keele, UK.
+Submitted 22 April 2008; revised version accepted 15 July 2008.
+Correspondence to: R. Duncan, Arthritis Research Campaign National Primary
+Care Centre, Primary Care Sciences, Keele University, Keele, Staffordshire ST5
+5BG, UK. E-mail: r.c.duncan@cphc.keele.ac.ukRheumatology 2008;47:1704–1707 doi:10.1093/rheumatology/ken339
+Advance Access publication 19 September 2008
+1704
+/C223The Author 2008. Published by Oxford University Press on behalf of the British Society for Rheumatology. All rights reserved. For Permissions, pleas e email: journals.permissions@oxfordjournals.org at Australian National University on March 16, 2015 http://rheumatology.oxfordjournals.org/ Downloaded from 
+
+of six radiographers who had undergone training to standardize
+the X-rays and who met for regular quality control sessions.
+Radiographic scoring. A single reader (R.D.) scored all study
+films blinded to all clinical and questionnaire data. Intraobserver
+and interobserver repeatability was assessed in 50 participants(100 knees); the second reader for the interobserver assessment(P.C.) had previous experience of grading knee radiographs.Unweighted /C20-coefficients were calculated. Intraobserver reli-
+ability scores for the PA Kellgren and Lawrence (K&L) score,skyline K&L score and lateral osteophytes were very good(unweighted /C20¼0.81–0.98); interobserver scores were good
+(/C20¼0.49–0.76).
+The TF joint was assessed using the PA view and the posterior
+compartment of the lateral view. The PF joint was assessed using
+the skyline and lateral views. On the basis of the authors’ original
+written description, a K&L grade was assigned to both the PA andskyline views [21]. In the lateral view, superior and inferiorpatellar osteophytes were scored using a standard atlas [22].
+Osteophytes on the posterior tibial surface do not appear in the
+atlas but were judged on a similar basis of severity as otherosteophytes in the lateral view. Detailed results of the repeat-ability, radiographic scoring and definitions have been previously
+published [15].
+Radiographic severity of the TF and PF compartments was
+defined as mild or moderate/severe according to Table 1. Nine
+radiographic subgroups were used to analyse the associationbetween ROA and symptoms (Table 2).
+Statistical analysis
+Only one knee per individual was analysed, the ‘index knee’. Inparticipants with unilateral knee pain, the index knee was thissingle painful knee. In those with bilateral knee pain, the most
+painful knee was the index knee. In situations where participants
+thought that both knees were similarly painful, the index knee wasselected at random.
+Analysis of variance (ANOVA) was used to identify hetero-
+geneity of the mean overall WOMAC pain and function scoresbetween the radiographic subgroups, adjusting for age (age 50–59/
+60–69/70–79/80 þyrs), gender and BMI (BMI /C2024.9/25–29.2/
+/C2130 kg/m
+2). The F- and P-values are quoted and the presence of
+a linear trend explored. An independent two-sample t-test was
+applied when means between two groups were compared.Results
+Participants
+Over a 14-month period 819 people attended the research clinic, of
+whom 777 were eligible for current analysis (420 females and 357
+males; mean ( S.D.) age 65.5 (8.7) yrs; BMI ( S.D.) 29.6 (5.2) kg/m2).
+Reasons for ineligibility were: patient-declined radiography (2),
+incomplete radiographic data [total knee replacement in indexknee (15), unlabelled PA views (2), absent patella (2) and skylineviews deemed uninterpretable (5)] and existing diagnosis of
+inflammatory arthritis, verified by medical record review (16).
+In all, 531 (68%) participants from the study sample were
+classified as having radiographic OA, moderate/severe OA being
+present in 307 participants. The distribution of individuals acrossthe nine radiographic subgroups is shown in Table 2.
+Association between pain and ROA
+Radiographic severity. Radiographic severity was associated
+with increasing mean WOMAC pain scores. For OA of the
+‘whole’ knee there was heterogeneity of pain scores between
+normal, mild and moderate/severe radiographic groups,F
+2, 700¼13.8, P<0.0001, the association being strongly linear.
+When TF and PF OA were separately analysed, similar trends ofincreasing pain scores with radiographic severity were also seen;
+F
+2, 700¼9.0,P<0.0001 and F2, 700¼12.7, P<0.0001, respectively
+(Table 3).
+Compartmental distribution. Variation in mean WOMAC
+pain score occurred across the nine radiographic subgroups
+(Fig. 1).
+No heterogeneity existed between the five groups if moderate/
+severe ROA was present in one or more compartments
+(F4, 280¼0.97, P¼0.422). Further analysis showed that the
+presence of moderate/severe disease in both compartments was
+not associated with a higher pain score than moderate/severedisease in one compartment ( t¼1.784, P¼0.075). It appears that
+TABLE 1. Radiographic severity
+Normal Mild Moderate/severe
+TF OA PA K&L ¼0o r1
+AND
+Posterior osteophytes ¼0PA K&L ¼2
+ORPosterior osteophytes ¼1o r2PA K&L /C213
+ORPosterior osteophytes ¼3
+PF OA Skyline K&L ¼0o r1
+AND
+Lateral osteophytes ¼0Skyline K&L ¼2
+ORLateral osteophytes ¼1o r2Skyline K&L /C213
+ORLateral osteophytes ¼3
+TABLE 2. Number of individuals in each radiographic subgroup (percentages in
+brackets)
+Radiographic subgroup Number in group (%)
+Normal radiographs 246 (32)
+Isolated OA: mild TF 22 (3)
+Isolated OA: moderate/severe TF 9 (1)
+Isolated OA: mild PF 142 (18)
+Isolated OA: moderate/severe PF 44 (6)
+Combined OA: mild TF and mild PF 60 (8)
+Combined OA: mild TF and moderate/severe PF 60 (8)
+Combined OA: moderate/severe TF and mild PF 121 (15)
+Combined OA: moderate/severe TF and
+moderate/severe PF73 (9)TABLE 3. Adjusted mean overall WOMAC pain scores for radiographic severity
+Normal Mild ROA Moderate/severe ROA ANOVA
+OA ‘whole’ knee
+Na218 208 285 F2,700¼13.8
+WOMAC pain scoreb5.17 5.83 7.28 P<0.0001
+TF OAN 392 128 191 F
+2,700¼9.0
+WOMAC pain score 5.75 6.09 7.42 P<0.0001
+PF OA
+N 246 300 165 F2, 700¼12.7
+WOMAC pain score 5.16 6.54 7.35 P<0.0001
+aDue to missing WOMAC data Nwill vary.bAdjusted for age, gender and BMI N¼number in
+the group
+0123456789Mean WOMAC pain score
+Mod/sev TF Mild TF Normal TFNormal PFMild PFMod/sev P F
+FIG. 1. Mean overall WOMAC pain score by radiographic subgroup.Pain and function in knee OA 1705 at Australian National University on March 16, 2015 http://rheumatology.oxfordjournals.org/ Downloaded from 
+
+a threshold in pain is reached once moderate/severe radiographic
+change is present in either the TF or PF compartment, and the
+addition of a second severe compartment does not alter the mean
+WOMAC pain score.
+In the three groups where only mild ROA occurred, there was
+heterogeneity between the mean WOMAC pain score
+(F2, 205¼3.6, P¼0.029). Participants with mild isolated PF OA
+had a baseline pain score of 6.10 compared with 3.39 for mild
+isolated TF OA.
+Associations between function and ROA
+Radiographic severity. Table 4 shows the relationship
+between ROA and functional limitation to be a similar patternto that of pain, mean function scores increasing with radiographicseverity for the ‘whole’ knee and when the TF and PF
+compartments were analysed separately.
+Compartmental distribution. Mean WOMAC function
+scores varied across the nine radiographic subgroups, the highestscore occurring in the radiographic subgroup of isolated severe TF
+OA (Fig. 2). Analysis of the five radiographic subgroups where
+moderate/severe radiographic OA occurred in either one or both
+compartments revealed no heterogeneity ( F
+4, 281¼0.9, P¼0.86).
+The presence of moderate/severe radiographic OA in bothcompartments was not associated with a higher mean WOMAC
+function score than moderate/severe disease in a single compart-
+ment ( t¼/C01.398, P¼0.163). It appears, as with pain, that a
+threshold effect for function limitation is reached when moderate/
+severe radiographic change is present in either of the compartments
+and the addition of a second compartment with moderate/severe
+ROA does not alter the function score.
+In participants with mild radiographic OA only, heterogeneity
+was demonstrated between the mean WOMAC function score for
+the three mild groups ( F
+2, 207¼4.9,P¼0.008). Participants with
+mild isolated PF OA had a baseline function score of 20.3compared with 10.0 for mild isolated TF OA.Discussion
+Previous research within the CAS(K) cohort has demonstrated arelationship between symptom severity and the presence of ROA
+[1]. We have now extended this further, reporting that in a group
+of older people with knee pain, both radiographic severity and
+compartmental distribution of ROA are significantly associated
+with symptom and functional severity.
+First, we have reported a relationship between the degree of
+radiographic change and the severity of knee pain and functionallimitation. Previous studies have shown that knee pain is morelikely to be present as radiographic severity increases [2–9] but
+these studies dichotomized knee pain as present or absent. We
+have provided further support to the relationship by demonstrat-ing that radiographic severity is associated with increasing pain
+and functional limitation, this linear relationship occurring in OA
+of the whole knee joint but also when the TF and PF OA were
+studied separately. McAlindon et al. [10] reported an increase in
+frequency of disability with worsening ROA, and our results
+reinforce his observed relationship in both the TF and PF
+compartments. We have not adjusted for pain in our analysis of
+disability as we do not believe it to be a true confounder, butinstead it lies on the causal pathway.
+Second, although radiographic severity is important, the
+compartmental distribution may also influence symptom report-
+ing, and our analysis has shown that a simple classification of pain
+and function levels is associated with different patterns ofcompartmental OA. Identifying whether ROA occurring in one
+compartment results in higher pain or function levels than in the
+other is a question of practical importance because of itsimplications for diagnosis and treatment. A further question is
+that if both compartments are affected, then is that additionally
+linked with pain and function? We found that for moderate/severe
+ROA there was no differentiation in pain or function score if
+moderate/severe ROA occurred alone or in combination withanother compartment. This suggests that severity is more
+important than compartmental involvement. These results are in
+contrast with the study reported by Szebenyi et al. [14], who found
+that the presence of ROA in both the TF and PF compartments
+resulted in significantly higher pain and function scores. However,
+in this study radiographic severity was not considered and we
+know from previous work within the CAS(K) study (data not
+shown) that when TF or PF occur in isolation the disease is milderthan when TF or PF OA occur in combined TF/PF OA. Szebenyi
+et al.’s results may reflect underlying severity of ROA rather than
+true compartmental involvement. In marked contrast to theCAS(K) study, Szebenyi et al. [14] found isolated TF and PF OA
+to be no more symptomatic than in persons with normal knee
+radiographs.
+When our analysis was restricted to mild radiographic disease,
+heterogeneity existed between the three groups. In mild radio-graphic disease, isolated mild PF OA appears to be associated
+with higher pain and function scores compared with isolated mild
+TF OA in our population study. However, caution needs to beexercised in our cohort because of small numbers in the group
+with isolated TF OA ( n¼22).
+Third, we report a high prevalence of PF OA in our cohort,
+24% of individuals demonstrating isolated PF disease. Previously,McAlindon highlighted the importance of the PF joint and a
+recent editorial reemphasized this importance [12, 23] and our
+results support this. Notably, we found that even isolated mild PF
+OA resulted in significant symptoms and this warrants furtherinvestigation particularly with regard to everyday task-specific
+functions. These findings may be relevant to orthopaedic surgeons
+when deciding between a unicompartmental and total knee
+replacement.
+A total of 3106 adults aged /C2150 yrs reporting knee pain in the
+previous 12 months were identified from the first baselinequestionnaire, of which 819 attended the research clinic.TABLE4. Adjusted mean overall WOMAC function scores for radiographic severity
+Normal Mild ROAModerate/severe
+ROA ANOVA
+OA ‘whole’ knee
+Na220 210 286 F2, 705¼14.9
+WOMAC function scoreb16.16 19.77 23.95 P<0.0001
+TF OA
+N 395 130 191 F2, 705¼7.1
+WOMAC score 18.71 20.95 23.89 P¼0.001
+PF OA
+N 248 304 164 F2, 705¼15.9
+WOMAC score 16.20 21.73 24.51 P<0.0001
+aDue to missing WOMAC data Nwill vary.bAdjusted for age, gender and BMI. N¼number in
+the group.
+051015202530Mean WOMAC function score
+Mod/sev TF Mild TF Normal TFNormal PFMild PFMod/sev P F
+FIG. 2. Mean overall WOMAC function score by radiographic subgroup.1706 R. Duncan et al. at Australian National University on March 16, 2015 http://rheumatology.oxfordjournals.org/ Downloaded from 
+
+There was evidence of selective non-participation during recruit-
+ment (aged /C2180 yrs, lower socioeconomic group, currently in
+employment, experiencing anxiety or depression, brief episode ofknee pain in the previous year). This did not cause significant biasin either the distribution of WOMAC scores or the associationbetween physical function and obesity. Our current analysisadjusted for age, gender and BMI, and we feel that the selectivenon-participation during recruitment will not substantially bias ourestimates of the association between symptoms and radiographs.
+The CAS(K) study did not sample asymptomatic individuals,
+and we cannot therefore state how much ROA would be presentin individuals with no knee pain. However, it is the observedassociation between the severity of radiographic knee OA andincreasing pain and functional limitation that is the main
+contribution of this article. Another limitation is the small
+number of individuals with isolated TF OA. Comparisonsregarding pain and function levels with symptomatic participantswith normal radiographs and isolated TF OA may be biased dueto the small numbers.
+The particular strengths of the CAS(K) study are (i) a clearly
+defined population, (ii) more radiographic views than in manyprevious studies and detailed scoring of the X-rays and (iii)detailed accounts of pain and function; thus increasing thelikelihood of demonstrating associations if they exist.
+This work implies that unicompartmental progression of knee
+OA does have consequences for symptoms and function. Oneparticular pattern of progression that may have been under-appreciated is progression of disease within the PF compartment.
+Further research is warranted on what effect conservative
+treatment may have on disease progression within this jointcompartment. Our findings are cross-sectional and further long-itudinal research would usefully identify the rate of PF progres-sion and its associations with change in pain and function.
+In conclusion, the results reported in this article suggest that
+structure is still likely to have an important role to play in theprevention of onset and progression of OA, as well as general riskfactors for chronic pain and disability in an ageing population.
+Acknowledgements
+The authors would like to acknowledge the contributions of DrKrysia Dziedzic, June Handy, Charlotte Clements, Jonathan Hill,Helen Myers, Dr Ross Wilkie and Dr Laurence Wood to aspectsof the conception and design of the study and to the acquisition ofdata; Dr Jacqueline Saklatvala, Carole Jackson, Julia Myatt,Janet Wisher, Sue Stoker, Sandra Yates, Kath Hickson from the
+Department of Radiography, Haywood Hospital to the acquisi-
+tion of radiographic data; and Prof. Chris Buckland-Wright foradvice and training on the radiographic techniques and Prof. IainMcCall for contribution to study concept and design. The authorswould also like to thank the administrative and health informaticsstaff the Arthritis Research Campaign National Primary CareCentre, Primary Care Sciences, Keele University and the staff and
+patients of the participating general practices.
+Funding : This study is supported financially by a Programme
+Grant awarded by the Medical Research Council, UK (Grant
+Code: G9900220) and by Support for Science funding secured by
+North Staffordshire Primary Care Research Consortium for NHS
+service support costs.
+Disclosure statement : The authors have declared no conflicts of
+interest.
+References
+1 Duncan R, Peat G, Thomas E, Hay EM, Mc Call I, Croft P. Symptoms and
+radiographic OA: not as discordant as they are made out to be? Ann Rheum Dis
+2007;66:86–91.
+2 Lawrence JS, Bremner JM, Bier F. Osteo-arthrosis. Prevalence in the population and
+relationship between symptoms and X-ray changes. Ann Rheum Dis 1966;25:1–24.
+3 Felson DT, Naimark A, Anderson J, Kazis L, Castelli W, Meenan RF. The prevalence
+of knee OA in the elderly. The Framingham OA study. Arthritis Rheum 1987;30:914–8.
+4 Hochberg M, Lawrence R, Everett D, Cornoni-Huntley J. Epidemiological associa-
+tions of pain and OA of the knee: data from the national health and nutrition
+examination survey – I. Epidemiological follow-up survey. Semin Arthritis Rheum
+1989;18:4–9.
+5 Carmen W. Factors associated with pain and OA in the Tecumseh community health
+study. Semin Arthritis Rheum 1989;18:10–3.
+6 Davis MA, Ettinger WH, Neuhaus JM, Barclay JD, Segal MR. Correlates of knee pain
+among US adults with and without radiographic knee OA. J Rheumatol1992;19:1943–9.
+7 Lethbridge-Cejku M, Scott WW Jr, Reichle R et al. Association of radiographic
+features of OA of the knee with knee pain: data from the Baltimore longitudinal studyof aging. Arthritis Care Res 1995;8:182–8.
+8 O’Reilly SC, Jones A, Muir KR, Doherty M. Quadriceps weakness in knee OA: the
+effect on pain and function. Ann Rheum Dis 1998;57:588–94.
+9 Lanyon P, O’Reilly S, Jones A, Doherty M. Radiographic assessment of symptomatic
+knee OA in the community: definitions and normal joint space. Ann Rheum Dis1998;57:595–601.
+10 McAlindon TE, Cooper C, Kirwan JR, Dieppe PA. Determinants of disability in
+osteoarthritis of the knee. Ann Rheum Dis 1993;52:258–62.
+11 Jordan J, Luta G, Renner J, Dragomir A, Hochberg M, Fryer J. Knee pain and knee
+osteoarthritis severity in self-reported task specific disability: the Johnston countyosteoarthritis project. J Rheumatology 1997;24:1344–9.
+12 McAlindon TE, Snow S, Cooper C, Dieppe PA. Radiographic patterns of OA of the
+knee joint in the community: the importance of the PF joint. Ann Rheum Dis
+1992;51:844–9.
+13 Cicuttini FM, Baker J, Hart DJ, Spector TD. Choosing the best method for
+radiological assessment of PF OA. Ann Rheum Dis 1996;55:134–6.
+14 Szebenyi B, Hollander AP, Dieppe P et al. Association between pain, function, and
+radiographic features in OA of the knee. Arthritis Rheum 2006;54:230–5.
+15 Duncan RC, Hay EM, Saklatvala J, Croft PR. Prevalence of radiographic OA – it all
+depends on your point of view. Rheumatology 2006;45:757–60.
+16 Peat G, Thomas E, Handy J et al. The knee clinical assessment study – CAS(K). A
+prospective study of knee pain and knee OA in the general population. BMC
+Musculoskelet Disord 2004;5:4.
+17 Peat G, Thomas E, Handy J et al. The knee clinical assessment study – CAS(K). A
+prospective study of knee pain and knee OA in the general population: recruitment
+and retention at 18 months. BMC Musculoskelet Disord 2006;7:30.
+18 Bellamy N. WOMAC OA index. A user’s guide. Ontario: London Health Services
+Centre, McMaster University, 1996.
+19 Jinks C, Jordan K, Croft P. Measuring the population impact of knee pain and
+function with the Western Ontario and McMaster Universities OA index (WOMAC).Pain 2002;100:55–64.
+20 Buckland-Wright C, Wolfe F, Ward RJ, Flowers N, Hayne C. Substantial superiority
+of semiflexed (MTP) views in knee OA: a comparative radiographic study, without
+fluroscopy, of standing extended, semiflexed (MTP), and Schuss views. J Rheumatol1999;26:2664–74.
+21 Lawrence JS. Rheumatism in populations. London: Heinemann, 1977;99–100.22 Burnett S, Hart D, Cooper C, Spector T. A radiographic atlas of OA. London:
+Springer-Verlag, 1994.
+23 Hinman RS, Crossley KM. Patellofemoral joint osteoarthritis: an important subgroup
+of knee osteoarthritis. Rheumatology 2007;46:1057–62.Rheumatology key messages
+/C15Radiographic severity is significantly associated with severity of
+pain and function at the knee.
+/C15Moderate/severe OA in any single compartment of the knee is as
+strong a determinant of symptoms as multi-compartment disease.Pain and function in knee OA 1707 at Australian National University on March 16, 2015 http://rheumatology.oxfordjournals.org/ Downloaded from 
+

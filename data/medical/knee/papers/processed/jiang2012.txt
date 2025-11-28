@@ -1,0 +1,440 @@
+Joint Bone Spine 79 (2012) 291–297
+Original article
+Body mass index and susceptibility to knee osteoarthritis: A systematic review
+and meta-analysis
+Liying Jianga, Wenjing Tiana, Yingchen Wangb, Jiesheng Rongc, Chundan Baoa,
+Yupeng Liua, Yashuang Zhaoa,∗, Chaoxu Wangd,1
+aDepartment of Epidemiology, Public Health College, Harbin Medical University, Harbin, Heilongjiang Province, PR China
+bDepartment of Hygienic Microbiology, Public Health College, Harbin Medical University, Harbin, Heilongjiang Province, PR China
+cDepartment of Orthopedics Surgery, The Second Afﬁliated Hospital of Harbin Medical University, Harbin, Heilongjiang Province, PR China
+dDepartment of Nutrition and Food Higiene, Public Health College, Harbin Medical University, Harbin, Heilongjiang Province, PR China
+article info
+Article history:
+Accepted 16 May 2011Available online 30 July 2011
+Keywords:ObesityOsteoarthritisMeta-analysisabstract
+Objective: Excess bodyweight, expressed as increased body mass index, is associated with osteoarthritis
+risk, especially in weight bearing joints. However, the strength of the association was inconsistent. Thestudy was conducted to quantitatively assess the association between body mass index and the riskof knee osteoarthritis and investigate the difference of the strength stratiﬁed by sex, study type andosteoarthritis deﬁnition.Methods: We used published guidelines of the Meta-analysis of Observational Studies in Epidemiology
+Group (MOOSE) to perform the meta-analysis. The search strategy employed included computerizedbibliographic searches of MEDLINE, PubMed, EMBASE, The Cochran Library and references of publishedmanuscripts. Study-speciﬁc incremental estimates were standardized to determine the risk of kneeosteoarthritis associated with a 5 kg/m
+2increase in BMI.
+Results: Twenty-one studies were included in the study. The results showed that body mass index was
+signiﬁcantly positive associated with osteoarthritis risk in knee site. A 5-unit increase in body mass indexwas associated with an 35% increased risk of knee osteoarthritis (RR: 1.35; 95%CI: 1.21, 1.51). Magnitudeof the association was signiﬁcantly stronger in women than that in men with signiﬁcant difference (men,RR: 1.22; 95%CI: 1.19, 1.25; women, RR: 1.38; 95%CI: 1.23, 1.54; p= 0.04). The summary effect size was
+1.25(95%CI: 1.18, 1.32) in case-control studies and 1.37 (95%CI: 1.19, 1.56) in cohort studies ( p= 0.28).
+Body mass index was positively associated with knee osteoarthritis deﬁned by radiography and/or clinicalsymptom (RR: 1.25, 95%CI: 1.17, 1.35) and clinical surgery (RR: 1.54, 95%CI: 1.29, 1.83). The latter tendedto be stronger than the former ( p< 0.01).
+Conclusion: Increased body mass index contribute to a substantially increased risk of knee OA. The
+magnitude of the association varies by sex and OA deﬁnition.
+© 2011 Société franc ¸ aise de rhumatologie. Published by Elsevier Masson SAS. All rights reserved.
+1. Introduction
+Osteoarthritis (OA) is the most common joint disease and is
+one of the most prevalent symptomatic health problems for olderindividuals. The etiology of OA is multifactorial, including inﬂam-matory factors, metabolic factors, and mechanical factors [1].O A
+have incurred substantial disease burden and inﬂuenced the qualityof daily life for the elderly. Knee joint is the most clinically affectedsite, and knee OA is the main indication for a large number of kneereplacement surgeries performed annually [2].
+∗Corresponding author. Tel.: +86-0451-87502823; fax: +86-0451-87502881.
+E-mail addresses: zhao yashuang@263.net ,zhaoyashuang@ems.hrbmu.edu.cn
+(Y. Zhao), wangchaoxu2002@163.com (C. Wang).
+1Tel: +86-0451-87502870; Fax: +86-0451-87502881.Obesity has become a global problem leading to excess morbid-
+ity and mortality. According to the latest World Health Organization(WHO) report, more than 1.6 billion adults (aged 15 years old)are overweight [3]. Obesity has drawn interest in recent studies
+because of its modiﬁable status and its association with OA. There isconsiderable evidence indicating that obesity plausibly representsone of the most important risk factors for particular peripheral jointsites, predominantly the knee site and the hip site [4–11] .
+Standard therapeutic modalities can alleviate symptoms and
+improve function but cannot alter the disease process [10] .
+Therefore, much attention has been invested in improving therecognition of epidemiology and in elucidating possible factors pre-disposing to OA development. Mechanical stress resulting from ahigh body mass index (BMI) is known to be a risk factor for thedevelopment of knee OA, and better understanding of the positiveeffect of obesity on OA development is likely to be valuable in the
+1297-319X/$ – see front matter © 2011 Société franc ¸ aise de rhumatologie. Published by Elsevier Masson SAS. All rights reserved.
+doi: 10.1016/j.jbspin.2011.05.015
+
+292 L. Jiang et al. / Joint Bone Spine 79 (2012) 291–297
+campaign against osteoarthritis. To our knowledge, many epidemi-
+ologic studies have been performed to investigate the associationbetween obesity with knee OA, and obesity is an unequivocal riskfactor for the onset and progression of knee OA [9,12,13] . However,
+the link between obesity and the risk of knee OA lack quantitativelyassessment.
+It is probable that once sufﬁcient information is provided
+through systematic studies, we will be able to obtain a better under-standing of the cause of OA as a whole and perhaps develop newinterventions to lower the prevalence of obesity and knee OA inthe future. Therefore, we conducted a meta-analysis and meta-regression to quantitatively clarify the association between BMI,as a measure of overall obesity, and the risk of developing knee OAbased on available studies to date.
+2. Methods
+2.1. Search strategy and inclusion criteria
+The search strategy included computerized bibliographic
+searches of PubMed (1966–2010), EMBASE (1974–2010) and refer-ences of published manuscripts. The Cochrane Library of SystematicReviews also was queried. Other websites searched includedNational Institute for Clinical Excellence, National ElectronicLibrary for Health- musculoskeletal specialist library, ArthritisResearch Campaign, Arthritis Care, Arthritis and MusculoskeletalAlliance, and Arthritis Foundation National Ofﬁce. The search termsincluded obesity, overweight, BMI, adiposity, arthritis, osteoarthri-tis and OA. Studies in humans of the association between BMI andknee OA were included if they met the following criteria:
+•the study was English-language articles;
+•the study was of a cohort, or a (nested) case-control study
+reported the association with corresponding conﬁdence intervals(95%CI) for at least three categories of exposure (BMI), or mustprovide sufﬁcient data to estimate them. Height and weight orBMI must be provided in those studies;
+•the study was on primary or idiopathic knee OA, while not sec-
+ondary OA
+•the study was on the relationship between obesity and knee joint
+replacements.
+No speciﬁc limits of ethnicity, the type of knee OA (femoro-
+tibial and patello-femoral OA), and the site of knee OA (unilateralor bilateral knee OA) were set.
+The titles and abstracts were scanned to exclude studies that
+were clearly irrelevant. The full texts of the remaining articles wereread to determine whether they contained information about ourinterest. In addition, the electronic searches were supplementedby scanning reference lists from retrieved articles to identify addi-tional studies. For studies with same population resources orover-lapping datasets, the most complete one was included. Theexcluded studies included reviews, conference abstracts, letters toeditors and studies on the progression of OA.
+2.2. Data extraction and quality assessment
+Data were extracted using a standardized data extraction form
+and the information of studies was assessed by two investigatorsindependently. Discrepancies were resolved by discussion andrepeated examination of the included articles The following infor-mation was used for each study: The ﬁrst author’s name, year ofpublication, country where the study was performed, participantpopulation, study design, OA deﬁnition/assessment, risk estimateswith corresponding 95%CI either with one BMI category as thereference or expressed as a slope per incremental BMI, covariates
+controlled in the study.
+For measuring quality of observational studies no universal scale
+was available, therefore, we followed the guidelines of the Meta-analysis of Observational Studies in Epidemiology (MOOSE) groupand assessed the quality of the included studies based on the fol-lowing criteria [14] :
+•clear description of the population and setting;
+•sufﬁcient sample size;
+•appropriate measurement of outcomes;
+•response rate of the original study was higher than 80%;
+•completeness of follow-up or questionnaires;
+•appropriate consideration and adjustment for potential con-
+founders;
+•knee OA was assessed identical in studied population;
+•exposure was measured identical for cases and controls;
+•information on completers vs. withdrawals;
+•exact statistical and analytical methods.
+Throughout this assessment, when information about a speciﬁc
+item was consistent with the criteria, it was scored as “1”; other-wise, it was scored as “0”. Studies that fulﬁlled more than eightcriteria were considered high quality (i.e., scored ≥8).
+2.3. Statistical analysis
+Meta-analysis was performed for each individual study using
+Stata 8.0 (Stata Corp, College Station, TX). Brieﬂy, the analysissoftware produced forrest plots as a schematic description of themeta-analysis results. Summary random effect estimates werereported using pooled odds ratios (OR), and 95% conﬁdence inter-vals (CI) that were calculated around each summary effect estimate.The random effect model assumed that included study was a ran-dom sample of a hypothetical population of study.
+Study-speciﬁc OR and corresponding 95%CI was chosen rather
+than weight to explore the association because of the wide variationin average weight and height across races. The cut-off for expo-sure categories varied between studies included in the study. Inorder to keep all studies on a coincident scale, category-speciﬁc riskwas transformed into risk estimates associated with per 5 kg/m
+2
+increments in BMI for each study instead of per 1 kg/m2incre-
+ment, which would be impractical and non-signiﬁcant. Therefore,for practical reasons per 5 kg/m
+2increments in BMI has been used
+as a surrogate for the change of bodyweight. These estimates werecalculated on the assumption of a linear trend between the naturallogarithm of OR and increased BMI for different exposure cate-gory [15] . Scaled OR was estimated using the method described
+by Greenland [16] . As most studies have reported effect size and
+their corresponding 95%CI, we used these data as summary statis-tics for each study. The value assigned to each BMI category was themid-point for closed categories. For open-ended categories (e.g.,BMI > 30), we estimated the median (assuming a normal distri-bution for BMI) [17] . Unless special statement, the adjusted risk
+estimate from each study was used.
+Heterogeneity testing using Q statistics was performed to eval-
+uate variance between studies [18] . If the between-study variance
+was large enough to make the test of heterogeneity signiﬁcant(P< 0.05), random effects models were considered most appropri-
+ate. As these tests of heterogeneity were relatively insensitive, amore conservative P-value of less than 0.10 was used. Finally, the
+potential publication bias was examined with funnel plots, whichplot the log of effect sizes against the inverse standard error of theeffect size. The Egger’s regression test was used to test funnel plotasymmetry [19] .A P-value < 0.05 was considered signiﬁcant for
+publication bias. We also conducted sensitivity analysis omitting
+
+L. Jiang et al. / Joint Bone Spine 79 (2012) 291–297 293
+each study to assess whether result was inﬂuenced excessively by
+a single study [20] .
+3. Results
+3.1. Studies included in the meta-analysis
+The primary literature search had identiﬁed 414 potentially
+relevant studies. After review of these titles and abstracts, weretrieved full articles for further assessment. A total of 44 stud-ies have been identiﬁed. Twenty-three studies were excluded forunavailable or incomplete data [7,21–42] . Finally, 21 unique studies
+were available for this meta-analysis, including 15 cohort studies[9,11–13,43–53] and six case-control studies [54–59] . The number
+of included studies whose deﬁnition of OA was based on clinicalsurgery was six studies [13,46,50,55,57,59] , on radiography seven
+studies [11,12,45,48,51,53,58] , on radiography and clinical symp-
+tom six studies [9,43,44,52,54,56] , and on self-reported two studies
+[47,49] .Fig. 1 shows the search and selection process. Table 1 sum-
+marizes the characteristics of included studies.
+3.2. Meta-analysis of increased BMI and the risk of knee OA
+The analysis involved 872 717 subjects from 18 studies. A sum-
+mary of meta-analysis for the association between obesity andsusceptibility to knee OA was shown in Fig. 2 . A 5-unit increase
+in BMI was signiﬁcantly related to an increased risk of knee OA(RR: 1.35; 95%CI: 1.21, 1.51; P< 0.001 for Q test; I
+2= 99.20% for het-
+erogeneity). This suggested that every 5-unit increase in BMI wasassociated with a 35% increased risk of knee OA.
+We also carried subgroup analysis to examine whether the
+association was different because of stratiﬁcation by sex, studydesign and deﬁnition of knee OA. For different sex, the associa-tion was 1.38(95% CI: 1.23–1.54; P< 0.001 for Q test; I
+2= 97.00%
+for heterogeneity) in women and 1.22 (95%CI: 1.19, 1.25; P= 0.71
+   Articles identified after citation (n=414) 
+Excluded by screening of titles and/or abstracts (n=210) 
+Excluded due to no related factors we 
+studied (n=160)  
+21 articles included in this meta-analysis articles excluded after review of full text 
+(n=23): 1. the effect on OA the progression of 
+(n=2) . 
+2. study on prognostic factors (n=1). 
+3. special population (n=2). 
+4. twin study on genetic factors(n=1). 
+5. cross-sectional study (n=1) 
+6. No category, OR and 95%CI, or 
+number of cases and controls to 
+calculate (n=16).  Potentially relevant articles identified  and screened for retrieval (n=204) 
+Potentially appropriate articles to be included in this 
+meta-analysis (n=44) 
+Fig. 1. Flow chart of article selection.
+Fig. 2. The forest plot of the association between BMI and knee OA using random-
+effects model.
+for Q test; I2< 0.001% for heterogeneity) in men with sig-
+niﬁcant difference ( P= 0.04) ( Table 2 ). Examined case-control
+studies and cohort studies separately, we found that the sum-mary association was 1.25(95%CI: 1.18, 1.32; P= 0.15 for Q test;
+I
+2= 44.40% for heterogeneity) in case-control studies and 1.37
+(95%CI: 1.19, 1.56; P< 0.001 for Q test; I2= 99.40% for heterogeneity)
+in cohort studies with no statistical signiﬁcant difference ( P= 0.28)
+(Table 2 ). To assess the association in more details, we further
+conducted the analysis according to the deﬁnition of OA (clin-ical surgery versus clinical symptom or radiography or clinicalsymptom + radiography). The end-point was precisely categorizedinto non-clinical surgery (radiography and/or clinical symptom)and clinical surgery. The association was 1.25(95%CI: 1.17, 1.35;P< 0.001 for Q test; I
+2= 93.20% for heterogeneity) deﬁned by radiog-
+raphy and/or clinical symptom and 1.54(95%CI: 1.29, 1.83; P< 0.001
+for Q test; I2= 98.60% for heterogeneity) deﬁned by clinical surgery,
+respectively. The latter tended to give larger effect than the former(P< 0.01) ( Table 2 ).
+3.3. Heterogeneity and publication bias
+Signiﬁcant heterogeneity between studies was noted in cohort
+studies, while moderate heterogeneity in case-control studies. Itwas difﬁcult to correlate the funnel plot, which is usually used todetect publication bias, because the number of studies included inthe analysis was relatively small. No publication bias was detectedby Egger’s regression ( P= 0.95), but Begger methods had tested
+bias opposing to Egger’s regression ( P= 0.03). Trim and ﬁll anal-
+ysis showed no study might have been missing. Inﬂuence analysisproduced similar summary risk estimates and did not affect thestrength of evidence for increased BMI and the risk of knee OA.
+4. Discussion
+The meta-analysis shows that the risk of knee OA increase with
+BMI and a dose-response relationship exist. A 5-unit increase inBMI is signiﬁcantly associated with an increased risk of developingknee OA (RR: 1.35; 95%CI: 1.21, 1.51). That is, every 5-unit increasein BMI is associated with a 35% increased risk of knee OA. Our ﬁnd-ings support the notion that there is a positive association betweenincreased BMI and the risk of knee OA. Meanwhile, our results pro-vide a quantitative risk estimates and a continuous scale that is areliably steady result. BMI is analyzed on the continuous scale, and
+
+294 L. Jiang et al. / Joint Bone Spine 79 (2012) 291–297Table 1
+Characteristics of studies on obesity and knee osteoarthritis risk.
+Author, year(ref.)Country Study participants (% of
+women)Study design Quality of
+studyNo. cases Mean age of
+patients (SD)Deﬁnition OA site Adjustments
+Hart et al.,
+1999 [11]England 1003 women aged 49–60 (100) Prospective
+cohort study9 95 55.30 (5.60) RadiographyaKnee Social classic, smoking, ERT,
+hysterectomy, knee pain, physicalactivity
+Coggon et al.,
+2001 [56]England 1050 men and women
+aged≥45 (60.95)Case control
+study8 525 NA Radiography and
+clinical diagnosis
+bKnee Age, gender
+Grotle et al.,
+2008 [49]Norway 1675 men and women aged
+24–66 (56.30)Prospective
+cohort study9 114 NA Self-reported (based on
+clinical diagnosis)Knee Age, gender, work, leisure time
+activities
+Cooper et al.,
+2000 [45]England 354 men and women aged ≥55
+(72.03)Prospective
+cohort study9 45 NA RadiographycKnee Age, gender, knee pain
+Reijman et al.,
+2007 [48]Netherlands 1372 men and women
+aged≥55 (5.5)Prospective
+cohort study9 76 66.30 (6.70) RadiographycKnee Age, gender
+Sandmark
+et al., 1999 [55]Sweden 1173 men and women aged
+55–70 (49.79)Case control
+study8 625 NA Clinical surgerydTKR Smoking, hormones, physical loads,
+housework, sports activities
+Jarvholm et al.,
+2005 [46]Sweden 320192 men aged 15–67 (0) Prospective
+cohort study9 502 NA Clinical surgerydTKR Age, smoking
+Oliveria et al.,
+1999 [54]Unites states 268 women aged 20–89 (100) Case control
+study8 134 60.8 Radiography and
+diagnosiseKnee Estrogen use, smoking, health care
+Niu et al., 2009
+[51]United states 2623 men and women aged
+54–70 (59.40)Prospective
+cohort study9 163 NA RadiographycKnee Age, gender, race, bone mineral
+density, knee injury
+Liu et al., 2007
+[47]England 490532 women aged 50–69
+(100)Prospective
+cohort study9 974 NA Self-reported (based on
+clinical surgery)TKR Age, region of recruitment, deprivation
+index
+Holmberg
+et al., 2005 [58]Sweden 1650 men and women aged
+51–70 (57.20)Case control
+study8 825 NA RadiographycKnee Heredity, knee injury, smoking, sports
+activity
+Wang et al.,
+2009 [13]Australia 41528 men and women aged
+25–75 (58.95)Prospective
+cohort study9 541 60.30 (6.80) Clinically surgerydTKR Age, gender, country of birth, education
+Felson et al.,
+1997 [9]United states 217men and 381women
+(63.71)Prospective
+cohort study9 93 NA Radiography and
+diagnosiscKnee Age, gender, smoking, physical activity,
+knee injury, weight change
+Hochberg et al.,
+2004 [12]United states 298 men and 139 women
+aged≥20 (31.81)Prospective
+cohort study9 NA NA RadiographycKnee Age, gender, smoking
+Franklin et al.,
+2009 [59]Sweden 2576 men and women aged
+63–92 (57.10)Case control
+study8 431 73.70 Clinical surgerydTKR Age, occupation
+Lohmander
+et al., 2009 [50]Sweden 11026 men and 16934 women
+aged 45–73 (60.57)Prospective
+cohort study9 471 NA Clinical surgerydTKA Age, gender, smoking, physical activity
+Manninen
+et al., 1996 [43]Finland 6647 men and women aged
+40–64 (54.10)Prospective
+cohort study9 126 NA Radiography and
+diagnosiscKnee
+Manninen
+et al., 2002 [57]Finland 805 men and women aged
+55–75 (75.78)Case control
+study8 281 68.87 Clinical surgerydTKR Age, gender
+Shiozaki et al.,
+1999 [44]Japan 1191 women aged 40–65 (100) Prospective
+cohort study9 NA NA Radiography and
+diagnosiscKnee Physical exercise, knee injury
+Toivanen AT
+et al., 2010 [52]Finland 8000 men and women
+aged≥30 (54.54)Prospective
+cohort study9 94 NA Radiography and
+diagnosiscKnee Age, gender
+Nishimura A
+et al., 2010 [53]Japan 261 men and women aged ≥65
+(63.22)Prospective
+cohort study9 57 70.80 (20.40) RadiographycKnee Age, gender, BMI, knee pain,
+osteoporosis, Heberden’s nodes
+TKR: total knee replacement; TKA: knee arthroplasty due to osteoarthritis; NA: no available
+aRadiography: Kellgren and Lawrence index of grade ≥1.
+bListed for total anthropathy.
+cRadiography: Kellgren and Lawrence index of grade ≥2.
+dThe ﬁrst clinical surgery for primary osteoarthritis.
+eRadiography-based deﬁnition suggested by the American College of Rheumatology.
+
+L. Jiang et al. / Joint Bone Spine 79 (2012) 291–297 295
+Table 2
+Summary effect sizes of knee osteoarthritis per 5-unit increase in BMI by sex, studytype and OA deﬁnition.
+Subgroup No. of studies Odds ratios (95%CI) Heterogeneity
+pfor Q test I2(%)
+Female 10 1.38 (1.23–1.54) < 0.001 97.00
+Male 7 1.22 (1.19–1.25) 0.71 < 0.001Case control study 4 1.25 (1.18–1.32) 0.15 44.40Cohort study 14 1.37 (1.19–1.56) < 0.001 99.40Subtotal 18 1.35 (1.21–1.51) < 0.001 99.20Surgery 4 1.54 (1.29–1.83) < 0.001 98.60No surgery 14 1.25 (1.17–1.35) < 0.001 93.20Subtotal 18 1.35 (1.21–1.51) < 0.001 99.20
+effect size is converted to be per ﬁve units to reﬂect both over-
+weight BMI of 27 against normal BMI of 22 and obese BMI of 32against overweight BMI of 27. It is also possible that any point ofcategories for BMI among normal distribution of population caninterpret the increased risk of knee OA. And, the magnitude of theassociation was slightly stronger in women than men with signif-icant difference in our meta-analysis. A meta-analysis evaluateddata on the relationship between obesity and the risk of knee OA[60] . However, the report provided no obvious evidence as a contin-
+uous scale for risk estimates of knee OA. Compared to Blagojevic’spublished meta-analysis on observational studies, we used strictdiagnostic criteria for knee OA in order to determine true asso-ciation between the exposure and the outcome, and provided anobvious evidence of dose-response relationship as a continuousscale.
+Meta-analysis of observational studies are prone to bias, and
+confounding factors that are inherent in original studies broughtabout different extent of bias. Case control studies are more proneto recall bias such as recalling BMI. In case-control studies patientswith symptomatic knee OA might exaggerate the risk of developingOA associated with prior weight because they are more likely tooverestimate earlier body weight. We thus restricted our analysisto cohort studies and case control studies separately. However, themagnitude of the association remained similar after being stratiﬁedby different study type. This indicated that there was few recallbias.
+OA is generally diagnosed by radiography and clinical symp-
+tom. Radiographic OA is deﬁned by X-ray based on traditionalcriteria of Kellgren-Lawrence scales (graded 0–4, where 0 = none;1 = possible osteophytes only; 2 = deﬁnite osteophytes and possiblejoint space narrowing; 3 = moderate osteophytes and/or deﬁnitejoint space narrowing; and 4 = large osteophytes, severe joint spacenarrowing, and/or bony sclerosis). Clinical OA (Symptomatic OA) isdiagnosed on the basis of disease histories, symptoms and clini-cal ﬁndings according to standard criteria evaluated by speciallytrained physicians. The validity of study depends on the accu-racy of case deﬁnition, which may be one of the reasons thatrisk estimates are different across studies. In fact, OA is difﬁ-cult to assess because it combines both symptoms and pathologicchanges, the latter is usually recognized by radiography. Radiologi-cal grounds probably mean more sensitivity and include mild cases,whereas joint replacement surgery indicates severe end-stage OA.Some papers involved in the study have reported the associationbased on different OA deﬁnition. More and larger studies thatreport BMI-OA risk associations separately for OA deﬁnition areanticipated.
+We found signiﬁcant heterogeneity in our meta-analysis,
+whereas it did not reduce substantially in cohort studies and casecontrol studies after subgroup was conducted. This may be becauseof the variations in OA deﬁnition, different population, diverse con-founders, the irregularities of category-speciﬁc information and theway of BMI report. Begg methods considered that this test had
+larger test performance when the number of involved studies weremore than 75, while moderate ability when 25 studies. Egger et al.used linear regression method to detect the symmetry of funnelplot, and its statistics performance was higher than Begg methods.So we used trimming and ﬁlling analysis to further evaluate publi-cation bias. Comprehension of trimming and ﬁlling result did not liein how many studies should be included, and the result remainedsimilar after being adjusted by trimming and ﬁlling analysis. Inﬂu-ence analysis suggested that no single studies affected signiﬁcantlythe summary estimate.
+There are some limitations considered in this study. First, smok-
+ing seems to be a major potential confounder [29] . However, we
+could not determine the effect of smoking because few studies werestratiﬁed by smoking status. Second, radiographic OA cases basedon traditional criteria using Kellgren-Lawrence scales are generallydeﬁned. Alternative classiﬁcation scales for OA have been used [11] .
+Studies using both the traditional Kellgren-Lawrence and newermodiﬁed individual scales might account for the variation. Third,speciﬁc occupational groups whose jobs requiring repetitious tasksshow high predisposition to developing OA in repetitively usedjoints [25,39] . BMI, deﬁned by anthropometric measures or self-
+reported, may contribute to different results. All these could beadditional bias and need further research. Finally, some impor-tant confounders have not been measured with sufﬁcient precision,or have not been measured at all in original studies. Since BMIseemed to predict slightly stronger for bilateral OA than unilat-eral OA [43] . The positive association of BMI with bilateral knee
+OA was even more obvious. Unfortunately, few studies analyzedsuch a differentiation [43] . We could not rule out the possibility
+of those potential confounders and brought about heterogene-ity. In addition, anthropometric measures other than BMI, suchas waist-to-hip ratio and waist circumference, also serve as bettermeasures of adiposity. However, few studies provided such infor-mation to permit comprehensive analysis of associations acrossstudies.
+WHO endorses the use of BMI (kilogram per square
+meter) to deﬁne obesity as BMI ≥30 kg/m
+2and overweight as
+BMI≥25 kg/m2. Anthropometric measurement or self-reported of
+BMI at baseline could not represent that of changes during follow-up. If BMI is generally obtained from the baseline year, the analysesdo not allow for that a large period of time have elapsed betweenthe ascertainment of exposure and the development of outcome.However, fewer articles reported the association between BMI ear-lier in life and the risk of OA in the life course [58] . Moreover, the
+prevalence of OA increases with age, which is further aggravated byobesity. Risk estimates assessed by BMI at age 18 years were signif-icantly greater than that by “recent” BMI. Crucial questions remainunresolved about the cumulative effect of excess bodyweight overseveral decades, the effect of key weight-change periods in the lifecourse of individuals, and interactions with other potential riskfactors.
+Although with some limitations, our meta-analysis provides an
+obvious evidence of dose-response relationship as a continuousscale for the association between increased BMI with the risk ofdeveloping knee OA. We have transformed category-speciﬁc riskestimates into a quantitative risk estimate associated with every5 kg/m
+2increase in BMI. Most importantly, we have modeled a
+5 kg/m2increase in BMI, and the result may be considerably prac-
+tical and theoretically important. Obesity is particularly importantfor developing OA in weight-bearing joints, and modifying obesitycan prevent osteoarthritis-related pain and disability. The ﬁnd-ing further supports the signiﬁcance of obesity in the etiology ofosteoarthritis. The prevention of obesity is important, as it hasadverse effects on health. Also, change of body weight is useful andfeasible.
+
+296 L. Jiang et al. / Joint Bone Spine 79 (2012) 291–297
+Disclosure of interests
+The authors declare that they have no conﬂicts of interest con-
+cerning this article.
+Acknowledgements
+The study was supported by Heilongjiang Province ofﬁce of edu-
+cation foundation (No. 11531166). The study received generousassistance from Yan Liu in Public Health College in Harbin MedicalUniversity.
+References
+[1] Felson DT, Lawrence RC, Dieppe PA, et al. Osteoarthritis: new insights. Part 1:
+the disease and its risk factors. Ann Intern Med 2000;133:635–46.
+[2] Davis MA, Ettinger WH, Neuhaus JM. The role of metabolic factors and blood
+pressure in the association of obesity with osteoarthritis of the knee. J Rheuma-tol 1988;15:1827–32.
+[3] WHO. See ( http://www.whoint/mediacentre/factsheets/fs311/en/indexhtml ).
+[4] Felson DT, Anderson JJ, Naimark A, et al. Obesity and knee osteoarthritis. The
+Framingham Study. Ann Intern Med 1988;109:18–24.
+[5] Davis MA, Ettinger WH, Neuhaus JM. Obesity and osteoarthritis of the knee:
+evidence from the National Health and Nutrition Examination Survey (NHANESI). Semin Arthritis Rheum 1990;20:34–41.
+[6] Bagge E, Bjelle A, Eden S, et al. Factors associated with radiographic osteoarthri-
+tis: results from the population study 70-year-old people in Goteborg. JRheumatol 1991;18:1218–22.
+[7] Schouten JS, van den Ouweland FA, Valkenburg HA. A 12 year follow up study in
+the general population on prognostic factors of cartilage loss in osteoarthritisof the knee. Ann Rheum Dis 1992;51:932–7.
+[8] Hart DJ, Spector TD. The relationship of obesity, fat distribution and osteoarthri-
+tis in women in the general population: the Chingford Study. J Rheumatol1993;20:331–5.
+[9] Felson DT, Zhang Y, Hannan MT, et al. Risk factors for incident radiographic
+knee osteoarthritis in the elderly: the Framingham Study. Arthritis Rheum1997;40:728–33.
+[10] Felson DT, Lawrence RC, Hochberg MC, et al. Osteoarthritis: new insights. Part
+2: treatment Approaches. Ann Intern Med 2000;133:726–37.
+[11] Hart DJ, Doyle DV, Spector TD. Incidence and risk factors for radiographic knee
+osteoarthritis in middle-aged women: the Chingford Study. Arthritis Rheum1999;42:17–24.
+[12] Hochberg MC, Lethbridge-Cejku M, Tobin JD. Bone mineral density and
+osteoarthritis: data from the Baltimore Longitudinal Study of Aging.Osteoarthritis Cartilage 2004;12:S45–8.
+[13] Wang Y, Simpson JA, Wluka AE, et al. Relationship between body adiposity
+measures and risk of primary knee and hip replacement for osteoarthritis: aprospective cohort study. Arthritis Res Ther 2009;11:R31.
+[14] Stroup DF, Berlin JA, Morton SC, et al. Meta-analysis of observational studies in
+epidemiology: a proposal for reporting. Meta-analysis Of Observational Studiesin Epidemiology (MOOSE) group. JAMA 2000;283:2008–12.
+[15] Orsini N, Bellocco RSG. Generalized least squares for trend estimation of sum-
+marized dose-response data. Stata J 2006;6:40–57.
+[16] Greenland S, Longnecker MP. Methods for trend estimation from summa-
+rized dose-response data, with applications to meta-analysis. Am J Epidemiol1992;135:1301–9.
+[17] Haftenberger M, Lahmann PH, Panico S, et al. Overweight, obesity and fat
+distribution in 50- to 64-year-old participants in the European Prospec-tive Investigation into Cancer and Nutrition (EPIC). Public Health Nutr2002;5:1147–62.
+[18] Higgins JP, Thompson SG. Quantifying heterogeneity in a meta-analysis. Stat
+Med 2002;21:1539–58.
+[19] Egger M, Davey Smith G, Schneider M, et al. Bias in meta-analysis detected by
+a simple, graphical test. BMJ 1997;315:629–34.
+[20] Tobias A. Assessing the inﬂuence of a single study in meta-analysis. Stata Tech
+Bull 1999;47:15–7.
+[21] Anderson JJ, Felson DT. Factors associated with osteoarthritis of the knee in the
+ﬁrst national Health and Nutrition Examination Survey (HANES I). Evidencefor an association with overweight, race, and physical demands of work. Am JEpidemiol 1988;128:179–89.
+[22] Ettinger WH, Davis MA, Neuhaus JM, et al. Long-term physical functioning in
+persons with knee osteoarthritis from NHANES. I: Effects of comorbid medicalconditions. J Clin Epidemiol 1994;47:809–15.
+[23] Spector TD, Hart DJ, Doyle DV. Incidence and progression of osteoarthritis in
+women with unilateral knee disease in the general population: the effect ofobesity. Ann Rheum Dis 1994;53:565–8.
+[24] Hochberg MC, Lethbridge-Cejku M, Scott Jr WW, et al. The association of
+body weight, body fatness and body fat distribution with osteoarthritis ofthe knee: data from the Baltimore Longitudinal Study of Aging. J Rheumatol1995;22:488–93.
+[25] Kujala UM, Kettunen J, Paananen H, et al. Knee osteoarthritis in former runners,
+soccer players, weight lifters, and shooters. Arthritis Rheum 1995;38:539–46.[26] Cicuttini FM, Spector T, Baker J. Risk factors for osteoarthritis in the tibiofemoral
+and patellofemoral joints of the knee. J Rheumatol 1997;24:1164–7.
+[27] Sahlstrom A, Montgomery F. Risk analysis of occupational factors inﬂuencing
+the development of arthrosis of the knee. Eur J Epidemiol 1997;13:675–9.
+[28] Cheng Y, Macera CA, Davis DR, et al. Physical activity and self-reported,
+physician-diagnosed osteoarthritis: is physical activity a risk factor? J ClinEpidemiol 2000;53:315–22.
+[29] Lau EC, Cooper C, Lam D, et al. Factors associated with osteoarthritis of the
+hip and knee in Hong Kong Chinese: obesity, joint injury, and occupationalactivities. Am J Epidemiol 2000;152:855–62.
+[30] Sturmer T, Gunther KP, Brenner H. Obesity, overweight and patterns of
+osteoarthritis: the Ulm Osteoarthritis Study. J Clin Epidemiol 2000;53:307–13.
+[31] Sutton AJ, Muir KR, Mockett S, et al. A case-control study to investigate the
+relation between low and moderate levels of physical activity and osteoarthritisof the knee using data collected as part of the Allied Dunbar National FitnessSurvey. Ann Rheum Dis 2001;60:756–64.
+[32] Lachance L, Sowers MF, Jamadar D, et al. The natural history of emergent
+osteoarthritis of the knee in women. Osteoarthritis Cartilage 2002;10:849–54.
+[33] Dawson J, Juszczak E, Thorogood M, et al. An investigation of risk factors for
+symptomatic osteoarthritis of the knee in women using a life course approach.J Epidemiol Community Health 2003;57:823–30.
+[34] Hootman JM, Macera CA, Helmick CG, et al. Inﬂuence of physical activity-related
+joint stress on the risk of self-reported hip/knee osteoarthritis: a new methodto quantify physical activity. Prev Med 2003;36:636–44.
+[35] Manek NJ, Hart D, Spector TD, et al. The association of body mass index and
+osteoarthritis of the knee joint: an examination of genetic and environmentalinﬂuences. Arthritis Rheum 2003;48:1024–9.
+[36] Sayer AA, Poole J, Cox V, et al. Weight from birth to 53 years: a longitu-
+dinal study of the inﬂuence on clinical hand osteoarthritis. Arthritis Rheum2003;48:1030–3.
+[37] Yoshimura N, Nishioka S, Kinoshita H, et al. Risk factors for knee osteoarthritis
+in Japanese women: heavy weight, previous joint injuries, and occupationalactivities. J Rheumatol 2004;31:157–62.
+[38] Szoeke CE, Cicuttini FM, Guthrie JR, et al. Factors affecting the prevalence of
+osteoarthritis in healthy middle-aged women: data from the longitudinal Mel-bourne Women’s Midlife Health Project. Bone 2006;39:1149–55.
+[39] Tangtrakulwanich B, Geater AF, Chongsuvivatwong V. Prevalence, patterns,
+and risk factors of knee osteoarthritis in Thai monks. J Orthop Sci 2006;11:439–45.
+[40] Thelin N, Holmberg S, Thelin A. Knee injuries account for the sports-related
+increased risk of knee osteoarthritis. Scand J Med Sci Sports 2006;16:329–33.
+[41] Yoshimura N, Kinoshita H, Hori N, et al. Risk factors for knee osteoarthritis in
+Japanese men: a case-control study. Mod Rheumatol 2006;16:24–9.
+[42] Harms S, Larson R, Sahmoun AE, et al. Obesity increases the likelihood of total
+joint replacement surgery among younger adults. Int Orthop 2007;31:23–6.
+[43] Manninen P, Riihimaki H, Heliovaara M, et al. Overweight, gender and knee
+osteoarthritis. Int J Obes Relat Metab Disord 1996;20:595–7.
+[44] Shiozaki H, Kogab Y, Omori G, et al. Obesity and osteoarthritis of the knee
+in women: results from the Matsudai Knee Osteoarthritis Survey. The Knee1999;6:189–92.
+[45] Cooper C, Snow S, McAlindon TE, et al. Risk factors for the inci-
+dence and progression of radiographic knee osteoarthritis. Arthritis Rheum2000;43:995–1000.
+[46] Jarvholm B, Lewold S, Malchau H, et al. Age, bodyweight, smoking habits and
+the risk of severe osteoarthritis in the hip and knee in men. Eur J Epidemiol2005;20:537–42.
+[47] Liu B, Balkwill A, Banks E, et al. Relationship of height, weight and body
+mass index to the risk of hip and knee replacements in middle-aged women.Rheumatology (Oxford) 2007;46:861–7.
+[48] Reijman M, Pols HA, Bergink AP, et al. Body mass index associated with onset
+and progression of osteoarthritis of the knee but not of the hip: the RotterdamStudy. Ann Rheum Dis 2007;66:158–62.
+[49] Grotle M, Hagen KB, Natvig B, et al. Obesity and osteoarthritis in knee, hip
+and/or hand: an epidemiological study in the general population with 10 yearsfollow-up. BMC Musculoskelet Disord 2008;9:132.
+[50] Lohmander LS, Gerhardsson de Verdier M, Rollof J, et al. Incidence of severe
+knee and hip osteoarthritis in relation to different measures of body mass: a
+population-based prospective cohort study. Ann Rheum Dis 2009;68:490–6.
+[51] Niu J, Zhang YQ, Torner J, et al. Is obesity a risk factor for progressive radio-
+graphic knee osteoarthritis? Arthritis Rheum 2009;61:329–35.
+[52] Toivanen AT, Heliovaara M, Impivaara O, et al. Obesity, physically demanding
+work and traumatic knee injury are major risk factors for knee osteoarthritis –a population-based study with a follow-up of 22 years. Rheumatology (Oxford)2010;49:308–14.
+[53] Nishimura A, Hasegawa M, Kato K, et al. Risk factors for the incidence and
+progression of radiographic osteoarthritis of the knee among Japanese. Inter-national Orthopaedics 2010.
+[54] Oliveria SA, Felson DT, Cirillo PA, et al. Body weight, body mass index, and
+incident symptomatic osteoarthritis of the hand, hip, and knee. Epidemiology1999;10:161–6.
+[55] Sandmark H, Hogstedt C, Lewold S, et al. Osteoarthrosis of the knee in men and
+women in association with overweight, smoking, and hormone therapy. AnnRheum Dis 1999;58:151–5.
+[56] Coggon D, Reading I, Croft P, et al. Knee osteoarthritis and obesity. Int J Obes
+Relat Metab Disord 2001;25:622–7.
+
+L. Jiang et al. / Joint Bone Spine 79 (2012) 291–297 297
+[57] Manninen P, Heliovaara M, Riihimaki H, et al. Physical workload and the
+risk of severe knee osteoarthritis. Scand J Work Environ Health 2002;28:25–32.
+[58] Holmberg S, Thelin A, Thelin N. Knee osteoarthritis and body mass
+index: a population-based case-control study. Scand J Rheumatol 2005;34:59–64.[59] Franklin J, Ingvarsson T, Englund M, et al. Sex differences in the association
+between body mass index and total hip or knee joint replacement resultingfrom osteoarthritis. Ann Rheum Dis 2009;68:536–40.
+[60] Blagojevic M, Jinks C, Jeffery A, et al. Risk factors for onset of osteoarthritis of
+the knee in older adults: a systematic review and meta-analysis. OsteoarthritisCartilage 2010;18:24–33.
+

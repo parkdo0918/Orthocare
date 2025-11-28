@@ -1,0 +1,276 @@
+Hip Abductor Weakness in Distance Runners with Iliotibial
+Band Syndrome
+*Michael Fredericson, MD, *Curtis L. Cookingham, MS,PT, †Ajit M. Chaudhari, MS,
+*Brian C. Dowdell, MD, *Nina Oestreicher, BS, and ‡Shirley A. Sahrmann, PhD,PT
+*Department of Functional Restoration, Division of Physical Medicine and Rehabilitation; †Biomotion Research Laboratory,
+Department of Mechanical Engineering, Stanford University, Stanford, California; and ‡Program in Physical Therapy,
+Washington University, St. Louis, Missouri, U.S.A.
+Objective: To examine hip abductor strength in long-
+distance runners with iliotibial band syndrome (ITBS), com-paring their injured-limb strength to their nonaffected limb andto the limbs of a control group of healthy long-distance runners;and to determine whether correction of strength deficits in thehip abductors of the affected runners through a rehabilitationprogram correlates with a successful return to running.
+Design: Case series.
+Setting: Stanford University Sports Medicine Clinics.
+Participants: 24 distance runners with ITBS (14 female, 10
+male) were randomly selected from patients presenting to ourRunners’ Injury Clinic with history and physical examinationfindings typical for ITBS. The control group of 30 distancerunners (14 females, 16 males) were randomly selected fromthe Stanford University Cross-Country and Track teams.
+Main Outcome Measures: Group differences in hip abduc-
+tor strength, as measured by torque generated, were analyzedusing separate two-tailed t-tests between the injured limb, non-
+injured limb, and the noninjured limbs of the control group.Prerehabilitation hip abductor torque for the injured runnerswas then compared with postrehabilitation torque after a6-week rehabilitation program.
+Results: Hip abductor torque was measured with the Nicho-
+las Manual Muscle Tester (kg), and normalized for differencesin height and weight among subjects to units of percent bodyweight times height (%BWh). Average prerehabilitation hipabductor torque of the injured females was 7.82%BWh versus
+9.82%BWh for their noninjured limb and 10.19%BWh for thecontrol group of female runners. Average prerehabilitation hipabductor torque of the injured males was 6.86%BWh versus8.62%BWh for their noninjured limb and 9.73%BWh for thecontrol group of male runners. All prerehabilitation group dif-ferences were statistically significant at th e p < 0.05 level. The
+injured runners were then enrolled in a 6-week standardizedrehabilitation protocol with special attention directed tostrengthening the gluteus medius. After rehabilitation, the fe-males demonstrated an average increase in hip abductor torqueof 34.9% in the injured limb, and the males an average increaseof 51.4%. After 6 weeks of rehabilitation, 22 of 24 athleteswere pain free with all exercises and able to return to running,and at 6-months follow-up there were no reports of recurrence.
+Conclusions: Long distance runners with ITBS have weaker
+hip abduction strength in the affected leg compared with theirunaffected leg and unaffected long-distance runners. Addition-ally, symptom improvement with a successful return to thepreinjury training program parallels improvement in hip abduc-tor strength.
+Key Words: Running injuries—Overuse injury—Friction
+syndrome—Iliotibial band syndrome—Tensor fascia lata—Knee pain.
+Clin J Sport Med 2000;10:169–175.
+INTRODUCTION
+The majority of running injuries are related to the knee
+and most are due to the constant repetition of the runningmotion.
+1Iliotibial band syndrome (ITBS) is believed to
+result from the constant friction of the ITB sliding overthe lateral femoral epicondyle. It is the most commoncause of lateral knee pain in runners and accounts for 1.6to 12% of all running-related injuries.
+2–5
+Two studies of injury rates among runners found in-jury rates for ITBS of 2.1% and 4.7% of injuries, per
+1,000 runners, per year.6,7
+A biomechanical study that examined runners with
+ITBS noted that the posterior edge of the band impingesagainst the lateral epicondyle just after footstrike in thegait cycle. The friction occurs at, or slightly below, 30°of knee flexion.
+8This can produce irritation and subse-
+quent inflammatory reaction, especially in the region be-neath the posterior fibers of the ITB, which are felt to betighter against the lateral femoral condyle than the ante-rior fibers.
+4The symptoms usually come on after a re-
+producible time or distance run and consist of a sharppain or burning on the lateral aspect of the knee. Occa-sionally, there will be swelling and thickening of thetissue where the band moves over the lateral femoralcondyle. Early on, the symptoms will subside shortlyReceived May 27, 1999; accepted March 9, 2000.
+Address correspondence and reprint requests to Michael Fredericson,
+MD, Department of Functional Restoration, Division of Physical Medi-cine & Rehabilitation, Stanford University Medical Center, Pasteur Dr.,R-107B, Stanford, CA 94305-5105, U.S.A.Clinical Journal of Sport Medicine, 10:169–175
+© 2000 Lippincott Williams & Wilkins, Inc., Philadelphia
+169
+
+after arunisover, butwill return with the next run. If
+allowed to progress the pain can persist even with dailywalking and particularly when ascending and descendingstairs.
+Previous articles have suggested a number of etiologi-
+cal factors related to ITBS.
+2–4but they were all retro-
+spective with no evidence of a temporal relationship be-tween the risk factor and outcome. Messier et al.
+9found
+that runners with ITBS versus a noninjured control groupwere less experienced, were doing greater weekly mile-age, and had a greater percentage of their training on thetrack. Additionally, the injured runners were weaker bi-laterally in knee flexion and knee extension and exhib-ited lower maximal normalized braking forces. Factorspostulated in other articles
+2,3,4,10such as training on
+crowned roads, varus alignment, excessive rear foot mo-tion, and leg length discrepancies were not confirmed.One magnetic resonance imaging (MRI) study found thatpatients with ITBS have significantly thicker bands thancontrols without symptoms.
+11
+Janda12has postulated a common muscle imbalance of
+weakness in the gluteus medius leading to early firing,overactivation, and tightness of the tensor fascia lata andiliotibial band. No previous study has examined for thismuscle imbalance, particularly as it relates to ITBS inrunners.
+The hypothesis of this study is that distance runners
+with ITBS are weaker in their hip abductors on the in-jured limb versus their unaffected limb and the unaf-fected limbs of a control group of healthy distance run-ners. Additionally, correction of these deficits correlateswith a successful rehabilitation program.
+METHODS
+The treatment group for this study consisted of 24
+consecutive collegiate and club long-distance runnerswho presented to our Runners ’Injury Clinic for initial
+evaluation and were diagnosed with ITBS. Fourteenmales and 10 females were chosen for the study, with anaverage age of 27.0 years (range 18 –41). All were as-
+sessed by the principal author (M.F.) and had recent(within the last 2 months) symptoms and signs typical ofITBS. The prominent symptom in all runners was oflateral knee pain during running that gradually worsened.The diagnosis was confirmed by the presence of localtenderness over the lateral epicondyle, reproducible painwith flexion and extension of the knee while exertingpressure over the lateral femoral condyle with maximalpain at about 30 °of knee flexion (Noble compression
+test), and the absence of any other signs in the knee jointproper, such as effusion, joint line tenderness, or a posi-tive McMurray ’s test. Exclusion criteria included history
+of previous knee trauma, previous knee surgery, orsymptoms on exam of other knee abnormalities includ-ing patellofemoral joint pain, popliteus tendinitis, lateralmeniscal injury, or degenerative joint disease.
+Any runner who had already been seen at another
+clinic and had received any form of supervised physicaltherapy was also excluded. We did not exclude runnerswho were performing nonsupervised stretching orstrengthening exercises or who were already using icemassage or were taking nonsteroidal antiinflammatorydrugs (NSAIDs).
+The control group of 30 distance runners (14 female,
+16 male) subjects were all Stanford University cross-country and track runners who were randomly selected toparticipate in this study during their preseason physicalsin the summer and fall of 1995 and 1996. One leg wasrandomly chosen from each control subject to be in-cluded in the study. Table 1 shows comparison data forage, gender, height, and weight between the injured andcontrol groups. All athletes participated on a volunteerbasis. Data collected by interview included any history ofprevious or ongoing injury and subsequent rehabilitation.Exclusion criteria included any ongoing spine, hip, orlower extremity injury. Additionally, subjects were ex-cluded if they had a history of previous lower extremityinjury in the preceding 5 years that was not treated witha supervised physical therapy program until they werepain free and had returned to their sport.
+For both the injured athletes and the control group,
+weight and height were self reported. Absolute leglengths were measured by the interviewer by having the
+athlete lie supine on the examining table and measuringthe distance from the anterior superior iliac spine to thehighest point of the medial malleolus, bilaterally.
+13
+Hip abductor strength was then measured by a team of
+two examiners, with one performing the physical test andthe other recording the data. Test positions were as de-scribed by Kendall et al.
+13Strength was measured using
+a hand-held dynamometer (HHD).
+Marino et al.,14using an HHD similar to the one used
+in this study, found that the dynamometer was able todetect even minor differences in muscle strength for thehip abductors and hip flexors that cannot readily be de-tected by the manual method of muscle testing. As rec-
+TABLE 1. Characteristics of study population
+nAge (y) Height (m) Weight (kg)
+Mean 95% CI Mean 95% CI Mean 95% CI
+Females Injured 10 27.60 3.66 1.67 0.06 58.73 4.02
+Controls 14 19.71 0.65 1.70 0.03 56.92 3.97
+Males Injured 14 27.07 4.00 1.78 0.03 71.85 2.69
+Controls 16 20.06 0.66 1.80 0.04 66.28 2.49
+CI, confidence intervals.M. FREDERICSON ET AL. 170
+Clin J Sport Med, Vol. 10, No. 3, 2000
+
+ommended in other studies, measurements from several
+trials were averaged to obtain a more true reflection ofthe mean muscle strength.
+15,16By allowing ample recov-
+ery time between trials, this method also avoided testingerrors due to patient effort or measurement technique.
+The HHD in this study measured the maximum static
+force on digital display. The instrument used was theNicholas Manual Muscle Tester (MMT), manufacturedby Lafayette Instruments (Lafayette, IN, U.S.A.). It mea-sures static force from 0 –199.9 kg, with reported accu-
+racy to 0.1 kg ±2%.
+14,17The device uses a load cell force
+detecting system instead of a spring or hydraulic system.Load cell force systems tend to fatigue less easily withrepetitive use than spring systems, and do not depend asheavily on calibration for their accuracy
+18(nevertheless,
+the HHDs were calibrated prior to each test session). TheNicholas MMT has also been shown to move less at theinput shaft during testing than the spring system. It islimited by the strength of the examiner, as the strength ofthe examinee must be overcome by the examiner. How-ever, in testing the hip abductors in this study all subjectswere easily overcome. Additionally, it has a responsetime of 2 ms, which overcomes any potential errors in theexaminer ’s perception of time required to apply the
+breaking force, and has a force platform that preventserrors in eccentric loading resulting from nonperpendicu-lar force transmitted through the measuring apparatus.
+14
+Strength Test for Hip Abduction
+The subject was placed in a side-lying position on the
+examining table, with the shoulders and pelvis perpen-dicular to the table (Figure 1). The bottom leg was flexedand the upper arm grasped the examining table (bothdone to stabilize the trunk). The top leg was in alignmentwith the rest of the trunk. The patient was asked to ab-duct the leg toward the ceiling. Instructions were given toavoid any internal rotation or flexion of the hip throughrecruitment of the tensor fascia lata or any hip hikingthrough use of the quadratus lumborum.
+Following a verbal description of test procedures, theexaminer stabilized the dynamometer against the sub-
+ject’s leg just above the lateral malleolus, and at least two
+submaximal contractions and one maximal contractionwere completed as practice prior to data acquisition. Fol-lowing 30 seconds of rest, the subjects were instructed tohold their hip abducted at 30 °isometrically. Maximum
+resistance was measured by the HHD as the force re-quired to break the isometric contraction and bring theleg down to the table. Five trials were performed on eachleg. A time period of at least 15 seconds was givenbetween trials if the subject complained of any legcramping. To maintain uniformity in tester –subject in-
+teraction, no encouragement was given to the subjectsduring the test.
+Hip abductor strength was normalized for body weight
+and height.
+19The dynamometer measurement in kilo-
+grams was converted to Newtons [kg ×9.81] to achieve
+a unit of force. Newtons were then converted to torque[force (N) ×action length (m)]. The measured leg length
+was used as the action length. Although the anterior su-perior iliac spine is not the center of the hip axis, becausewe scaled for differences in height this substitution didnot significantly affect the data. The following formulawas used to calculate a dimensionless measure of torque:
+% (BW ×h)/H11505Torque (N ×m)×100/BW(N) ×h(m)
+Where BW is the subject ’s body weight in Newtons and
+h is the height in meters. Two examiners performed all ofthe strength measurements. Both legs of 10 additionalnoninjured control subjects were analyzed during thesame session to determine interexaminer reliability. Thestrength testing was performed as described above withthree trials averaged. To allow full recovery, 10 minuteswas given between the tests performed by the two ex-aminers.
+Several studies have examined intrarater and interrater
+reliability of muscle testing with the HHD using Pearsoncorrelation coefficients. Bohannon et al.
+18tested 18 ex-
+FIG. 1. Hip abductor strength test.HIP ABDUCTOR WEAKNESS IN DISTANCE RUNNERS WITH ITBS 171
+Clin J Sport Med, Vol. 10, No. 3, 2000
+
+tremities, with 3 strength tests per extremity. Intrarater
+reliability was shown to be greater than or equal to 0.97in the majority of correlations. Hyde et al.
+20demon-
+strated test –retest reliability in two boys with muscular
+dystropy, with correlation coefficients of 0.94 for hipflexion, 0.86 for hip abduction, and 0.97 for knee flexionusing the HHD. Another study by Bohannon
+21tested 6
+muscle groups in 30 subjects, using 2 examiners. Theyfound interrater reliability correlations of 0.84 for hipflexion and knee extension, 0.88 for shoulder externalrotation, and 0.94 for wrist extension and elbow flex-ion.
+21Our interrater reliability measurements are in line
+with this previous research, with a 0.92 Pearson correla-tion coefficient between examiners. In addition, an in-traclass correlation coefficient (ICC) was calculated
+22,23
+to assess interrater reliability using a two-way analysis ofvariance (ANOVA). Using this method, the ICC was0.96, which compares favorably to other studies usingthe ICC.
+23
+Validity assessment of the Nicholas HHD has been
+compared with isokinetic testing for shoulder abduc-tion
+24and hamstring23strength testing with correlation
+coefficients of 0.83 to 0.86. We are unaware of any studyin the literature, however, that has specifically comparedHHD versus isokinetic testing for hip abductor strength.
+Rehabilitation
+All injured runners were enrolled in a 6-week stan-
+dardized rehabilitation program, with sessions scheduledonce per week for 6 weeks. All patients were treated bythe same physical therapist. Nonsteroidal antiinflamma-tory drugs were prescribed until the patients were painfree with daily activities. The therapy protocol consistedof local application of ultrasound with corticosteroid gelto decrease inflammation for the first one or two ses-sions. All patients were instructed in two standardstretches for the ITB to be performed three times per day,holding each stretch for 15 seconds (Figures 2 and 3).Side-lying hip abduction exercises and pelvic drops tostrengthen the gluteus medius were started at 1 set of 15repetitions and over a course of several weeks increasedto the goal of 3 sets of 30 repetitions. The patients wereinstructed to increase by five repetitions per day pro-vided there was no significant post work-out soreness thefollowing day. For the side-lying hip abduction, specificinstructions were given to keep the lower leg flexed forbalance, the abdominals braced, and the upper leg inslight hip extension and external rotation. Instructionsensured that the leg was slowly brought into an arc ofabduction of 20 –30°with each repetition, held for 1 sec-
+ond at extremes of motion (Figure 4A), and then slowlyreturned to adduction (Figure 4B). The pelvic drop ex-ercise involved standing on a step with the involved leg,while holding onto a wall or stick if necessary for sup-port (Figure 5A). With both knees locked, the opposite,noninvolved pelvis was lowered towards the floor, shift-ing one ’s body weight to the inside part of the foot and
+involved leg, creating a swivel action at the hip (Figure5B). Then, by contracting the gluteus medius on the in-
+volved side, the pelvis was brought back to a level po-sition. A mirror was used during the initial stages toprovide visual feedback until the exercise was performedcorrectly.
+All subjects were instructed to discontinue running
+and any other activities that continued to cause pain.Cross-training was allowed provided there was no provo-cation of pain during the exercise or post work-out. Sub-jects needed to be pain free with all daily activities andhave progressed to 3 sets of 30 repetitions of the 2strength exercises before being allowed to start a returnto running program at the end of the 6-week rehabilita-tion program.
+RESULTS
+Group differences in hip abductor strength were ana-
+lyzed using two-tailed t-tests between the injured limb,
+noninjured limb, and the noninjured limbs of the controlgroup. To compare the injured limb with the noninjuredlimb and to compare the injured limb before and afterrehabilitation, paired t-tests were performed, while two-
+sample unequal-variance t-tests were performed to com-
+pare study patients with controls.
+Figure 6 shows that the average prerehabilitation hip
+FIG. 2. Iliotibial band standing stretch.M. FREDERICSON ET AL. 172
+Clin J Sport Med, Vol. 10, No. 3, 2000
+
+abductor torque generated by the injured leg for the fe-
+male study patients was 7.82 ± 1.93%BWh (95% confi-dence interval) versus an average of 9.82 ± 2.98 in thenoninjured limb and 10.19 ± 1.10 in the control groupfemale runners. The average prerehabilitation hip abduc-tor torque generated by the injured leg for the male studypatients was 6.86 ± 1.19 versus an average of 8.62 ± 1.16in the noninjured limb and 9.73 ± 1.30 among the controlgroup of male runners.
+Figure 7 illustrates that for injured female runners,
+postrehabilitation there was an increase in average hipabductor torque to 10.55%BWh, a 34.9% increase. Forinjured male runners postrehabilitation, there was an in-crease in average hip abductor torque to 10.38, a 51.4%increase.All comparisons were statistically significant at the p
+< 0.05 level.
+At 6 weeks, 22 of 24 athletes were pain free and had
+started a return to running protocol; follow-up by phoneat 6 months found no recurrences of ITBS. Of the re-maining two runners, one required three months of re-habilitation and then began a very gradual return to run-ning, while the other continued to suffer and decided togive up running.
+DISCUSSION
+Since Bender ’s 1964 study
+25of 806 West Point cadets
+it has been known that those with strength differencesgreater than 10% between the limbs, and those in the
+FIG. 4. Side-lying hip abduction ex-
+ercise. A:Start position; B:end posi-
+tion.
+FIG. 3. Iliotibial band rope stretch.HIP ABDUCTOR WEAKNESS IN DISTANCE RUNNERS WITH ITBS 173
+Clin J Sport Med, Vol. 10, No. 3, 2000
+
+lowest quartile strength-wise compared with their peers,
+are more likely to be injured than those with normalstrength levels. This study only examined isometricstrength and only examined muscles in close proximityto the site of injury. It has also been shown that distalinjuries produce more weakness to the entire limb thanproximal ones. Nicholas et al.
+17in a retrospective study
+found that patients with ankle and foot problems hadconsistent weakness in their hip abductors and adductorsas measured by Cybex testing. Previous work byMessier
+9also retrospectively found that in patients with
+ITBS there were deficits in knee flexor and extensorstrength. Van Mechelen et al.
+26did do a prospective
+study of strength as a risk factor for injury by measuringisokinetic strength of the knee flexors and extensors us-ing Cybex testing. They did not find a significant rela-tionship between these strength variables and injury, butthey did not specifically examine running injuries or hipabductor strength. No study has previously examined therelationship of more proximal weakness in the hip ab-ductors and ITBS.
+This study demonstrates that runners with ITBS were
+weaker in hip abductor strength than a noninjured controlgroup of runners in comparison with their noninjuredside. In both males and females, after 6 weeks of physicaltherapy strength for the injured limb achieved a levelequal to or greater than that of the noninjured limb andcontrol limbs.
+It is not clear why distance runners are more prone to
+weakness in the hip abductors and ITBS. One possibilityis that running is primarily a sagittal plane activity,
+whereas sports such as soccer require greater coronalplane movement, engaging the hip abductors more rig-orously.
+Electromyographic studies of joggers
+27have shown
+that in order to control coronal plane motion duringstance phase, a continuous hip abductor moment isneeded by the gluteus medius, and to a lesser extent thetensor fascia. These muscles demonstrate little change asthe speed of gait increases. At the time of foot contact,the femur in relation to the pelvis is adducted; thesemuscles undergo an eccentric contraction, and then con-
+FIG. 7. Hip abductor torque of injured runners before and after
+rehabilitation. Error bars represent 95% confidence intervals. Thedifferences between strength before and after were statisticallysignificant (p < 0.05) for both men and women.
+FIG. 5. Pelvic drop exercise. A:Start position; B:end position.
+FIG. 6. Hip abductor torque before rehabilitation. Error bars rep-
+resent 95% confidence intervals. All differences between group-ings are significant (p < 0.05).M. FREDERICSON ET AL. 174
+Clin J Sport Med, Vol. 10, No. 3, 2000
+
+tract concentrically throughout the remainder of the sup-
+port phase and into the propulsive phase as abductionoccurs at the hip joint. While the gluteus medius andtensor fascia lata are both hip abductors, the gluteus me-dius (especially the posterior aspect) is an external rota-tor of the hip, whereas the tensor fascia lata is an internalrotator of the hip.
+28It is felt that weakness in the gluteus
+medius leads to decreased control of thigh abduction andexternal rotation. Subsequently, the runner will demon-strate increased thigh adduction and internal rotationwith an increased valgus vector at the knee. It is postu-lated that this places the iliotibial band under increasedtension and makes it more prone to impingement uponthe lateral epicondyle of the femur, especially during theearly stance phase of gait (foot contact) when maximaldeceleration occurs to absorb ground reaction forces.
+LIMITATIONS
+There was no true control group for the rehabilitation
+aspect of this study. The injured runners were comparedprerehabilitation versus postrehabilitation for improve-ment in hip abductor strength. The ideal would have beento include a group of comparable long-distance runnersalso diagnosed with ITBS who did not receive a hipabductor rehabilitation program. The rehabilitation pro-gram included modalities, rest, stretching, and strength-ening, and it is not clear that the strengthening programalone led to increases in strength and successful return tothe running program. It is possible that simply eliminat-ing the pain or normalizing tight soft tissues led to in-creased facilitation of the hip abductors. A prospectivestudy is also needed to determine if runners with weak-ness in their hip abductors are at greater risk for devel-oping ITBS and if these runners can decrease their riskby prophylactically strengthening their hip abductors.
+CONCLUSIONS
+This study found that long-distance runners with ITBS
+have weaker hip abduction strength in the affected legcompared with the unaffected leg and unaffected long-distance runners. Additionally, symptom improvementwith a successful return to the preinjury training programparallels improvement in hip abductor strength.
+REFERENCES
+1. Van Mechelen W. Running injuries: a review of the epidemiologic
+literature. Sports Med 1992;14:320 –335.
+2. Barber FA, Sutker AN. Iliotibial band syndrome. Sports Med 1992;
+14:144 –148.
+3. Linderburg G, Pinshaw R, Noakes TD. Iliotibial band syndrome in
+runners. Phys Sportsmed 1984;12:118 –130.4. Noble CA. Iliotibial band friction syndrome in runners. Am J
+Sports Med 1980;8:232 –234.
+5. Pinshaw R, Atlas V, Noakes TD. The nature and response to
+therapy of 196 consecutive injuries seen at a runner ’s clinic. SA f r
+Med J 1984;65:291 –298.
+6. Clement DB, Taunton JE. A guide to the prevention of running
+injuries. Australian Family Phys 1981;10:156 –164.
+7. Sutker AN, Barber FA, Jackson DW, et al. Iliotibial band syn-
+drome in distance runners. Sports Med 1985;2:447 –451.
+8. Orchard JW, Fricker PA, Abud At, et al. Biomechanics of iliotibial
+band friction syndrome in runners. Am J Sports Med 1996;24:375 –
+379.
+9. Messier SP, Edwards DG, Martin DF, et al: Etiology of iliotibial
+band friction syndrome in distance runners. Med Sci Sports Exer
+1995;27:951 –960.
+10. Schwellnus MP. Lower limb biomechanics in runners with the
+iliotibial band friction syndrome [Abstract]. Med Sci Sports Exer
+1995;25:567 (S68).
+11. Ekman EF, Pope T, Martin DF, et al. Magnetic resonance imaging
+of iliotibial band syndrome. Am J Sports Med 1994;22:851 –854.
+12. Janda V. Muscle Function Testing . London: Butterworths, 1983.
+13. Kendall FP, McGreary EK, Provance PG. Muscles: Testing and
+Function , 4th ed. Baltimore: Williams & Wilkins, 1993.
+14. Marino M, Nicholas JA, Gleim GW. The efficacy of manual as-
+sessment of muscle strength using a new device. Am J Sports Med
+1982;10:360 –364.
+15. Bohannon RW. Measurement of muscle performance. Postgrad
+Adv Phys Ther 1988;2:1 –24.
+16. Whitley JD, Smith LE. Larger correlations obtained by using av-
+erage rather than “best”strength scores. Research Q 1963;34:248 –
+249.
+17. Nicholas JA, Strizak AM, Veras G. A study of thigh muscle weak-
+ness in different pathological states of the lower extremity. Am J
+Sports Med 1976;4:241 –248.
+18. Bohannon RW. Test-retest reliability of hand-held dynamometry
+during a single session of strength assessment. Phys Ther 1986;
+66:206 –209.
+19. Andriacchi TP, Kramer GM, Landon GC. The biomechanics of
+running and knee injuries. In: Finerman G, ed. American Academy
+of Orthopaedic Surgeons Symposium of Sports Medicine: TheKnee . St. Louis: CV Mosby, 1985;23 –32.
+20. Hyde SA, Scott CM, Goddard CM. The myometer: the develop-
+ment of a clinical tool. Physiotherapy 1983;69:424 –427.
+21. Bohannon RW, Andrews AW. Interrater reliability of hand-held
+dynamometry. Phys Ther 1987;67:931 –933.
+22. Baumgartner TA, Jackson AS. Measurement for evaluation in
+Physical Education. Boston: Houghton Mifflin, 1975;78 –86.
+23. Trudelle-Jackson E, Jackson AW, Frankowski CM, et al. Interde-
+vice reliability and validity assessment of the Nicholas hand-helddynamometer. J Orthopaedic Sports Phys Ther 1994;20:302 –304.
+24. Magnusson PS, Gleim GW, Nicholas JA, et al. Subject variability
+of shoulder abduction strength testing. AJSM 1990;18:349 –354.
+25. Bender JA. West Point Study . 1964.
+26. Van Mechelen W, Twisk J, Molendijk A, et al. Subject-related risk
+factors for sports injuries: a 1-yr prospective study in young adults.Med Sci Sports Exer 1996;28:1171 –1179.
+27. Mann RA, Moran GT, Dougherty SE. Comparative electomyog-
+raphy of the lower extremity in jogging, running, and sprinting. Am
+J Sports Med 1986;14:501 –510.
+28. Hollingshead WH, Jenkins DB. Functional Anatomy of the Limbs
+and back . Philadelphia: Saunders, 1982:265.HIP ABDUCTOR WEAKNESS IN DISTANCE RUNNERS WITH ITBS 175
+Clin J Sport Med, Vol. 10, No. 3, 2000
+

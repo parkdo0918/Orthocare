@@ -1,0 +1,44 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "description": "지원 부위 목록 및 상태"
+  },
+  "body_parts": {
+    "knee": {
+      "korean": "무릎",
+      "data_path": "data/knee/",
+      "buckets": ["OA", "OVR", "TRM", "INF"],
+      "status": "active",
+      "total_exercises": 50
+    },
+    "shoulder": {
+      "korean": "어깨",
+      "data_path": "data/shoulder/",
+      "buckets": ["RC", "IMP", "FRZ", "INST"],
+      "status": "pending",
+      "total_exercises": 0
+    },
+    "back": {
+      "korean": "허리",
+      "data_path": "data/back/",
+      "buckets": ["LBP", "DISC", "STEN", "SPON"],
+      "status": "pending",
+      "total_exercises": 0
+    },
+    "neck": {
+      "korean": "목",
+      "data_path": "data/neck/",
+      "buckets": ["CERV", "DISC", "MYOF"],
+      "status": "pending",
+      "total_exercises": 0
+    },
+    "ankle": {
+      "korean": "발목",
+      "data_path": "data/ankle/",
+      "buckets": ["SPR", "INST", "ACH", "PLANT"],
+      "status": "pending",
+      "total_exercises": 0
+    }
+  },
+  "current_active": ["knee"]
+}

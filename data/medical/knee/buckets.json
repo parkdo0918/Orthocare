@@ -1,0 +1,42 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "body_part": "knee",
+    "total_buckets": 4
+  },
+  "buckets": {
+    "OA": {
+      "name_en": "Osteoarthritis",
+      "name_kr": "퇴행성관절염",
+      "description": "관절 연골의 퇴행성 변화로 인한 통증",
+      "typical_profile": "50대 이상, 만성 경과, 계단/앉았다일어서기 어려움",
+      "key_symptoms": ["chronic", "stairs_down", "weather_sensitive", "stiffness_morning"],
+      "prevalence_rank": 1
+    },
+    "OVR": {
+      "name_en": "Overuse",
+      "name_kr": "과사용증후군",
+      "description": "반복적인 과부하로 인한 연조직 손상",
+      "typical_profile": "활동적인 젊은층, 운동 후 악화, 휴식 시 호전",
+      "key_symptoms": ["after_exercise", "overuse_pattern", "rest_improvement", "activity_running"],
+      "prevalence_rank": 3
+    },
+    "TRM": {
+      "name_en": "Trauma",
+      "name_kr": "외상",
+      "description": "급성 외상으로 인한 인대/반월상연골 손상",
+      "typical_profile": "외상 직후, 급성 통증, 불안정감",
+      "key_symptoms": ["trauma_recent", "sudden_onset", "instability", "giving_way", "locking"],
+      "prevalence_rank": 2
+    },
+    "INF": {
+      "name_en": "Inflammatory",
+      "name_kr": "염증성",
+      "description": "류마티스/감염성 등 염증성 관절 질환",
+      "typical_profile": "양측 대칭성, 아침 뻣뻣함 30분+, 전신 증상",
+      "key_symptoms": ["bilateral_symmetric", "stiffness_30min_plus", "swelling_heat", "fever", "multiple_joints"],
+      "prevalence_rank": 4
+    }
+  },
+  "bucket_order": ["OA", "OVR", "TRM", "INF"]
+}
