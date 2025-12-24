@@ -1,0 +1,54 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "body_part": "shoulder",
+    "total_buckets": 4
+  },
+  "buckets": {
+    "TRM": {
+      "name_en": "Trauma",
+      "name_kr": "외상성",
+      "description": "급성 외상으로 인한 회전근개 파열, AC joint 손상, 탈구 등",
+      "typical_profile": "외상 직후 급성 통증, 팔 들어올리기 어려움, 힘이 빠지는 느낌",
+      "key_symptoms": ["trauma_recent", "sudden_onset", "weakness", "drop_arm", "popeye_sign"],
+      "key_tests": ["Drop Arm Test", "Empty Can Test", "External Rotation Lag Sign"],
+      "common_conditions": ["급성 회전근개 파열", "AC joint sprain", "이두근 장건 파열", "탈구/Bankart lesion"],
+      "rehab_strategy": "보호 → 단계적 강화",
+      "prevalence_rank": 2
+    },
+    "OVR": {
+      "name_en": "Overuse",
+      "name_kr": "과사용성",
+      "description": "반복적인 과부하로 인한 건염, 충돌증후군, 견갑운동장애",
+      "typical_profile": "서서히 시작, Painful Arc (60-120도), 반복 overhead 활동 후 악화",
+      "key_symptoms": ["painful_arc", "overhead_pain", "gradual_onset", "activity_related", "rest_improvement"],
+      "key_tests": ["Hawkins-Kennedy Test", "Neer Test", "Empty Can Test"],
+      "common_conditions": ["회전근개 건염", "충돌증후군", "견갑운동조절 장애", "이두건염"],
+      "rehab_strategy": "견갑 안정화 + cuff 강화",
+      "prevalence_rank": 1
+    },
+    "OA": {
+      "name_en": "Osteoarthritis",
+      "name_kr": "퇴행성",
+      "description": "만성 구조 변화로 인한 견관절/AC joint 골관절염",
+      "typical_profile": "50세 이상, 서서히 진행, ROM 감소, crepitus",
+      "key_symptoms": ["chronic", "crepitus", "stiffness_morning", "rom_limited", "adl_limited"],
+      "key_tests": ["Apley Scratch Test", "Passive ROM 제한", "Crepitus 촉진"],
+      "common_conditions": ["견관절 골관절염", "회전근개 관절병증", "AC joint OA"],
+      "rehab_strategy": "ROM 유지 + 중강도 강화",
+      "prevalence_rank": 3
+    },
+    "STF": {
+      "name_en": "Stiff (Frozen Shoulder)",
+      "name_kr": "동결견",
+      "description": "관절낭 구축으로 인한 동결견 (Adhesive Capsulitis)",
+      "typical_profile": "40-60대, 외회전 제한 현저, 야간통, Freezing→Frozen→Thawing 단계",
+      "key_symptoms": ["er_limitation", "capsular_pattern", "night_pain", "progressive_rom_loss", "axillary_pain"],
+      "key_tests": ["Passive ROM (특히 ER 제한)", "Capsular End-feel", "Apley Scratch Test"],
+      "common_conditions": ["동결견 (Adhesive Capsulitis)", "초기 capsulitis"],
+      "rehab_strategy": "Phase-based ROM/stretch",
+      "prevalence_rank": 4
+    }
+  },
+  "bucket_order": ["OA", "OVR", "TRM", "STF"]
+}

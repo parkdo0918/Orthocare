@@ -63,13 +63,14 @@ class ExerciseRecommendationPipeline:
             last_assessment_date=input_data.last_assessment_date,
         )
 
-        # Step 2: 버킷 기반 필터링
+        # Step 2: 버킷 기반 필터링 (v2.0: joint_status 추가)
         candidates, excluded = self.exercise_filter.filter_for_bucket(
             body_part=input_data.body_part,
             bucket=input_data.bucket,
             physical_score=input_data.physical_score,
             nrs=input_data.nrs,
             adjustments=assessment_result.adjustments,
+            joint_status=input_data.joint_status,
         )
 
         # 조정 적용
@@ -79,13 +80,14 @@ class ExerciseRecommendationPipeline:
                 for ex in candidates
             ]
 
-        # Step 3: 개인화 조정
+        # Step 3: 개인화 조정 (v2.0: joint_status 추가)
         personalized = self.personalization.apply(
             exercises=candidates,
             demographics=input_data.demographics,
             nrs=input_data.nrs,
             skipped_exercises=input_data.skipped_exercises,
             favorite_exercises=input_data.favorite_exercises,
+            joint_status=input_data.joint_status,
         )
 
         # 운동 순서 결정

@@ -61,12 +61,26 @@ def embed_text(openai: OpenAI, text: str) -> List[float]:
 
 
 def build_exercise_text(exercise: Dict) -> str:
-    """운동 임베딩용 텍스트 생성"""
+    """운동 임베딩용 텍스트 생성 (v2.0 스키마)"""
+    # 근육 정보 통합 (주동근, 길항근, 협동근)
+    all_muscles = []
+    all_muscles.extend(exercise.get('primary_muscles', []))
+    all_muscles.extend(exercise.get('antagonist_muscles', []))
+    all_muscles.extend(exercise.get('synergist_muscles', []))
+
+    # 기존 target_muscles 호환성 유지
+    if not all_muscles:
+        all_muscles = exercise.get('target_muscles', [])
+
     parts = [
         f"운동: {exercise.get('name_kr', '')} ({exercise.get('name_en', '')})",
         f"난이도: {exercise.get('difficulty', '')}",
         f"기능: {', '.join(exercise.get('function_tags', []))}",
-        f"타겟 근육: {', '.join(exercise.get('target_muscles', []))}",
+        f"주동근: {', '.join(exercise.get('primary_muscles', []))}",
+        f"타겟 근육: {', '.join(all_muscles)}",
+        f"관절부하: {exercise.get('joint_load', '')}",
+        f"움직임패턴: {exercise.get('movement_pattern', '')}",
+        f"운동사슬: {exercise.get('kinetic_chain', '')}",
         f"설명: {exercise.get('description', '')}",
     ]
     return " ".join(parts)
@@ -84,7 +98,12 @@ def index_exercises(pc: Pinecone, openai: OpenAI, body_part: str = "knee"):
         return 0
 
     with open(exercises_path, "r", encoding="utf-8") as f:
-        exercises = json.load(f)
+        data = json.load(f)
+
+    # v2.0 스키마: exercises 키 안에 운동 데이터
+    exercises = data.get("exercises", data)
+    if isinstance(exercises, dict) and "_metadata" in data:
+        exercises = data["exercises"]
 
     vectors = []
     for ex_id, ex_data in exercises.items():
@@ -95,6 +114,14 @@ def index_exercises(pc: Pinecone, openai: OpenAI, body_part: str = "knee"):
         # 버킷 태그
         diagnosis_tags = ex_data.get("diagnosis_tags", [])
 
+        # 근육 정보 통합
+        all_muscles = []
+        all_muscles.extend(ex_data.get('primary_muscles', []))
+        all_muscles.extend(ex_data.get('antagonist_muscles', []))
+        all_muscles.extend(ex_data.get('synergist_muscles', []))
+        if not all_muscles:
+            all_muscles = ex_data.get('target_muscles', [])
+
         # 메타데이터 (v2.0 스키마)
         metadata = {
             "id": ex_id,
@@ -103,9 +130,12 @@ def index_exercises(pc: Pinecone, openai: OpenAI, body_part: str = "knee"):
             "bucket": ",".join(diagnosis_tags),
             "name_kr": ex_data.get("name_kr", ""),
             "name_en": ex_data.get("name_en", ""),
-            "difficulty": ex_data.get("difficulty", "medium"),
+            "difficulty": ex_data.get("difficulty", "standard"),
             "function_tags": ",".join(ex_data.get("function_tags", [])),
-            "target_muscles": ",".join(ex_data.get("target_muscles", [])),
+            "target_muscles": ",".join(all_muscles),
+            "primary_muscles": ",".join(ex_data.get("primary_muscles", [])),
+            "antagonist_muscles": ",".join(ex_data.get("antagonist_muscles", [])),
+            "synergist_muscles": ",".join(ex_data.get("synergist_muscles", [])),
             "sets": ex_data.get("sets", 2),
             "reps": ex_data.get("reps", "10회"),
             "rest": ex_data.get("rest", "30초"),
@@ -113,14 +143,14 @@ def index_exercises(pc: Pinecone, openai: OpenAI, body_part: str = "knee"):
         }
 
         # v2.0 확장 속성 (있으면 추가)
-        if "difficulty_score" in ex_data:
-            metadata["difficulty_score"] = ex_data["difficulty_score"]
-        if "body_weight_load_pct" in ex_data:
-            metadata["body_weight_load_pct"] = ex_data["body_weight_load_pct"]
         if "joint_load" in ex_data:
             metadata["joint_load"] = ex_data["joint_load"]
-        if "age_suitability" in ex_data:
-            metadata["age_suitability"] = ex_data["age_suitability"]
+        if "movement_pattern" in ex_data:
+            metadata["movement_pattern"] = ex_data["movement_pattern"]
+        if "required_rom" in ex_data:
+            metadata["required_rom"] = ex_data["required_rom"]
+        if "kinetic_chain" in ex_data:
+            metadata["kinetic_chain"] = ex_data["kinetic_chain"]
 
         vectors.append({
             "id": f"exercise_{body_part}_{ex_id}",

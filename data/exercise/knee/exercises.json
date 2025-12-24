@@ -1,660 +1,1596 @@
 {
   "_metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "body_part": "knee",
     "total_exercises": 50,
-    "bucket_order": ["OA", "OVR", "TRM", "INF"]
+    "bucket_order": [
+      "OA",
+      "OVR",
+      "TRM",
+      "INF"
+    ],
+    "difficulty_levels": [
+      "beginner",
+      "standard",
+      "advanced",
+      "expert"
+    ],
+    "joint_load_levels": [
+      "very_low",
+      "low",
+      "medium"
+    ],
+    "rom_levels": [
+      "small",
+      "medium"
+    ],
+    "kinetic_chain_types": [
+      "OKC",
+      "CKC"
+    ]
   },
   "exercises": {
     "E01": {
       "name_en": "Heel Slide",
       "name_kr": "힐 슬라이드",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Mobility"],
-      "target_muscles": ["햄스트링", "대퇴사두근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Mobility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "햄스트링"
+      ],
+      "antagonist_muscles": [
+        "대퇴사두근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "15회",
       "rest": "30초",
-      "description": "누워서 발꿈치를 엉덩이 쪽으로 미끄러뜨려 무릎 가동범위 회복",
+      "description": "누워서 발꿈치를 엉덩이 쪽으로 미끄러뜨려 무릎 가동범위를 회복해요!",
       "youtube": "https://youtu.be/Er-Fl_poWDk"
     },
     "E02": {
       "name_en": "Ankle Pump",
       "name_kr": "발목 펌프",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Mobility", "Circulation"],
-      "target_muscles": ["종아리", "발목"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Mobility",
+        "Circulation"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 2,
       "reps": "20회",
       "rest": "20초",
-      "description": "발끝을 위아래로 반복해 순환 촉진",
+      "description": "발 끝을 위아래로 반복해요!",
       "youtube": "https://youtu.be/IlT7SBEz33E"
     },
     "E03": {
       "name_en": "Quad Set",
       "name_kr": "대퇴사두근 수축",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Strength"],
-      "target_muscles": ["대퇴사두근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Strength"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "종아리"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "30초",
-      "description": "무릎 뒤를 바닥에 눌러 허벅지 조이기",
-      "youtube": "https://youtu.be/IF5eDfb8afM"
+      "description": "무릎 뒤를 바닥에 눌러 허벅지 조여봐요!",
+      "youtube": "https://youtu.be/IF5eDfb8afM?si=1-dADwkC5tGS1nyE"
     },
     "E04": {
       "name_en": "Straight Leg Raise",
       "name_kr": "직각 다리 올리기",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "OVR"],
-      "function_tags": ["Strength", "Mobility"],
-      "target_muscles": ["대퇴사두근", "고관절 굴곡근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "INF",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Mobility"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "종아리"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "30초",
-      "description": "누워서 다리를 곧게 들어올려 대퇴사두근 강화",
+      "description": "누워서 다리를 곧게 들어올려 앞 허벅지를 강화해요!",
       "youtube": "https://youtu.be/zo2pqw794B0"
     },
     "E05": {
       "name_en": "Seated Knee Extension",
       "name_kr": "앉은 다리 펴기",
-      "difficulty": "low",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength"],
-      "target_muscles": ["대퇴사두근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "종아리"
+      ],
       "sets": 2,
       "reps": "12회",
       "rest": "30초",
-      "description": "의자에 앉아 다리 펴서 허벅지 긴장",
-      "youtube": "https://youtu.be/VuJZ6dqMf8M"
+      "description": "의자에 앉아 다리 펴서 앞 허벅지를 강화해요!",
+      "youtube": "https://youtu.be/VuJZ6dqMf8M?si=4wa3APmblshsg2vs"
     },
     "E06": {
       "name_en": "Clamshell",
       "name_kr": "클램쉘",
-      "difficulty": "low",
-      "diagnosis_tags": ["OA", "OVR", "INF"],
-      "function_tags": ["Stability", "Mobility"],
-      "target_muscles": ["중둔근", "외회전근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR",
+        "INF"
+      ],
+      "function_tags": [
+        "Stability",
+        "Mobility"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
       "sets": 2,
       "reps": "15회",
       "rest": "30초",
-      "description": "옆으로 누워 무릎 벌리며 둔근 활성화",
-      "youtube": "https://youtu.be/DAAjOdwZdks"
+      "description": "옆으로 누워 무릎 벌리며 엉덩이 근육을 활성화해요!",
+      "youtube": "https://youtu.be/DAAjOdwZdks?si=TY8ftJ17C3uEHh8Z"
     },
     "E07": {
       "name_en": "Side-Lying Hip Abduction",
       "name_kr": "옆으로 다리 들기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["중둔근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
       "sets": 2,
       "reps": "12회",
       "rest": "30초",
-      "description": "옆으로 누워 위쪽 다리 들어올리기",
+      "description": "옆으로 누워 위쪽 다리를 들어올려요!",
       "youtube": "https://youtu.be/UmmBtOG2N_s"
     },
     "E08": {
       "name_en": "Wall Sit",
       "name_kr": "벽앉기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Endurance"],
-      "target_muscles": ["대퇴사두근", "둔근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Endurance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "30초",
       "rest": "30초",
-      "description": "벽에 등을 대고 앉은 자세 유지",
-      "youtube": "https://youtu.be/cWTZ8Am1Ee0"
+      "description": "벽에 등을 대고 앉은 자세를 유지해요!",
+      "youtube": "https://youtu.be/cWTZ8Am1Ee0?si=6q_M_1gj17RDXAuP"
     },
     "E09": {
       "name_en": "Glute Bridge",
       "name_kr": "브리지",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["둔근", "햄스트링"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "브리지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
       "sets": 2,
       "reps": "12회",
       "rest": "45초",
-      "description": "누워서 엉덩이 들어올리기",
+      "description": "누워서 엉덩이를 들어올려요!",
       "youtube": "https://youtu.be/_leI4qFfPVw"
     },
     "E10": {
       "name_en": "Step Up",
       "name_kr": "스텝업",
-      "difficulty": "high",
-      "diagnosis_tags": ["OA", "OVR", "TRM"],
-      "function_tags": ["Strength", "Balance"],
-      "target_muscles": ["대퇴사두근", "둔근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR",
+        "TRM"
+      ],
+      "function_tags": [
+        "Strength",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스텝",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "낮은 계단에 한 발씩 올라갔다 내려오기",
-      "youtube": "https://youtube.com/shorts/AiP9Cv0gkl8"
+      "description": "낮은 계단에 한 발씩 올라갔다 내려와요!",
+      "youtube": "https://youtube.com/shorts/AiP9Cv0gkl8?si=yNmS9y7VdKr9y1d"
     },
     "E11": {
       "name_en": "Lateral Lunge",
       "name_kr": "측면 런지",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["내전근", "둔근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "런지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "내전근"
+      ],
+      "antagonist_muscles": [
+        "중둔근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
-      "reps": "8회",
+      "reps": "10회",
       "rest": "60초",
-      "description": "옆으로 체중 이동하며 런지",
+      "description": "옆으로 체중 이동하며 다리를 구부려요!",
       "youtube": "https://youtu.be/AXzV0Lv_vho"
     },
     "E12": {
       "name_en": "Standing Calf Raise",
       "name_kr": "카프 레이즈",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Endurance"],
-      "target_muscles": ["종아리근육"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Endurance"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 3,
       "reps": "15회",
       "rest": "30초",
-      "description": "벽 잡고 발뒤꿈치 들기",
+      "description": "벽 잡고 발뒤꿈치를 들어요!",
       "youtube": "https://youtu.be/wlgfP0GWzDY"
     },
     "E13": {
       "name_en": "Partial Squat",
       "name_kr": "부분 스쿼트",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["대퇴사두근", "둔근"],
+      "difficulty": "beginner",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "벽 잡고 무릎 30도 정도 굽혔다 일어서기",
+      "description": "벽 잡고 무릎 30도 정도 굽혔다 일어서요!",
       "youtube": "https://youtu.be/HVypdPdke-c"
     },
     "E14": {
       "name_en": "Wall Sit Heel Raise",
       "name_kr": "벽 대고 카프 레이즈",
-      "difficulty": "high",
-      "diagnosis_tags": ["OA", "INF"],
-      "function_tags": ["Endurance", "Stability"],
-      "target_muscles": ["종아리", "발목"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OA",
+        "INF"
+      ],
+      "function_tags": [
+        "Endurance",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 3,
       "reps": "15회",
       "rest": "30초",
-      "description": "벽에 90도 스쿼드 자세에서 뒷꿈치 들었다 내리기",
-      "youtube": "https://youtube.com/shorts/BLw3aPUi0k8"
+      "description": "벽에 90도 스쿼드 자세에서 뒷꿈치 들었다 내려요!",
+      "youtube": "https://youtube.com/shorts/BLw3aPUi0k8?si=94TZgoVMzpeYKtG8"
     },
     "E15": {
       "name_en": "Standing Hip Abduction",
       "name_kr": "서서 다리 외전",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Balance"],
-      "target_muscles": ["중둔근", "외회전근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Balance"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
       "sets": 2,
       "reps": "12회",
       "rest": "45초",
-      "description": "의자 잡고 옆으로 다리 들어올리기",
+      "description": "의자 잡고 옆으로 다리를 들어올려요!",
       "youtube": "https://youtu.be/Oh_EuSTHZ_A"
     },
     "E16": {
       "name_en": "Seated March",
       "name_kr": "앉아서 제자리 걷기",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Strength", "Endurance"],
-      "target_muscles": ["대퇴사두근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Strength",
+        "Endurance"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "종아리"
+      ],
       "sets": 2,
       "reps": "15회",
       "rest": "30초",
-      "description": "의자에 앉아 다리 번갈아 들어올리기",
-      "youtube": "https://youtube.com/shorts/w0mq8ZMTbBI"
+      "description": "의자에 앉아 다리 번갈아 들어올려요!",
+      "youtube": "https://youtube.com/shorts/w0mq8ZMTbBI?si=z5KhNHOhxMduRITY"
     },
     "E17": {
       "name_en": "Side Step",
       "name_kr": "사이드 스텝",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OVR"],
-      "function_tags": ["Mobility", "Balance"],
-      "target_muscles": ["둔근", "내전근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OVR"
+      ],
+      "function_tags": [
+        "Mobility",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스텝",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "내전근"
+      ],
+      "antagonist_muscles": [
+        "중둔근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "12보",
       "rest": "30초",
-      "description": "좌우로 옆걸음 걷기",
-      "youtube": "https://youtu.be/3t3zEoYkdrI"
+      "description": "좌우로 옆걸음을 걸어요!",
+      "youtube": "https://youtu.be/pvpKMYhWSX4?si=8USNw5rAn2TRp41-"
     },
     "E18": {
       "name_en": "Wide to Narrow Squat",
       "name_kr": "와이드 투 내로우 스쿼트",
-      "difficulty": "high",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["대퇴사두근", "햄스트링", "둔근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
       "sets": 2,
       "reps": "10회",
-      "rest": "60초",
-      "description": "발 넓이가 좁은 스쿼트와 넓은 스쿼트 반복하기",
-      "youtube": "https://youtube.com/shorts/vlJSJkpFr_g"
+      "rest": "30초",
+      "description": "발 넓이가 좁은 스쿼트와 넓은 스쿼트 반복해요!",
+      "youtube": "https://youtube.com/shorts/vlJSJkpFr_g?si=BYU-fHfAuTdErQt5"
     },
     "E19": {
-      "name_en": "Quad Set with Heel Prop",
-      "name_kr": "발목 받침 쿼드 세트",
-      "difficulty": "medium",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["발목", "종아리", "대퇴사두근"],
+      "name_en": "Quat Set with Heel Prop",
+      "name_kr": "힐 프롭 쿼드셋",
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 2,
       "reps": "15회",
       "rest": "30초",
-      "description": "누운 자세에서 다리를 편 상태에서 발목 구부렸다 펴기",
-      "youtube": "https://youtube.com/shorts/8kOYXKnLgmI"
+      "description": "누운 자세에서 다리를 편 상태에서 발목 구부렸다 펴요!",
+      "youtube": "https://youtube.com/shorts/8kOYXKnLgmI?si=MGGo0tzQLLjAXSZY"
     },
     "E20": {
       "name_en": "Chair Sit to Stand",
       "name_kr": "의자 일어서기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Endurance"],
-      "target_muscles": ["대퇴사두근", "둔근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Endurance"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "팔 도움 최소화로 앉았다 일어서기",
+      "description": "팔 도움 최소화로 앉았다 일어나요!",
       "youtube": "https://youtu.be/ITv-_BkcrD0"
     },
     "E21": {
       "name_en": "Wall Knee Touch",
       "name_kr": "무릎 벽 터치",
-      "difficulty": "low",
-      "diagnosis_tags": ["TRM", "OVR"],
-      "function_tags": ["Stability"],
-      "target_muscles": ["대퇴사두근", "발목 안정근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "TRM",
+        "OVR"
+      ],
+      "function_tags": [
+        "Stability"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "종아리"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "벽 앞에서 무릎을 벽에 가볍게 터치",
+      "description": "벽 앞에서 무릎을 벽에 가볍게 터치해요!",
       "youtube": "https://youtu.be/cB4kuezmT4o"
     },
     "E22": {
       "name_en": "Monster Walk",
       "name_kr": "몬스터 워크",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR"],
-      "function_tags": ["Strength", "Balance"],
-      "target_muscles": ["중둔근", "둔근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "게이트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
       "sets": 2,
       "reps": "8보",
       "rest": "60초",
-      "description": "무릎 살짝 굽히고 옆으로 걸음",
-      "youtube": "https://youtube.com/shorts/Ss43G67pjPc"
+      "description": "무릎 살짝 굽히고 옆으로 걸어요!",
+      "youtube": "https://www.youtube.com/shorts/ZjHAetT-8jA"
     },
     "E23": {
       "name_en": "Side-Lying Leg Circle",
       "name_kr": "다리 원 그리기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Mobility"],
-      "target_muscles": ["중둔근"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Mobility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "옆으로 누워 다리로 원 그리기",
-      "youtube": "https://youtube.com/shorts/j2BhQzJiPTw"
+      "description": "옆으로 누워 다리로 원을 그려요!",
+      "youtube": "https://youtube.com/shorts/j2BhQzJiPTw?si=LcC-JZivH1MTE2zV"
     },
     "E24": {
       "name_en": "Wall Bridge",
       "name_kr": "벽 브리지",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["둔근", "햄스트링"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "브리지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "벽에 발 대고 브릿지",
-      "youtube": "https://youtube.com/shorts/JtEDHVr_G5Y"
+      "description": "벽에 발 대고 엉덩이를 들어올려요!",
+      "youtube": "https://youtube.com/shorts/JtEDHVr_G5Y?si=AkYKeduWCqqFBPB0"
     },
     "E25": {
       "name_en": "Step Step + Arm Swing",
       "name_kr": "팔 흔들면서 사이드 스텝",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Balance", "Endurance"],
-      "target_muscles": ["전신 협응"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Balance",
+        "Endurance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스텝",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "전신 협응"
+      ],
+      "antagonist_muscles": [
+        "반대 작용 근육군"
+      ],
+      "synergist_muscles": [
+        "보조 안정근"
+      ],
       "sets": 2,
       "reps": "20초",
       "rest": "30초",
-      "description": "팔 돌리면서 좌우로 움직이기",
-      "youtube": "https://youtube.com/shorts/itunxP1cP9I"
+      "description": "팔 돌리면서 좌우로 움직여요!",
+      "youtube": "https://youtube.com/shorts/itunxP1cP9I?si=AJg37ip-YYoJhHXh"
     },
     "E26": {
       "name_en": "Single-Leg Bridge",
       "name_kr": "싱글 레그 브리지",
-      "difficulty": "high",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Balance"],
-      "target_muscles": ["둔근", "햄스트링"],
+      "difficulty": "standard",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "브리지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
       "sets": 2,
       "reps": "8회(각 다리)",
       "rest": "60초",
-      "description": "브릿지 자세에서 한쪽 다리 들어올리기",
-      "youtube": "https://youtu.be/AVAXhy6pl7o"
+      "description": "브릿지 자세에서 한쪽 다리 들어올려요!",
+      "youtube": "https://youtu.be/AVAXhy6pl7o?si=uCZkr4kGUo4twIKx"
     },
     "E27": {
-      "name_en": "Standing Hip Extension",
-      "name_kr": "서서 엉덩이 펴기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["둔근", "햄스트링"],
-      "sets": 2,
-      "reps": "10회",
-      "rest": "45초",
-      "description": "벽 잡고 뒤로 다리 밀기",
-      "youtube": "https://youtube.com/shorts/2lnpDTPAVwE"
-    },
-    "E28": {
-      "name_en": "Standing Side Kick",
-      "name_kr": "사이드 킥",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR"],
-      "function_tags": ["Strength", "Mobility"],
-      "target_muscles": ["중둔근", "고관절 외전근"],
-      "sets": 2,
-      "reps": "12회",
-      "rest": "30초",
-      "description": "옆으로 누운 자세에서 다리 들고 앞뒤로 차기",
-      "youtube": "https://youtube.com/shorts/rBzcxdt3qKc"
-    },
-    "E29": {
-      "name_en": "Lateral Step Touch",
-      "name_kr": "사이드 터치",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Mobility", "Balance"],
-      "target_muscles": ["둔근", "내전근"],
-      "sets": 2,
-      "reps": "15회",
-      "rest": "30초",
-      "description": "좌우로 발 터치하며 균형 유지",
-      "youtube": "https://youtube.com/shorts/OOGdvy9n8lg"
-    },
-    "E30": {
-      "name_en": "Standing Balance",
-      "name_kr": "한 발 서기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR", "TRM"],
-      "function_tags": ["Stability", "Balance"],
-      "target_muscles": ["중둔근", "코어"],
-      "sets": 2,
-      "reps": "20초(각 다리)",
-      "rest": "30초",
-      "description": "한 발로 서서 균형 유지",
-      "youtube": "https://youtube.com/shorts/rPjKxUDQ3DM"
-    },
-    "E31": {
-      "name_en": "Bridge March",
-      "name_kr": "브리지 마칭",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["둔근", "햄스트링"],
-      "sets": 2,
-      "reps": "8회",
-      "rest": "60초",
-      "description": "브릿지 자세에서 다리 번갈아 들어올리기",
-      "youtube": "https://youtu.be/4LQUPybxCnI"
-    },
-    "E32": {
-      "name_en": "Wall Sit March",
-      "name_kr": "벽 스쿼트 마칭",
-      "difficulty": "high",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Endurance"],
-      "target_muscles": ["대퇴사두근", "종아리"],
-      "sets": 2,
-      "reps": "10회",
-      "rest": "60초",
-      "description": "벽 스쿼트 자세에서 제자리 걷기",
-      "youtube": "https://youtu.be/WJ-X-1sL1k8"
-    },
-    "E33": {
-      "name_en": "Wall Heel Slide",
-      "name_kr": "벽 힐 슬라이드",
-      "difficulty": "low",
-      "diagnosis_tags": ["TRM", "INF"],
-      "function_tags": ["Mobility"],
-      "target_muscles": ["햄스트링", "대퇴사두근"],
-      "sets": 2,
-      "reps": "12회",
-      "rest": "30초",
-      "description": "벽에 발 대고 미끄러뜨리기",
-      "youtube": "https://youtube.com/shorts/zcQLlI056HI"
-    },
-    "E34": {
-      "name_en": "Partial Squat with Support",
-      "name_kr": "벽 잡고 부분 스쿼트",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["대퇴사두근", "둔근"],
-      "sets": 2,
-      "reps": "10회",
-      "rest": "45초",
-      "description": "벽 잡고 30도 굽혀 일어서기",
-      "youtube": "https://youtube.com/shorts/vmo4qnor9QY"
-    },
-    "E35": {
-      "name_en": "Seated Hamstring Stretch",
-      "name_kr": "햄스트링 스트레칭",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Flexibility"],
-      "target_muscles": ["햄스트링"],
-      "sets": 2,
-      "reps": "30초",
-      "rest": "30초",
-      "description": "앉아서 다리 펴고 상체 숙이기",
-      "youtube": "https://youtu.be/u55F2jOzBVI"
-    },
-    "E36": {
-      "name_en": "Standing Hip Abduction",
-      "name_kr": "서서 다리 옆으로 들기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["중둔근"],
-      "sets": 2,
-      "reps": "12회",
-      "rest": "45초",
-      "description": "벽 잡고 다리 옆으로 들기",
-      "youtube": "https://youtu.be/Oh_EuSTHZ_A"
-    },
-    "E37": {
-      "name_en": "Step Back Lunge",
-      "name_kr": "뒤로 런지",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Strength", "Balance"],
-      "target_muscles": ["둔근", "대퇴사두근"],
-      "sets": 2,
-      "reps": "8회",
-      "rest": "45초",
-      "description": "뒤로 번갈아서 한 발 내딛으며 런지",
-      "youtube": "https://youtube.com/shorts/Jn4VwFBjup8"
-    },
-    "E38": {
-      "name_en": "Standing Calf Stretch",
-      "name_kr": "종아리 스트레칭",
-      "difficulty": "low",
-      "diagnosis_tags": ["OA", "INF"],
-      "function_tags": ["Flexibility", "Mobility"],
-      "target_muscles": ["비복근", "가자미근"],
-      "sets": 2,
-      "reps": "20초",
-      "rest": "30초",
-      "description": "벽 잡고 한쪽 다리 뒤로 밀며 종아리 스트레칭",
-      "youtube": "https://youtube.com/shorts/7SO6QzfBRaE"
-    },
-    "E39": {
       "name_en": "Bridge with Pillow Squeeze",
       "name_kr": "베개 조이기 브릿지",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["둔근", "내전근"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "브리지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "내전근"
+      ],
+      "antagonist_muscles": [
+        "중둔근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "45초",
-      "description": "무릎 사이 베개 끼고 조이면서 브릿지",
-      "youtube": "https://youtube.com/shorts/Ka0KbvsOKOs"
+      "description": "무릎 사이 베개 끼고 조이면서 브릿지를 해요!",
+      "youtube": "https://youtube.com/shorts/Ka0KbvsOKOs?si=zu_1DS6zKOM5WkPp"
     },
-    "E40": {
+    "E28": {
       "name_en": "Ankle Circle",
       "name_kr": "발목 원 그리기",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Mobility"],
-      "target_muscles": ["발목", "종아리"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Mobility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "20초",
-      "description": "발목을 원형으로 회전",
-      "youtube": "https://youtu.be/ZdsVbYQ9nfs"
+      "description": "발목을 원형으로 회전해요!",
+      "youtube": "https://youtu.be/uV0I5adTRXw?si=gnUZNCnRYGJI1OGs"
     },
-    "E41": {
+    "E29": {
       "name_en": "Wide Squat",
       "name_kr": "와이드 스쿼트",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Stability", "Endurance"],
-      "target_muscles": ["둔근", "햄스트링", "내전근"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Stability",
+        "Endurance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "내전근"
+      ],
+      "antagonist_muscles": [
+        "중둔근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
       "sets": 2,
       "reps": "10초",
       "rest": "45초",
-      "description": "골반보다 넓은 각도에서 스쿼트",
-      "youtube": "https://youtu.be/arZPz7Y6tvk"
+      "description": "골반보다 넓은 각도에서 스쿼트를 해요!",
+      "youtube": "https://youtu.be/arZPz7Y6tvk?si=NR7WChgsJBM7cIZ4"
     },
-    "E42": {
+    "E30": {
       "name_en": "Seated Hip Flexor Raise",
       "name_kr": "앉아서 다리 반원 그리기",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "OVR"],
-      "function_tags": ["Mobility"],
-      "target_muscles": ["대퇴사두근"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "INF",
+        "OVR"
+      ],
+      "function_tags": [
+        "Mobility"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "종아리"
+      ],
       "sets": 2,
       "reps": "15회",
       "rest": "30초",
-      "description": "앉은 상태에서 다리 번갈아 들어올리기",
-      "youtube": "https://youtube.com/shorts/jf3mBPFJF-E"
+      "description": "앉은 상태에서 다리 번갈아 들어올려요!",
+      "youtube": "https://youtube.com/shorts/jf3mBPFJF-E?si=ZmZpJnIIN9v-DD2S"
     },
-    "E43": {
+    "E31": {
       "name_en": "Side Plank",
       "name_kr": "사이드 플랭크",
-      "difficulty": "high",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Stability", "Strength"],
-      "target_muscles": ["코어", "중둔근"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Stability",
+        "Strength"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "코어",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "코어 근육"
+      ],
+      "antagonist_muscles": [
+        "요추 신전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "중둔근"
+      ],
       "sets": 2,
       "reps": "20초",
       "rest": "45초",
-      "description": "옆으로 누워 몸통 유지",
-      "youtube": "https://youtube.com/shorts/BFOyHDlY2UE"
+      "description": "옆으로 누워 몸통을 유지해요",
+      "youtube": "https://youtube.com/shorts/BFOyHDlY2UE?si=Ou0Bk13CxQfkST3l"
     },
-    "E44": {
+    "E32": {
       "name_en": "Towel Slide Hamstring Curl",
       "name_kr": "수건 햄스트링 컬",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OVR", "OA"],
-      "function_tags": ["Strength"],
-      "target_muscles": ["햄스트링", "둔근"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Strength"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
       "sets": 2,
       "reps": "12회",
       "rest": "45초",
-      "description": "수건 밑에 발 두고 뒤로 미끄러뜨리기",
-      "youtube": "https://youtube.com/shorts/hDZFKJT6nvM"
+      "description": "수건 밑에 발 두고 뒤로 미끄러뜨려요!",
+      "youtube": "https://youtube.com/shorts/hDZFKJT6nvM?si=nkShUOxcTDDxFcng"
     },
-    "E45": {
+    "E33": {
       "name_en": "Seated Calf Raise",
       "name_kr": "앉은 카프 레이즈",
-      "difficulty": "low",
-      "diagnosis_tags": ["OA", "INF"],
-      "function_tags": ["Strength", "Endurance"],
-      "target_muscles": ["종아리"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OA",
+        "INF"
+      ],
+      "function_tags": [
+        "Strength",
+        "Endurance"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 3,
       "reps": "15회",
       "rest": "30초",
-      "description": "의자에 앉아 발뒤꿈치 들기",
-      "youtube": "https://youtube.com/shorts/nLysrEHspKQ"
+      "description": "의자에 앉아 발뒤꿈치 들어요!",
+      "youtube": "https://youtube.com/shorts/nLysrEHspKQ?si=OOfVWX3B2Lzab26C"
     },
-    "E46": {
+    "E34": {
       "name_en": "Toe Curl with Towel",
       "name_kr": "수건 발가락 말기",
-      "difficulty": "low",
-      "diagnosis_tags": ["OA", "INF"],
-      "function_tags": ["Strength", "Mobility"],
-      "target_muscles": ["발바닥", "발가락"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OA",
+        "INF"
+      ],
+      "function_tags": [
+        "Strength",
+        "Mobility"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "발바닥 내재근"
+      ],
+      "antagonist_muscles": [
+        "발등근 및 신전근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 2,
       "reps": "15회",
       "rest": "30초",
-      "description": "수건을 발가락으로 끌어당기기",
-      "youtube": "https://youtube.com/shorts/RoEmHev3KZ8"
+      "description": "수건을 발가락으로 끌어당겨요!",
+      "youtube": "https://youtube.com/shorts/RoEmHev3KZ8?si=Ggkm67kJiqHxKady"
     },
-    "E47": {
+    "E35": {
       "name_en": "Heel Walk",
       "name_kr": "뒤꿈치 걷기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Balance", "Endurance"],
-      "target_muscles": ["전경골근"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Balance",
+        "Endurance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "게이트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "전경골근"
+      ],
+      "antagonist_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 2,
       "reps": "10보",
       "rest": "30초",
-      "description": "뒤꿈치로 걷기",
-      "youtube": "https://youtube.com/shorts/qyF7Jk6puII"
+      "description": "뒤꿈치로 걸어요!",
+      "youtube": "https://youtube.com/shorts/qyF7Jk6puII?si=Ux8rCEelaD7CFcsM"
     },
-    "E48": {
+    "E36": {
       "name_en": "Toe Walk",
       "name_kr": "발끝 걷기",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OVR"],
-      "function_tags": ["Balance", "Strength"],
-      "target_muscles": ["종아리", "발목"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OVR"
+      ],
+      "function_tags": [
+        "Balance",
+        "Strength"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "게이트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
       "sets": 2,
       "reps": "10보",
       "rest": "30초",
-      "description": "발끝으로 걷기",
-      "youtube": "https://youtube.com/shorts/2djYTirXUj4"
+      "description": "발끝으로 걸어요!",
+      "youtube": "https://youtube.com/shorts/2djYTirXUj4?si=BgCEPbpnj_5u4L0A"
     },
-    "E49": {
+    "E37": {
       "name_en": "Standing Knee Circle",
       "name_kr": "무릎 원 그리기",
-      "difficulty": "low",
-      "diagnosis_tags": ["INF", "TRM"],
-      "function_tags": ["Mobility"],
-      "target_muscles": ["무릎", "발목"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Mobility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "발목 주변 근육"
+      ],
+      "antagonist_muscles": [
+        "반대 방향 근육군"
+      ],
+      "synergist_muscles": [
+        "종아리",
+        "전경골근"
+      ],
       "sets": 2,
       "reps": "10회",
       "rest": "30초",
-      "description": "무릎 가볍게 돌리기",
-      "youtube": "https://youtube.com/shorts/n24g4G9X4e8"
+      "description": "무릎 가볍게 돌려요!",
+      "youtube": "https://youtube.com/shorts/n24g4G9X4e8?si=Afb3iPYb26CkJZLY"
     },
-    "E50": {
+    "E38": {
       "name_en": "Dead Bug",
       "name_kr": "데드 버그",
-      "difficulty": "medium",
-      "diagnosis_tags": ["OA", "OVR"],
-      "function_tags": ["Strength", "Stability"],
-      "target_muscles": ["전신 협응", "코어"],
+      "difficulty": "advanced",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "코어",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "코어 근육"
+      ],
+      "antagonist_muscles": [
+        "요추 신전근 과긴장 패턴"
+      ],
+      "synergist_muscles": [
+        "중둔근",
+        "둔근"
+      ],
       "sets": 2,
       "reps": "20초",
       "rest": "30초",
-      "description": "누운 자세에서 한 팔과 반대쪽 다리를 번갈아서 접고 펴기",
-      "youtube": "https://youtube.com/shorts/DqLL45uk2Tk"
+      "description": "누운 자세에서 한 팔과 반대쪽 다리를 번갈아서 접고 펴요!",
+      "youtube": "https://youtube.com/shorts/DqLL45uk2Tk?si=QfDmTKoFV4il-Ll0"
+    },
+    "E39": {
+      "name_en": "Standing Hip Extension",
+      "name_kr": "서서 엉덩이 펴기",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
+      "sets": 2,
+      "reps": "10회",
+      "rest": "45초",
+      "description": "벽 잡고 뒤로 다리를 밀어요!",
+      "youtube": "https://youtube.com/shorts/2lnpDTPAVwE?si=6t1DluZrUr9NrFvD"
+    },
+    "E40": {
+      "name_en": "Standing Side Kick",
+      "name_kr": "사이드 킥",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Mobility"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
+      "sets": 2,
+      "reps": "12회",
+      "rest": "30초",
+      "description": "옆으로  누운 자세에서 다리 들고 앞뒤로 차요!",
+      "youtube": "https://youtube.com/shorts/rBzcxdt3qKc?si=dREVw4dVPabqlHmz"
+    },
+    "E41": {
+      "name_en": "Lateral Step Touch",
+      "name_kr": "사이드 터치",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Mobility",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스텝",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "내전근"
+      ],
+      "antagonist_muscles": [
+        "중둔근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
+      "sets": 2,
+      "reps": "15회",
+      "rest": "30초",
+      "description": "좌우로 발 터치하며 균형을 유지해요!",
+      "youtube": "https://youtube.com/shorts/OOGdvy9n8lg?si=46zfFt8gM8yR0hrl"
+    },
+    "E42": {
+      "name_en": "Standing Balance",
+      "name_kr": "한 발 서기",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OA",
+        "OVR",
+        "TRM",
+        "INF"
+      ],
+      "function_tags": [
+        "Stability",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "밸런스",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "코어 근육"
+      ],
+      "antagonist_muscles": [
+        "요추 신전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "중둔근"
+      ],
+      "sets": 2,
+      "reps": "20초(각 다리)",
+      "rest": "30초",
+      "description": "한 발로 서서 균형을 유지해요!",
+      "youtube": "https://youtube.com/shorts/rPjKxUDQ3DM?si=JOu6MzBgFJDL__4P"
+    },
+    "E43": {
+      "name_en": "Bridge March",
+      "name_kr": "브리지 마칭",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "브리지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "둔근"
+      ],
+      "antagonist_muscles": [
+        "고관절 굴곡근(장요근 등)"
+      ],
+      "synergist_muscles": [
+        "햄스트링",
+        "내전근"
+      ],
+      "sets": 2,
+      "reps": "8회",
+      "rest": "60초",
+      "description": "브릿지 자세에서 다리 번갈아 들어올려요!",
+      "youtube": "https://youtu.be/4LQUPybxCnI"
+    },
+    "E44": {
+      "name_en": "Wall Sit March",
+      "name_kr": "벽 스쿼트 마칭",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Endurance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
+      "sets": 2,
+      "reps": "10회",
+      "rest": "60초",
+      "description": "벽 스쿼트 자세에서 제자리 걸음을 해요!",
+      "youtube": "https://youtu.be/WJ-X-1sL1k8?si=75HWRcQmsR_upJny"
+    },
+    "E45": {
+      "name_en": "Wall Heel Slide",
+      "name_kr": "벽 힐 슬라이드",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "TRM",
+        "INF"
+      ],
+      "function_tags": [
+        "Mobility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "햄스트링"
+      ],
+      "antagonist_muscles": [
+        "대퇴사두근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
+      "sets": 2,
+      "reps": "12회",
+      "rest": "30초",
+      "description": "벽에 발 대고 미끄러뜨려요!",
+      "youtube": "https://youtube.com/shorts/zcQLlI056HI?si=etGCe5w6CWL6iW6R"
+    },
+    "E46": {
+      "name_en": "Partial Squat with Support",
+      "name_kr": "벽 잡고 부분 스쿼트",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "스쿼트",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
+      "sets": 2,
+      "reps": "10회",
+      "rest": "45초",
+      "description": "벽 잡고 30도 굽혀 일어서요!",
+      "youtube": "https://youtube.com/shorts/vmo4qnor9QY?si=KDI_sgRuLdx_ATY6"
+    },
+    "E47": {
+      "name_en": "Seated Hamstring Stretch",
+      "name_kr": "햄스트링 스트레칭",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "INF",
+        "TRM"
+      ],
+      "function_tags": [
+        "Flexibility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "햄스트링"
+      ],
+      "antagonist_muscles": [
+        "대퇴사두근"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
+      "sets": 2,
+      "reps": "30초",
+      "rest": "30초",
+      "description": "앉아서 다리 펴고 상체를 숙여요!",
+      "youtube": "https://youtu.be/u55F2jOzBVI"
+    },
+    "E48": {
+      "name_en": "Standing Hip Abduction",
+      "name_kr": "서서 다리 옆으로 들기",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OA",
+        "OVR"
+      ],
+      "function_tags": [
+        "Strength",
+        "Stability"
+      ],
+      "joint_load": "low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "medium",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "중둔근"
+      ],
+      "antagonist_muscles": [
+        "내전근"
+      ],
+      "synergist_muscles": [
+        "둔근",
+        "코어"
+      ],
+      "sets": 2,
+      "reps": "12회",
+      "rest": "45초",
+      "description": "벽 잡고 다리 옆으로 들어요!",
+      "youtube": "https://youtu.be/Oh_EuSTHZ_A"
+    },
+    "E49": {
+      "name_en": "Step Back Lunge",
+      "name_kr": "뒤로 런지",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OVR",
+        "OA"
+      ],
+      "function_tags": [
+        "Strength",
+        "Balance"
+      ],
+      "joint_load": "medium",
+      "movement_pattern": "런지",
+      "required_rom": "medium",
+      "kinetic_chain": "CKC",
+      "primary_muscles": [
+        "대퇴사두근"
+      ],
+      "antagonist_muscles": [
+        "햄스트링"
+      ],
+      "synergist_muscles": [
+        "둔근"
+      ],
+      "sets": 2,
+      "reps": "8회",
+      "rest": "45초",
+      "description": "뒤로 번갈아서 한 발 내딛으며 런지를 해요!",
+      "youtube": "https://youtube.com/shorts/Jn4VwFBjup8?si=K1jQsOwtgN0MpWor"
+    },
+    "E50": {
+      "name_en": "Standing Calf Stretch",
+      "name_kr": "종아리 스트레칭",
+      "difficulty": "expert",
+      "diagnosis_tags": [
+        "OA",
+        "INF"
+      ],
+      "function_tags": [
+        "Flexibility",
+        "Mobility"
+      ],
+      "joint_load": "very_low",
+      "movement_pattern": "모빌리티",
+      "required_rom": "small",
+      "kinetic_chain": "OKC",
+      "primary_muscles": [
+        "종아리근육(비복근, 가자미근)"
+      ],
+      "antagonist_muscles": [
+        "전경골근"
+      ],
+      "synergist_muscles": [
+        "발목 안정근"
+      ],
+      "sets": 2,
+      "reps": "20초",
+      "rest": "30초",
+      "description": "벽 잡고 한쪽 다리 뒤로 밀며 종아리를 스트레칭해요!",
+      "youtube": "https://youtube.com/shorts/7SO6QzfBRaE?si=wER_bHCvvLhfwt1v"
     }
   }
 }

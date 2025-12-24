@@ -1,0 +1,95 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "body_part": "shoulder",
+    "form_version": "v1.0",
+    "description": "설문 응답 → 증상 코드 매핑 (weights.json 키와 연동)"
+  },
+  "questions": {
+    "Q1_location": {
+      "label_kr": "어느 쪽 어깨가 아프신가요?",
+      "type": "multi_select",
+      "max_select": 2,
+      "options": {
+        "left": {"label_kr": "왼쪽", "symptom_codes": []},
+        "right": {"label_kr": "오른쪽", "symptom_codes": []},
+        "both": {"label_kr": "모두", "symptom_codes": ["pain_bilateral"]},
+        "anterior": {"label_kr": "어깨 앞쪽 (이두근 쪽)", "symptom_codes": ["pain_anterior"]},
+        "lateral": {"label_kr": "어깨 바깥쪽 (옆면)", "symptom_codes": ["pain_lateral"]},
+        "superior": {"label_kr": "어깨 위쪽 (견봉/쇄골 부위)", "symptom_codes": ["pain_superior"]},
+        "axillary": {"label_kr": "겨드랑이 안쪽 (관절 깊은 부위)", "symptom_codes": ["pain_axillary"]},
+        "cervical_trapezius": {"label_kr": "경추 승모근 (목과 어깨 사이)", "symptom_codes": ["pain_cervical_trapezius"]}
+      },
+      "special_rules": {
+        "cervical_trapezius_also": {
+          "condition": "cervical_trapezius in selected AND other_shoulder_location in selected",
+          "message": "OO님은 '어깨 관절 문제'와 '목/승모근 문제'가 함께 있을 가능성이 있습니다. 우선 어깨 관절 평가를 진행한 뒤, 필요한 경우 목·승모근 완화 운동도 추가로 안내해드릴게요!"
+        },
+        "cervical_trapezius_only": {
+          "condition": "cervical_trapezius in selected AND len(selected) == 1",
+          "message": "OO님의 통증은 어깨보단 경추 및 목의 문제일 가능성이 높아보여요! 통증 완화를 위한 목 운동을 추천해드려도 될까요?",
+          "redirect": "neck"
+        }
+      }
+    },
+    "Q2_onset": {
+      "label_kr": "언제부터 아팠나요?",
+      "type": "multi_select",
+      "options": {
+        "gradual": {"label_kr": "특별한 계기 없이 어느 날부터 서서히 아프기 시작했다", "symptom_codes": ["gradual_onset"]},
+        "activity_increase": {"label_kr": "최근 팔을 많이 쓰는 활동(운동/집안일/육아) 이후 더 심해졌다", "symptom_codes": ["activity_increase", "overhead_activity"]},
+        "trauma": {"label_kr": "넘어지거나 부딪히거나 '뚝' 하는 소리와 함께 갑자기 아팠다", "symptom_codes": ["trauma_recent", "sudden_onset"]},
+        "progressive_stiff": {"label_kr": "최근 몇 주~몇 달 사이 팔이 점점 덜 올라가고 움직임이 줄어드는 느낌이 있다", "symptom_codes": ["progressive_rom_loss", "stiff_restricted"]}
+      }
+    },
+    "Q3_nrs": {
+      "label_kr": "현재 어깨 통증의 정도",
+      "type": "slider",
+      "min": 0,
+      "max": 10,
+      "symptom_codes": [],
+      "note": "NRS는 운동 강도 결정에 사용"
+    },
+    "Q4_aggravating": {
+      "label_kr": "언제 통증이 더 심해지나요?",
+      "type": "multi_select",
+      "options": {
+        "abduction_overhead": {"label_kr": "팔을 옆으로 벌리거나 머리 위로 올릴 때", "symptom_codes": ["abduction_overhead", "painful_arc"]},
+        "forward_flexion": {"label_kr": "팔을 앞으로 들거나 멀리 뻗을 때", "symptom_codes": ["forward_flexion"]},
+        "internal_rotation_behind": {"label_kr": "팔을 뒤로 돌리거나 등 뒤로 손을 넣을 때", "symptom_codes": ["internal_rotation_behind", "er_limitation"]},
+        "heavy_lifting": {"label_kr": "무거운 물건을 들거나 들어올릴 때", "symptom_codes": ["heavy_lifting"]},
+        "lying_on_side": {"label_kr": "아픈 쪽으로 옆으로 누워 자서 어깨가 눌릴 때", "symptom_codes": ["lying_on_side", "night_pain"]},
+        "arm_sustained": {"label_kr": "팔을 든 채로 오래 유지할 때", "symptom_codes": ["arm_sustained", "overhead_activity"]},
+        "at_rest": {"label_kr": "가만히 있을 때도 아프다", "symptom_codes": ["at_rest", "night_pain"]}
+      }
+    },
+    "Q5_quality": {
+      "label_kr": "어떤 느낌으로 아프신가요?",
+      "type": "multi_select",
+      "options": {
+        "catching": {"label_kr": "움직일 때 어깨 안에서 뭐가 걸리거나 걸리적거리는 느낌이 있다", "symptom_codes": ["catching_feeling", "crepitus"]},
+        "sharp": {"label_kr": "찌릿찌릿하거나 콕 찌르는 듯한 날카로운 통증이다", "symptom_codes": ["sharp_pain"]},
+        "dull_heavy": {"label_kr": "뻐근하고 묵직한 통증이다", "symptom_codes": ["dull_heavy", "chronic"]},
+        "stiff": {"label_kr": "당기고 뻣뻣해서 잘 안 움직이는 느낌이다", "symptom_codes": ["stiff_restricted", "rom_limited", "capsular_pattern"]},
+        "night_rest": {"label_kr": "가만히 있을 때도 아프고, 특히 밤에 더 심해져 잠에서 깰 때가 있다", "symptom_codes": ["night_pain", "at_rest"]}
+      }
+    }
+  },
+  "demographics_mapping": {
+    "age": {
+      "10-19": "age_teens",
+      "20-29": "age_20s",
+      "30-39": "age_30s",
+      "40-49": "age_40s",
+      "50-59": "age_gte_50",
+      "60+": "age_gte_60"
+    },
+    "bmi": {
+      "under_18.5": "bmi_normal",
+      "18.5-24.9": "bmi_normal",
+      "25-26.9": "bmi_gte_25",
+      "27-29.9": "bmi_gte_27",
+      "30+": "bmi_gte_30"
+    }
+  }
+}

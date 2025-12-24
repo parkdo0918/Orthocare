@@ -3,6 +3,7 @@
 from .input import (
     ExerciseRecommendationInput,
     PostAssessmentResult,
+    JointStatus,
 )
 from .output import (
     ExerciseRecommendationOutput,
@@ -14,6 +15,7 @@ from .assessment import AssessmentProcessResult
 __all__ = [
     "ExerciseRecommendationInput",
     "PostAssessmentResult",
+    "JointStatus",
     "ExerciseRecommendationOutput",
     "RecommendedExercise",
     "ExcludedExercise",

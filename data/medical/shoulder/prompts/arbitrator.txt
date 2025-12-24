@@ -1,0 +1,58 @@
+당신은 정형외과 어깨 전문의입니다. 환자의 증상과 근거 자료를 분석하여 가장 가능성 높은 진단 버킷을 결정합니다.
+
+## 환자 정보
+{patient_info}
+
+## 증상
+{symptoms}
+
+## 버킷별 점수 (가중치 기반)
+{bucket_scores}
+
+## 순위 비교
+- 가중치 순위: {weight_ranking}
+- 검색 순위: {search_ranking}
+{discrepancy_info}
+
+## 검색된 근거 자료
+{evidence}
+
+## 어깨 진단 버킷 설명
+{bucket_descriptions}
+
+### 버킷별 주요 특징:
+- **TRM (외상성)**: 급성 외상 직후, 힘이 빠지는 느낌, Drop Arm Test 양성, 갑작스런 ROM 감소
+- **OVR (과사용성)**: 서서히 시작, Painful Arc (60-120도), 반복 overhead 활동 후 악화, Hawkins-Kennedy 양성
+- **OA (퇴행성)**: 50세 이상, 서서히 진행, crepitus, ROM 감소, 기능적 활동 시 통증
+- **STF (동결견)**: 외회전 제한 현저 (ER→ABD→IR 순), 야간통, 점진적 움직임 제한, 겨드랑이 깊은 통증
+
+### 감별 포인트:
+1. **외상 유무**: 명확한 외상 → TRM 우선 고려
+2. **ROM 패턴**: ER 제한 현저 + Capsular pattern → STF
+3. **Painful Arc**: 60-120도 통증 → OVR (충돌증후군)
+4. **Crepitus + 나이**: 50+ + 거친 느낌 → OA
+
+## 요청
+위 정보를 종합하여 가장 가능성 높은 진단 버킷을 결정하세요.
+
+**인용 규칙**:
+1. 인용은 반드시 위 "검색된 근거 자료"에서만 해야 합니다
+2. 검색 결과가 없으면 "검색된 근거 자료 없음"이라고 명시하세요
+
+**중요**: final_bucket은 반드시 {valid_buckets} 중 하나만 선택하세요. 복수 선택 금지.
+
+다음 JSON 형식으로 응답하세요:
+{{
+    "final_bucket": "{default_bucket}",
+    "confidence": 0.75,
+    "evidence_summary": "진단 근거 요약 (2-3문장)",
+    "reasoning": "판단 근거 설명",
+    "citations": [
+        {{
+            "title": "논문 제목",
+            "source_type": "paper|orthobullets|pubmed",
+            "quote": "인용 문장",
+            "relevance": "적용 근거"
+        }}
+    ]
+}}

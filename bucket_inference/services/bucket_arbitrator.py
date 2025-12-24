@@ -1,6 +1,8 @@
 """LLM 버킷 중재 서비스
 
 가중치 점수와 벡터 검색 결과를 비교하여 LLM이 최종 버킷 결정
+
+v2.0: 부위별 설정(BodyPartConfig) 기반 동적 버킷 처리
 """
 
 from typing import List, Optional, Dict, Any
@@ -14,6 +16,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from shared.models import BodyPartInput, Demographics
+from shared.config import BodyPartConfig, BodyPartConfigLoader
 from bucket_inference.models import (
     BucketInferenceInput,
     BucketInferenceOutput,
@@ -26,7 +29,10 @@ from bucket_inference.config import settings
 
 
 class BucketArbitrator:
-    """LLM Pass #1: 버킷 검증 및 최종 결정"""
+    """LLM Pass #1: 버킷 검증 및 최종 결정
+
+    v2.0: 부위별 설정 기반으로 버킷 목록과 프롬프트를 동적으로 구성
+    """
 
     def __init__(self, openai_client: Optional[OpenAI] = None):
         """
@@ -46,13 +52,28 @@ class BucketArbitrator:
         evidence: Optional[EvidenceResult],
         user_input: BucketInferenceInput,
         red_flag: Optional[RedFlagResult] = None,
+        bp_config: Optional[BodyPartConfig] = None,
     ) -> BucketInferenceOutput:
         """
         가중치 vs 검색 결과 비교 후 최종 버킷 결정
 
+        Args:
+            body_part: 부위별 입력
+            bucket_scores: 버킷별 점수
+            weight_ranking: 가중치 기반 순위
+            search_ranking: 검색 기반 순위
+            evidence: 검색 근거
+            user_input: 사용자 입력
+            red_flag: 레드플래그 결과
+            bp_config: 부위별 설정 (없으면 자동 로드)
+
         Returns:
             BucketInferenceOutput 객체
         """
+        # 설정 로드 (없으면 자동 로드)
+        if bp_config is None:
+            bp_config = BodyPartConfigLoader.load(body_part.code)
+
         # 불일치 감지
         discrepancy = self._detect_discrepancy(weight_ranking, search_ranking)
 
@@ -65,6 +86,7 @@ class BucketArbitrator:
             discrepancy=discrepancy,
             evidence=evidence,
             user_input=user_input,
+            bp_config=bp_config,
         )
 
         return BucketInferenceOutput(
@@ -131,6 +153,7 @@ class BucketArbitrator:
         discrepancy: Optional[DiscrepancyAlert],
         evidence: Optional[EvidenceResult],
         user_input: BucketInferenceInput,
+        bp_config: BodyPartConfig,
     ) -> Dict[str, Any]:
         """LLM 호출하여 최종 결정"""
         prompt = self._build_prompt(
@@ -141,6 +164,7 @@ class BucketArbitrator:
             discrepancy=discrepancy,
             evidence=evidence,
             user_input=user_input,
+            bp_config=bp_config,
         )
 
         response = self._openai.chat.completions.create(
@@ -149,7 +173,7 @@ class BucketArbitrator:
                 {
                     "role": "system",
                     "content": (
-                        "당신은 정형외과 진단을 보조하는 AI입니다. "
+                        f"당신은 정형외과 {bp_config.display_name} 전문의입니다. "
                         "환자의 증상과 근거 자료를 분석하여 가장 가능성 높은 "
                         "진단 버킷을 결정합니다. 반드시 JSON 형식으로 응답하세요."
                     ),
@@ -186,8 +210,8 @@ class BucketArbitrator:
             # 복수 선택된 경우 첫 번째 버킷 사용
             final_bucket = final_bucket.split("|")[0].strip()
 
-        # 유효한 버킷인지 확인
-        valid_buckets = ["OA", "OVR", "TRM", "INF"]
+        # 유효한 버킷인지 확인 (부위별 설정에서 가져옴)
+        valid_buckets = bp_config.bucket_order
         if final_bucket not in valid_buckets:
             final_bucket = weight_ranking[0]
 
@@ -207,8 +231,9 @@ class BucketArbitrator:
         discrepancy: Optional[DiscrepancyAlert],
         evidence: Optional[EvidenceResult],
         user_input: BucketInferenceInput,
+        bp_config: BodyPartConfig,
     ) -> str:
-        """LLM 프롬프트 구성"""
+        """LLM 프롬프트 구성 (부위별 설정 사용)"""
         # 버킷 점수 정보
         scores_str = "\n".join(
             f"- {bs.bucket}: {bs.score}점 ({bs.percentage}%)"
@@ -228,22 +253,97 @@ class BucketArbitrator:
             discrepancy_str = f"\n\n## 불일치 경고\n{discrepancy.message}"
 
         # 근거 정보
-        evidence_str = ""
-        if evidence and evidence.results:
-            top_papers = evidence.get_top_results(5)
-            evidence_str = "\n## 검색된 근거 자료\n"
-            for i, r in enumerate(top_papers, 1):
-                content_preview = r.paper.content[:500] if r.paper.content else "내용 없음"
-                evidence_str += (
-                    f"\n### 근거 {i}: {r.paper.title}\n"
-                    f"- 출처: {r.paper.source_type} (Layer {r.paper.source_layer})\n"
-                    f"- 유사도: {r.similarity_score:.2f}\n"
-                    f"- 내용:\n```\n{content_preview}...\n```\n"
-                )
-        else:
-            evidence_str = "\n## 검색된 근거 자료\n검색 결과 없음\n"
+        evidence_str = self._format_evidence(evidence)
 
-        prompt = f"""
+        # 버킷 설명 (부위별 설정에서 가져옴)
+        bucket_descriptions_str = self._format_bucket_descriptions(bp_config)
+
+        # 유효 버킷 목록 (부위별 설정에서 가져옴)
+        valid_buckets_str = ", ".join(bp_config.bucket_order)
+
+        # 프롬프트 템플릿이 있으면 사용, 없으면 기본 템플릿
+        if bp_config.prompt_template and "{patient_info}" in bp_config.prompt_template:
+            # 템플릿 변수 치환
+            prompt = bp_config.prompt_template.format(
+                patient_info=patient_info,
+                symptoms=symptoms_str,
+                bucket_scores=scores_str,
+                weight_ranking=" > ".join(weight_ranking),
+                search_ranking=" > ".join(search_ranking) if search_ranking else "검색 결과 없음",
+                discrepancy_info=discrepancy_str,
+                evidence=evidence_str,
+                bucket_descriptions=bucket_descriptions_str,
+                valid_buckets=valid_buckets_str,
+                default_bucket=bp_config.bucket_order[0] if bp_config.bucket_order else "OA",
+            )
+        else:
+            # 기본 프롬프트 생성
+            prompt = self._build_default_prompt(
+                patient_info=patient_info,
+                symptoms_str=symptoms_str,
+                scores_str=scores_str,
+                weight_ranking=weight_ranking,
+                search_ranking=search_ranking,
+                discrepancy_str=discrepancy_str,
+                evidence_str=evidence_str,
+                bucket_descriptions_str=bucket_descriptions_str,
+                valid_buckets_str=valid_buckets_str,
+                bp_config=bp_config,
+            )
+
+        return prompt
+
+    def _format_evidence(self, evidence: Optional[EvidenceResult]) -> str:
+        """근거 자료 포맷팅"""
+        if not evidence or not evidence.results:
+            return "검색 결과 없음"
+
+        top_papers = evidence.get_top_results(5)
+        evidence_str = ""
+        for i, r in enumerate(top_papers, 1):
+            content_preview = r.paper.content[:500] if r.paper.content else "내용 없음"
+            evidence_str += (
+                f"\n### 근거 {i}: {r.paper.title}\n"
+                f"- 출처: {r.paper.source_type} (Layer {r.paper.source_layer})\n"
+                f"- 유사도: {r.similarity_score:.2f}\n"
+                f"- 내용:\n```\n{content_preview}...\n```\n"
+            )
+        return evidence_str
+
+    def _format_bucket_descriptions(self, bp_config: BodyPartConfig) -> str:
+        """버킷 설명 포맷팅"""
+        lines = []
+        for bucket_code in bp_config.bucket_order:
+            info = bp_config.bucket_info.get(bucket_code, {})
+            name_kr = info.get("name_kr", bucket_code)
+            description = info.get("description", "")
+            typical_profile = info.get("typical_profile", "")
+
+            lines.append(
+                f"- **{bucket_code} ({name_kr})**: {description}"
+            )
+            if typical_profile:
+                lines.append(f"  - 전형적 프로필: {typical_profile}")
+
+        return "\n".join(lines)
+
+    def _build_default_prompt(
+        self,
+        patient_info: str,
+        symptoms_str: str,
+        scores_str: str,
+        weight_ranking: List[str],
+        search_ranking: List[str],
+        discrepancy_str: str,
+        evidence_str: str,
+        bucket_descriptions_str: str,
+        valid_buckets_str: str,
+        bp_config: BodyPartConfig,
+    ) -> str:
+        """기본 프롬프트 생성"""
+        default_bucket = bp_config.bucket_order[0] if bp_config.bucket_order else "OA"
+
+        return f"""
 ## 환자 정보
 {patient_info}
 
@@ -257,7 +357,12 @@ class BucketArbitrator:
 - 가중치 순위: {' > '.join(weight_ranking)}
 - 검색 순위: {' > '.join(search_ranking) if search_ranking else '검색 결과 없음'}
 {discrepancy_str}
+
+## 검색된 근거 자료
 {evidence_str}
+
+## {bp_config.display_name} 진단 버킷 설명
+{bucket_descriptions_str}
 
 ## 요청
 위 정보를 종합하여 가장 가능성 높은 진단 버킷을 결정하세요.
@@ -266,11 +371,11 @@ class BucketArbitrator:
 1. 인용은 반드시 위 "검색된 근거 자료"에서만 해야 합니다
 2. 검색 결과가 없으면 "검색된 근거 자료 없음"이라고 명시하세요
 
-**중요**: final_bucket은 반드시 OA, OVR, TRM, INF 중 하나만 선택하세요. 복수 선택 금지.
+**중요**: final_bucket은 반드시 {valid_buckets_str} 중 하나만 선택하세요. 복수 선택 금지.
 
 다음 JSON 형식으로 응답하세요:
 {{
-    "final_bucket": "OA",
+    "final_bucket": "{default_bucket}",
     "confidence": 0.75,
     "evidence_summary": "진단 근거 요약 (2-3문장)",
     "reasoning": "판단 근거 설명",
@@ -284,4 +389,3 @@ class BucketArbitrator:
     ]
 }}
 """
-        return prompt

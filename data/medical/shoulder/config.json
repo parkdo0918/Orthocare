@@ -1,0 +1,23 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "updated_at": "2025-01-01",
+    "description": "어깨 부위 진단 설정"
+  },
+  "body_part": "shoulder",
+  "display_name": "어깨",
+  "display_name_en": "Shoulder",
+  "version": "1.0",
+  "bucket_system": {
+    "type": "4-bucket",
+    "description": "외상/과사용/퇴행성/동결견 분류"
+  },
+  "inference_settings": {
+    "min_confidence": 0.6,
+    "require_evidence": true
+  },
+  "special_rules": {
+    "cervical_trapezius_redirect": true,
+    "cervical_trapezius_message": "OO님은 '어깨 관절 문제'와 '목/승모근 문제'가 함께 있을 가능성이 있습니다."
+  }
+}

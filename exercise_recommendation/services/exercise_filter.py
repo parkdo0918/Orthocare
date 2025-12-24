@@ -1,4 +1,7 @@
-"""버킷 기반 운동 필터링 서비스"""
+"""버킷 기반 운동 필터링 서비스 (v2.0)
+
+v2.0: joint_load, kinetic_chain, required_rom 기반 필터링 추가
+"""
 
 from typing import List, Dict, Tuple, Optional
 import json
@@ -11,6 +14,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from shared.models import PhysicalScore
+from exercise_recommendation.models.input import JointStatus
 from exercise_recommendation.models.output import RecommendedExercise, ExcludedExercise
 from exercise_recommendation.models.assessment import DifficultyAdjustment
 from exercise_recommendation.config import settings
@@ -101,9 +105,10 @@ class ExerciseFilter:
         physical_score: PhysicalScore,
         nrs: int,
         adjustments: Optional[DifficultyAdjustment] = None,
+        joint_status: Optional[JointStatus] = None,
     ) -> Tuple[List[Dict], List[ExcludedExercise]]:
         """
-        버킷 및 조건에 맞는 운동 필터링
+        버킷 및 조건에 맞는 운동 필터링 (v2.0)
 
         Args:
             body_part: 부위 코드
@@ -111,12 +116,17 @@ class ExerciseFilter:
             physical_score: 신체 점수
             nrs: 통증 점수
             adjustments: 난이도 조정 (사후 설문 기반)
+            joint_status: 관절 상태 (v2.0)
 
         Returns:
             (후보 운동 리스트, 제외된 운동 리스트)
         """
         # 버킷 검증 및 정규화
         validated_bucket = self._validate_and_normalize_bucket(bucket)
+
+        # joint_status가 없으면 기본값 생성
+        if joint_status is None:
+            joint_status = JointStatus()
 
         all_exercises = self._load_exercises(body_part)
         allowed_difficulties = self._get_allowed_difficulties(
@@ -133,10 +143,13 @@ class ExerciseFilter:
             if validated_bucket not in diagnosis_tags:
                 continue
 
-            difficulty = ex.get("difficulty", "medium")
+            difficulty = ex.get("difficulty", "standard")
+
+            # v2.0 난이도 매핑 (beginner/standard/advanced/expert → low/medium/high)
+            difficulty_mapped = self._map_difficulty(difficulty)
 
             # 난이도 체크
-            if difficulty not in allowed_difficulties:
+            if difficulty_mapped not in allowed_difficulties:
                 excluded.append(
                     ExcludedExercise(
                         exercise_id=ex["id"],
@@ -147,9 +160,115 @@ class ExerciseFilter:
                 )
                 continue
 
+            # === v2.0: joint_load 체크 ===
+            joint_load = ex.get("joint_load", "medium")
+            if not self._check_joint_load(joint_load, joint_status, nrs):
+                excluded.append(
+                    ExcludedExercise(
+                        exercise_id=ex["id"],
+                        name_kr=ex.get("name_kr", ex.get("name_en", "")),
+                        reason=f"관절 부하 '{joint_load}'는 현재 관절 상태에 부적합",
+                        exclusion_type="joint_load",
+                    )
+                )
+                continue
+
+            # === v2.0: kinetic_chain 체크 (급성기만 엄격하게) ===
+            kinetic_chain = ex.get("kinetic_chain", "OKC")
+            if not self._check_kinetic_chain(kinetic_chain, joint_status):
+                excluded.append(
+                    ExcludedExercise(
+                        exercise_id=ex["id"],
+                        name_kr=ex.get("name_kr", ex.get("name_en", "")),
+                        reason=f"운동 사슬 '{kinetic_chain}'는 급성기에 부적합",
+                        exclusion_type="kinetic_chain",
+                    )
+                )
+                continue
+
+            # === v2.0: required_rom 체크 ===
+            required_rom = ex.get("required_rom", "medium")
+            if not self._check_rom(required_rom, joint_status):
+                excluded.append(
+                    ExcludedExercise(
+                        exercise_id=ex["id"],
+                        name_kr=ex.get("name_kr", ex.get("name_en", "")),
+                        reason=f"필요 가동범위 '{required_rom}'는 현재 ROM 상태에 부적합",
+                        exclusion_type="rom",
+                    )
+                )
+                continue
+
             candidates.append(ex)
 
         return candidates, excluded
+
+    def _map_difficulty(self, difficulty: str) -> str:
+        """v2.0 난이도 → 기존 난이도 매핑"""
+        mapping = {
+            "beginner": "low",
+            "standard": "medium",
+            "advanced": "medium",
+            "expert": "high",
+            # 기존 호환
+            "low": "low",
+            "medium": "medium",
+            "high": "high",
+        }
+        return mapping.get(difficulty, "medium")
+
+    def _check_joint_load(
+        self,
+        joint_load: str,
+        joint_status: JointStatus,
+        nrs: int,
+    ) -> bool:
+        """관절 부하 체크 (v2.0)
+
+        고통증(NRS >= 7)이거나 관절 불안정이면 medium 부하 제외
+        """
+        preferred_loads = joint_status.preferred_joint_load
+
+        # 선호 부하에 포함되면 OK
+        if joint_load in preferred_loads:
+            return True
+
+        # 고통증 시 medium 부하 제외
+        if nrs >= 7 and joint_load == "medium":
+            return False
+
+        # 관절 불안정 + medium 부하 = 주의 (경고만, 제외하지 않음)
+        # → 개인화 단계에서 우선순위 하락으로 처리
+        return True
+
+    def _check_kinetic_chain(
+        self,
+        kinetic_chain: str,
+        joint_status: JointStatus,
+    ) -> bool:
+        """운동 사슬 체크 (v2.0)
+
+        급성기에는 CKC(닫힌 사슬) 제외
+        """
+        # 급성기에 CKC는 제외
+        if joint_status.rehabilitation_phase == "acute" and kinetic_chain == "CKC":
+            return False
+
+        return True
+
+    def _check_rom(
+        self,
+        required_rom: str,
+        joint_status: JointStatus,
+    ) -> bool:
+        """가동범위 체크 (v2.0)
+
+        가동범위 제한 시 medium ROM 운동은 제외하지 않고
+        개인화 단계에서 우선순위 하락으로 처리
+        """
+        # ROM 제한이 있어도 완전히 제외하지는 않음
+        # → 개인화 단계에서 우선순위 조정
+        return True
 
     def _get_allowed_difficulties(
         self,

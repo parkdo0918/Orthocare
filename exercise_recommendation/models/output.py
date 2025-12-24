@@ -11,7 +11,7 @@ class RecommendedExercise(BaseModel):
     exercise_id: str = Field(..., description="운동 ID")
     name_kr: str = Field(..., description="한글명")
     name_en: str = Field(..., description="영문명")
-    difficulty: Literal["low", "medium", "high"] = Field(..., description="난이도")
+    difficulty: str = Field(..., description="난이도 (low/medium/high 또는 beginner/intermediate/advanced)")
     function_tags: List[str] = Field(..., description="기능 태그")
     target_muscles: List[str] = Field(..., description="타겟 근육")
 

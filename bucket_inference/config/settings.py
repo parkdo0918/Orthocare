@@ -41,7 +41,7 @@ class BucketInferenceSettings(BaseSettings):
     embedding_dimension: int = Field(default=1536, description="임베딩 차원")
 
     # 검색 설정
-    min_search_score: float = Field(default=0.35, description="최소 유사도 점수")
+    min_search_score: float = Field(default=0.15, description="최소 유사도 점수")
     search_top_k: int = Field(default=10, description="검색 결과 수")
 
     # 랭킹 설정

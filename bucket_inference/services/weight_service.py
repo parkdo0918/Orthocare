@@ -1,65 +1,54 @@
-"""가중치 계산 서비스 (버킷 추론용)"""
+"""가중치 계산 서비스 (버킷 추론용)
 
-from typing import List, Dict, Tuple
-import json
-from pathlib import Path
+v2.0: BodyPartConfig 통합으로 일관된 설정 관리
+"""
+
+from typing import List, Dict, Tuple, Optional
 
 from langsmith import traceable
 
 import sys
+from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from shared.models import BodyPartInput
+from shared.config import BodyPartConfig, BodyPartConfigLoader
 from bucket_inference.models import BucketScore
 from bucket_inference.config import settings
 
 
 class WeightService:
-    """가중치 기반 버킷 점수 계산"""
+    """가중치 기반 버킷 점수 계산
+
+    v2.0: BodyPartConfig를 통해 설정 로드
+    """
 
     def __init__(self):
-        self._weights_cache = {}
-        self._bucket_cache = {}
-
-    def _load_weights(self, body_part: str) -> Tuple[Dict, List[str]]:
-        """가중치 데이터 로드"""
-        if body_part in self._weights_cache:
-            return self._weights_cache[body_part], self._bucket_cache[body_part]
-
-        weights_path = settings.data_dir / "medical" / body_part / "weights.json"
-        buckets_path = settings.data_dir / "medical" / body_part / "buckets.json"
-
-        if not weights_path.exists():
-            raise FileNotFoundError(f"가중치 파일을 찾을 수 없습니다: {weights_path}")
-
-        with open(weights_path, "r", encoding="utf-8") as f:
-            weights_data = json.load(f)
-
-        with open(buckets_path, "r", encoding="utf-8") as f:
-            buckets_data = json.load(f)
-
-        bucket_order = buckets_data.get("order", ["OA", "OVR", "TRM", "INF"])
-
-        self._weights_cache[body_part] = weights_data
-        self._bucket_cache[body_part] = bucket_order
-
-        return weights_data, bucket_order
+        # 캐시는 BodyPartConfigLoader에서 관리하므로 제거
+        pass
 
     @traceable(name="weight_score_calculation")
     def calculate_scores(
         self,
         body_part: BodyPartInput,
+        bp_config: Optional[BodyPartConfig] = None,
     ) -> Tuple[List[BucketScore], List[str]]:
         """
         증상 코드 기반 버킷 점수 계산
 
         Args:
             body_part: 부위별 입력 (증상 코드 포함)
+            bp_config: 부위별 설정 (없으면 자동 로드)
 
         Returns:
             (버킷 점수 리스트, 순위 리스트)
         """
-        weights, bucket_order = self._load_weights(body_part.code)
+        # 설정 로드 (없으면 자동 로드)
+        if bp_config is None:
+            bp_config = BodyPartConfigLoader.load(body_part.code)
+
+        weights = bp_config.weights
+        bucket_order = bp_config.bucket_order
 
         # 버킷별 점수 초기화
         scores = {bucket: 0.0 for bucket in bucket_order}
@@ -104,7 +93,8 @@ class WeightService:
     def get_score_dict(
         self,
         body_part: BodyPartInput,
+        bp_config: Optional[BodyPartConfig] = None,
     ) -> Dict[str, float]:
         """버킷별 점수 딕셔너리 반환"""
-        bucket_scores, _ = self.calculate_scores(body_part)
+        bucket_scores, _ = self.calculate_scores(body_part, bp_config)
         return {bs.bucket: bs.score for bs in bucket_scores}

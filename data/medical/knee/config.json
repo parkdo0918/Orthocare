@@ -1,0 +1,19 @@
+{
+  "_metadata": {
+    "version": "1.0",
+    "updated_at": "2025-01-01",
+    "description": "무릎 부위 진단 설정"
+  },
+  "body_part": "knee",
+  "display_name": "무릎",
+  "display_name_en": "Knee",
+  "version": "1.0",
+  "bucket_system": {
+    "type": "4-bucket",
+    "description": "퇴행성/과사용/외상/염증성 분류"
+  },
+  "inference_settings": {
+    "min_confidence": 0.6,
+    "require_evidence": true
+  }
+}

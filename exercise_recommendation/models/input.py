@@ -3,7 +3,7 @@
 사후 설문 데이터 포함 - 앱에서 전달받음
 """
 
-from typing import List, Optional
+from typing import List, Optional, Literal
 from datetime import datetime
 from pydantic import BaseModel, Field
 
@@ -12,6 +12,66 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from shared.models import Demographics, PhysicalScore
+
+
+class JointStatus(BaseModel):
+    """관절 상태 정보 (v2.0 개인화용)
+
+    새로운 운동 DB 칼럼(joint_load, kinetic_chain, required_rom)을
+    활용한 개인화를 위한 입력 모델
+    """
+
+    # 관절 상태
+    joint_condition: Literal["normal", "limited", "unstable"] = Field(
+        default="normal",
+        description="관절 상태 (normal: 정상, limited: 가동범위 제한, unstable: 불안정)"
+    )
+
+    # 가동범위 상태
+    rom_status: Literal["normal", "restricted"] = Field(
+        default="normal",
+        description="가동범위 상태 (normal: 정상, restricted: 제한됨)"
+    )
+
+    # 재활 단계
+    rehabilitation_phase: Literal["acute", "subacute", "chronic", "maintenance"] = Field(
+        default="maintenance",
+        description="재활 단계 (acute: 급성기, subacute: 아급성기, chronic: 만성기, maintenance: 유지기)"
+    )
+
+    # 체중부하 가능 여부
+    weight_bearing_tolerance: Literal["none", "partial", "full"] = Field(
+        default="full",
+        description="체중부하 허용 수준 (none: 불가, partial: 부분, full: 전체)"
+    )
+
+    @property
+    def preferred_joint_load(self) -> List[str]:
+        """선호하는 관절 부하 수준"""
+        if self.joint_condition == "unstable" or self.weight_bearing_tolerance == "none":
+            return ["very_low"]
+        elif self.joint_condition == "limited" or self.weight_bearing_tolerance == "partial":
+            return ["very_low", "low"]
+        else:
+            return ["very_low", "low", "medium"]
+
+    @property
+    def preferred_kinetic_chain(self) -> List[str]:
+        """선호하는 운동 사슬 타입"""
+        if self.rehabilitation_phase == "acute":
+            return ["OKC"]  # 급성기: 열린 사슬만
+        elif self.rehabilitation_phase == "subacute":
+            return ["OKC", "CKC"]  # 아급성기: 둘 다 가능
+        else:
+            return ["OKC", "CKC"]  # 만성기/유지기: 둘 다 가능
+
+    @property
+    def preferred_rom(self) -> List[str]:
+        """선호하는 가동범위"""
+        if self.rom_status == "restricted":
+            return ["small"]
+        else:
+            return ["small", "medium"]
 
 
 class PostAssessmentResult(BaseModel):
@@ -98,6 +158,12 @@ class ExerciseRecommendationInput(BaseModel):
     physical_score: PhysicalScore = Field(..., description="신체 점수 (Lv A/B/C/D)")
     demographics: Demographics = Field(..., description="인구통계학적 정보")
     nrs: int = Field(..., ge=0, le=10, description="통증 점수 (0-10)")
+
+    # === v2.0: 관절 상태 (개인화 강화) ===
+    joint_status: Optional[JointStatus] = Field(
+        default=None,
+        description="관절 상태 정보 (v2.0 개인화용, 없으면 기본값 사용)"
+    )
 
     # === 사후 설문 데이터 (Optional) ===
     previous_assessments: Optional[List[PostAssessmentResult]] = Field(

@@ -139,49 +139,73 @@ def index_papers(pc: Pinecone, openai: OpenAI, body_part: str = "knee"):
     return len(vectors)
 
 
-def index_orthobullets(pc: Pinecone, openai: OpenAI):
-    """OrthoBullets 인덱싱"""
+def index_orthobullets(pc: Pinecone, openai: OpenAI, body_part: str = None):
+    """OrthoBullets 인덱싱
+
+    Args:
+        body_part: 특정 부위만 인덱싱 (None이면 모든 파일)
+    """
     print("\n=== OrthoBullets 인덱싱 ===")
 
     index = pc.Index(PINECONE_INDEX)
-    cache_path = DATA_DIR / "crawled" / "orthobullets_cache.json"
 
-    if not cache_path.exists():
-        print(f"OrthoBullets 캐시 없음: {cache_path}")
-        return 0
+    # OrthoBullets 캐시 파일들 찾기
+    crawled_dir = DATA_DIR / "crawled"
+    cache_files = []
 
-    with open(cache_path, "r", encoding="utf-8") as f:
-        articles = json.load(f)
+    if body_part:
+        # 특정 부위만
+        if body_part == "knee":
+            cache_files = [crawled_dir / "orthobullets_cache.json"]
+        else:
+            cache_files = [crawled_dir / f"orthobullets_{body_part}_cache.json"]
+    else:
+        # 모든 OrthoBullets 파일
+        cache_files = list(crawled_dir.glob("orthobullets*.json"))
 
-    vectors = []
-    for article_id, article in articles.items():
-        content = article.get("content", "")
-        if not content:
+    total_vectors = []
+    for cache_path in cache_files:
+        if not cache_path.exists():
+            print(f"OrthoBullets 캐시 없음: {cache_path}")
             continue
 
-        embedding = embed_text(openai, content)
+        print(f"  파일: {cache_path.name}")
 
-        metadata = {
-            "body_part": article.get("body_part", "knee"),
-            "source": "orthobullets",
-            "bucket": article.get("category", ""),
-            "title": article.get("title", ""),
-            "text": content[:1000],
-            "url": article.get("url", ""),
-        }
+        with open(cache_path, "r", encoding="utf-8") as f:
+            articles = json.load(f)
 
-        vectors.append({
-            "id": f"orthobullets_{article_id}",
-            "values": embedding,
-            "metadata": metadata,
-        })
+        vectors = []
+        for article_id, article in articles.items():
+            content = article.get("content", "")
+            if not content:
+                continue
 
-    # 배치 업서트
-    if vectors:
-        index.upsert(vectors=vectors)
+            embedding = embed_text(openai, content)
 
-    print(f"OrthoBullets 인덱싱 완료: {len(vectors)}개")
-    return len(vectors)
+            metadata = {
+                "body_part": article.get("body_part", "knee"),
+                "source": "orthobullets",
+                "bucket": article.get("category", ""),
+                "title": article.get("title", ""),
+                "text": content[:1000],
+                "url": article.get("url", ""),
+            }
+
+            vectors.append({
+                "id": f"orthobullets_{article_id}",
+                "values": embedding,
+                "metadata": metadata,
+            })
+
+        # 배치 업서트
+        if vectors:
+            index.upsert(vectors=vectors)
+            print(f"    -> {len(vectors)}개 인덱싱")
+
+        total_vectors.extend(vectors)
+
+    print(f"OrthoBullets 인덱싱 완료: 총 {len(total_vectors)}개")
+    return len(total_vectors)
 
 
 def main():
@@ -212,7 +236,9 @@ def main():
         total += index_papers(pc, openai, args.body_part)
 
     if not args.papers_only:
-        total += index_orthobullets(pc, openai)
+        # body_part 인자가 없거나 특정 부위면 해당 부위만, all이면 모든 부위
+        ob_body_part = None if args.body_part == "all" else args.body_part
+        total += index_orthobullets(pc, openai, body_part=ob_body_part)
 
     print(f"\n=== 인덱싱 완료: 총 {total}개 벡터 ===")
 

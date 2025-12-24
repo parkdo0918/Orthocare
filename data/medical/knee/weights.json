@@ -65,6 +65,18 @@
   "activity_jumping": [0.0, 4.0, 2.0, 0.0],
   "calf_pain": [0.0, 0.0, 0.5, 0.5],
 
+  "_comment_aliases": "증상 코드 별칭 (호환성)",
+  "morning_stiffness": [1.0, 0.0, 0.0, 2.0],
+  "crepitus": [1.5, 0.5, 3.5, 0.0],
+  "joint_line_tenderness": [0.0, 1.0, 1.0, 0.0],
+  "rom_limitation": [2.0, 1.0, 0.0, 0.0],
+  "tenderness": [0.0, 1.0, 1.0, 0.0],
+  "stiffness": [1.0, 0.0, 0.0, 2.0],
+  "effusion": [1.0, 0.0, 1.0, 1.0],
+  "joint_swelling": [1.0, 0.0, 1.0, 1.0],
+  "grinding": [1.5, 0.5, 3.5, 0.0],
+  "popping": [1.5, 0.5, 3.5, 0.0],
+
   "_comment_legacy": "기존 호환용 (높은 가중치 유지)",
   "fever": [0.0, 0.0, 0.0, 7.0],
   "systemic_symptoms": [0.0, 0.0, 0.0, 6.0],
