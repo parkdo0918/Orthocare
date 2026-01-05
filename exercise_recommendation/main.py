@@ -79,47 +79,6 @@ async def recommend_exercises(input_data: ExerciseRecommendationInput):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-@app.post("/api/v1/recommend-exercises/simple")
-async def recommend_exercises_simple(input_data: ExerciseRecommendationInput):
-    """
-    간단 운동 추천 API (LLM 미사용)
-
-    빠른 응답이 필요할 때 사용
-    """
-    try:
-        # 사후 설문 처리
-        assessment_result = pipeline.assessment_handler.process(
-            previous_assessments=input_data.previous_assessments,
-            last_assessment_date=input_data.last_assessment_date,
-        )
-
-        # 필터링
-        candidates, excluded = pipeline.exercise_filter.filter_for_bucket(
-            body_part=input_data.body_part,
-            bucket=input_data.bucket,
-            physical_score=input_data.physical_score,
-            nrs=input_data.nrs,
-            adjustments=assessment_result.adjustments,
-        )
-
-        # 간단 추천
-        recommendations = pipeline.recommender.simple_recommend(
-            candidates=candidates,
-            physical_level=input_data.physical_score.level,
-        )
-
-        return {
-            "user_id": input_data.user_id,
-            "body_part": input_data.body_part,
-            "bucket": input_data.bucket,
-            "exercises": [r.model_dump() for r in recommendations],
-            "assessment_status": assessment_result.status,
-            "assessment_message": assessment_result.message,
-        }
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
 if __name__ == "__main__":
     import uvicorn
 

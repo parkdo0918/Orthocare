@@ -1,6 +1,31 @@
 version: '3.8'
 
 services:
+  # 게이트웨이 서비스 (통합 API)
+  gateway:
+    build:
+      context: .
+      dockerfile: gateway/Dockerfile
+    container_name: orthocare-gateway
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - USE_LANGGRAPH_BUCKET=${USE_LANGGRAPH_BUCKET:-true}
+    volumes:
+      - ./data:/app/data:ro
+      - ./shared:/app/shared:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    depends_on:
+      - bucket-inference
+      - exercise-recommendation
+
   # 버킷 추론 모델 (Docker Container 1)
   # 사용 빈도: 2주 1회
   # 벡터 DB: orthocare-diagnosis

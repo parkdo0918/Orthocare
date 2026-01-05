@@ -1122,16 +1122,6 @@ POST /api/v1/recommend-exercises
 
 ---
 
-### 7.3 간단 운동 추천 API (LLM 미사용)
-
-```bash
-POST /api/v1/recommend-exercises/simple
-```
-
-LLM 호출 없이 빠르게 운동을 추천합니다. 응답 형식은 동일합니다.
-
----
-
 ## 8. 사후 평가 시스템 (RPE 기반)
 
 ### 신체 점수 시스템

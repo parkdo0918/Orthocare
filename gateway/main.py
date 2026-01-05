@@ -99,7 +99,13 @@ async def diagnose_and_recommend(request: UnifiedRequest):
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"처리 실패: {str(e)}")
+        import traceback
+        error_detail = f"{type(e).__name__}: {str(e)}"
+        # 디버깅을 위해 더 자세한 에러 정보 포함 (프로덕션에서는 제거 가능)
+        raise HTTPException(
+            status_code=500,
+            detail=f"처리 실패: {error_detail}"
+        )
 
 
 @app.post("/api/v1/diagnose", response_model=UnifiedResponse)
@@ -114,7 +120,13 @@ async def diagnose_only(request: UnifiedRequest):
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"처리 실패: {str(e)}")
+        import traceback
+        error_detail = f"{type(e).__name__}: {str(e)}"
+        # 디버깅을 위해 더 자세한 에러 정보 포함 (프로덕션에서는 제거 가능)
+        raise HTTPException(
+            status_code=500,
+            detail=f"처리 실패: {error_detail}"
+        )
 
 
 if __name__ == "__main__":
