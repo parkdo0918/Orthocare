@@ -125,19 +125,7 @@ class SurveyData(BaseModel):
 class UnifiedRequest(BaseModel):
     """통합 API 요청
 
-    앱에서 서버로 보내는 단일 요청으로
-    버킷 추론 + 운동 추천을 한 번에 처리
-
-    예시:
-    {
-        "request_id": "uuid-xxx",
-        "user_id": "user_123",
-        "demographics": {"age": 55, "sex": "male", ...},
-        "body_parts": [{"code": "knee", "symptoms": [...], "nrs": 6}],
-        "physical_score": {"total_score": 12},
-        "natural_language": {"chief_complaint": "무릎이 아파요"},
-        "options": {"include_exercises": true, "exercise_days": 3}
-    }
+    앱에서 서버로 보내는 단일 요청으로 버킷 추론을 처리
     """
 
     # 요청 식별
@@ -191,6 +179,48 @@ class UnifiedRequest(BaseModel):
     def primary_nrs(self) -> int:
         """주요 부위 NRS"""
         return self.primary_body_part.nrs
+
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "user_id": "demo_user_001",
+                "demographics": {
+                    "age": 55,
+                    "sex": "female",
+                    "height_cm": 160,
+                    "weight_kg": 65
+                },
+                "body_parts": [
+                    {
+                        "code": "knee",
+                        "primary": True,
+                        "side": "both",
+                        "symptoms": ["pain_medial", "stiffness_morning", "stairs_down"],
+                        "nrs": 6,
+                        "red_flags_checked": []
+                    }
+                ],
+                "physical_score": {
+                    "total_score": 12
+                },
+                "natural_language": {
+                    "chief_complaint": "오른쪽 무릎 안쪽이 아파요",
+                    "pain_description": "계단 내려갈 때 뻐근하고 아침에 30분 정도 뻣뻣합니다",
+                    "history": "무리하게 운동한 이후부터 아파요"
+                },
+                "raw_survey_responses": {
+                    "painStarted": "무리하게 운동한 이후부터 아파요",
+                    "painTrigger": "오래 걷거나 서있을 때",
+                    "painSensation": "뻐근/묵직",
+                    "painDuration": "아침에 30분 정도"
+                },
+                "options": {
+                    "include_exercises": False,
+                    "exercise_days": 3,
+                    "skip_exercise_on_red_flag": True
+                }
+            }
+        }
 
 
 class DiagnosisResult(BaseModel):

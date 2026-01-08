@@ -1319,11 +1319,11 @@ Request (백엔드 -> AI)
   "userId": 1,
   "painArea": "무릎",
   "affectedSide": "양쪽",
-  "painStartedDate": "무리하게 운동한 이후부터 아파요",
+  "painStartedDate": "무리하게 운동한 이후부터 아파요",  // 언제/어떤 계기로 시작했는지 자유기술
   "painLevel": 6,
-  "painTrigger": "오래 걷거나 서있을 때",
-  "painSensation": "뻐근/묵직",
-  "painDuration": "아침에 30분 정도",
+  "painTrigger": "오래 걷거나 서있을 때",            // 예: 계단 내려갈 때, 비틀 때, 가만히 있어도
+  "painSensation": "뻐근/묵직",                     // 예: 찌릿/콕콕, 걸리는 느낌, 타는 듯
+  "painDuration": "아침에 30분 정도",                // 예: 밤에 깨서 아파요, 하루 종일, 운동 후 몇 시간
   "birthDate": "2000-01-01",
   "gender": "MALE",
   "height": 170,

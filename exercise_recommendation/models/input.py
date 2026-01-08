@@ -201,3 +201,41 @@ class ExerciseRecommendationInput(BaseModel):
             self.previous_assessments is not None
             and len(self.previous_assessments) > 0
         )
+
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "user_id": "user_ex_001",
+                "body_part": "knee",
+                "bucket": "OA",
+                "physical_score": {"total_score": 12},
+                "demographics": {
+                    "age": 55,
+                    "sex": "male",
+                    "height_cm": 175,
+                    "weight_kg": 80
+                },
+                "nrs": 5,
+                "joint_status": {
+                    "joint_condition": "normal",
+                    "rom_status": "normal",
+                    "rehabilitation_phase": "maintenance",
+                    "weight_bearing_tolerance": "full"
+                },
+                "previous_assessments": [
+                    {
+                        "session_date": "2026-01-06T10:00:00",
+                        "difficulty_felt": 3,
+                        "muscle_stimulus": 3,
+                        "sweat_level": 2,
+                        "pain_during_exercise": 4,
+                        "skipped_exercises": [],
+                        "completed_sets": 10,
+                        "total_sets": 12
+                    }
+                ],
+                "last_assessment_date": "2026-01-06T10:00:00",
+                "skipped_exercises": ["E05"],
+                "favorite_exercises": ["E01", "E02"]
+            }
+        }
