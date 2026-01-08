@@ -22,6 +22,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from gateway.models import UnifiedRequest, UnifiedResponse
 from gateway.services import OrchestrationService
+from exercise_recommendation.models.input import ExerciseRecommendationInput
+from exercise_recommendation.models.output import ExerciseRecommendationOutput
 
 
 # 오케스트레이션 서비스 (싱글톤)
@@ -102,6 +104,25 @@ async def diagnose_and_recommend(request: UnifiedRequest):
         import traceback
         error_detail = f"{type(e).__name__}: {str(e)}"
         # 디버깅을 위해 더 자세한 에러 정보 포함 (프로덕션에서는 제거 가능)
+        raise HTTPException(
+            status_code=500,
+            detail=f"처리 실패: {error_detail}"
+        )
+
+
+@app.post("/api/v1/recommend-exercises", response_model=ExerciseRecommendationOutput)
+async def recommend_exercises(request: ExerciseRecommendationInput):
+    """운동 추천만 실행 (버킷 추론 생략)
+
+    앱/백엔드에서 이미 버킷과 사전평가가 있을 때 사용
+    """
+    try:
+        exercise_output = orchestration_service.exercise_pipeline.run(request)
+        return exercise_output
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        error_detail = f"{type(e).__name__}: {str(e)}"
         raise HTTPException(
             status_code=500,
             detail=f"처리 실패: {error_detail}"

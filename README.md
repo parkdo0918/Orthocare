@@ -1449,6 +1449,36 @@ Request (백엔드 -> AI)
 
 ---
 
+### 7.6 운동 추천만 실행 (Gateway, Port 8000)
+
+```bash
+POST /api/v1/recommend-exercises
+```
+
+OrthoCare 내부 `ExerciseRecommendationInput` 스키마를 그대로 사용합니다.  
+이미 버킷 추론 결과와 사전 평가가 있을 때 호출하세요.
+
+예시 요청:
+```json
+{
+  "user_id": "user_ex_001",
+  "body_part": "knee",
+  "bucket": "OA",
+  "physical_score": { "total_score": 12 },
+  "demographics": { "age": 55, "sex": "male", "height_cm": 175, "weight_kg": 80 },
+  "nrs": 5
+}
+```
+
+선택 필드:
+- `previous_assessments` (사후 설문 3문항: difficulty_felt, muscle_stimulus, sweat_level)
+- `last_assessment_date`, `skipped_exercises`, `favorite_exercises`
+- `joint_status` (joint_condition/rom_status/rehabilitation_phase/weight_bearing_tolerance)
+
+응답은 `exercise_recommendation.models.output.ExerciseRecommendationOutput` 스키마로 반환됩니다.
+
+---
+
 ## 8. 사후 평가 시스템 (RPE 기반)
 
 ### 신체 점수 시스템
